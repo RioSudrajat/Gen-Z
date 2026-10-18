@@ -1,0 +1,50 @@
+{
+  "name": "@gen-z/platform",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "setup": "node scripts/setup.mjs",
+    "predev": "node scripts/setup.mjs --prepare",
+    "dev": "next dev --webpack --hostname localhost --port 3001",
+    "build": "next build --webpack",
+    "check": "next typegen && tsc --noEmit",
+    "start": "next start --hostname localhost --port 3001",
+    "db:up": "node scripts/database.mjs up",
+    "db:down": "node scripts/database.mjs down",
+    "db:status": "node scripts/database.mjs status",
+    "db:migrate": "node scripts/migrate.mjs",
+    "db:generate": "drizzle-kit generate",
+    "db:check": "drizzle-kit check",
+    "doctor": "node scripts/doctor.mjs",
+    "test:integration": "node scripts/test-integration.mjs",
+    "test:ui": "node scripts/test-ui.mjs"
+  },
+  "dependencies": {
+    "@gen-z/content-schema": "0.1.0",
+    "@gen-z/design-tokens": "0.1.0",
+    "@gen-z/domain": "0.1.0",
+    "@next/env": "16.4.2",
+    "@phosphor-icons/react": "2.1.10",
+    "@tailwindcss/postcss": "4.3.3",
+    "@tanstack/react-query": "5.104.3",
+    "drizzle-orm": "0.45.4",
+    "next": "16.4.2",
+    "pg": "8.23.1",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "server-only": "0.0.1",
+    "tailwindcss": "4.3.3",
+    "viem": "2.57.7",
+    "wagmi": "3.7.7",
+    "zod": "4.5.4"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.64.1",
+    "@types/pg": "8.23.1",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "drizzle-kit": "0.31.11",
+    "prettier": "3.9.6"
+  }
+}

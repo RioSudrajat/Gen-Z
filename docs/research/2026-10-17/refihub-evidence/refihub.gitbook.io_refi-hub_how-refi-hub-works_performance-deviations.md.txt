@@ -1,0 +1,19 @@
+> For the complete documentation index, see [llms.txt](https://refihub.gitbook.io/refi-hub/llms.txt). Markdown versions of documentation pages are available by appending `.md` to page URLs; this page is available as [Markdown](https://refihub.gitbook.io/refi-hub/how-refi-hub-works/performance-deviations.md).
+
+# Performance Deviations
+
+What happens if asset performance falls short?
+
+Infrastructure cashflow reflects real-world operations and can vary over time.
+
+If revenue is lower than projected, Token Holder distributions adjust in line with actual asset cashflow.
+
+If a payment is late, the Recipient has 5 business days from the payment date to rectify before any penalty applies. After that, a penalty accrues at the lesser of 10% per 30 business days or the maximum permitted under applicable law.
+
+If a payment remains unpaid beyond 30 business days, this constitutes a First Payment Default. The Recipient then has a further 60 business days following written notice from the Collateral Agent to cure the default before formal enforcement is triggered.
+
+If a second payment is missed within any rolling 12-month period and remains unpaid beyond 30 business days, this constitutes an automatic Event of Default with no further notice or cure period required.
+
+Where an Event of Default is triggered, investor protections such as collateral or guarantees may be exercised where available and legally enforceable.
+
+Outcomes depend on asset performance, counterparty conduct, contractual terms, and jurisdiction.

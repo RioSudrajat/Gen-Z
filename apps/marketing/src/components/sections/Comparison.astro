@@ -1,0 +1,40 @@
+---
+import { BuildingsIcon as Buildings, FileTextIcon as FileText, WalletIcon as Wallet, XIcon as X } from '@phosphor-icons/react/ssr';
+import '../../styles/comparison.css';
+
+const traditional = [
+  ['Closed networks', 'Opportunities stay within private networks.'],
+  ['Fragmented information', 'Contracts and operating records sit in separate places.'],
+  ['Limited visibility', 'The asset and its payments can be hard to follow.'],
+];
+const connected = [
+  { title: 'Broader asset access', body: 'Connect operating energy assets with a wider investor audience.', Icon: Buildings },
+  { title: 'A clearer project view', body: 'Review project agreements, investor rights, and operating records together.', Icon: FileText },
+  { title: 'Connected cashflow', body: 'Follow project performance and the payments you receive.', Icon: Wallet },
+];
+---
+<section id="comparison" class="landing-section comparison-section" aria-labelledby="comparison-title">
+  <div id="comparison-root" class="page-container">
+    <div class="comparison-content">
+      <header class="comparison-heading">
+        <h2 id="comparison-title" tabindex="-1">A new connection.<br />Energy assets and global capital.</h2>
+        <p class="section-intro">Energy financing can be difficult to access and follow. Gen-Z brings assets, project information, and investor participation into one connected view.</p>
+      </header>
+      <div class="comparison-panels">
+        <article class="comparison-panel comparison-traditional" aria-labelledby="traditional-title">
+          <h3 id="traditional-title" class="comparison-panel-title">Traditional energy<br />asset financing</h3>
+          <dl class="comparison-rows">{traditional.map(([title, body]) => <div class="comparison-row">
+            <dt>{title}</dt><dd><X size={21} weight="regular" aria-hidden="true" /><span>{body}</span></dd>
+          </div>)}</dl>
+        </article>
+        <article class="comparison-panel comparison-connected" aria-labelledby="connected-title">
+          <h3 id="connected-title" class="comparison-panel-title comparison-brand"><img src="/assets/gen-z-symbol.svg" width="45" height="45" alt="" />Gen-Z</h3>
+          <dl class="comparison-rows">{connected.map(({ title, body, Icon }) => <div class="comparison-row">
+            <dt>{title}</dt><dd><Icon size={23} weight="regular" aria-hidden="true" /><span>{body}</span></dd>
+          </div>)}</dl>
+          <p class="comparison-footnote">The asset. The information. The connection.</p>
+        </article>
+      </div>
+    </div>
+  </div>
+</section>

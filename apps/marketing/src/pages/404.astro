@@ -1,0 +1,20 @@
+---
+import PublicLayout from '../layouts/PublicLayout.astro';
+import EntryHeader from '../components/layout/EntryHeader.astro';
+import EntryFooter from '../components/layout/EntryFooter.astro';
+import { site } from '../config/site';
+import '../styles/entry.css';
+---
+<PublicLayout title="Page unavailable · Gen-Z" description="Return to Gen-Z or contact us about an asset, mandate, or partnership." noindex>
+  <EntryHeader />
+  <main id="entry-main" class="entry-status" tabindex="-1" data-platform-origin={site.platformOrigin}>
+    <h1>This page is unavailable.</h1><p>Project details and investor documents belong to the authenticated Gen-Z platform.</p><a class="primary-button" href="/auth/">Workspace access</a><a class="secondary-button" href="/">Back to Gen-Z</a>
+  </main>
+  <EntryFooter />
+  <script>
+    import { legacyReturnTo, platformAuthUrl } from '../application/platform-links.mjs';
+    const origin = document.querySelector<HTMLElement>('[data-platform-origin]')?.dataset.platformOrigin;
+    const returnTo = legacyReturnTo(location.pathname);
+    if (origin && returnTo) location.replace(platformAuthUrl(origin, returnTo));
+  </script>
+</PublicLayout>

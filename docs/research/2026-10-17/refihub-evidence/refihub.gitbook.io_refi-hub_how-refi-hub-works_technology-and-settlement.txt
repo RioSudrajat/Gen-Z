@@ -1,0 +1,51 @@
+Technology & Settlement | ReFi Hub
+🌐
+ReFi Hub
+🌐
+ReFi Hub
+Infrastructure-backed cashflow
+🌐
+How ReFi Hub works
+What ReFi Hub does
+Where returns come from
+How cashflow is defined
+Who is ReFi Hub is for
+Asset Selection & Due Diligence
+Geographical Focus
+Contracts & Distribution Mechanics
+Risk & Variability
+Performance Deviations
+Transparency & Reporting
+Technology & Settlement
+Fees on ReFi Hub
+Why ReFi Hub Exists
+ReFi Hub in one sentence
+🌐
+Environmental Impact
+User Impact & SDG alignment
+🌐
+Legal
+Terms & Conditions
+Privacy Policy
+Contracts with listed business
+🌐
+Additional
+Terminology
+Key Resources & Links
+Powered by GitBook
+On this page
+For the complete documentation index, see
+llms.txt
+. This page is also available as
+Markdown
+.
+USDC is used on ReFi Hub as a digital settlement medium, not as an investment asset.
+It functions as a USD-denominated payment rail, enabling efficient cross-border settlement, clear accounting, and automated Yield distributions via smart contracts.
+Smart contracts apply predefined distribution logic once funds are received. They do not generate revenue or alter contractual obligations.
+The technology improves operational efficiency and transparency. Asset performance and counterparty execution remain the primary drivers of Token Holder outcomes.
+Previous
+Transparency & Reporting
+Next
+Fees on ReFi Hub
+Last updated
+7 months ago

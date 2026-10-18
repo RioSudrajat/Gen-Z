@@ -1,0 +1,48 @@
+Infrastructure-backed cashflow | ReFi Hub
+🌐
+ReFi Hub
+🌐
+ReFi Hub
+Infrastructure-backed cashflow
+🌐
+How ReFi Hub works
+What ReFi Hub does
+Where returns come from
+How cashflow is defined
+Who is ReFi Hub is for
+Asset Selection & Due Diligence
+Geographical Focus
+Contracts & Distribution Mechanics
+Risk & Variability
+Performance Deviations
+Transparency & Reporting
+Technology & Settlement
+Fees on ReFi Hub
+Why ReFi Hub Exists
+ReFi Hub in one sentence
+🌐
+Environmental Impact
+User Impact & SDG alignment
+🌐
+Legal
+Terms & Conditions
+Privacy Policy
+Contracts with listed business
+🌐
+Additional
+Terminology
+Key Resources & Links
+Powered by GitBook
+On this page
+For the complete documentation index, see
+llms.txt
+. This page is also available as
+Markdown
+.
+ReFi Hub connects capital with operating solar energy infrastructure and uses on-chain systems to distribute the cashflow those assets generate.
+We provide the infrastructure for projects to raise funding and manage Yield payments transparently, without changing how the underlying assets operate or what drives their economics.
+Yield on ReFi Hub comes from electricity being produced, customers paying for that energy, and contracts performing as agreed.
+Next
+What ReFi Hub does
+Last updated
+7 months ago

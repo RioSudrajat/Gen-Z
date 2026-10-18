@@ -1,0 +1,7 @@
+Yield Payment Date (“Payment Date”) Monthly on the 20th of each month.  End of Term 20th April, 2035. Aggregate Payment amount Aggregate Payment amount means the monthly payment made from the Recipient to the Smart Contract, which includes: (i) the Variable Payment Component equal to 40% of Project Gross Revenue for the relevant Accounting Period; (ii) the Fixed Payment Component of $925.92 per month, paid regardless of Project performance and Gross Revenue; (iii) any Revenue Support Payment required pursuant to Section 3 in order to meet the Target Aggregate Payment. Of each component of the Aggregate Payment, 12.5% shall be deducted as the Platform Servicing Fee, resulting in the final Yield amount paid to Token Holders. Yield amount The monthly Yield payment, calculated as 87.5% of the Aggregate Payment amount each month, which includes both; a) 87.5% of the Variable Payment Component, which shall be equal to 35% of Project Gross Revenue for the relevant Accounting Period; and b) 87.5% of the Fixed Payment Component, which shall be equal to $810.18 per month, paid regardless of Project performance and Gross Revenue.  
+
+
+
+	
+
+

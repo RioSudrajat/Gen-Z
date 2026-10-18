@@ -1,0 +1,7 @@
+node_modules/
+out/
+.remotion/
+.hyperframes/
+public/intro.mp4
+public/intro-v2.mp4
+public/pulse-score.wav

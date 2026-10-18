@@ -1,0 +1,68 @@
+User Impact & SDG alignment | ReFi Hub
+🌐
+ReFi Hub
+🌐
+ReFi Hub
+Infrastructure-backed cashflow
+🌐
+How ReFi Hub works
+What ReFi Hub does
+Where returns come from
+How cashflow is defined
+Who is ReFi Hub is for
+Asset Selection & Due Diligence
+Geographical Focus
+Contracts & Distribution Mechanics
+Risk & Variability
+Performance Deviations
+Transparency & Reporting
+Technology & Settlement
+Fees on ReFi Hub
+Why ReFi Hub Exists
+ReFi Hub in one sentence
+🌐
+Environmental Impact
+User Impact & SDG alignment
+🌐
+Legal
+Terms & Conditions
+Privacy Policy
+Contracts with listed business
+🌐
+Additional
+Terminology
+Key Resources & Links
+Powered by GitBook
+On this page
+For the complete documentation index, see
+llms.txt
+. This page is also available as
+Markdown
+.
+ReFi Hub focuses on operating solar infrastructure that produces measurable environmental outcomes alongside cashflow. Impact is treated as a result of real-world activity, not as an abstract claim.
+Measurable energy outcomes
+All assets listed on ReFi Hub generate quantifiable outputs that can be measured and reported.
+Core metrics typically include:
+Electricity generated (kWh)
+Asset uptime and utilisation
+Displacement of higher-emissions grid power, where applicable
+These same metrics underpin both operational reporting and impact assessment.
+Solar infrastructure
+Solar assets generate zero-emissions electricity through installed photovoltaic systems, displacing higher-carbon grid power over long operating lifetimes.
+Impact is directly tied to energy delivered and real-world usage.
+SDG alignment
+ReFi Hub's asset focus aligns primarily with:
+SDG 7 - Affordable and Clean Energy
+SDG 9 - Industry, Innovation, and Infrastructure
+SDG 11 - Sustainable Cities and Communities
+SDG 13 - Climate Action
+Alignment is achieved through deployed infrastructure and delivered energy, not through offsets or unverified claims.
+Previous
+ReFi Hub in one sentence
+Next
+Terms & Conditions
+Last updated
+7 months ago
+Measurable energy outcomes
+Solar infrastructure
+SDG alignment

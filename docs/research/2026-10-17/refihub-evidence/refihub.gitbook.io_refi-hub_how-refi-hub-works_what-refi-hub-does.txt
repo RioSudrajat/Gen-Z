@@ -1,0 +1,54 @@
+What ReFi Hub does | ReFi Hub
+🌐
+ReFi Hub
+🌐
+ReFi Hub
+Infrastructure-backed cashflow
+🌐
+How ReFi Hub works
+What ReFi Hub does
+Where returns come from
+How cashflow is defined
+Who is ReFi Hub is for
+Asset Selection & Due Diligence
+Geographical Focus
+Contracts & Distribution Mechanics
+Risk & Variability
+Performance Deviations
+Transparency & Reporting
+Technology & Settlement
+Fees on ReFi Hub
+Why ReFi Hub Exists
+ReFi Hub in one sentence
+🌐
+Environmental Impact
+User Impact & SDG alignment
+🌐
+Legal
+Terms & Conditions
+Privacy Policy
+Contracts with listed business
+🌐
+Additional
+Terminology
+Key Resources & Links
+Powered by GitBook
+On this page
+For the complete documentation index, see
+llms.txt
+. This page is also available as
+Markdown
+.
+ReFi Hub enables Token Holders to participate in solar infrastructure cashflow without sourcing, structuring, or managing assets themselves.
+We do this by:
+selecting and onboarding operating solar assets
+providing the contractual and technical framework for funding rounds
+defining clear distribution terms within each Token Sale & Investment Agreement
+delivering transparent, on-chain reporting of production and Yield payments
+ReFi Hub is solar infrastructure cashflow, accessed through modern on-chain rails.
+Previous
+Infrastructure-backed cashflow
+Next
+Where returns come from
+Last updated
+7 months ago

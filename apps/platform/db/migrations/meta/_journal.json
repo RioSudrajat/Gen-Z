@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1792257475669,
+      "tag": "0001_wallet_identity",
+      "breakpoints": false
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1792259665688,
+      "tag": "20261017175425_base_siwe_identity",
+      "breakpoints": false
+    }
+  ]
+}

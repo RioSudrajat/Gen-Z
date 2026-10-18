@@ -1,0 +1,50 @@
+Why ReFi Hub Exists | ReFi Hub
+🌐
+ReFi Hub
+🌐
+ReFi Hub
+Infrastructure-backed cashflow
+🌐
+How ReFi Hub works
+What ReFi Hub does
+Where returns come from
+How cashflow is defined
+Who is ReFi Hub is for
+Asset Selection & Due Diligence
+Geographical Focus
+Contracts & Distribution Mechanics
+Risk & Variability
+Performance Deviations
+Transparency & Reporting
+Technology & Settlement
+Fees on ReFi Hub
+Why ReFi Hub Exists
+ReFi Hub in one sentence
+🌐
+Environmental Impact
+User Impact & SDG alignment
+🌐
+Legal
+Terms & Conditions
+Privacy Policy
+Contracts with listed business
+🌐
+Additional
+Terminology
+Key Resources & Links
+Powered by GitBook
+On this page
+For the complete documentation index, see
+llms.txt
+. This page is also available as
+Markdown
+.
+Global electricity demand is rising faster than energy systems and capital markets can adapt. Electrification, AI infrastructure, transport, and urban growth are placing sustained pressure on power grids worldwide.
+Much of the infrastructure needed to meet this demand sits outside traditional capital markets - in distributed projects, emerging regions, and operating assets that are too small or complex for institutional balance sheets.
+ReFi Hub enables capital to participate directly in operating solar infrastructure that produces measurable output, contractual revenue, and real-world cashflow - using on-chain systems to improve transparency and access, without changing how energy is generated, sold, or consumed.
+Previous
+Fees on ReFi Hub
+Next
+ReFi Hub in one sentence
+Last updated
+7 months ago

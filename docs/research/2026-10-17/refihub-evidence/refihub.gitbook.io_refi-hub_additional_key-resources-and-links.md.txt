@@ -1,0 +1,7 @@
+> For the complete documentation index, see [llms.txt](https://refihub.gitbook.io/refi-hub/llms.txt). Markdown versions of documentation pages are available by appending `.md` to page URLs; this page is available as [Markdown](https://refihub.gitbook.io/refi-hub/additional/key-resources-and-links.md).
+
+# Key Resources & Links
+
+* [ReFi Hub App ](https://app.refihub.io)
+* [ReFi Hub Twitter ](https://x.com/refihub)
+* [ReFI Hub Digital Community ](https://discord.com/invite/B7f8Vx2ZFK)<br>

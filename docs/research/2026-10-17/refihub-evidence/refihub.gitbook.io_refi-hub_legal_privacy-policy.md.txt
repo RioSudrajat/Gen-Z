@@ -1,0 +1,337 @@
+> For the complete documentation index, see [llms.txt](https://refihub.gitbook.io/refi-hub/llms.txt). Markdown versions of documentation pages are available by appending `.md` to page URLs; this page is available as [Markdown](https://refihub.gitbook.io/refi-hub/legal/privacy-policy.md).
+
+# Privacy Policy
+
+## Privacy Policy
+
+**Effective Date: March 13, 2026** **Last Updated: March 13, 2026**
+
+***
+
+> This Privacy Policy explains how ReFi Hub collects, uses, stores, shares, and protects your personal data in connection with the Platform, including the P2P Token Marketplace and KYC/AML processes. Please read it carefully.
+
+***
+
+### 1. Introduction & Identity of the Data Controller
+
+This Privacy Policy governs the collection, storage, processing, and disclosure of your personal data by ReFi Hub Ventures S.A. (Registration No. 155780086) ("ReFi Hub", "Us", "We", "Our"), a company incorporated under the laws of the Republic of Panama, with its registered office at 55th Street East, P.H. SL55 Building, Floor 21, Suite 3, Panama City, Republic of Panama, operating the ReFi Hub electronic platform at [www.refihub.io](http://www.refihub.io/) (the "Platform").
+
+Data Controller: ReFi Hub Ventures S.A. acts as the data controller in respect of all personal data collected and processed through the Platform. This means ReFi Hub determines the purposes and means of processing your personal data. Where ReFi Hub engages third parties (such as KYC providers) to process data on its behalf, those parties act as data processors subject to contractual obligations imposed by ReFi Hub.
+
+For questions about this Policy or to exercise your data rights, contact us at <admin@refihub.io>.
+
+#### Acceptance
+
+By accessing, registering, or using the Platform, you acknowledge that you have read, understood, and agreed to be bound by this Privacy Policy. If you do not agree, you must not use the Platform.
+
+#### Scope
+
+This Privacy Policy applies to all personal data processed by ReFi Hub in connection with the Platform. It does not cover third-party websites, wallet providers, blockchain networks, or other services accessible via the Platform.
+
+***
+
+### 2. Definitions
+
+**"Account"** means an individual account on the Platform created by a Token Holder or Recipient.
+
+**"Personal Data"** means any information relating to an identified or identifiable natural person.
+
+**"Processing"** means any operation performed on Personal Data, including collection, storage, use, disclosure, erasure, or transfer.
+
+**"Recipient"** means a company or organisation that lists a Project on the Platform to raise capital from Token Holders.
+
+**"Services"** means all services provided through the Platform, including Funding Rounds, the P2P Marketplace, and KYC/AML screening, expressly excluding regulated brokerage, advisory, custodial, or fiduciary activity.
+
+**"Token Holder"** means a User who acquires Tokens via a Funding Round or the P2P Marketplace.
+
+**"User"** means any individual or entity that registers for the Platform as a Token Holder or Recipient.
+
+***
+
+### 3. Minimum Age
+
+Use of the Platform is strictly prohibited for individuals under the age of 18 or those subject to legal capacity restrictions. If ReFi Hub becomes aware that Personal Data has been collected from a person under 18, it will promptly delete that data and suspend the relevant Account.
+
+***
+
+### 4. Personal Data We Collect
+
+#### 4.1 Identity & KYC/KYB Data
+
+ReFi Hub collects the following data for the purpose of complying with anti-money laundering (AML), counter-terrorist financing (CTF), and sanctions screening obligations:
+
+For individual Token Holders (KYC):
+
+* Full legal name
+* Date of birth
+* Government-issued identification document (e.g., passport, national ID card) - number, issuing authority, expiry date
+* Proof of address (e.g., utility bill, bank statement) (where required)
+* Facial biometric data (where required by the KYC provider's liveness check)
+* Source of funds declaration (where required)
+
+For corporate Users (KYB):
+
+* Company name, registration number, and registered address
+* Certificate of incorporation and constitutional documents
+* Ownership and beneficial ownership structure, including identification of Ultimate Beneficial Owners (UBOs) holding ≥10% of shares or voting rights
+* Director identification documents
+* Proof of business address
+
+This data is collected directly by ReFi Hub's KYC/KYB provider, Synaps (as further described in Section 7.3), on behalf of ReFi Hub. ReFi Hub receives and retains the verification outcome, supporting documentation, and the results of sanctions and PEP screening conducted as part of the verification process.
+
+#### 4.2 Contact & Account Data
+
+* Email address
+* Username and Account credentials
+
+#### 4.3 Wallet & Blockchain Data
+
+* Solana-compatible wallet address(es) connected to your Account
+* On-chain transaction data associated with Funding Round participations, Yield distributions, and P2P Marketplace trades
+
+Note: on-chain transaction data is publicly visible on the Solana blockchain by nature and is not within ReFi Hub's ability to delete, modify, or restrict (see Section 11).
+
+#### 4.4 Financial & Transaction Data
+
+* Token holdings and transaction history on the Platform
+* Yield entitlements and claim history
+* P2P Marketplace order history, trade counterparties, and settlement records
+* Aggregate Payment records (Recipients only)
+
+#### 4.5 Correspondence Data
+
+Records of all email or other communications between you and ReFi Hub, including your email address and content of communications.
+
+#### 4.6 Automatically Collected Technical Data
+
+When you use the Platform, ReFi Hub may automatically collect:
+
+* Activity Data: Pages visited, features used, session duration, interaction frequency, and actions taken within the Platform.
+* Device & Network Data: IP address, browser type and language, operating system, and device identifiers.
+* Location Data: Approximate geographic location derived from your IP address, used solely for jurisdictional eligibility verification (Prohibited Jurisdiction screening).
+* Marketing Interaction Data: Where you have opted in to marketing communications, data about whether you opened an email, clicked a link, or interacted with marketing content — used solely for improving the relevance of communications and subject to your right to withdraw consent at any time.
+
+#### 4.7 Cookies & Analytics Technologies
+
+ReFi Hub and its service providers may use the following technologies to collect data about your use of the Platform:
+
+* Session and Persistent Cookies: Small data files stored on your device that enable Platform functionality and help us understand how Users navigate the Platform.
+* Analytics Tools: ReFi Hub may use web analytics services (which may include tools such as Google Analytics or equivalent) to collect aggregated, anonymised usage statistics. Where such tools are used, data (including anonymised IP addresses) may be processed by the analytics provider in accordance with their own privacy policies.
+* Tracking Pixels / Web Beacons: Small image files embedded in emails or pages that notify us when content has been opened or viewed, used only where you have opted in to marketing communications.
+* HTML5 Local Storage and Entity Tags: Technologies used to cache Platform data in your browser for performance purposes.
+
+You may manage your cookie preferences through your browser settings. Disabling certain cookies may affect Platform functionality. Where required by applicable law, ReFi Hub will obtain your consent before placing non-essential cookies.
+
+***
+
+### 5. Legal Basis for Processing
+
+ReFi Hub processes your Personal Data on the following legal bases:
+
+| Purpose                                                                 | Legal Basis                                                                               |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| KYC/KYB verification and AML/CTF screening                              | Legal obligation — required under applicable AML/CTF legislation and FATF Recommendations |
+| Sanctions screening                                                     | Legal obligation and legitimate interests (preventing financial crime)                    |
+| Account creation and management                                         | Performance of contract (these T\&C and any Token Sale & Investment Agreement)            |
+| Service delivery (Funding Rounds, P2P Marketplace, Yield distributions) | Performance of contract                                                                   |
+| Fraud detection and security                                            | Legitimate interests (protecting the Platform and Users from unauthorised activity)       |
+| Compliance with court orders and regulatory requests                    | Legal obligation                                                                          |
+| Platform improvement and analytics                                      | Legitimate interests (improving Services, subject to your right to object)                |
+| Marketing communications (where applicable)                             | Consent (you may withdraw consent at any time)                                            |
+
+Where ReFi Hub relies on legitimate interests, we have assessed that our interests are not overridden by your rights and freedoms. You have the right to object to processing based on legitimate interests by contacting us at <admin@refihub.io>.
+
+***
+
+### 6. How We Use Your Personal Data
+
+ReFi Hub uses collected data for the following purposes:
+
+* Service Delivery: To operate the Platform, process Funding Round participations, distribute Yield, and facilitate P2P Marketplace trades.
+* Identity Verification & Compliance: To conduct KYC/KYB verification, perform sanctions screening, and comply with applicable AML, CTF, and financial crime legislation.
+* Account Management: To manage your Account, respond to enquiries, and communicate material changes to the Platform or Services.
+* Security & Fraud Prevention: To detect, investigate, and prevent unauthorised access, fraud, market manipulation, and other unlawful activity — including on the P2P Marketplace.
+* Legal & Regulatory Obligations: To comply with applicable laws, court orders, regulatory requests, and reporting obligations under AML/CTF law.
+* Legal Defence: To establish, exercise, or defend legal claims involving ReFi Hub, including in arbitration proceedings or regulatory investigations.
+* Record-Keeping: To maintain accurate records for administrative, legal, and compliance purposes.
+
+ReFi Hub will not use your Personal Data for unsolicited direct marketing without your prior consent, and will not sell your Personal Data to any third party.
+
+***
+
+### 7. Marketing Communications
+
+ReFi Hub may send marketing communications (such as platform updates, new listing announcements, and product newsletters) to Users who have provided their email address to the Platform. By submitting your email address, you consent to receiving such communications.
+
+* How to unsubscribe: You may opt out at any time by clicking the "unsubscribe" link in any marketing email, or by contacting <admin@refihub.io>. Withdrawal of consent does not affect the lawfulness of processing before withdrawal.
+* Profiling for marketing: ReFi Hub may use aggregated, non-identifiable data about Platform usage (e.g., which features a User has engaged with) to tailor the relevance of communications. This does not involve automated decision-making that produces legal or similarly significant effects on you.
+
+ReFi Hub does not conduct targeted advertising or share Personal Data with third-party advertising networks.
+
+### 8. Sharing Your Personal Data
+
+ReFi Hub does not sell Personal Data. It may be shared only in the following circumstances:
+
+#### 8.1 With Affiliated Entities
+
+ReFi Hub may share Personal Data with its parent company, subsidiaries, or sister companies for operational, management, and compliance purposes, subject to equivalent data protection obligations.
+
+#### 8.2 With Recipients (Limited)
+
+ReFi Hub may confirm to a Recipient that a Token Holder has completed KYC verification and is eligible to participate in a Funding Round. ReFi Hub will not disclose the full personal data of Token Holders to Recipients except:
+
+* Where required by applicable law or court order; or
+* Where expressly consented to by the Token Holder; or
+* Where limited disclosure is necessary to enforce rights under a Token Sale & Investment Agreement (e.g., in enforcement proceedings following an Event of Default).
+
+#### 8.3 With Third-Party Service Providers
+
+Personal Data may be shared with carefully selected third-party processors who support the Platform's operations. These include:
+
+* Synaps — KYC/KYB identity verification provider. Synaps processes biometric and identity document data on behalf of ReFi Hub under a data processing agreement. Synaps is bound by confidentiality obligations and may only use data for identity verification purposes. For information on Synaps' data practices, see <https://synaps.io/privacy>.
+* Cloud infrastructure and hosting providers — for secure storage and operation of Platform data.
+* IT security and monitoring providers — for cybersecurity, fraud detection, and incident response.
+* Legal and professional advisors — who are bound by professional confidentiality obligations.
+
+All third-party processors are subject to contractual data processing agreements requiring them to maintain confidentiality and implement appropriate security measures.
+
+#### 8.4 As Required by Law / AML Obligations
+
+ReFi Hub will disclose Personal Data where required to do so by applicable law, court order, regulatory authority, or legal process — including suspicious transaction reporting under applicable AML/CTF legislation. ReFi Hub may not be able to notify you of such disclosures where prohibited from doing so by law.
+
+#### 8.5 To Protect Rights & Safety
+
+ReFi Hub may disclose Personal Data where reasonably necessary to protect the rights, property, or safety of ReFi Hub, its Users, or others, including disclosure to law enforcement in connection with financial crime investigations.
+
+***
+
+### 9. Cross-Border Data Transfers
+
+ReFi Hub is a Panama-incorporated company serving Users globally. As a result, your Personal Data may be transferred to, stored, or processed in countries outside your country of residence, including countries that may not provide the same level of data protection as your home jurisdiction.
+
+Where Personal Data is transferred internationally, ReFi Hub takes the following steps to ensure an adequate level of protection:
+
+* Transfers to third-party processors (including Synaps) are governed by data processing agreements that incorporate appropriate contractual safeguards, including, where applicable, Standard Contractual Clauses (SCCs) approved by the European Commission for transfers from the EEA to third countries;
+* ReFi Hub assesses the data protection laws of recipient countries and implements supplementary safeguards where necessary;
+* Where you are located in the European Economic Area (EEA) or United Kingdom, ReFi Hub relies on SCCs or equivalent transfer mechanisms recognised under applicable data protection law for any transfers of your Personal Data to Panama or other third countries.
+
+By using the Platform, you acknowledge that your Personal Data may be transferred to and processed in Panama and other countries in which ReFi Hub or its service providers operate.
+
+***
+
+### 10. Data Retention
+
+ReFi Hub retains Personal Data only for as long as necessary for the purposes set out in this Policy, and in compliance with applicable legal obligations.
+
+| Data Category                                           | Retention Period                                                                                       |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| KYC/KYB identity documents and verification records     | Minimum 5 years from Account closure or last transaction, whichever is later — required by AML/CTF law |
+| Transaction records (Funding Rounds, Yield, P2P trades) | Minimum 5 years from the date of each transaction — required by AML/CTF law                            |
+| Suspicious activity reports and related correspondence  | As required by applicable AML law (typically minimum 5 years)                                          |
+| Account and contact data                                | Duration of Account + 2 years after Account closure, unless a longer period is required by law         |
+| Correspondence and communications                       | 3 years from date of correspondence, unless relevant to a legal claim                                  |
+| Technical/usage data (logs, IP addresses)               | Up to 12 months, unless required for security investigation                                            |
+| Sanctions screening records                             | Minimum 5 years from screening date                                                                    |
+
+After the applicable retention period, Personal Data will be securely deleted or anonymised, unless further retention is required by law, regulatory obligation, or the establishment, exercise, or defence of legal claims.
+
+***
+
+### 11. Your Data Rights
+
+Subject to applicable law, you have the following rights in respect of your Personal Data:
+
+* Right of access: To request a copy of the Personal Data ReFi Hub holds about you.
+* Right to rectification: To request correction of inaccurate or incomplete data.
+* Right to erasure: To request deletion of your Personal Data, subject to legal retention obligations (ReFi Hub may be unable to delete data required for AML/CTF compliance).
+* Right to restriction: To request that ReFi Hub restrict processing of your data in certain circumstances.
+* Right to data portability: To receive your data in a structured, machine-readable format where processing is based on consent or contract.
+* Right to object: To object to processing based on legitimate interests, including for analytics and platform improvement purposes.
+* Right to withdraw consent: Where processing is based on consent, to withdraw that consent at any time without affecting prior processing.
+
+To exercise any of these rights, contact us at <admin@refihub.io>. ReFi Hub will respond within 30 days, or within any shorter period required by applicable law. We may request verification of your identity before processing your request.
+
+Please note that certain rights may be restricted or overridden by ReFi Hub's legal obligations, particularly in relation to AML/CTF compliance, fraud investigation, and law enforcement cooperation.
+
+***
+
+### 12. On-Chain Transparency
+
+You acknowledge that transactions conducted on the Solana blockchain — including wallet addresses, token transfer amounts, and smart contract interactions — are publicly visible and immutable by the inherent nature of blockchain technology.
+
+ReFi Hub has no ability to delete, modify, or restrict access to on-chain data. This Privacy Policy applies only to off-chain Personal Data processed by ReFi Hub in connection with the Platform. Users should exercise appropriate caution regarding the on-chain privacy implications of using public blockchain infrastructure.
+
+***
+
+### 13. AML, Sanctions & Regulatory Disclosure
+
+#### Obligations
+
+ReFi Hub is subject to AML and CTF obligations under applicable Panamanian law and operates consistent with FATF Recommendations. As part of its compliance programme, ReFi Hub may be required to:
+
+* Report suspicious transactions or activity to the Financial Analysis Unit of Panama (UAF) or other competent authorities;
+* Provide account and transaction information to regulatory authorities, law enforcement, or courts pursuant to a valid legal order;
+* Freeze, restrict, or terminate Accounts or Tokens pending investigation.
+
+ReFi Hub may not be permitted to notify affected Users of such actions where prohibited from doing so by applicable law (a "tipping off" restriction).
+
+#### Sanctions Screening
+
+ReFi Hub screens all Users against applicable international sanctions lists — including OFAC, EU, UK, and UN lists — at onboarding and on a periodic basis. If a User is identified as a Sanctioned Person following onboarding, ReFi Hub will restrict or terminate their Account and may report the matter to relevant authorities.
+
+***
+
+### 14. Data Security
+
+ReFi Hub implements commercially reasonable technical, physical, and administrative security measures designed to protect your Personal Data against unauthorised access, disclosure, alteration, loss, or destruction. These include:
+
+* Encryption of Personal Data in transit (TLS) and at rest;
+* Role-based access controls limiting Personnel access to Personal Data on a strict need-to-know basis;
+* Regular security assessments and vulnerability monitoring;
+* Contractual data security obligations on all third-party processors.
+
+No system or network can be guaranteed to be completely secure. ReFi Hub does not warrant that your Personal Data will be free from unauthorised access in all circumstances. The security of your Solana wallet, private keys, seed phrases, and email Account is entirely your own responsibility. ReFi Hub is not liable for breaches resulting from your own credential mismanagement, phishing, or social engineering attacks directed at you personally.
+
+***
+
+### 15. Third-Party Websites
+
+The Platform may contain links to third-party websites and services. This Privacy Policy does not apply to such third parties. ReFi Hub is not responsible for their privacy practices and encourages you to review their policies.
+
+***
+
+### 16. Changes to this Privacy Policy
+
+ReFi Hub may update this Privacy Policy at any time. Material changes will be communicated by email where reasonably practicable and will be reflected on this page with an updated "Last Updated" date. Continued use of the Platform after any modification constitutes your acceptance of the updated Policy.
+
+***
+
+### 17. Governing Law
+
+This Privacy Policy is governed by English Law. Any disputes relating to this Policy shall be resolved in accordance with the dispute resolution provisions in the Platform's Terms & Conditions.
+
+***
+
+### 18. Complaints & Supervisory Authorities
+
+#### Contact ReFi Hub First
+
+If you have a complaint about how ReFi Hub handles your Personal Data, please contact us in the first instance at <admin@refihub.io>. We will acknowledge your complaint within 5 business days and aim to resolve it within 30 days.
+
+#### EU/EEA Users
+
+If you are located in the European Economic Area and believe that ReFi Hub has processed your Personal Data in violation of applicable data protection law (including the GDPR), and your complaint is not resolved to your satisfaction, you have the right to lodge a complaint with your local supervisory authority — the data protection authority of the EU member state in which you reside or work. A list of EU supervisory authorities is available at: <https://edpb.europa.eu/about-edpb/about-edpb/members_en>.
+
+#### UK Users
+
+If you are located in the United Kingdom, you may lodge a complaint with the Information Commissioner's Office (ICO): <https://ico.org.uk/make-a-complaint>.
+
+#### Other Jurisdictions
+
+Users in other jurisdictions retain the right to lodge complaints with their applicable national data protection authority. ReFi Hub will cooperate with any supervisory authority investigation in accordance with applicable law.
+
+***
+
+### 19. Contact
+
+**ReFi Hub Ventures S.A.** Registration No. 155780086 55th Street East, P.H. SL55 Building, Floor 21, Suite 3 Panama City, Republic of Panama Email: <admin@refihub.io> Website: [www.refihub.io](http://www.refihub.io)

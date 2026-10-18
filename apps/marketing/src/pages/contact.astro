@@ -1,0 +1,17 @@
+---
+import PublicLayout from '../layouts/PublicLayout.astro';
+import EntryHeader from '../components/layout/EntryHeader.astro';
+import EntryFooter from '../components/layout/EntryFooter.astro';
+import { ContactExperience } from '../features/contact/ContactExperience.jsx';
+import { site } from '../config/site';
+import '../styles/entry.css';
+---
+<PublicLayout title="Contact Gen-Z · Connect your asset to capital" description="Talk to Gen-Z about your energy infrastructure, investment mandate, or partnership.">
+  <EntryHeader />
+  <main id="entry-main" class="contact-page" tabindex="-1">
+    <div class="contact-page-intro"><a class="entry-back" href="/">← Back to Gen-Z</a><p class="entry-eyebrow">Contact Gen-Z</p><h1>Let’s connect your<br /><span>asset to capital.</span></h1><p>Tell us about the infrastructure you operate, your investment mandate, or the partnership you have in mind.</p><div class="conversation-topics"><span>Energy infrastructure</span><span>Investment mandates</span><span>Partnerships</span></div></div>
+    <ContactExperience client:load endpoint={site.inquiryEndpoint} />
+  </main>
+  <noscript><p class="no-script">JavaScript is required to review and send this form. No inquiry has been submitted.</p></noscript>
+  <EntryFooter />
+</PublicLayout>

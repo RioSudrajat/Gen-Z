@@ -1,0 +1,320 @@
+- banner:
+  - link:
+    - /url: ./
+  - navigation:
+    - list:
+      - link "Energy Assets":
+        - /url: https://www.app.refihub.io/energy-assets
+        - paragraph: Energy Assets
+      - link "App":
+        - /url: https://app.refihub.io/
+        - paragraph: App
+      - link "Volt":
+        - /url: ./volt
+        - paragraph: Volt
+      - paragraph: How it Works
+      - paragraph: Beyond the Product
+      - link "How it Works How solar assets generate revenue and pay investors.":
+        - /url: ./blog/how-solar-assets-generate-revenue-for-investors
+        - paragraph:
+          - strong: How it Works
+        - paragraph: How solar assets generate revenue and pay investors.
+      - link "Investor Guide Everything you need to know before your first investment.":
+        - /url: ./blog/investor-guide
+        - paragraph:
+          - strong: Investor Guide
+        - paragraph: Everything you need to know before your first investment.
+      - link "Due Diligence Framework How we validate energy assets before they're listed.":
+        - /url: ./blog/rebusiness-due-diligence-framework
+        - paragraph:
+          - strong: Due Diligence Framework
+        - paragraph: How we validate energy assets before they're listed.
+      - link "CRN - Build & Cashflow Update Built, grid-connected & six payments received on schedule.":
+        - /url: ./blog/crn-build-and-cashflow-update
+        - paragraph:
+          - strong: CRN - Build & Cashflow Update
+        - paragraph: Built, grid-connected & six payments received on schedule.
+    - link "Access Platform":
+      - /url: https://app.refihub.io/
+      - paragraph: Access Platform
+- main:
+  - heading "On-chain energy assets. Revenue from every kilowatt." [level=1]:
+    - strong: On-chain energy assets.
+    - strong
+    - emphasis:
+      - strong: Revenue from every kilowatt.
+  - paragraph: Invest in operating energy assets and receive cashflow distributions.
+  - link "See live energy assets":
+    - /url: ./#metrics
+    - paragraph: See live energy assets
+  - paragraph: INFRASTRUCTURE INVESTING platform
+  - heading "A platform for investing in operating energy infrastructure assets." [level=2]:
+    - strong:
+      - generic: A
+      - generic: platform
+      - generic: for
+      - generic: investing
+      - generic: in
+      - generic: operating
+      - generic: energy
+      - generic: infrastructure
+      - generic: assets.
+  - paragraph: ReFi Hub connects investors with operating energy infrastructure assets and distributes revenue generated from electricity production.
+  - paragraph: Operating assets
+  - generic: "27"
+  - paragraph: Realized IRR
+  - generic: +
+  - generic: "14"
+  - generic: "%"
+  - paragraph: On-time distributions
+  - generic: "40"
+  - generic: +
+  - heading "Live infrastructure investments" [level=2]:
+    - strong:
+      - generic: Live
+      - generic: infrastructure
+      - generic: investments
+  - paragraph: Explore operating assets generating cashflow.
+  - link "View Asset":
+    - /url: https://app.refihub.io/investments/9
+    - paragraph: View Asset
+  - paragraph: IPE Assets
+  - paragraph: Brasil
+  - paragraph: Operational solar plant selling power to Brazil's CELESC grid, with over eighteen months of consecutive monthly distributions on record.
+  - heading "20.6%" [level=3]:
+    - strong: 20.6%
+  - paragraph: Avg. Annualised IRR
+  - heading "$100,000" [level=3]:
+    - strong: $100,000
+  - paragraph: Ticket Size
+  - heading "Get notified when new assets list" [level=3]
+  - paragraph: Stay up to date as new energy infrastructure projects are available for investment.
+  - textbox:
+    - /placeholder: your@email.com
+  - button "Get Notified":
+    - paragraph: Get Notified
+  - paragraph:
+    - code: Asset listings and platform updates. No spam, unsubscribe anytime.
+  - heading "Infrastructure investing," [level=3]
+  - heading "built with institutional standards." [level=3]
+  - paragraph: Every asset listing is supported by agreements covering revenue, ownership and investor distributions
+  - paragraph: Power Purchase Agreement (PPA)
+  - paragraph: Pivot Green • FLP II
+  - paragraph: Revenue Share Distribution Contract
+  - paragraph: Tab Energia • CRN
+  - paragraph: Energy Production & Billing Records
+  - paragraph: IPE Assets • Exodos
+  - paragraph: Verified
+  - paragraph:
+    - strong: Smart contracts independently audited
+  - heading "Contractual protections built into every deal" [level=3]
+  - paragraph: Deals are enforceable in Singpore, and governed by English Law, with LCIA arbitration in London and collateral over physical equipment.
+  - heading "We vet every deal before you see it" [level=3]
+  - paragraph: Executed contracts, verified operating history, equipment insurance, and counterparty documentation - reviewed before any asset is listed.
+  - paragraph: 1) PPAs, Invoices & Insurance Verified
+  - paragraph: 2) Deal Terms Negotiated & Contract Signed
+  - paragraph: 3) Asset Investment Listed on ReFi Hub
+  - heading "Infrastructure investing, simplified" [level=2]:
+    - strong: Infrastructure investing, simplified
+  - paragraph: Review operating energy assets, invest directly, and track portfolio distributions in one platform.
+  - list:
+  - heading "An ecosystem of solar infrastructure operators" [level=2]:
+    - strong:
+      - generic: An
+      - generic: ecosystem
+      - generic: of
+      - generic: solar
+      - generic: infrastructure
+      - generic: operators
+  - paragraph: Developers use ReFi Hub to finance projects and distribute revenue to investors.
+  - paragraph: Partner developers
+  - generic: "0"
+  - paragraph: Solar infrastructure pipeline
+  - generic: +$
+  - generic: "0"
+  - generic: M
+  - paragraph: Active platfrom investors
+  - generic: +
+  - generic: "0"
+  - heading "AI, electrification and urban growth are driving electricity demand faster than at any point in the past decade." [level=3]
+  - heading "+60%" [level=1]
+  - paragraph: Electricity demand across Southeast Asia over the past decade.
+  - paragraph: Southeast Asia Electricity Demand
+  - heading "Historical & Projected, 2010–2035" [level=3]
+  - paragraph: TWh / year
+  - generic: Historical
+  - generic: IEA STEPS forecast
+  - paragraph: "Source: IEA Southeast Asia Energy Outlook 2024"
+  - heading "A new model for infrastructure investing" [level=2]:
+    - strong:
+      - generic: A
+      - generic: new
+      - generic: model
+      - generic: for
+      - generic: infrastructure
+      - generic: investing
+  - paragraph: Traditional infrastructure deals move through closed networks. ReFi Hub brings assets, transparency & cashflows into a single platform.
+  - heading "Traditional infrastructure access" [level=3]
+  - paragraph:
+    - strong: Closed Access
+  - paragraph:
+    - strong: Deals circulate through closed networks
+  - paragraph:
+    - strong: Opaque Reporting
+  - paragraph:
+    - strong: Asset performance & risks rarely visible upfront
+  - paragraph:
+    - strong: Blind pool funds
+  - paragraph:
+    - strong: Capital committed to funds without asset selection
+  - paragraph: ReFi Hub
+  - paragraph:
+    - strong: Open Infrastructure Access
+  - paragraph:
+    - strong: Direct access to operating energy assets
+  - paragraph:
+    - strong: Asset Level Transparency
+  - paragraph:
+    - strong: Asset documentation and operator details upfront
+  - paragraph:
+    - strong: Direct Cashflow Exposure
+  - paragraph:
+    - strong: Choose individual infrastructure assets
+  - heading "Insights, updates, and market perspectives" [level=2]:
+    - generic: Insights,
+    - generic: updates,
+    - generic: and
+    - generic: market
+    - generic: perspectives
+  - paragraph: From asset performance updates to infrastructure investing guides. Stay informed on how real-world energy projects operate and generate cashflow.
+  - link "View all posts":
+    - /url: ./blog
+    - paragraph: View all posts
+  - link "Investor FAQ — FLP II Solar Installation Read more Mar 10, 2026 • Asset Updates Investor FAQ — FLP II Solar Installation Christian, ReFi Hub co-founder Christian Head of Business Onboarding & Legal":
+    - /url: ./blog/investor-faq-flp-ii-solar-installation
+    - img "Investor FAQ — FLP II Solar Installation"
+    - paragraph: Read more
+    - paragraph: Mar 10, 2026
+    - paragraph: •
+    - paragraph: Asset Updates
+    - heading "Investor FAQ — FLP II Solar Installation" [level=3]
+    - img "Christian, ReFi Hub co-founder"
+    - paragraph:
+      - strong: Christian
+    - paragraph: Head of Business Onboarding & Legal
+  - link "Project Surya — February Operating & Distribution Report Read more Feb 23, 2026 • Asset Updates Project Surya — February Operating & Distribution Report Jeremy, ReFi Hub CFO Jeremy CFO":
+    - /url: ./blog/project-surya-second-month-operating-distribution-report
+    - img "Project Surya — February Operating & Distribution Report"
+    - paragraph: Read more
+    - paragraph: Feb 23, 2026
+    - paragraph: •
+    - paragraph: Asset Updates
+    - heading "Project Surya — February Operating & Distribution Report" [level=3]
+    - img "Jeremy, ReFi Hub CFO"
+    - paragraph:
+      - strong: Jeremy
+    - paragraph: CFO
+  - link "Business Due Diligence Framework Read more Feb 10, 2026 • Resources Business Due Diligence Framework Christian, ReFi Hub co-founder Christian Head of Business Onboarding & Legal":
+    - /url: ./blog/rebusiness-due-diligence-framework
+    - img "Business Due Diligence Framework"
+    - paragraph: Read more
+    - paragraph: Feb 10, 2026
+    - paragraph: •
+    - paragraph: Resources
+    - heading "Business Due Diligence Framework" [level=3]
+    - img "Christian, ReFi Hub co-founder"
+    - paragraph:
+      - strong: Christian
+    - paragraph: Head of Business Onboarding & Legal
+  - link "How Investors Are Protected Read more Feb 5, 2026 • Resources How Investors Are Protected Christian, ReFi Hub co-founder Christian Head of Business Onboarding & Legal":
+    - /url: ./blog/how-investors-are-protected
+    - img "How Investors Are Protected"
+    - paragraph: Read more
+    - paragraph: Feb 5, 2026
+    - paragraph: •
+    - paragraph: Resources
+    - heading "How Investors Are Protected" [level=3]
+    - img "Christian, ReFi Hub co-founder"
+    - paragraph:
+      - strong: Christian
+    - paragraph: Head of Business Onboarding & Legal
+  - heading "Earn from real infrastructure" [level=4]
+  - paragraph: Review assets, monitor performance, and earn revenue generated by real-world energy infrastructure.
+  - link "Get started now":
+    - /url: https://app.refihub.io/
+    - paragraph: Get started now
+- contentinfo:
+  - heading "Energy finance starts here." [level=3]
+  - paragraph:
+    - link "info@refihub.io":
+      - /url: mailto:info@refihub.io
+  - navigation:
+    - paragraph:
+      - strong: Company
+    - list:
+      - paragraph:
+        - link "Home":
+          - /url: ./
+      - paragraph:
+        - link "App":
+          - /url: https://app.refihub.io/
+      - paragraph:
+        - link "Volt":
+          - /url: ./volt
+      - paragraph:
+        - link "About":
+          - /url: https://refihub.gitbook.io/refi-hub/how-refi-hub-works/why-refi-hub-exists
+      - paragraph:
+        - link "How it Works":
+          - /url: https://refihub.gitbook.io/refi-hub/how-refi-hub-works/what-refi-hub-does
+      - paragraph:
+        - link "Reporting":
+          - /url: https://refihub.gitbook.io/refi-hub/how-refi-hub-works/transparency-and-reporting
+    - paragraph:
+      - strong: Live Assets
+    - list:
+      - paragraph:
+        - link "Solar Infrastructure":
+          - /url: https://app.refihub.io/investments/8/
+      - paragraph:
+        - link "EV Charging Assets":
+          - /url: https://app.refihub.io/investments/7/
+      - paragraph:
+        - link "View All Assets":
+          - /url: https://app.refihub.io/energy-assets
+    - paragraph:
+      - strong: Resources
+    - list:
+      - paragraph:
+        - link "Investor Reports":
+          - /url: ./blog
+      - paragraph:
+        - link "Singapore Market Study":
+          - /url: https://refihub-images.s3.eu-central-1.amazonaws.com/Singapore+Solar+Market+Overview.pdf
+      - paragraph:
+        - link "Articles":
+          - /url: ./blog
+      - paragraph:
+        - link "Documentation":
+          - /url: https://refihub.gitbook.io/refi-hub/how-refi-hub-works/where-returns-come-from
+      - paragraph:
+        - link "Due Diligence Framework":
+          - /url: https://refihub.gitbook.io/refi-hub/how-refi-hub-works/asset-selection-and-due-diligence
+      - paragraph:
+        - link "KYC Verification FAQs":
+          - /url: https://resources.refihub.io/blog/kyc-faqs
+  - list:
+    - link:
+      - /url: https://x.com/refihub
+    - link:
+      - /url: https://www.linkedin.com/company/refi-hub
+    - link:
+      - /url: https://discord.gg/yZ9fp43wCd
+  - paragraph: "@ 2026 ReFi Hub LTD. All rights reverved"
+  - list:
+    - paragraph:
+      - link "Terms":
+        - /url: https://refihub.gitbook.io/refi-hub/legal/terms-and-conditions
+    - paragraph:
+      - link "Privacy":
+        - /url: https://refihub.gitbook.io/refi-hub/legal/privacy-policy

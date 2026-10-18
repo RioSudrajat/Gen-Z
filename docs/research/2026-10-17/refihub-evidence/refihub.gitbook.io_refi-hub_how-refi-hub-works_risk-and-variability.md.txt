@@ -1,0 +1,9 @@
+> For the complete documentation index, see [llms.txt](https://refihub.gitbook.io/refi-hub/llms.txt). Markdown versions of documentation pages are available by appending `.md` to page URLs; this page is available as [Markdown](https://refihub.gitbook.io/refi-hub/how-refi-hub-works/risk-and-variability.md).
+
+# Risk & Variability
+
+Infrastructure cashflow is exposed to real economic conditions and is variable by nature.
+
+Key risks include lower than expected generation or usage, higher operating costs, downtime or technical issues, energy pricing changes, and counterparty performance.
+
+ReFi Hub does not remove these risks. It makes them explicit. Understanding these dynamics is essential to participating responsibly.

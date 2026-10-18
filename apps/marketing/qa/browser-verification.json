@@ -1,0 +1,776 @@
+{
+  "origin": "http://127.0.0.1:4321",
+  "checks": [
+    {
+      "name": "below-fold islands defer hydration while comparison ships as static HTML",
+      "status": "PASS",
+      "evidence": "three islands remain unhydrated until approached"
+    },
+    {
+      "name": "Latin subset avoids duplicate font downloads and the full font remains available for extended characters",
+      "status": "PASS",
+      "evidence": "fallback loaded only by the synthetic extended-character probe"
+    },
+    {
+      "name": "all initial production resources and audience fonts load",
+      "status": "PASS",
+      "evidence": "no 4xx/5xx; Serve Sora and Serve Geist registered"
+    },
+    {
+      "name": "all eleven sections and the original title survive Astro rendering",
+      "status": "PASS",
+      "evidence": "Gen-Z · Energy infrastructure meets global capital"
+    },
+    {
+      "name": "Desktop 1440 has no horizontal overflow",
+      "status": "PASS",
+      "evidence": {
+        "width": 1440,
+        "scrollWidth": 1440
+      }
+    },
+    {
+      "name": "desktop reduced motion axe audit recorded",
+      "status": "PASS",
+      "evidence": {
+        "violations": 0
+      }
+    },
+    {
+      "name": "all static anchor targets exist",
+      "status": "PASS",
+      "evidence": [
+        {
+          "label": "Skip to content",
+          "href": "#hero-title",
+          "exists": true
+        },
+        {
+          "label": "Gen-Z",
+          "href": "#top",
+          "exists": true
+        },
+        {
+          "label": "Gen-Z",
+          "href": "#top",
+          "exists": true
+        },
+        {
+          "label": "Meet Gen-Z ↓",
+          "href": "#hero-copy",
+          "exists": true
+        },
+        {
+          "label": "Gen-Z",
+          "href": "#top",
+          "exists": true
+        },
+        {
+          "label": "Home",
+          "href": "#top",
+          "exists": true
+        },
+        {
+          "label": "Volt",
+          "href": "#ecosystem",
+          "exists": true
+        },
+        {
+          "label": "About",
+          "href": "#evidence",
+          "exists": true
+        },
+        {
+          "label": "How it Works",
+          "href": "#assets",
+          "exists": true
+        },
+        {
+          "label": "Reporting",
+          "href": "#platform",
+          "exists": true
+        },
+        {
+          "label": "Solar Infrastructure",
+          "href": "#opportunities",
+          "exists": true
+        },
+        {
+          "label": "EV Charging Assets",
+          "href": "#opportunities",
+          "exists": true
+        },
+        {
+          "label": "View All Assets",
+          "href": "#opportunities",
+          "exists": true
+        },
+        {
+          "label": "Investor Reports",
+          "href": "#evidence",
+          "exists": true
+        },
+        {
+          "label": "Singapore Market Study",
+          "href": "#evidence",
+          "exists": true
+        },
+        {
+          "label": "Documentation",
+          "href": "#evidence",
+          "exists": true
+        },
+        {
+          "label": "Due Diligence Framework",
+          "href": "#evidence",
+          "exists": true
+        },
+        {
+          "label": "KYC Verification FAQs",
+          "href": "#evidence",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "name": "Products desktop menu opens, links resolve, Escape closes and restores focus",
+      "status": "PASS",
+      "evidence": [
+        {
+          "label": "GenerationSolar, wind, and renewable energy",
+          "href": "#opportunities"
+        },
+        {
+          "label": "InfrastructureStorage, mobility, and connected demand",
+          "href": "#opportunities"
+        },
+        {
+          "label": "Project financeFrom asset review to investor access",
+          "href": "#assets"
+        },
+        {
+          "label": "Project reportingEnergy contracts and operating records",
+          "href": "#evidence"
+        },
+        {
+          "label": "Gen-Z networkConnect the physical and financial layers",
+          "href": "#stack"
+        },
+        {
+          "label": "PartnershipsBuild the connection with Gen-Z",
+          "href": "/contact/"
+        }
+      ]
+    },
+    {
+      "name": "Resources desktop menu opens, links resolve, Escape closes and restores focus",
+      "status": "PASS",
+      "evidence": [
+        {
+          "label": "Project informationContracts, investor agreements, and records",
+          "href": "#evidence"
+        }
+      ]
+    },
+    {
+      "name": "Ecosystem desktop menu opens, links resolve, Escape closes and restores focus",
+      "status": "PASS",
+      "evidence": [
+        {
+          "label": "Asset operatorsConnect operating assets with capital",
+          "href": "#ecosystem-operator"
+        },
+        {
+          "label": "InvestorsUnderstand projects and their potential",
+          "href": "#ecosystem-investor"
+        }
+      ]
+    },
+    {
+      "name": "About desktop menu opens, links resolve, Escape closes and restores focus",
+      "status": "PASS",
+      "evidence": [
+        {
+          "label": "Our purposeEnergy infrastructure meets global capital",
+          "href": "#why"
+        },
+        {
+          "label": "Contact Gen-ZDiscuss an asset, mandate, or partnership",
+          "href": "/contact/"
+        },
+        {
+          "label": "The Gen-Z stackHow the physical and financial layers connect",
+          "href": "#stack"
+        }
+      ]
+    },
+    {
+      "name": "desktop navigation supports ArrowDown and Escape",
+      "status": "PASS",
+      "evidence": "focus moves into menu and returns to trigger"
+    },
+    {
+      "name": "Products link #opportunities",
+      "status": "PASS",
+      "evidence": "opportunities-title"
+    },
+    {
+      "name": "Products link #opportunities",
+      "status": "PASS",
+      "evidence": "opportunities-title"
+    },
+    {
+      "name": "Products link #assets",
+      "status": "PASS",
+      "evidence": "assets-title"
+    },
+    {
+      "name": "Products link #evidence",
+      "status": "PASS",
+      "evidence": "evidence-title"
+    },
+    {
+      "name": "Products link #stack",
+      "status": "PASS",
+      "evidence": "stack-title"
+    },
+    {
+      "name": "Ecosystem link #ecosystem-operator",
+      "status": "PASS",
+      "evidence": "serve-operator-title"
+    },
+    {
+      "name": "Ecosystem link #ecosystem-investor",
+      "status": "PASS",
+      "evidence": "serve-investor-title"
+    },
+    {
+      "name": "About link #why",
+      "status": "PASS",
+      "evidence": "why-title"
+    },
+    {
+      "name": "About link #stack",
+      "status": "PASS",
+      "evidence": "stack-title"
+    },
+    {
+      "name": "generation category selector and modal",
+      "status": "PASS",
+      "evidence": "modal opens and closes by button or Escape"
+    },
+    {
+      "name": "storage category selector and modal",
+      "status": "PASS",
+      "evidence": "modal opens and closes by button or Escape"
+    },
+    {
+      "name": "infrastructure category selector and modal",
+      "status": "PASS",
+      "evidence": "modal opens and closes by button or Escape"
+    },
+    {
+      "name": "carousel next and previous wrap correctly",
+      "status": "PASS",
+      "evidence": "03 -> 01 -> 03"
+    },
+    {
+      "name": "evidence record 1",
+      "status": "PASS",
+      "evidence": "Understand the energy sales agreements that underpin the project’s revenue."
+    },
+    {
+      "name": "evidence record 2",
+      "status": "PASS",
+      "evidence": "See how the financing is structured and what participation means for investors."
+    },
+    {
+      "name": "evidence record 3",
+      "status": "PASS",
+      "evidence": "Connect operating performance with billing and payments received."
+    },
+    {
+      "name": "workspace illustration tab 0",
+      "status": "PASS",
+      "evidence": "Renewable generationThe asset behind the opportunity.Bring the infrastructure, revenue model, and project agreements into focus.InfrastructureRooftop solarRevenue sourceEnergy salesProject informationOperating records & agreements"
+    },
+    {
+      "name": "workspace illustration tab 1",
+      "status": "PASS",
+      "evidence": "A clearer picture of project performance.Read production, billing, and operating updates together.Energy productionOutput and operating performanceBilling recordsEnergy sales and customer invoicesOperator updatesMaintenance, availability, and project developments"
+    },
+    {
+      "name": "workspace illustration tab 2",
+      "status": "PASS",
+      "evidence": "Your payment history in one place.Follow the payment date, amount received, and project reference.Payment history will appear here."
+    },
+    {
+      "name": "workspace tabs keyboard controls",
+      "status": "PASS",
+      "evidence": "Home, ArrowRight and End select and focus correct tabs"
+    },
+    {
+      "name": "stack keyboard selection physical",
+      "status": "PASS",
+      "evidence": "label is selected"
+    },
+    {
+      "name": "stack keyboard selection depin",
+      "status": "PASS",
+      "evidence": "label is selected"
+    },
+    {
+      "name": "stack keyboard selection defi",
+      "status": "PASS",
+      "evidence": "label is selected"
+    },
+    {
+      "name": "stack keyboard selection apps",
+      "status": "PASS",
+      "evidence": "label is selected"
+    },
+    {
+      "name": "energy thesis disclosure 1",
+      "status": "PASS",
+      "evidence": "sources/transcript or data table opens"
+    },
+    {
+      "name": "energy thesis disclosure 2",
+      "status": "PASS",
+      "evidence": "sources/transcript or data table opens"
+    },
+    {
+      "name": "Viewport 768 has no horizontal overflow",
+      "status": "PASS",
+      "evidence": {
+        "width": 768,
+        "scrollWidth": 768
+      }
+    },
+    {
+      "name": "Viewport 390 has no horizontal overflow",
+      "status": "PASS",
+      "evidence": {
+        "width": 390,
+        "scrollWidth": 390
+      }
+    },
+    {
+      "name": "mobile menu 390",
+      "status": "PASS",
+      "evidence": "all four submenus, back, close button, Escape and focus restoration work"
+    },
+    {
+      "name": "Viewport 320 has no horizontal overflow",
+      "status": "PASS",
+      "evidence": {
+        "width": 320,
+        "scrollWidth": 320
+      }
+    },
+    {
+      "name": "mobile menu 320",
+      "status": "PASS",
+      "evidence": "all four submenus, back, close button, Escape and focus restoration work"
+    },
+    {
+      "name": "Contact mobile has no horizontal overflow",
+      "status": "PASS",
+      "evidence": {
+        "width": 390,
+        "scrollWidth": 390
+      }
+    },
+    {
+      "name": "contact mobile axe audit recorded",
+      "status": "PASS",
+      "evidence": {
+        "violations": 0
+      }
+    },
+    {
+      "name": "contact invalid, draft, copy, download and honest disconnected state",
+      "status": "PASS",
+      "evidence": "no network submission or success receipt fabricated"
+    },
+    {
+      "name": "/auth/ respects configured platform ownership",
+      "status": "PASS",
+      "evidence": {
+        "target": "http://localhost:3001/auth?returnTo=%2Fapp",
+        "syntheticNavigationTarget": true
+      }
+    },
+    {
+      "name": "/dashboard/ respects configured platform ownership",
+      "status": "PASS",
+      "evidence": {
+        "target": "http://localhost:3001/auth?returnTo=%2Fapp",
+        "syntheticNavigationTarget": true
+      }
+    },
+    {
+      "name": "/assets/ respects configured platform ownership",
+      "status": "PASS",
+      "evidence": {
+        "target": "http://localhost:3001/auth?returnTo=%2Fapp%2Fassets",
+        "syntheticNavigationTarget": true
+      }
+    },
+    {
+      "name": "unknown route has a useful 404 page",
+      "status": "PASS",
+      "evidence": "return and workspace links present"
+    },
+    {
+      "name": "audience image failure and retry",
+      "status": "PASS",
+      "evidence": "503 -> visible error -> retry -> ready, copy and CTA survive"
+    },
+    {
+      "name": "hero scroll cue",
+      "status": "PASS",
+      "evidence": "moves to hero copy and transfers focus"
+    },
+    {
+      "name": "normal scroll motion and live reduced-motion preference switch",
+      "status": "PASS",
+      "evidence": "hero shrinks, stack pins, reduced mode unpins and pauses both films"
+    },
+    {
+      "name": "Normal motion 390x844 has no horizontal overflow",
+      "status": "PASS",
+      "evidence": {
+        "width": 390,
+        "scrollWidth": 390
+      }
+    },
+    {
+      "name": "Capital motion 390x844 has no horizontal overflow",
+      "status": "PASS",
+      "evidence": {
+        "width": 390,
+        "scrollWidth": 390
+      }
+    },
+    {
+      "name": "Stack motion 390x844 has no horizontal overflow",
+      "status": "PASS",
+      "evidence": {
+        "width": 390,
+        "scrollWidth": 390
+      }
+    },
+    {
+      "name": "motion viewport 390x844",
+      "status": "PASS",
+      "evidence": "hero, capital and stack stay inside the page"
+    },
+    {
+      "name": "Normal motion 320x600 has no horizontal overflow",
+      "status": "PASS",
+      "evidence": {
+        "width": 320,
+        "scrollWidth": 320
+      }
+    },
+    {
+      "name": "Capital motion 320x600 has no horizontal overflow",
+      "status": "PASS",
+      "evidence": {
+        "width": 320,
+        "scrollWidth": 320
+      }
+    },
+    {
+      "name": "Stack motion 320x600 has no horizontal overflow",
+      "status": "PASS",
+      "evidence": {
+        "width": 320,
+        "scrollWidth": 320
+      }
+    },
+    {
+      "name": "motion viewport 320x600",
+      "status": "PASS",
+      "evidence": "hero, capital and stack stay inside the page"
+    },
+    {
+      "name": "all public sections render without JavaScript",
+      "status": "PASS",
+      "evidence": "Astro HTML contains all eleven sections and copy"
+    },
+    {
+      "name": "no uncaught runtime or hydration error",
+      "status": "PASS",
+      "evidence": []
+    }
+  ],
+  "audits": [
+    {
+      "label": "desktop reduced motion",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "aria-prohibited-attr",
+          "targets": [
+            [
+              ".footer-social-links"
+            ]
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "targets": [
+            [
+              ".capital-step-1 > div > .capital-step-number[aria-hidden=\"true\"]"
+            ],
+            [
+              "#stack-title"
+            ],
+            [
+              "#stack-title > .text-teal"
+            ],
+            [
+              ".stack-composition > .section-intro"
+            ],
+            [
+              ".stack-label-physical > .stack-label-content > strong"
+            ],
+            [
+              ".stack-label-physical > .stack-label-content > .layer-number"
+            ],
+            [
+              ".stack-label-physical > .stack-label-content > .stack-label-chips > .stack-label-chip:nth-child(1)"
+            ],
+            [
+              ".stack-label-physical > .stack-label-content > .stack-label-chips > .stack-label-chip:nth-child(2)"
+            ],
+            [
+              ".stack-label-physical > .stack-label-content > .stack-label-chips > .stack-label-chip:nth-child(3)"
+            ],
+            [
+              ".stack-label-depin > .stack-label-content > strong"
+            ],
+            [
+              ".stack-label-depin > .stack-label-content > .layer-number"
+            ],
+            [
+              ".stack-label-depin > .stack-label-content > .stack-label-chips > .stack-label-chip:nth-child(1)"
+            ],
+            [
+              ".stack-label-depin > .stack-label-content > .stack-label-chips > .stack-label-chip:nth-child(2)"
+            ],
+            [
+              ".stack-label-depin > .stack-label-content > .stack-label-chips > .stack-label-chip:nth-child(3)"
+            ],
+            [
+              ".stack-label-defi > .stack-label-content > strong"
+            ],
+            [
+              ".stack-label-defi > .stack-label-content > .layer-number"
+            ],
+            [
+              ".stack-label-defi > .stack-label-content > .stack-label-chips > .stack-label-chip:nth-child(1)"
+            ],
+            [
+              ".stack-label-defi > .stack-label-content > .stack-label-chips > .stack-label-chip:nth-child(2)"
+            ],
+            [
+              ".stack-label-defi > .stack-label-content > .stack-label-chips > .stack-label-chip:nth-child(3)"
+            ],
+            [
+              ".stack-label-apps > .stack-label-content > strong"
+            ],
+            [
+              ".stack-label-apps > .stack-label-content > .layer-number"
+            ],
+            [
+              ".stack-label-apps > .stack-label-content > .stack-label-chips > .stack-label-chip:nth-child(1)"
+            ],
+            [
+              ".stack-label-apps > .stack-label-content > .stack-label-chips > .stack-label-chip:nth-child(2)"
+            ],
+            [
+              ".stack-label-apps > .stack-label-content > .stack-label-chips > .stack-label-chip:nth-child(3)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "label": "contact mobile",
+      "violations": [],
+      "incomplete": []
+    }
+  ],
+  "snapshots": [
+    {
+      "width": 768,
+      "sections": [
+        {
+          "id": "top",
+          "height": 900
+        },
+        {
+          "id": "energy-context",
+          "height": 1220
+        },
+        {
+          "id": "why",
+          "height": 900
+        },
+        {
+          "id": "ecosystem",
+          "height": 2105
+        },
+        {
+          "id": "assets",
+          "height": 1141
+        },
+        {
+          "id": "opportunities",
+          "height": 1058
+        },
+        {
+          "id": "stack",
+          "height": 1370
+        },
+        {
+          "id": "evidence",
+          "height": 1173
+        },
+        {
+          "id": "platform",
+          "height": 1242
+        },
+        {
+          "id": "comparison",
+          "height": 1106
+        },
+        {
+          "id": "connect",
+          "height": 684
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "sections": [
+        {
+          "id": "top",
+          "height": 900
+        },
+        {
+          "id": "energy-context",
+          "height": 1066
+        },
+        {
+          "id": "why",
+          "height": 1224
+        },
+        {
+          "id": "ecosystem",
+          "height": 2186
+        },
+        {
+          "id": "assets",
+          "height": 1399
+        },
+        {
+          "id": "opportunities",
+          "height": 1240
+        },
+        {
+          "id": "stack",
+          "height": 1205
+        },
+        {
+          "id": "evidence",
+          "height": 2014
+        },
+        {
+          "id": "platform",
+          "height": 1685
+        },
+        {
+          "id": "comparison",
+          "height": 1575
+        },
+        {
+          "id": "connect",
+          "height": 592
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "sections": [
+        {
+          "id": "top",
+          "height": 900
+        },
+        {
+          "id": "energy-context",
+          "height": 1112
+        },
+        {
+          "id": "why",
+          "height": 1179
+        },
+        {
+          "id": "ecosystem",
+          "height": 2387
+        },
+        {
+          "id": "assets",
+          "height": 1414
+        },
+        {
+          "id": "opportunities",
+          "height": 1233
+        },
+        {
+          "id": "stack",
+          "height": 1233
+        },
+        {
+          "id": "evidence",
+          "height": 2095
+        },
+        {
+          "id": "platform",
+          "height": 1714
+        },
+        {
+          "id": "comparison",
+          "height": 1740
+        },
+        {
+          "id": "connect",
+          "height": 592
+        }
+      ]
+    }
+  ],
+  "runtimeErrors": [],
+  "consoleErrors": [
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 503 (Service Unavailable)"
+  ],
+  "failedResponses": [
+    {
+      "url": "http://localhost:3001/favicon.ico",
+      "status": 404
+    },
+    {
+      "url": "http://127.0.0.1:4321/this-page-does-not-exist",
+      "status": 404
+    },
+    {
+      "url": "http://127.0.0.1:4321/_astro/who-serve-asset-operator.B9s3Ps2l_Z1BntHB.webp",
+      "status": 503
+    }
+  ]
+}

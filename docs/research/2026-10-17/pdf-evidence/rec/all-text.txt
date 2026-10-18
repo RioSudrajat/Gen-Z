@@ -1,0 +1,629 @@
+=== PAGE 1 ===
+Introductory Note: 
+This document covers the Renewable Energy Certiﬁcates (RECs) issued for the Freight Links 
+Properties (FLP) solar project and the executed Term Sheet governing the project’s transfer and 
+revenue structure. 
+RECs are issued in the name of Renewables Capital Asia Pte. Ltd. (RCA), as the original developer 
+and legal counterparty under the Power Purchase Agreement (PPA) at the time of issuance.
+ 
+The attached Term Sheet between RCA and Pivot Green Asset Management Pte. Ltd. (PGAM) 
+sets out the agreed transfer structure, including the allocation of revenue and environmental 
+attributes from the Revenue Commencement Date. 
+A total of 433 RECs were issued in 2024 at an agreed price of SGD 65 per REC, representing SGD 
+28,145 (ex GST) in aggregate value.
+.
+This package documents:
+- Historical REC issuance under RCA
+- The transfer framework to PGAM
+- The agreed allocation of economic rights from the Revenue Commencement Date
+This executive summary has been prepared by ReFi Hub for informational purposes only. It is
+provided as a high-level overview and should be read together with the full underlying
+documentation, including the complete invoice set and executed Term Sheet. In the event of any
+inconsistency, the original source documents shall prevail.
+
+=== PAGE 2 ===
+ 
+ 
+ 
+ 
+LEG_CU_T01_DISTRIBUTORSHIP AGREEMENT_2022-10-27 
+Page 1 
+AECO Project Services Pte. Ltd. UEN 202231617D |   aecoenergy.sg 
+Confirmation of Issuance. 
+Company: Renewables Capital Asia Pte. Ltd. 
+ 
+Asset Name Asset Address Month Vintage 
+Agreed 
+Price 
+(SGD/REC) 
+Total 
+RECs 
+Issued 
+Total Price 
+ex GST (SGD) 
+FLP  
+47 Changi South 
+Ave 2 S486148 
+August 
+2024 $65.00 
+3  $195.00  
+September 25  $1,625.00  
+October 23  $1,495.00  
+November 18  $1,170.00  
+December 21  $1,365.00  
+    SUBTOTAL 90 $5,850 
+ 
+ 
+Asset Name Asset Address Month Vintage 
+Agreed 
+Price 
+(SGD/REC) 
+Total 
+RECs 
+Issued 
+Total Price 
+ex GST (SGD) 
+RECLAIM  
+10 Tuas South St 
+7 S637114 
+January 
+2024 $65.00 
+24  $1,560.00  
+February 29  $1,885.00  
+March 32  $2,080.00  
+April 27  $1,755.00  
+May 26  $1,690.00  
+June 26  $1,690.00  
+July 32  $2,080.00  
+August 31  $2,015.00  
+September 32  $2,080.00  
+October 31  $2,015.00  
+November 25  $1,625.00  
+  December   28  $1,820.00  
+    SUBTOTAL 343  $22,295.00  
+       
+  Total RECs Issued Total Price ex GST 
+(SGD) 
+GRAND TOTAL 433  $28,145.00  
+ 
+ 
+ 
+ 
+ 
+Payment terms: Thirty (30) Days from the date of the Seller’s invoice. 
+ 
+ 
+
+=== PAGE 3 ===
+Strictly Private & Confidential 
+Page 1 of 8 
+ 
+TERM SHEET FOR PROJECT TRANSFER & REVENUE SHARIING 
+ 
+ 
+This term sheet (“ Term Sheet ”) outlines the principal terms and conditions in connection with the proposed 
+transfer of the Singapore solar project (the “Transferred Projects”), and any future novated project (s) (each a 
+“Project” and collectively the “Projects”), 
+From 
+ 
+RENEWABLES CAPITAL ASIA PTE. LTD. (Company Registration No.202144830E), a company registered 
+in Singapore with its registered office address at 182 Cecil Street, #17, Frasers Tower, Singapore 069547  
+(“RCA”),  
+To 
+ 
+PIVOT GREEN ASSET MANAGEMENT PTE. LTD. (Company Registration No.202516002E), a company 
+registered in Singapore with its registered office address at 23 new industrial road, #05 -04, Solstice Business 
+Center, Singapore 536209, being designated to hold the RCA Projects under this Term Sheet (“PGAM”),  
+ 
+Together, the “Parties” and each a “Party”.  
+ 
+Background: 
+RCA has historically undertaken the development, financing, and/or construction of the Transferred Projects with 
+certain works performed by its appointed contractor, Global Energy Alliance Pte. Ltd. (“GAE”). For the avoidance 
+of doubt, GAE is a contractor to RCA in connection with the Projects and in not a party to this Term Sheet. 
+ 
+This Term Sheet records the principles agreed between the Parties in connection with the novation of the 
+Transferred Projects and related arrangements. 
+ 
+ 
+1. TRANSFERRED PROJECTS  
+ 
+1.1 SINGAPORE SOLAR PROJECT PORTFOLIO 
+ 
+ 
+ Transferred Projects kWp Individual Project Cost (SGD) 
+1 Reclaims Enterprise       271.32 308,000 
+2 Freight Link Properties 267.85 304,000 
+3 Centurion Group  150.88 157,700 
+4 Grandlink Mall 102.91 121,620 
+5 Eng Cheong Changi 89.79 103,258 
+ Total Portfolio 882.66 994,578 
+ 
+• Total Portfolio: 882.66 kWp for S$994,578 
+ 
+• Projects transferred “as-is” at stated costs with no additional fees or hidden charges. For the purpose of 
+this Term Sheet, the “PPA” mean the Solar Power Purchase Agreement entered into between RCA and 
+clients in respect of the Transferred Projects.  
+ 
+1.2 DEBT & LIABILITY  
+ 
+• The Transferred Projects shall be made available free from any  existing financial indebtedness or  
+obligations of debt -like nature,  including but not limited to any bank loans, shareholder loans, 
+guarantees, bonds, or other borrowings, tax arrears, fines, penalties, litigation claims, legacy obligations 
+and similar liabilities (collectively, “Excluded Liabilities”).  
+ 
+• The only exception to this is the outstanding amount payable to GAE for works performed on the 
+Transferred Projects, together with any contractual interest accruing thereon (the “GAE Payable”). For 
+clarity, the GAE Payable constitutes a bona fide trade payables incurred in the ordinary course of project 
+construction, and does not represent a loan, borrowing, or financial indebtedness. 
+ 
+• RCA warrants that , apart from the GAE Payable, there are no other debts , liabilities, or obligations 
+relating to the Transferred Projects that could transfer to PGAM. All other historical obligations remain 
+with RCA. 
+ 
+
+=== PAGE 4 ===
+Strictly Private & Confidential 
+Page 2 of 8 
+ 
+• On or prior to the Effective Date of each relevant Novation Deed, RCA shall procure from GAE a 
+written confirmation acknowledging the amount owing in respect of the Transferred Projects (together 
+with any contractual interest) and confirming that such payable remains with RC A up to the Effective 
+Date of this Term Sheet.  
+ 
+1.3 REVENUE RECOGNITION 
+ 
+• Revenue accrues to PGAM: only from [1 September 2025] (the “Revenue Commencement Date”). 
+ 
+• RCA shall retain all revenues relating to the period up to 31  August 2025, including August invoices 
+issued in September and payments received thereafter. 
+ 
+• Any RECs attributable to generation prior to 1  September 2025 shall remain RCA ’s entitlement, with 
+RECs thereafter accruing to PGAM on a pro-rata basis. 
+ 
+• For avoidance of doubt, all revenues attributable to the solar-generated electricity supplied to the clients 
+under the Transferred Projects on or after the Revenue Commencement Date, shall belong to PGAM, 
+regardless of the date of invoicing, receipt of payment, or execution of the relevant Novation Deed (each 
+a “Novation Deed”, and together the “Novation Deeds”) to be entered into between RCA, PGAM, and 
+the relevant counterparty. 
+ 
+• Until the relevant Novation Deed for a Transferred Project is fully executed, RCA shall remain the legal 
+counterparty under the PPA  for that Transferred Project, with all rights and obligations vis-à-vis the 
+client, and in that capacity, shall continue to issue invoices and receive payments in its own name, but 
+shall hold such revenues on bare trust for PGAM and promptly remit them to PGAM (or its nominated 
+account) within three (3) business days of receipt, failing which interest shall accrue at one percent (1%) 
+per month on overdue sums until payment. 
+ 
+• If the relevant Novation Deed of any Project is not completed by 31 October 2025 (the “Longstop Date”), 
+the Parties shall execute an Assignment of Receivables Agreement between RCA (as assignor) and 
+PGAM (as assignee) to give legal effect to the interim revenue pass -through arrangement described 
+above, thereby ensuring PGAM’s entitlement to all revenues from such Project is legally enforceable 
+until novation is completed. RCA will bear the costs of completing each Novation Deed. 
+ 
+1.4 ASSET MANAGEMENT COOPERATION 
+ 
+• If mutually agreed, RCA may provide ongoing operational & technical support (including, if required, 
+invoicing, revenue collection and related administration)  under a separate Service Agreement , if and 
+when executed by the Parties. Such agreement may may specify: 
+ 
+i. A mutually agreed management or service fee (fixed, cost-plus, or otherwise structured); 
+ii. Treatment of pass-through O&M and compliance costs  (with prior mutual approval required for 
+extraordinary expenses);  
+iii. Mutually agreed reporting obligations relevant to the Transferred Projects; and 
+iv. Additional consideration beyond RCA’s thirty percent (30%) revenue entitlement, where RCA 
+personnel are materially and directly responsible for originating an opportunity, securing land or 
+building rights, obtaining material permits, or introducing/negotiating with  any offtakers or 
+financiers. Such consideration may take the form of (i) reimbursement of secondment costs, and/or 
+(ii) a mutually agreed success or development fee. 
+ 
+ 
+2. REVENUE ENTITLEMENT   
+ 
+2.1 OWNERSHIP OF PROJECTS 
+ 
+• PGAM shall hold legal ownership of the Transferred Projects and any Future Projects novated by RCA 
+(together, the “RCA Projects”), with effect from the Effective Date of the relevant Novation Deed duly 
+executed by RCA, PGAM and acknowledge by the relevant PPA counterparty (client). Only upon such 
+execution shall PGAM assume all rights and obligations under the relevant Project.  The Parties shall 
+use best efforts to complete execution of each Novation Deed no later than 31 October 2025. Until such 
+execution, RCA shall maintain in force the Assignment of Receivables in favour of PGAM to secure all 
+revenues and shall continue to perform all acts necessary to give effect to PGAM’s beneficial ownership 
+of the relevant Project.   
+ 
+
+=== PAGE 5 ===
+Strictly Private & Confidential 
+Page 3 of 8 
+ 
+2.2 REVENUE SHARE & DISTRIBUTION 
+ 
+• RCA shall be entitled to thirty percent (30%) of the Net Distributable Revenues of RCA Projects, with 
+all calculations and distributions to be made in accordance with the Revenue Sharing Waterfall set out 
+in ANNEX A. 
+ 
+• PGAM shall apply such revenues in accordance with the agreed  Revenue Sharing Waterfall and shall 
+remit RCA ’s thirty percent (30%) revenue share promptly following each  distribution declared by 
+PGAM, and in any event no later than thirty (30) calendar days, or such other period as may be mutually 
+agreed by the Parties in writing.  
+ 
+• Distributions shall be made only out of positive Net Distributable Revenues and shall not be guaranteed 
+or scheduled on fixed dates. For administrative purposes, distribution may, at PGAM’s discretion, be 
+declared and made on a quarterly or semi-annual basis, after reconciling project revenues and Revenue 
+Sharing Waterfall items.  Distributions shall be declared whenever sufficient cash is available  for 
+distribution under ANNEX A.  
+ 
+• Whenever PGAM declares a distribution, it shall at the same time provide RCA with a  distribution 
+statement evidencing (i) revenues received, (ii) payments made under Revenue Sharing Waterfall items 
+(1) to (5), and (iii) any resulting Net Distributable Revenues. For avoidance of doubt, RCA ’s rights to 
+access revenue and Revenue Sharing Waterfall records are set out in Clause 2.5. 
+ 
+• Any dispute over any calculation of the Net Distributable Revenues shall be resolved in good faith and, 
+if not resolved, referred  to an independent accountant mutually appointed by the Parties, whose 
+determination shall be used as the basis for settlement, without prejudice to either Party’s rights under 
+Clause 3.4. 
+ 
+• For avoidance of doubt: 
+i. no PGAM corporate-level overhead or general administrative expenses, or unrelated general costs 
+not directly attributable to RCA Projects  shall be deducted prior to the calculation of Net 
+Distributable Revenues; and 
+ii. only the agreed Revenue Sharing Waterfall items set out in ANNEX A shall apply.  
+ 
+2.3 FUTURE PROJECT PIPELINE & NOVATION 
+ 
+• RCA may from time to time novate to PGAM additional solar projects in Singapore (the “Future 
+Projects”), which PGAM shall accept subject to its customary internal approvals.  
+ 
+• Thes same revenue entitlement (70% PGAM : 30% RCA), together with the Revenue Sharing Waterfall 
+and calculation methodology set out in ANNEX A , shall apply mutatis mutandis , unless otherwise 
+amended by mutual agreement of the Parties.  
+ 
+• The novation mechanism, timing, and documentation of novation (for both the Transferred Projects and 
+any Future Projects) shall be effected by the execution of a Novation Deed (or such other formal 
+documentation as required the law), following written notice by RCA to PGAM and the relevant client.  
+ 
+• For the five (5) Transferred Projects set out in Clause 1.1, RCA shall bear all  third-party legal and 
+administrative costs at market-standard rates directly attributable to the novation or transfer.  
+ 
+• For any Future Projects novated to PGAM, such third -party legal and administrative costs  shall be 
+shared pro rata between PGAM and RCA, or as otherwise mutually agreed.  
+ 
+• Each Party shall bear its own internal costs relating to the novation process. 
+ 
+2.4 PROJECT FINANCING 
+ 
+• PGAM shall be solely responsible for arranging and securing all project financing and refinancing for 
+RCA Projects.  
+ 
+• RCA shall not be required to  provide any guarantees or security in connection with such financing or 
+refinancing, unless it voluntarily elects to do so in its sole discretion. 
+ 
+• PGAM shall not enter into any financing arrangements that would subordinate or dilute or otherwise  
+materially affect RCA’s revenue entitlement or risk exposure without RCA’s prior written consent. RCA 
+shall respond to any such request within ten (10) business days of receipt of full details of the proposed 
+financing. Such consent shall not be unreasonably withheld or delayed, and PGAM may proceed if 
+RCA ’s consent is unreasonably withheld. 
+
+=== PAGE 6 ===
+Strictly Private & Confidential 
+Page 4 of 8 
+ 
+ 
+2.5. TRANSPARENCY & REPORTING 
+ 
+• For administrative purposes and a t PGAM’s discretion, the mechanism for revenue recording may be 
+(i) a separate project bank account for the RCA Projects; or (ii) on-book segregation of all revenues and 
+expenses relating to the RCA  Projects, or (iii) any other recording approach that is transparent and 
+auditable. The chosen approach shall be applied from the Revenue Commencement Date so that all 
+revenues and expenses are easily identifiable, and if required, capable of verification for the purposes 
+of applying the Revenue Sharing Waterfall. For clarity, this provision relates only to transparency of 
+revenues and expenses for application of Revenue Sharing Waterfall, and is independent of any legal 
+form or ownership structure through which the Transferred Projects are held. 
+ 
+• RCA will have  access, as reasonably requested , to any periodic  statements or equivalent records , 
+consistent with PGAM’s internal reporting practices, showing project revenues received and their 
+applications under the Revenue Sharing Waterfall. 
+ 
+• PGAM will share with RCA  periodic financial information, as and when available under PGAM’s 
+internal reporting cycle,  and in any case no less than once annually, evidencing project revenues, 
+deductions under the Revenue Sharing Waterfall , and cash available for distribution, whether or not a 
+distribution is declared.  
+ 
+• RCA may, in good faith consultation with PGAM, request an independent review (or, if mutually agreed, 
+an audit) of the revenues and applications under the Revenue Sharing Waterfall for all RCA Projects, at 
+RCA’s cost.  
+ 
+2.6. REPURCHASE OPTION 
+ 
+• RCA may, but shall not be obliged to, submit a written request to repurchase the RCA Projects (whether 
+consisting of one or more individual projects, or the entire portfolio) from PGAM, upon giving not less 
+than sixty (60) days’ written notice, or any such longer period as may be required to obtain any lender 
+consents required by PGAM’s financing arrangement, if applicable.  
+ 
+• PGAM shall consider such request in good faith and shall have discretion to determine whether to accept 
+it, while also discussing the repurchase request with RCA before making its decision, and  shall use 
+reasonable endeavours to procure any required lender consents without delay and promptly inform RCA 
+of any such requirements and its decision.  
+ 
+• If a repurchase is agreed, the repurchase price shall equal: 
+i. the outstanding principal and interest of any project financing amounts, and 
+ii. any documented, third -party project costs directly incurred by PGAM for the RCA Projects that 
+remain unrecovered, excluding PGAM corporate-level overhead or general administrative  
+ 
+• In addition, the Parties may mutually agree on an appropriate additional premium on the repurchase price, 
+not to exceed five percent (5%) of the repurchase price unless otherwise expressly agreed by the Parties, 
+having regard to prevailing market practice for comparable rooftop solar project transactions.  
+ 
+ 
+3. GENERAL PROVISIONS 
+ 
+3.1 WARRANTIES 
+ 
+• RCA warrants , to the best of its knowledge as at the effective date of novation or transfer of each 
+Transferred Project, that all material permits are valid, the relevant contracts are transferable, there is 
+no material litigation, and RCA has complied in all material aspects with applicable law. 
+ 
+• Indemnity period: twelve ( 12) months from the effective of novation or transfer  of the relevant 
+Transferred Project. 
+ 
+• RCA’s aggregate liability under this Clause 3.1 is capped at S$994,578 (being the portfolio cost), within 
+the liability allocation framework set out in the Side Letter. 
+ 
+• For clarity, public liability insurance claims and other insured risks are addressed through the project 
+insurance policies, and the Parties acknowledge that RCA remains responsible for pre -transfer 
+obligations while PGAM assumes responsibility thereafter, as provided in the Side Letter.  
+ 
+
+=== PAGE 7 ===
+Strictly Private & Confidential 
+Page 5 of 8 
+ 
+• RCA shall be liable for all bona-fide pre-transfer claims relating to the Transferred Projects, limited to 
+the Excluded Liabilities as defined in Clause 1.2. RCA shall not be liable for any post-transfer claims 
+relating to the Transferred Projects, nor for any indirect, consequential, punitive, special, or post-transfer 
+losses. For avoidance of doubts, PGAM will not assume any historical liabilities. 
+ 
+• Each Party shall procure its own corporate approvals, solvency declarations, statutory filings, and legal 
+opinions required to give effect to the novation or  transfer of the Transferred Projects.  RCA shall 
+indemnify and hold PGAM harmless for third -party claims directly arising from pre -transfer events of 
+the Transferred Projects, with such indemnity l imited to reasonable documented defence costs and 
+capped in accordance with Clause 3.1. 
+ 
+• RCA further warrants that, upon execution of the relevant Novation Deed, it shall have no further legal 
+or beneficial claim to ownership of the relevant Project, and shall not dispute or challenge PGAM’s full 
+ownership and entitlement thereto. 
+ 
+3.2 CONFIDENTIALITY 
+ 
+• Strict confidentiality shall apply to  this Term Sheet, all discussions, negotiations, and information  
+exchanged between the Parties , except as required by law , regulation,  or to professional advisers, 
+financiers, lenders, or other persons strictly on a need -to-know basis, provided that such recipients are  
+bound by confidentiality obligations no less strict than those set out in this Clause 3.2. 
+ 
+• The Parties acknowledge that the provisions relating to RCA ’s revenue entitlement and the Revenue 
+Sharing Waterfall shall apply from the Revenue Commencement Date. For administrative purposes and 
+convenience, these provisions may also be set out in a side letter if either Party so requests , without 
+affecting their enforceability under this Term Sheet. 
+ 
+3.3 TERM & SURVIV AL 
+ 
+• This Term Sheet shall remain in effect from the Effective Date until the expiry or termination of the last 
+of the RCA Projects under its respective PPA. 
+ 
+• For avoidance of doubt,  Clause 3. 2 (Confidentiality), and  Clause 3. 5 (Governing law and dispute 
+resolution) shall remain binding on the Parties even after such expiry or termination, to the extend 
+necessary to give effect to this Term Sheet. 
+ 
+3.4 PORTFOLIO RECOGNITION 
+ 
+• The Parties acknowledge that RCA may, for marketing, fundraising, and corporate track record purposes, 
+reference the RCA Projects as part of its portfolio  to reflect its originating role, and such reference do 
+not expressly suggest ongoing ownership or involvement after the transfer, unless otherwise agreed in 
+writing. 
+ 
+3.5 GOVERNING LAW & DISPUTE RESOLUTION 
+ 
+• This Term Sheet shall be governed by the laws of Singapore. 
+ 
+• Any dispute shall first be referred to Singapore Mediation Centre (SMC) for resolution in good faith. 
+ 
+• If not resolved within thirty (30) days, either Party may refer the dispute to the  courts of Singapore , 
+which shall have exclusive jurisdiction for enforcement purposes. 
+ 
+ 
+ 
+[Remainder of Page Intentionally Left Blank. Signature Page Follows.] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 8 ===
+Strictly Private & Confidential 
+Page 6 of 8 
+ 
+ANNEX A -- REVENUE SHARING WATERFALL ALLOCATION STRUCTURE 
+ 
+For the purposes of this Term Sheet, the “Revenue Sharing Waterfall” means the order of application of project 
+revenues as set out in this ANNEX A. All project revenues of the RCA Projects shall be applied in accordance 
+with the Revenue Sharing Waterfall, unless otherwise mutually agreed in writing by both PGAM and RCA. 
+ 
+ 
+A. SCOPE OF APPLICATION:  
+ 
+ 
+• This revenue sharing structure applies solely to the RCA Projects.  
+ 
+B. REVENUE SOURCES 
+ 
+• Feed-in tariffs, grid export payments, RECs’ sales, and all other project-related income from RCA Projects. 
+ 
+C. REVENUE SHARING WATERFALL PRIORITY (FOR RCA PROJECTS) 
+ 
+• All Project revenues shall be applied in the following order of priority, unless otherwise mutually agreed 
+in writing by both PGAM and RCA: 
+ 
+(1) Payment of the GAE Payables (as defined in Clause 1.2), until fully discharged. For avoidance of 
+doubt, the GAE Payable is a one -time, disclosed obligation arising from works performed on the 
+Transferred Projects, and is not treated as project financing debt. Its inclusion here ensures transparency 
+and orderly settlement.  
+ 
+(2) Statutory Charges and Regulatory Obligations 
+ 
+• Payment of all statutory charges, licences, and regulatory obligations  directly attributable to RCA 
+Projects. 
+• For avoidance of doubt, no PGAM corporate-level income tax or other group-level tax obligations 
+shall be deducted at this stage, as such taxes are unrelated to the RCA’s Projects.  
+ 
+(3) Agreed Debt Service Obligations (Senior Lenders) – if any 
+ 
+• Repayment of principal and interest on all project financing from external banks or institutional 
+lenders, duly approved in writing by both PGAM and RCA in respect of the RCA Projects. For clarity, 
+this item covers only third-party external financing. It does not include amounts owed to GAE unless 
+expressly approved in writing by both Parties in accordance with Clause 2.4. 
+ 
+(4) Insurance Premiums (if applicable) 
+ 
+• Annual insurance premiums required to maintain project compliance and risk coverage  for RCA 
+Projects. 
+ 
+(5) Priority Return to Approved Investor (Preferred Equity) – if applicable 
+ 
+• Any third-party investor (“Class A Investor”) may be granted a priority return to recover its invested 
+capital and receive a mutually agreed benchmark return, solely from Net Distributable Revenues of 
+the RCA Projects. 
+ 
+• All such distributions shall be made only after sa tisfaction of higher -ranking Revenue Sharing 
+Waterfall items. 
+ 
+• Optional Capital Recovery Structure (if mutually agreed): Alternatively, Class A Investor may 
+receive 100% of the distributable cashflows of RCA Projects until it has recovered its invested capital 
+plus the mutually agreed benchmark return.  
+ 
+• Thereafter, distributions shall commence. 
+ 
+(5) O&M and Compliance Costs  
+ 
+• Payment of O&M and compliance costs, including equipment servicing, site works, performance 
+monitoring, regulatory compliance for RCA Projects.  
+ 
+• General administrative expenses and corporate overhead shall not be included in this category, except: 
+ 
+i. where such costs are solely and directly attributable to the RCA Projects, are incurred at market-
+standard rates, and expressly approved in writing by PGAM and RCA; or 
+
+=== PAGE 9 ===
+Strictly Private & Confidential 
+Page 7 of 8 
+ 
+ii. any management fees, administrative support fees, or seconded personnel costs payable to RCA 
+(or its affiliates) under a separate service or secondment agreement mutually agreed by the 
+Parties. 
+ 
+• Essential O&M Protection: Essential safety-critical, compliance -related O&M related to RCA 
+Projects shall not be deferred and must be funded as a priority before investor distributions. 
+ 
+• For clarity, such costs are managed and incurred by PGAM as project owner after the transfer, and 
+are deducted at the project level prior to distribution under this Revenue Sharing Waterfall allocation. 
+RCA does not invoice PGAM for these expenses, unless mutually agreed otherwise under a separate 
+service or secondment arrangement in accordance with the carve-out for administrative expenses set 
+out in ANNEX A. 
+ 
+(6) Net Distributable Revenues:  
+ 
+• After satisfaction of all items above, the Net Distributable Revenues from RCA Projects shall be 
+shared pro rata: 70% PGAM and 30% RCA. 
+ 
+D. DEFINITION OF NET DISTRIBUTABLE REVENUES 
+ 
+• “Net Distributable Revenues ” means all project -related revenues  of RCA Projects  remaining after 
+satisfaction of items (1) to (5) above, expressly excluding: 
+ 
+i. any PGAM corporate overhead, administrative charges, or general costs not directly attributable to 
+the RCA Projects, except expressly approved under item (5); and 
+ii. any non-cash accounting charges (including depreciation, provisions, or reserve).  
+ 
+ 
+ 
+ 
+ 
+[ Remainder of Page Intentionally Left Blank ] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 10 ===
+Strictly Private & Confidential 
+Page 8 of 8 
+ 
+IN WITNESS WHEREOF  the Parties have executed this Term Sheet on 28 September 2025 (the “Effective 
+Date”). 
+ 
+ 
+For an on behalf of 
+for and on behalf of  
+RENEWABLES CAPITAL ASIA PTE. LTD. 
+ 
+) 
+ 
+(Company Registration No. 202144830E) 
+ 
+ 
+) ______________________________ 
+Director 
+Name: Suen Bohn 
+ 
+ 
+ 
+ 
+ 
+For an on behalf of 
+for and on behalf of  
+PIVOT GREEN ASSET MANAGEMENT PTE. LTD.    
+ 
+) 
+ 
+(Company Registration No. 202516002E) 
+ 
+) ______________________________ 
+Director 
+Name: Lai Y un Jun 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[ Signing Page ] 
+ 

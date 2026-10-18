@@ -1,0 +1,342 @@
+[
+  {
+    "number": 1,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-47652369-c2a3-4fa0-94f8-380a8be20006.png",
+    "name": "01-dashboard.png",
+    "exists": true,
+    "sha256": "3d8cbbf39a56a2832d1514125d3b24904b929aad014003c54d7d7787096ee395",
+    "width": 2492,
+    "height": 2709,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\01-dashboard.png"
+  },
+  {
+    "number": 2,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-60654051-a16e-4e81-aa78-cd4c2e40c140.png",
+    "name": "02-portfolio.png",
+    "exists": true,
+    "sha256": "863ace3dc6a4d499ca7acae192886112145e7fe1c074853a6de3b00ef5770f01",
+    "width": 2492,
+    "height": 2719,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\02-portfolio.png"
+  },
+  {
+    "number": 3,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-030fc979-5fff-4355-8554-354cd2dc9720.png",
+    "name": "03-assets-list.png",
+    "exists": true,
+    "sha256": "bd0ce71735b7b8b2e0ac0c24c0cdb4f05b7e526d4cdb593646693b97319b28b3",
+    "width": 2492,
+    "height": 2620,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\03-assets-list.png"
+  },
+  {
+    "number": 4,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-7424bc8b-dd25-4b9c-ab12-beacb7be9fdc.png",
+    "name": "04-flp-deal-terms.png",
+    "exists": true,
+    "sha256": "bac943e92499dc7447901461d0c14cd9c43817d0c45e0d786985d87148e33310",
+    "width": 2492,
+    "height": 3249,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\04-flp-deal-terms.png"
+  },
+  {
+    "number": 5,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-5d2ff5ea-573b-4778-a6ac-93e09c6446cf.png",
+    "name": "05-flp-cashflow.png",
+    "exists": true,
+    "sha256": "e4280bba49a621a52c2af73b7ba8c8189c8b82b6961c15a6a3148d518f5da318",
+    "width": 2424,
+    "height": 1456,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\05-flp-cashflow.png"
+  },
+  {
+    "number": 6,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-3e0a86cc-77e4-411e-b1a7-e02cea2a489d.png",
+    "name": "06-flp-calculator.png",
+    "exists": true,
+    "sha256": "eedac366d58cc97bd599c5c3bd1434b098335a14894132e08dd41b5a79c22fbd",
+    "width": 2349,
+    "height": 1452,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\06-flp-calculator.png"
+  },
+  {
+    "number": 7,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-dea76de7-0733-4fe5-bcce-2dae7a1c427e.png",
+    "name": "07-flp-calculator-outcome.png",
+    "exists": true,
+    "sha256": "ea749f8727aa2ed75123b92734ceff098b4b0a8af2109e1c8cf2ce8027268d10",
+    "width": 2157,
+    "height": 1378,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\07-flp-calculator-outcome.png"
+  },
+  {
+    "number": 8,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-fa2f3dd9-8131-4518-96e3-18ec3d7a21ef.png",
+    "name": "08-flp-history.png",
+    "exists": true,
+    "sha256": "d9159ffcb87f893e7173e1e74e077c5b8dd450675bff6900339866ed83ebc5a6",
+    "width": 2073,
+    "height": 1213,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\08-flp-history.png"
+  },
+  {
+    "number": 9,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-fe8069e6-18b5-4a3b-a635-31fce9b90e92.png",
+    "name": "09-flp-revenue-model.png",
+    "exists": true,
+    "sha256": "428f19e4916adc7fc18adfac84f89fccc10f137aeed1801ee0fb052ce438ab00",
+    "width": 2235,
+    "height": 1258,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\09-flp-revenue-model.png"
+  },
+  {
+    "number": 10,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-c6907042-fe21-4996-abf4-77497a4b9dd5.png",
+    "name": "10-flp-risks-counterparty.png",
+    "exists": true,
+    "sha256": "5c68a5658677e119a038bdae97cc323c7192bd75cce3b48479b69f8d3f92e9cd",
+    "width": 2164,
+    "height": 1434,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\10-flp-risks-counterparty.png"
+  },
+  {
+    "number": 11,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-98b9b1dc-0dd8-41a5-a13e-6aa9195d818e.png",
+    "name": "11-flp-risks-liquidity.png",
+    "exists": true,
+    "sha256": "21a9f1d0645af978d5618d8f56d6fb9f4c7c9d251ad2c7d939cf172a677b6b21",
+    "width": 2131,
+    "height": 1315,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\11-flp-risks-liquidity.png"
+  },
+  {
+    "number": 12,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-61576eed-cddd-4a43-8d10-b124592e0f86.png",
+    "name": "12-flp-asset-profile.png",
+    "exists": true,
+    "sha256": "4b6b27893f6b7cd12e8dfcffaa07fc790c844451622b1b3cd7c5621dd113b934",
+    "width": 2185,
+    "height": 1375,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\12-flp-asset-profile.png"
+  },
+  {
+    "number": 13,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-ce24fe36-f9b6-4ff9-99fe-172276c15281.png",
+    "name": "13-flp-operator-team.png",
+    "exists": true,
+    "sha256": "ff2e4765a6877f86800459994449aacd23da0ae8cd5deb9a0f1313b15224d64d",
+    "width": 2140,
+    "height": 1324,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\13-flp-operator-team.png"
+  },
+  {
+    "number": 14,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-c74b6c65-89dd-4002-8762-ba36a4ebc126.png",
+    "name": "14-flp-offtaker.png",
+    "exists": true,
+    "sha256": "601777f4949d4574d1042b8fb02c309ef669d4c8aa2e1af109ba79962a4a26a5",
+    "width": 2116,
+    "height": 1285,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\14-flp-offtaker.png"
+  },
+  {
+    "number": 15,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-4086b718-84ae-4de9-85bd-6af126533e67.png",
+    "name": "15-flp-documents.png",
+    "exists": true,
+    "sha256": "4e0fdc5ae76e0f0630c0b95ff9dfed414e68e12637019f12953113856c391f38",
+    "width": 2152,
+    "height": 1327,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\15-flp-documents.png"
+  },
+  {
+    "number": 16,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-699a5ca0-7bd2-4b3d-8b30-95c8cc88c2ad.png",
+    "name": "16-flp-documents-financial.png",
+    "exists": true,
+    "sha256": "2824ef23b57ee60a2120370d242d809d4c9bf91bc14964aba916a44e4d55b827",
+    "width": 2059,
+    "height": 1330,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\16-flp-documents-financial.png"
+  },
+  {
+    "number": 17,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-0b5a5fa4-4dac-40b0-91ef-f1ffbf4bc7a2.png",
+    "name": "17-crn-reports-latest.png",
+    "exists": true,
+    "sha256": "510c84515dda66e54fe52b046bfea8cf2c700b4e88e1ae8dcffdc2fa0dad3014",
+    "width": 2200,
+    "height": 1326,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\17-crn-reports-latest.png"
+  },
+  {
+    "number": 18,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-f584fdce-c31d-428a-b186-83c41d9f5f67.png",
+    "name": "18-crn-reports-history.png",
+    "exists": true,
+    "sha256": "db57240f65aeff86bd2442be3a37b53e57ea980378a020cff4728638018380e4",
+    "width": 2248,
+    "height": 1470,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\18-crn-reports-history.png"
+  },
+  {
+    "number": 19,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-f8608456-2cae-46e6-b11c-13c0dc097230.png",
+    "name": "19-crn-overview-team.png",
+    "exists": true,
+    "sha256": "d4304b00a8c6d7faa76a2c73e77568b78c402a434e5a370f6fce2501d790ef93",
+    "width": 2158,
+    "height": 1362,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\19-crn-overview-team.png"
+  },
+  {
+    "number": 20,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-a0df0e19-9452-4f6c-badd-1ad2f9834667.png",
+    "name": "20-crn-details.png",
+    "exists": true,
+    "sha256": "c846925c502924f16c1b6609f5a7cc97111726380f7f7058a823da249a287690",
+    "width": 2143,
+    "height": 1236,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\20-crn-details.png"
+  },
+  {
+    "number": 21,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-5273139a-0451-4bc7-b6fa-87f9a5906a58.png",
+    "name": "21-crn-impact.png",
+    "exists": true,
+    "sha256": "3b300e1a502297b8999c93e7941566f573247e3d65f0c8b92fd1026ac257e4a9",
+    "width": 2214,
+    "height": 1360,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\21-crn-impact.png"
+  },
+  {
+    "number": 22,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-c63961f6-b4b6-4639-becc-d5a86c4b273f.png",
+    "name": "22-crn-calculator.png",
+    "exists": true,
+    "sha256": "2edf3081878ab1ede3a37fda4d6828baefa48b23d54515f3f3eedaa96b5914a8",
+    "width": 2214,
+    "height": 1452,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\22-crn-calculator.png"
+  },
+  {
+    "number": 23,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-c424c28e-7354-428c-8fd6-00314dabbd3c.png",
+    "name": "23-surya-reports-latest.png",
+    "exists": true,
+    "sha256": "84f161caa1e5aeba431e27a936dffcb6688e81ab50fd6b6998d34c0c864527af",
+    "width": 2320,
+    "height": 1365,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\23-surya-reports-latest.png"
+  },
+  {
+    "number": 24,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-32432e9b-a851-43db-828e-a41e5dc3a924.png",
+    "name": "24-surya-reports-history.png",
+    "exists": true,
+    "sha256": "65b585727e3e8f04533513b2f3b072a5857c23456d015518112c82ffd81aa946",
+    "width": 2194,
+    "height": 1357,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\24-surya-reports-history.png"
+  },
+  {
+    "number": 25,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-d775f6f0-bc23-424e-a5ca-313e499e0ad0.png",
+    "name": "25-surya-first-cycle.png",
+    "exists": true,
+    "sha256": "01cc4f81dbc5f8200ca913d2dffe62fc2a53ee95e636a331bbefa751b2be4ae0",
+    "width": 2218,
+    "height": 1348,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\25-surya-first-cycle.png"
+  },
+  {
+    "number": 26,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-8dfed686-e3a7-4dbe-a922-bd5cb0eef2d5.png",
+    "name": "26-surya-overview.png",
+    "exists": true,
+    "sha256": "0711d40ede7a6f5e5470e93f42b78399fe1c595e90966214045ecd3d56ff3394",
+    "width": 2232,
+    "height": 1324,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\26-surya-overview.png"
+  },
+  {
+    "number": 27,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-4689d606-5fda-4e93-b0e2-4b2d4d35f0d8.png",
+    "name": "27-surya-distribution.png",
+    "exists": true,
+    "sha256": "3d04862a9c9ca2bc4c58587d757032910faa583b0d58b5311df2baa3a77051fc",
+    "width": 2176,
+    "height": 1381,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\27-surya-distribution.png"
+  },
+  {
+    "number": 28,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-8efb2f4f-316e-48a5-89d7-16b9fd871a85.png",
+    "name": "28-surya-details-team.png",
+    "exists": true,
+    "sha256": "747b261613ea333f9128cf5ce15c13f60e62e9c707c750dd70f337e78b4c9df6",
+    "width": 2319,
+    "height": 1474,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\28-surya-details-team.png"
+  },
+  {
+    "number": 29,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-59b2b303-f0fa-4bdb-853c-3d8eb5ae364d.png",
+    "name": "29-surya-costs.png",
+    "exists": true,
+    "sha256": "1b9e9eced2e259d265aa68792b99fc8579565a54b254c52a92bb3b399bfc9fc2",
+    "width": 2200,
+    "height": 1383,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\29-surya-costs.png"
+  },
+  {
+    "number": 30,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-dac695c6-765a-431a-9e6c-d153c26a5226.png",
+    "name": "30-surya-use-of-funds.png",
+    "exists": true,
+    "sha256": "8f2e1d1f9fc3dd61fa213d5675b16c501b80f4308d347396a24a0fd640451945",
+    "width": 2218,
+    "height": 1432,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\30-surya-use-of-funds.png"
+  },
+  {
+    "number": 31,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-2fcec806-1c1f-41fe-afa3-6f9b57d12c50.png",
+    "name": "31-surya-funds-chart.png",
+    "exists": true,
+    "sha256": "37798ffa77d8b92a3b8212dded0cdfcccc483660df02bf329623b19bbc1df600",
+    "width": 2161,
+    "height": 1380,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\31-surya-funds-chart.png"
+  },
+  {
+    "number": 32,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-aa629654-0cda-41c6-ab80-dcd9278b8c60.png",
+    "name": "32-surya-impact.png",
+    "exists": true,
+    "sha256": "480edd6e81b3fbe19cc5f444933649a6a023eb3f41480acbc43400c5f1fa4a42",
+    "width": 2160,
+    "height": 1294,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\32-surya-impact.png"
+  },
+  {
+    "number": 33,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-4d72bf14-1b6e-4954-9592-9ab7ccf052cd.png",
+    "name": "33-surya-calculator.png",
+    "exists": true,
+    "sha256": "8749c6a6ea82c8220fbb9e5a60ee544a07625f90b2aeac4e738c3c4fca010e3c",
+    "width": 2082,
+    "height": 1294,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\33-surya-calculator.png"
+  },
+  {
+    "number": 34,
+    "source": "C:/Users/SelembarAwan/AppData/Local/Temp/codex-clipboard-f40513b0-7683-4cd6-a352-b0d99ff31e9a.png",
+    "name": "34-surya-forecast.png",
+    "exists": true,
+    "sha256": "aebdc4fa943bd9bb12cbecadd2c2e500f2680f6f6ac50c5bde934448dac3d1f2",
+    "width": 2083,
+    "height": 1267,
+    "archived": "D:\\Projekan\\GenZ\\docs\\research-2026-10-17\\screenshots\\34-surya-forecast.png"
+  }
+]

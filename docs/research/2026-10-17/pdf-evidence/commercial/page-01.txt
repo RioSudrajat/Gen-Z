@@ -1,0 +1,8 @@
+SCHEDULE 1 (COMMERCIAL TERMS)  This Schedule 1 forms an integral part of the FLP Series II Token Sale & Investment Agreement (the “Agreement”). In the event of any inconsistency between this Schedule and the main body of the Agreement, this Schedule shall prevail solely with respect to the commercial terms of this Funding Round.  1. TOKEN DETAILS Token Name FLP Series II Token Symbol  FLP II Token Collection Name ReFi Hub x Pivot FLP II Blockchain Solana Divisibility Up to 2 decimal places Settlement Currency USDC, unless otherwise substituted for a commercially equivalent stablecoin as decided by the Platform or the Recipient. All Obligations shall be denominated and payable in the Settlement Currency.  
+ 2. RAISE PARAMETERS Purchase Price 1.00 USDC per Token Maximum Supply of Tokens 100,000 Tokens Soft Cap 99,995 USDC Closing Date 26th March, 2026, 09:00 UTC Total Project Capital Expenditure $240,000 USD Percentage of Project Funded 41.7%, assuming the Investment Amount is equal to the Maximum Supply of Tokens.  If the Investment Amount is less than the Maximum Supply of Tokens, and the Soft Cap is met, the Percentage of Project Funded shall scale proportionally. Delivery Date (“Delivery Date”) Upon reaching Maximum Supply or on Closing Date 
+
+
+
+	
+
+

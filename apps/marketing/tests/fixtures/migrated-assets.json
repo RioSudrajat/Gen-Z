@@ -1,0 +1,198 @@
+[
+  {
+    "path": "assets/asset-manifest.json",
+    "sha256": "682505a2ff4a7d9fe8de130895186ccb7a6eedce318cf0761f78c713974cfc9d",
+    "location": "public/assets/asset-manifest.json"
+  },
+  {
+    "path": "assets/capital-bridge-mobile.png",
+    "sha256": "5b96e6a854d408e7051680b6111dcd610798efcc08a1e40a094d1971e96a1bf1",
+    "location": "public/assets/capital-bridge-mobile.png"
+  },
+  {
+    "path": "assets/capital-bridge-mobile.webp",
+    "sha256": "da6dd24ebdd868ba13f85a3be6d1d3c3815f30878809de92fc5b63a29a7aa096",
+    "location": "public/assets/capital-bridge-mobile.webp"
+  },
+  {
+    "path": "assets/capital-bridge-wide-1600.webp",
+    "sha256": "4a8f0204434aea3a4b45d43c4b3af5d36bdfb5e0a05189b4bf10dcb40e1e115c",
+    "location": "public/assets/capital-bridge-wide-1600.webp"
+  },
+  {
+    "path": "assets/capital-bridge-wide.png",
+    "sha256": "72cae704acae34d47130a43bfdcda97025ead8043d5e47b99a0899f31f611949",
+    "location": "public/assets/capital-bridge-wide.png"
+  },
+  {
+    "path": "assets/capital-bridge-wide.webp",
+    "sha256": "bb86018d3023d685d7992390a55168b09f00f69397c63deb3613e7136a80f88e",
+    "location": "public/assets/capital-bridge-wide.webp"
+  },
+  {
+    "path": "assets/elctrification ecosystem.jpg",
+    "sha256": "e0a1a3b0ca30f163df4ab56b2a9545a37c89a650d058e728a5d260e7b85f37a1",
+    "location": "public/assets/elctrification ecosystem.jpg"
+  },
+  {
+    "path": "assets/energy-thesis-poster.webp",
+    "sha256": "9d39bb3573de3756c1dab16f3d845d16f83354955d9a2bedcabf08f7939fac8a",
+    "location": "public/assets/energy-thesis-poster.webp"
+  },
+  {
+    "path": "assets/gen-z-ecosystem.glb",
+    "sha256": "832546b1eada114e9899da2892d21a94a16c47c8473081fb4ab4749df4c62620",
+    "location": "public/assets/gen-z-ecosystem.glb"
+  },
+  {
+    "path": "assets/gen-z-energy-thesis-v2.mp4",
+    "sha256": "e1065446ecd64ab3db9b2b11c80f373b2e2957270dc9ba9cb5fc6699497311c0",
+    "location": "public/assets/gen-z-energy-thesis-v2.mp4"
+  },
+  {
+    "path": "assets/gen-z-energy-thesis.mp4",
+    "sha256": "ed722ab9548cbd4704a852757514b1afd56675786b1ce3576a81bad82df9e8cc",
+    "location": "public/assets/gen-z-energy-thesis.mp4"
+  },
+  {
+    "path": "assets/gen-z-ping-pong.mp4",
+    "sha256": "04774d8b7b3d538d13a3410f31d73947ed1e680a9daf31b1046318f2495bfd66",
+    "location": "public/assets/gen-z-ping-pong.mp4"
+  },
+  {
+    "path": "assets/gen-z-symbol.svg",
+    "sha256": "aa6ddfae0475e646c6cf8fee913c7c179335a95301732f5cd098734ab29c9de5",
+    "location": "public/assets/gen-z-symbol.svg"
+  },
+  {
+    "path": "assets/gen-z-video-poster.webp",
+    "sha256": "aa284234d54308959298e6dffe31bf34fa8738b4b15c101fb9b99bba46f477fa",
+    "location": "public/assets/gen-z-video-poster.webp"
+  },
+  {
+    "path": "assets/gen-z-wind-turbine.glb",
+    "sha256": "0a29d9ae13e1fbddc44844bfe610bbc19d3e3d8649951158883b9ce3f15fe63c",
+    "location": "public/assets/gen-z-wind-turbine.glb"
+  },
+  {
+    "path": "assets/gen-z-wind-turbine.png",
+    "sha256": "af5fbbb99a3b0177751cc7cbd86d13d116b78faf382740a2e4a8ac5ac8d8b1d2",
+    "location": "public/assets/gen-z-wind-turbine.png"
+  },
+  {
+    "path": "assets/gen-z-wind-turbine.webp",
+    "sha256": "736ca0c3c5c4c49fddb028afd920d65be67f32085445784016f777850f8fac23",
+    "location": "public/assets/gen-z-wind-turbine.webp"
+  },
+  {
+    "path": "assets/hero-film.mp4",
+    "sha256": "8da707c033aa0dd2e305fa08ad4b5539696a97adb53190f41982bc0a64b60a33",
+    "location": "public/assets/hero-film.mp4"
+  },
+  {
+    "path": "assets/hero-poster.webp",
+    "sha256": "1962176e4aa9d9b9995a78b550cb07ae44b0266c79b414b6ec4f46583265e8e6",
+    "location": "public/assets/hero-poster.webp"
+  },
+  {
+    "path": "assets/reference-fonts/arizona-regular.woff2",
+    "sha256": "8b3bb106db6b3675b157238dd4f5f77ef7ed0c6bab24a516594077c512203f2f",
+    "location": "public/assets/reference-fonts/arizona-regular.woff2"
+  },
+  {
+    "path": "assets/reference-fonts/gellix-medium.woff2",
+    "sha256": "881a2d3353817360311589e071c75ac7599c3f9196aeff49c1f64329c55ba03f",
+    "location": "public/assets/reference-fonts/gellix-medium.woff2"
+  },
+  {
+    "path": "assets/reference-fonts/ondo-sans-medium.woff2",
+    "sha256": "3d3cebc36a25629bd2bfd557c21a8e24c2d5337b84155d6bd02a81b9f9e79bd3",
+    "location": "public/assets/reference-fonts/ondo-sans-medium.woff2"
+  },
+  {
+    "path": "assets/refihub/project-terms.avif",
+    "sha256": "f3858b42944dc041f29fbf05ea18e961f23a1b54fe9010b9bc5e8e98a831f864",
+    "location": "public/assets/refihub/project-terms.avif"
+  },
+  {
+    "path": "assets/refihub/review-assets.avif",
+    "sha256": "198db0a76c9aa95d323249abf644c668fe504fe64bf6680ce84fde5f07de8148",
+    "location": "public/assets/refihub/review-assets.avif"
+  },
+  {
+    "path": "assets/refihub/skyline.webp",
+    "sha256": "e33484057281d24225e6f9fc4d1c9c3e21375b5168d9f1c5d120159f89bc354b",
+    "location": "src/assets/skyline.webp"
+  },
+  {
+    "path": "assets/refihub/sources.json",
+    "sha256": "d3ccf338b4047125adcb0fd06856544b3f878a70ca7daced4b172ff32c962f92",
+    "location": "public/assets/refihub/sources.json"
+  },
+  {
+    "path": "assets/refihub/track-payments.avif",
+    "sha256": "7218898380e98bf6a58270ff2679c5dc7600f8429d38a3ab7b5c7bb39b392346",
+    "location": "public/assets/refihub/track-payments.avif"
+  },
+  {
+    "path": "assets/serve-fonts/Geist-OFL.txt",
+    "sha256": "1781d2806a07d91c4edf4740b88449fab7d0eadad53f7c351b94cd4d4eb8c00f",
+    "location": "public/assets/serve-fonts/Geist-OFL.txt"
+  },
+  {
+    "path": "assets/serve-fonts/geist-regular.ttf",
+    "sha256": "ccce59465ae5c61930ada5453834f60500fbd95084d85db63e0e65fad0125455",
+    "location": "public/assets/serve-fonts/geist-regular.ttf"
+  },
+  {
+    "path": "assets/serve-fonts/geist-semibold.ttf",
+    "sha256": "7171f481b121803d007f5c6c76cd9988c0d41cce4202db9a18dff9945505d36d",
+    "location": "public/assets/serve-fonts/geist-semibold.ttf"
+  },
+  {
+    "path": "assets/serve-fonts/Sora-OFL.txt",
+    "sha256": "ba0b9729c9428ba79a0459ab8ec575791b51509dbec213e383d0316d37fec299",
+    "location": "public/assets/serve-fonts/Sora-OFL.txt"
+  },
+  {
+    "path": "assets/serve-fonts/sora-semibold.ttf",
+    "sha256": "4e79171a1720d04b72eb68bd7604f85888c31c05bb6b432147d4524e9439af30",
+    "location": "public/assets/serve-fonts/sora-semibold.ttf"
+  },
+  {
+    "path": "assets/showcase-generation.webp",
+    "sha256": "f99b46a123caac4707417798b553422e243547cbd8d6e2335a18b8678116d1b1",
+    "location": "src/assets/showcase-generation.webp"
+  },
+  {
+    "path": "assets/showcase-infrastructure.webp",
+    "sha256": "17181cbae1e07ee349cad73ec19a50d3aaccf7f9d7b4e96d98badf0e8fef5d11",
+    "location": "src/assets/showcase-infrastructure.webp"
+  },
+  {
+    "path": "assets/showcase-storage.webp",
+    "sha256": "c5d9754de01388470dad79be7dcc624b9ba490d4df87c0499447c090ae309f77",
+    "location": "src/assets/showcase-storage.webp"
+  },
+  {
+    "path": "assets/stack-infrastructure.webp",
+    "sha256": "c17b046be4c2782db650e29e338a57bd50292171b21826ee6df50b18dfee261e",
+    "location": "public/assets/stack-infrastructure.webp"
+  },
+  {
+    "path": "assets/who-serve-asset-operator.webp",
+    "sha256": "582a4dc2914530df848aae53fcd772f7c4181ec288d36406a7f08a88d9ae661e",
+    "location": "src/assets/who-serve-asset-operator.webp"
+  },
+  {
+    "path": "assets/who-serve-green-investor.webp",
+    "sha256": "e737065b39b0255400b1b294a953746f5224635956232e39df4f7709b6011a06",
+    "location": "src/assets/who-serve-green-investor.webp"
+  },
+  {
+    "path": "robots.txt",
+    "sha256": "16ceb5ee3e0dc13aa9adf31a3ebbe45a1d965b8c2b9f72eaf84e5911e140ed95",
+    "location": "src/pages/robots.txt.ts",
+    "generated": true
+  }
+]

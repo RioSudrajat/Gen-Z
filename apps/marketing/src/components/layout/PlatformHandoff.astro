@@ -1,0 +1,22 @@
+---
+import PublicLayout from '../../layouts/PublicLayout.astro';
+import EntryHeader from './EntryHeader.astro';
+import EntryFooter from './EntryFooter.astro';
+import { platformAuthUrl } from '../../application/platform-links.mjs';
+import { site } from '../../config/site';
+import '../../styles/entry.css';
+interface Props { returnTo?: string }
+const { returnTo = '/app' } = Astro.props;
+const target = platformAuthUrl(site.platformOrigin, returnTo);
+---
+<PublicLayout title="Gen-Z workspace access" description="Wallet authentication and the investor workspace are served by the Gen-Z platform." noindex>
+  {target && <meta slot="head" http-equiv="refresh" content={`0;url=${target}`} />}
+  <EntryHeader />
+  <main id="entry-main" class="entry-status" tabindex="-1">
+    <h1>{target ? 'Continue to the Gen-Z workspace.' : 'Let’s get you connected.'}</h1>
+    <p>{target ? 'Sign in with your wallet to continue.' : 'Contact our team about workspace access.'}</p>
+    {target && <a class="primary-button" href={target}>Continue to wallet sign-in</a>}
+    <a class="secondary-button" href="/contact/?role=investor">Discuss your mandate</a><a class="entry-back" href="/">Back to Gen-Z</a>
+  </main>
+  <EntryFooter />
+</PublicLayout>

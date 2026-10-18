@@ -1,0 +1,56 @@
+Where returns come from | ReFi Hub
+🌐
+ReFi Hub
+🌐
+ReFi Hub
+Infrastructure-backed cashflow
+🌐
+How ReFi Hub works
+What ReFi Hub does
+Where returns come from
+How cashflow is defined
+Who is ReFi Hub is for
+Asset Selection & Due Diligence
+Geographical Focus
+Contracts & Distribution Mechanics
+Risk & Variability
+Performance Deviations
+Transparency & Reporting
+Technology & Settlement
+Fees on ReFi Hub
+Why ReFi Hub Exists
+ReFi Hub in one sentence
+🌐
+Environmental Impact
+User Impact & SDG alignment
+🌐
+Legal
+Terms & Conditions
+Privacy Policy
+Contracts with listed business
+🌐
+Additional
+Terminology
+Key Resources & Links
+Powered by GitBook
+On this page
+For the complete documentation index, see
+llms.txt
+. This page is also available as
+Markdown
+.
+The Economic Flow
+ReFi Hub follows a simple structure:
+A solar asset operates and generates electricity
+The asset generates revenue through usage
+Customers and offtakers pay for that electricity
+Revenue streams include Power Purchase Agreements (PPAs), grid tariffs, and Renewable Energy Certificates (RECs)
+Revenue is distributed to Token Holders: A predefined percentage of gross revenue flows to Token Holders under contractual terms, typically before operating costs are deducted.
+The project company covers operations: Maintenance, energy costs, and operating expenses are managed by the project operator.
+Performance is reported transparently: Revenue generation, Yield distributions, and asset performance are reported on-chain.
+Previous
+What ReFi Hub does
+Next
+How cashflow is defined
+Last updated
+7 months ago

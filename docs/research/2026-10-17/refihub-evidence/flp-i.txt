@@ -1,0 +1,1482 @@
+PAGE 1
+FLP TOKEN SALE & INVESTMENT AGREEMENT TERMS & CONDITIONS
+These Terms and Conditions of the FLP Token Sale and Investment Agreement (the “ Agreement”) are
+legal and binding terms between PIVOT GREEN ASSET MANAGEMENT PTE LTD, a limited liability
+company incorporated under the laws of Singapore, with registration number UEN 202516002E, its
+successors and assigns (hereinafter the " Recipient"), and the Token Holder acquiring and/or holding
+the Tokens representing a fractional participation in Net Revenue Yield payments (the “Investment”)
+or conducting any Transactions contemplated in this Agreement. Tokens are personal,
+programmatically non-transferable instruments, and may not be sold, assigned, pledged, or otherwise
+transferred by the Token Holder.
+This Agreement sets out the respective rights and obligations of both parties in connection with the
+Tokens, the Investment and the Transactions and both parties will accept and be bound by these terms
+on acceptance of the terms and conditions contained herein.
+In consideration of the Recipient agreeing to sell Tokens through the “Platform”, operated by Refi Hub
+LLC, to the Token Holder and to conduct the Transactions with the Token Holder, the Token Holder
+agrees that the following rights and obligations will govern the relationship between the Recipient and
+the Token Holder.
+The Token Holder is strongly encouraged to seek legal, financial, and tax advice regarding their
+individual circumstances and objectives in determining whether to purchase or dispose of Tokens.
+The information in this Agreement does not constitute a recommendation by the Recipient, or any other
+person, nor does it constitute advice on the merits of the Tokens, the Investment and the Transactions.
+The information in this Agreement does not necessarily identify, or purport to identify, all the risk factors
+associated with the Tokens, Transactions and the Investment. Token Holders must make their own
+independent assessment, after making such investigations as they consider necessary, of the merits
+of the Tokens, Transactions and the Investment. Token Holders should consult and rely upon their
+accounting, legal and tax representatives and advisers in order to evaluate the economic, legal and tax
+consequences of acquiring Tokens, providing the Investment and conducting Transactions.
+Token Holders must also investigate themselves as to the regulations within the countries of their
+nationality, residence, ordinary residence or domicile regarding the Tokens, the Investment, and the
+Transactions including, but not limited to, restrictions or regulations regarding (1) buying, holding,
+trading or disposing of blockchain ‑based assets (e.g., Stablecoins used for payment rails) in general;
+or (2) the exchange or export of your applicable currency. For the avoidance of doubt, the Tokens under
+this Agreement are not ‘virtual assets’ and are non ‑transferable contractual revenue-sharing
+participation records recorded on a blockchain solely for automation. The Recipient does not offer to
+sell Tokens to the Token Holder and is not soliciting the purchase of Tokens or the Investment in any
+jurisdiction or to any person to whom it is unlawful to make such an offer or solicitation in such
+jurisdiction.
+The Token Holder acknowledges that in the event of any differences between the terms provided in this
+Agreement and any Materials, this Agreement shall supersede any contrary information set forth in the
+Materials. The Token Holder has had an opportunity to (i) ask questions of and receive answers from
+the Recipient concerning this Agreement, the Materials, and the business of the Recipient; and (ii)
+obtain any additional information concerning this Agreement, the Recipient, the Materials, and any
+related material, if said information is not confidential, to the extent the Recipient possesses relevant
+information or can acquire it without unreasonable effort or expense.
+Certain information contained in this Agreement and the Materials constitutes "forward looking
+statements", which can be identified by the use of forward-looking terminology such as "may", "will",
+"should", "expect", "anticipate", "project", "estimate", "intend", or "believe" or the negatives thereof or
+other variations thereon or comparable terminology. Due to various risks and uncertainties, including
+those described under the section headed "Risk Disclosures," actual events or results or the actual
+performance of Tokens, Investment and/or the Recipient may differ materially from those reflected or
+contemplated in such forward-looking statements.
+PLEASE READ THE TERMS CAREFULLY AS THEY GOVERN YOUR RELATIONSHIP WITH THE
+RECIPIENT. IF YOU DISAGREE WITH ANY PART OF THE TERMS THEN YOU SHALL NOT
+ACQUIRE TOKENS FROM THE RECIPIENT, PROVIDE THE INVESTMENT TO OR CONDUCT ANY
+TRANSACTIONS WITH THE RECIPIENT. THIS AGREEMENT CONTAINS A BINDING
+
+PAGE 2
+2
+ARBITRATION CLAUSE THAT IMPACTS YOUR RIGHTS ABOUT HOW TO RESOLVE DISPUTES.
+PLEASE READ IT CAREFULLY.
+BY CONDUCTING THE TRANSACTIONS, PROVIDING THE INVESTMENT, AND/OR ACQUIRING
+TOKENS (I) YOU HAVE READ AND UNDERSTOOD YOUR OBLIGATIONS AND RIGHTS UNDER
+THE TERMS AND AGREE AND ACKNOWLEDGE THAT THIS AGREEMENT WILL COMPRISE THE
+FULL TERMS AND CONDITIONS OF YOUR RELATIONSHIP WITH THE RECIPIENT; (II) YOU
+AGREE THAT YOU ARE FULLY RESPONSIBLE FOR MAKING ALL DECISIONS AS TO
+TRANSACTIONS EFFECTED WITH THE RECIPIENT; (III) YOU ARE AWARE OF THE RISKS
+ASSOCIATED WITH THE TOKENS, THE TRANSACTIONS AND THE INVESTMENT; (IV) YOU
+ASSUME ALL RISKS RELATED TO THE TOKENS, THE TRANSACTIONS AND THE INVESTMENT;
+(V) TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE RECIPIENT SHALL NOT
+BE LIABLE FOR ANY SUCH RISKS OR ADVERSE OUTCOMES; AND (VI) YOU DECLARE THAT
+YOU HAVE CONSIDERED THE FOREGOING FACTORS AND IN VIEW OF YOUR PRESENT AND
+ANTICIPATED FINANCIAL RESOURCES, YOU ARE WILLING AND ABLE TO ASSUME THE
+SUBSTANTIAL FINANCIAL RISKS OF ACQUIRING THE TOKENS, PROVIDING THE INVESTMENT
+OR CONDUCTING THE TRANSACTIONS.
+THE TOKENS HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS
+AMENDED, AND HAVE NOT BEEN REGISTERED WITH, OR APPROVED BY, THE SECURITIES
+AND EXCHANGE COMMISSION, ANY STATE OR ADMINISTRATOR OR ANY OTHER
+REGULATORY AUTHORITY IN ANY JURISDICTION. NO SUCH AUTHORITY HAS PASSED UPON
+OR ENDORSED THE MERITS OF THE TOKENS OR THE ACCURACY OR ADEQUACY OF THIS
+AGREEMENT, NOR IS IT INTENDED THAT ANY SUCH AUTHORITY WILL DO SO. ANY
+REPRESENTATION TO THE CONTRARY IS A CRIMINAL OFFENSE.
+THE TOKENS AND THE TRANSACTIONS ARE NOT AVAILABLE TO US PERSONS OR TO ANY
+PERSONS RESIDING IN ANY PROHIBITED JURISDICTION.
+IT IS YOUR RESPONSIBILITY TO OBTAIN ALL NECESSARY INFORMATION ABOUT ACQUIRING
+AND HOLDING TOKENS AND VIRTUAL ASSETS IN GENERAL, AND THIS AGREEMENT AND
+MAKE SURE THAT ALL RISKS AND ARRANGEMENTS ARE DISCUSSED AND CLEARLY
+UNDERSTOOD PRIOR TO EFFECTING ANY TRANSACTION WITH THE RECIPIENT.
+1. DEFINITIONS AND INTERPRETATION
+1.1 When used in this Agreement, the following capitalised terms shall have the meanings set forth
+below, unless the context otherwise requires or unless otherwise expressly provided herein.
+TERM DEFINITION
+Affiliated Entities includes, but is not limited to, any partnership, corporation,
+limited liability company, trust, or other entity or association,
+directly or indirectly, through one or more intermediaries,
+controlling, controlled by, or under common control with, the
+Recipient. The term “control” as used in the immediately
+preceding sentence means, with respect to a corporation, the
+right to exercise, directly or indirectly, more than 25% of the
+voting rights attributable to the controlled corporation or limited
+liability company, and, with respect to any partnership, trust,
+other entity or association, the possession, directly or indirectly,
+of the power to direct or cause the direction of the management
+or policies of the controlled entity.
+Business Day shall mean any day other than a Saturday, Sunday or public
+holiday
+Closing Date shall mean the date on which the Recipient concludes the sale
+of Tokens, as provided in section 3.10. of this Agreement.
+Collateral the solar panels, inverters, mounting systems, metering
+hardware, switchgear, and all other tangible solar generation
+assets financed with the Investment Amount, together with any
+
+PAGE 3
+3
+TERM DEFINITION
+replacements, substitutions, or proceeds thereof, over which the
+Token Holders hold a first-ranking fixed charge pursuant to this
+Agreement, collectively referred to in this Agreement as
+Equipment. For avoidance of doubt, the Parties acknowledge
+that any such security interest shall only be effective and
+enforceable to the extent permitted under applicable local law,
+and the Recipient shall cooperate in executing any documents
+reasonably required to perfect such security. The Recipient shall
+(i) maintain the Collateral in good working condition, (ii) obtain
+and maintain insurance covering loss or damage to the Collateral
+in an amount not less than its replacement cost, naming the
+Collateral Agent (for the benefit of Token Holders) as loss payee,
+and (iii) provide annual evidence of such insurance and
+maintenance to the Collateral Agent.
+Collateral Agent refers to the Platform acting solely in a non-fiduciary capacity on
+behalf of Token holders, together with any successor
+Collateral Agent appointed in accordance with Section 7.3. The
+Token Holders hereby irrevocably appoint the Collateral Agent
+as their representative for the purposes of enforcing the security
+interest in the Collateral, including taking possession, selling, or
+otherwise realizing the Collateral upon an Event of Default. The
+Recipient acknowledges and consents to the Collateral Agent’s
+enforcement rights.
+Delivery Date is defined in section 3.10. of this Agreement.
+Dispute Is defined in section 22. of this Agreement.
+Dissolution Event shall mean (i) a voluntary termination of operations (excluding
+any corporate reorganization or restructuring), (ii) a general
+assignment for the benefit of the Recipient’s creditors or (iii) any
+other liquidation, dissolution or winding up of the Recipient,
+whether voluntary or involuntary.
+Eligible Person shall mean a Person that is:
+a) if a natural person, at least 18 years old or of legal age
+to form a binding contract under applicable law;
+b) not a U.S. Person;
+c) not physically in any Prohibited Jurisdiction;
+d) not a resident of any Prohibited Jurisdiction;
+e) not a legal person or legal arrangement incorporated,
+registered or organized under the laws of any Prohibited
+Jurisdiction with the exception of i) limited liability
+companies organized under the Limited Liability
+Companies Act of St Vincent and the Grenadines, ii)
+business companies incorporated under the Business
+Companies (Amendment & Consolidation) Act of St
+Vincent and the Grenadines, iii) business companies
+incorporated under the Business Companies Act of
+Anguilla, iv) international business companies
+incorporated under the International Business
+Companies Act of Antigua and Barbuda, v) International
+Limited Liability Companies organized under the
+International Limited Liability Companies Act of Antigua
+and Barbuda, and vi) international business companies
+incorporated under the International Business
+
+PAGE 4
+4
+TERM DEFINITION
+Companies Act of Saint Lucia;
+f) not by reason of nationality, domicile, citizenship,
+residence or otherwise subject to the laws of a
+Prohibited Jurisdiction;
+g) not a politically exposed person; and
+h) not in any trade or economic sanctions lists, including,
+but not limited to, the UN Security Council Sanctions
+list, designated as a “Specially Designated National” by
+OFAC (Office of Foreign Assets Control of the U.S.
+Treasury Department) or placed on the U.S. Commerce
+Department’s “Denied Persons List”, or any other trade
+or economic sanctions list of the United States of
+America, Canada, the United Kingdom of Great Britain
+and Northern Ireland, the European Union, the Republic
+of Singapore or the Swiss Confederation.
+End of Term shall mean the date on which (i) the Recipient shall make the
+final payment of Yield on the Investment Amount, (ii) all Tokens
+shall automatically expire and become invalid for any use,
+transfer or claim, and (iii) the associated Smart Contract shall be
+deprecated and rendered inactive, as provided in section 3.10.
+of this Agreement. Following the End of Term, no further
+obligations, rights, or functionalities related to the Tokens shall
+exist or be enforceable. Notwithstanding anything to the
+contrary, all Obligations that have accrued but remain unpaid as
+of the End of Term (including any overdue Yield, Penalties, costs
+and indemnities) shall survive the End of Term until paid in full,
+and Token Holders’ rights and remedies with respect to any prior
+breach, fraud or indemnity claims shall likewise survive.
+Equipment means the photovoltaic hardware and ancillary items funded
+through the Funding Round, as acquired by the Recipient using
+the Investment Amount; Token Holders benefit from a
+first‑ranking fixed charge (security interest) over such assets
+pursuant to this Agreement.
+Event of Default Each of the following, whether occurring individually or in
+combination, constitutes an Event of Default:
+a) Payment Default – the Recipient fails to pay any Yield
+payment or other Obligation within 30 business days
+after the due date, and such failure continues for a
+further 60 business days after written notice from the
+Collateral Agent. In any rolling twelve (12)-month period,
+the second and each subsequent instance in which any
+Obligation (including any Yield) remains unpaid beyond
+thirty (30) Business Days after its due date shall
+constitute an Event of Default automatically upon the
+expiry of such thirtieth (30th) Business Day, without any
+additional notice or cure period. For the avoidance of
+doubt, the first delinquency in such period remains
+subject to the Payment Default cure mechanics (30
+Business Days + 60 Business Days after notice).
+b) Covenant Default – the Recipient fails to perform or
+observe any material covenant, undertaking or condition
+of this Agreement or any Related Document (including
+the API-feed & audit duties under this Agreement) and
+(if capable of remedy) does not cure such failure within
+60 Business Days after written notice.
+c) Misrepresentation – any representation or warranty
+made by the Recipient in this Agreement or any
+
+PAGE 5
+5
+TERM DEFINITION
+certificate delivered hereunder proves to have been
+materially false or misleading when made.
+d) Insolvency Events – the Recipient (i) is or becomes
+unable to pay its debts as they fall due, (ii) enters into
+liquidation, administration, examinership, judicial
+recovery or any composition with creditors, (iii) has a
+receiver, trustee or similar officer appointed over any
+material part of its undertaking, or (iv) becomes the
+subject of any insolvency, bankruptcy, reorganisation or
+analogous proceeding that is not dismissed, stayed or
+bonded within 20 Business Days.
+e) Attachment / Execution – any portion of the Recipient’s
+assets is attached, seized, subjected to garnishment,
+distress warrant or levy, or comes into the possession
+of a trustee, receiver or similar officer, and such action
+is not released or vacated within 20 Business Days; or
+any judgment lien, governmental levy or tax assessment
+is filed or enforced against the Recipient’s assets and
+remains unpaid, unbonded or otherwise unsatisfied for
+10 Business Days after the Recipient receives notice.
+f) Illegality / Licence Loss – any licence, permit or
+governmental approval material to the operation of the
+Project becomes invalid or is revoked and is not
+reinstated within 30 Business Days, or the performance
+of this Agreement becomes unlawful for the Recipient.
+g) Change of Control – the Recipient sells or disposes of
+all or substantially all of its assets, merges or
+consolidates with another entity, or undergoes a change
+in ownership of more than 50 % of its voting equity,
+without the prior written consent of the Collateral Agent,
+acting on instructions of the Token Holders in
+accordance with this Agreement.
+h) Insurance Default – the Recipient fails to maintain the
+insurance required under this Agreement (including
+naming the Collateral Agent as loss payee/additional
+insured), or cancels/materially reduces such coverage,
+and does not reinstate compliant coverage within thirty
+(30) Business Days of such cancelation or reduction,
+unless cured with the Platform.
+i) Improper/Extended Suspension – Any suspension of
+Token delivery or payments (i) without an independent
+counsel opinion delivered per the Suspension for
+Legal/Regulatory Compliance clause, or (ii) exceeding
+the applicable 30-day (legal/regulatory) or 10 Business-
+Day (fork/protocol) cap without the requisite approvals,
+or (iii) failure to promptly resume payments upon expiry
+of any permitted suspension.
+j) Negative Pledge Breach – any breach of the Negative
+Pledge (Section 4.2.)
+No Tokens shall be cancelled and no Token-Holder claims
+or enforcement rights shall be impaired by reason of any
+Dissolution Event until (i) the Collateral has been realized in
+accordance with applicable law and (ii) net proceeds have
+been distributed per the applicable waterfall. Tokens shall
+thereafter be cancelled solely to reflect completion of
+distributions.
+Forks is defined in section 3.9. of this Agreement.
+
+PAGE 6
+6
+TERM DEFINITION
+Funding Round is the tokenized Funding Round that the Recipient raises for,
+pursuant to the terms of this Agreement.
+Grace Period the period of fifteen (15) business days following the due date of
+any Yield payment during which non-payment shall not
+constitute an Event of Default, as further outlined in 3.10.
+Guarantor denotes an individual or entity who acts to secure a Investment
+through the Platform; by pledging to repay the full amount of the
+Recipient’s raise of the Investment Amount, should the Recipient
+fail to fulfill their obligations, pursuant to a Guarantee Agreement
+executed in favour of the Platform and the Token Holders.
+Indemnified Party is defined in section 18 of this Agreement.
+Indemnifying Party is defined in section 18 of this Agreement.
+Investment shall mean the Investment represented by Tokens and provided
+by the Token Holder as further described in section 3 of this
+Agreement, which shall be valid and enforceable only until the
+End of Term.
+Investment Amount is defined in section 3.10. of this Agreement.
+KYC Process is defined in section 9 of this Agreement.
+KYC/AML & CTF Policy shall mean the policies and procedures implemented by the
+Platform to detect and prevent money laundering, terrorist
+financing, and corruption.
+Materials shall mean any whitepaper, content or documents issued or
+produced by the Recipient related to Tokens or Investments,
+including the Recipient’s website, and the information and
+documents about the Recipient available at
+https://www.refihub.io.
+Money means the money or currency of any country or jurisdiction that
+is:
+a) designated as legal tender; and,
+b) circulated, customarily used, and accepted as a medium
+of exchange in the country or jurisdiction of issuance.
+Net Revenue means the gross cash receipts received by the Recipient from:
+(i) the sale of electricity to the grid, utility, or other offtaker; and
+(ii) any associated environmental attributes, including
+Renewable Energy Certificates (RECs), carbon credits, or
+subsidies;
+No deductions from gross receipts are permitted. Any expenses
+are to be borne solely by the Recipient.
+Obligation shall mean any Yield, Penalty, or Investment Amount payable
+by the Recipient to the Token Holder.
+Payment Date are the dates on which the Recipient shall pay the Yield to the
+
+PAGE 7
+7
+TERM DEFINITION
+Token Holder, as provided in section 3.10. of this Agreement.
+Penalty is defined in section 3.18. of this Agreement.
+Person shall mean any individual, corporation, partnership, trust, limited
+liability company, association or other entity, including any
+decentralized autonomous organization or other similar
+decentralized or distributed entity.
+Platform shall mean the Refi Hub Platform available at
+https://www.refihub.io, operated by ReFi Hub LLC, and through
+which the Recipient shall distribute the Tokens to eligible Token
+Holders. For the avoidance of doubt, the Platform licences
+Smart-Contract code to the Recipient on a revocable, software-
+as-a-service (SaaS) basis and provides no custody, brokerage,
+investment-advisory or fiduciary services.
+Platform User Fee means the portion of Net Revenue from the Project that is
+automatically disbursed to the Platform via the Smart Contract,
+as outlined in the Fees Section. The Platform User Fee is
+programmatically deducted from the aggregate monthly
+payment made by the Recipient and is used to compensate the
+Platform for infrastructure, administration, and protocol services.
+The Platform does not have custody or discretion over any
+funds.
+Prohibited Jurisdiction shall mean (i) the United States, the Province of Ontario of
+Canada, the People’s Republic of China, Anguilla, Afghanistan,
+Antigua and Barbuda, Belarus, Central African Republic, Congo,
+Democratic Republic of the Congo, Republic of the Cote D'Ivoire,
+Crimea (a region of Ukraine annexed by the Russian
+Federation), the self-proclaimed Donetsk People’s Republic (a
+region of Ukraine), the self-proclaimed Luhansk People’s
+Republic (a region of Ukraine), Kherson Oblast (a region of
+Ukraine), Zaporizhzhia Oblast (a region of Ukraine), Cuba,
+Dominica, El Salvador, Eswatini, Gambia, Grenada, Iran, Iraq,
+Liberia, Libya, Malawi, Mali, Moldova, Montserrat, Myanmar,
+Niger, North Korea, Palestinian Territory, Saint Kitts and Nevis,
+Saint Lucia, Saint Vincent and the Grenadines, Singapore,
+South Sudan, Sudan, Syria, Venezuela, Yemen, Zambia,
+Zimbabwe; (ii) any state, country or other jurisdiction that is
+sanctioned and/or embargoed by the United States of America,
+the United Nations, the United Kingdom, the European Union
+and/or Switzerland; (iii) a jurisdiction where it would be illegal
+according to local law or regulation for you to acquire Tokens or
+securities; or (iv) where the distribution and sale of virtual assets
+or Tokens or securities is prohibited or contrary to local law or
+regulation, or could subject the Recipient or its Affiliated Entities
+to any local registration, regulatory or licensing requirements.
+Project means the entire solar photovoltaic generation facility that is
+being constructed or financed, in whole or in part, through the
+Funding Round. For clarity, Project includes the entire facility,
+regardless of whether any portion is not funded through the
+Funding Round.
+Purchase Price shall mean the price per Token purchased by a Token Holder,
+
+PAGE 8
+8
+TERM DEFINITION
+as provided in section 3.10. of this Agreement.
+Recipient shall, where the context so permits or requires, mean pivot green
+asset management pte ltd its subsidiaries and affiliated entities
+and their successors and assigns.
+Relevant Date is defined in section 12.1(ee) of this Agreement.
+Smart Contract means the self-executing code deployed by the Recipient
+through the Platform that handles the entire flow of funds during
+the raise, and the payments of Yield.
+Soft Cap means the minimum amount of Stablecoins that must be raised
+through the Platform before the raise is considered successful,
+and the Recipient is entitled to receive the Investment Amount.
+Stablecoins Refers to USD-denominated digital settlement tokens (such as
+USDC), which are used purely as a payment and accounting
+mechanism for revenue share participations, and not offered or
+intermediated by the Platform.
+Token Holder Wallet
+Access Credentials
+is defined in section 5.5 of this Agreement.
+Token Holder, or you means the Person recorded in the Smart Contract ledger as
+holding Tokens issued under this Agreement, whose Tokens
+remain outstanding and have not been redeemed or cancelled,
+and who subsequently have an outstanding Investment in the
+Recipient.
+Tokens shall mean the digitally registered revenue sharing participation
+records, represented in tokenized form solely for programmatic
+payment automation, which are non-transferable, non-
+exchangeable, and do not function as virtual assets, securities,
+or digital currencies., and that are sold by the Recipient as
+further described in section 3 of this Agreement.
+Total Purchase Price is defined in section 3.10. of this Agreement.
+Transactions shall mean any payments of the Total Purchase Price by the
+Token Holder to the Recipient, and/or any payments of Yield
+and Penalties by the Recipient to the Token Holder, or any other
+transaction between the Recipient and the Token Holder.
+U.S. or US or United
+States
+shall mean all states of the United States of America, the District
+of Columbia; the Commonwealth of Puerto Rico; the U.S. Virgin
+Islands; Guam; the Commonwealth of the Northern Mariana
+Islands; and all other territories and possessions of the United
+States of America.
+US Person shall mean (i) a U.S. citizen; (ii) a U.S. lawful permanent resident;
+(iii) a protected individual under section 1324b(a)(3) of the U.S.
+Immigration and Nationality Act, or individual who holds a
+passport issued by the United States Government; (iv) a
+corporation, company, partnership, or other legal entity
+established or organized in or under the Laws of the United
+States; (v) an individual, a corporation, company, partnership,
+
+PAGE 9
+9
+TERM DEFINITION
+or other legal entity which engages in a trade or business in the
+United States and generates income from sources within the
+United States connected with the conduct of that trade or
+business; (vi) any estate of a decedent who was a U.S. citizen
+or a U.S. lawful permanent resident; or a protected individual
+under section 1324b(a)(3) of the U.S. Immigration and
+Nationality Act; (vii) any trust if a court within the United States
+is able to exercise primary supervision over the administration
+of the trust, and/or one or more US Persons have the authority
+to control all substantial decisions of the trust, and/or one or US
+Persons are designated as settlors, trustees, protectors or
+beneficiaries; (viii) any person organized or incorporated outside
+the United States and the Territory or Insular Possession of the
+United States in which any of the foregoing, whether singularly
+or in the aggregate, directly or indirectly holds a 50 percent or
+greater equity Yield by votes or value, holds a majority of seats
+or memberships on the board of directors of the entity, or
+authorizes, establishes, directs, or otherwise controls the
+actions, policies, personnel decisions, or day-to-day operations
+of the person; or (ix) any person who is subject to taxes in the
+US.
+Virtual Assets shall mean a digital representation of value that functions as
+a) a medium of exchange;
+b) a unit of account;
+c) a store of value, and/or
+d) other similar digital representations of rights or assets,
+which is neither issued nor guaranteed by any country
+or jurisdiction.
+References to ‘Virtual Assets’ in this Agreement are included
+solely for risk ‑disclosure about blockchain infrastructure. The
+Tokens defined herein are expressly excluded from ‘Virtual
+Assets’.
+Wallet shall mean a digital wallet held by the Token Holder that is
+capable of storing, sending and receiving Tokens and
+Stablecoins used for settlement.
+Yield means the periodic payments of Net Revenue made by the
+Recipient to the Smart Contract for distribution to the Token
+Holders, as set out in section 3.12., 3.13., and 3.14. of this
+Agreement.
+1.2 In this Agreement, unless the context otherwise requires
+(a) words importing the singular include the plural and vice versa;
+(b) words importing a gender include both gender and the neuter;
+(c) words importing persons include companies, associations and bodies of persons whether
+corporate or not;
+(d) the words: “may” shall be construed as permissive; “shall” or “will” shall be construed as
+imperative;
+(e) the term “include” or “includes” means includes, without limitation, and “including” means
+including, without limitation;
+(f) the terms “hereof”, “herein” and “hereunder” refer to this Agreement as a whole and not to
+any particular provision of this Agreement; and
+
+PAGE 10
+10
+(g) the headings contained in this Agreement are for reference purposes only and shall not
+affect in any way the meaning or interpretation of this Agreement.
+1.3 The titles, subtitles and headings used herein are provided for convenience only and should not
+be considered in construing or interpreting this Agreement.
+1.4 The Terms and related documents may be translated. Any translation is for reference purposes
+only and is not certified by any person. Only the English language version of this Agreement and
+its related documents have legal effect and shall prevail to the extent of any inconsistency.
+1.5 For the avoidance of doubt:
+(a) Each Token represents a contractual right to receive a percentage of Net Revenue from
+the Project;
+(b) Tokens do not convey any equity, voting, or ownership rights in the Recipient or the
+Equipment;
+(c) All cashflows move through the Smart Contract; the Platform never has custody of Token
+Holder or Recipient funds.
+2. ELIGIBILITY
+2.1 The acquisition of Tokens from the Recipient or from any other Person and the receipt of any
+Transactions from the Recipient is intended for and extended only to a Person who is an Eligible
+Person, as defined in this Agreement. Eligibility shall be determined by the Recipient based on
+completion of the KYC Process. Accordingly, if you are not an Eligible Person, you are not eligible
+to acquire Tokens and you are not eligible to receive any Transactions. If you are not an Eligible
+Person, or if you are acting on behalf of a Person that is not an Eligible Person, you must not
+acquire Tokens and you must not cause the Recipient to undertake any Transactions with you.
+3. TOKENS AND INVESTMENT
+3.1 The non ‑transferable digital revenue-sharing participation records, or Tokens, to be offered for
+sale by the Recipient are the FLP Tokens, and are divisible up to 2 decimal places. The tokens
+will be issued through Solana and may be held in a Wallet compatible with the Solana blockchain.
+Smart-contract administration (including repayment logic) occurs automatically on-chain; the
+Platform has no discretionary control over Token-Holder funds at any time.
+3.2 The Tokens represent an Investment in the Recipient (the “ Investment”) as further described
+herein, and subject to the terms of this Agreement, and are available for purchase by an Eligible
+Person through the Platform. By acquiring Tokens, each Token Holder acknowledges and
+consents to the temporal nature of the Investment, including the automatic expiration of Tokens
+and termination of Obligations upon the End of Term, as defined in this Agreement. Deployment,
+parameterisation and funding of the Smart Contract are the responsibility of the Recipient. The
+Recipient retains administrative rights but may request the Platform to deploy or update the
+Smart Contract under its direction, without conferring custody or discretion.
+3.3 Tokens are personal, non-transferable instruments. Any attempted assignment, transfer, pledge,
+sale or other disposition by a Token Holder is void and will not be recognised by the Recipient.
+All Yield and any other payments will be made exclusively to the original Token Holder who
+completed the KYC Process.
+3.4 The Investment and the Tokens do not represent or constitute any property rights to vote,
+manage or share in the profits or proceeds of the Recipient or any of its partners, nor do they
+constitute shares, titles or equivalent rights.
+3.5 Every Token Holder shall have the sole responsibility to attend to and exercise due care with
+regard to delivery and maintenance of Tokens and Yield payments. It is imperative that a Token
+Holder utilizes a Wallet which is compatible with the Tokens, and the Yield payments. Further,
+once Tokens, and the Yield payments are delivered to a Token Holder Wallet, the Token Holder
+should ensure the private keys relating to such Wallet are stored securely. The Recipient shall
+not be liable for any loss or theft after delivery (or simultaneously at the time of attempted delivery)
+of Tokens, and the Yield payments to the Token Holder’s Wallet, regardless of the reason for
+such loss or theft, and Token Holder hereby waives any claims against the Recipient related to
+such losses.
+
+PAGE 11
+11
+3.6 The Tokens, or the payment of any Obligations under this Agreement may not be delivered if
+such payments at the relevant date would constitute a violation of any applicable laws or other
+regulations, as determined by the board of directors of the Recipient upon the advice of counsel.
+As a condition to purchase Tokens and receive payments of any Obligations of the Recipient,
+the Token Holder may be required to execute a document confirming and acknowledging that
+the representations and warranties set forth in this Agreement as they apply to the Token Holder
+are true and complete as of the date of any payment. In the event that legal counsel to the
+Recipient advises the Recipient that it is necessary or advisable for regulatory reasons, the
+Token Holder shall also be required to deliver, as a condition to receive any payment of any
+Obligation, such additional representations or documentary evidence of compliance with
+applicable securities or financial promotion laws (other than U.S. securities laws, as the Tokens
+are not offered to U.S. Persons) as reasonably requested by the Recipient. For the avoidance of
+doubt, Tokens are not offered to persons in Singapore, and nothing in this Section shall be
+construed as permitting or soliciting the acquisition of Tokens by persons in Singapore, or other
+Prohibited Jurisdictions. If the Recipient withholds delivery of Tokens or any Obligations on legal
+or regulatory grounds, such suspension shall be permitted only if: (a) the Recipient delivers to
+the Collateral Agent and the Platform a written opinion of independent counsel stating the specific
+legal basis and scope of the restriction; (b) the Recipient promptly notifies Token Holders via the
+Platform dashboard, specifying the nature of the restriction; and (c) the suspension is limited to
+a maximum of 30 days. Any extension beyond 30 days requires approval of Majority Token
+Holders. Failure to resume payments by the end of the permitted period constitutes an Event of
+Default. Notwithstanding anything to the contrary, the Recipient may effect no more than one (1)
+suspension of any kind (whether on legal/regulatory grounds or due to a Fork/protocol disruption)
+in any rolling twelve (12)-month period (the “ Annual Suspension Cap ”). If the basis for
+suspension relates solely to the legal, regulatory or KYC status of a specific Token Holder (or
+group under common beneficial ownership), any suspension shall apply only to such Token
+Holder’s entitlements; payments to all other Token Holders shall continue unaffected.
+3.7 Tokens are based on an open-source protocol. Anyone may clone the source code of the
+blockchain in which Tokens are based, and develop a diverging blockchain protocol without prior
+permission by anyone else, also known as “ Forks”. Tokens are recorded on a public blockchain.
+From time to time, a blockchain may experience a ‘fork’ (divergent network histories). Although
+the Tokens are not Virtual Assets, a fork can affect the underlying infrastructure the Tokens rely
+on. If a fork occurs, only the chain that the Recipient designates by public notice as supported
+will be used for payments and recordkeeping under this Agreement; artifacts on any other chain
+will not be recognized as Tokens. The Recipient may temporarily suspend payments during a
+fork‑related disruption to preserve Token integrity and Smart ‑Contract operability. Where a
+blockchain or protocol on which Tokens are issued is forked, the Recipient may elect to suspend
+payment of Obligations during such fork-related disruption, for as long as reasonably required to
+ensure Token integrity and Smart Contract operability. The Recipient assumes no responsibility
+or liability whatsoever for any losses or other issues that might arise from an unsupported Fork
+of Tokens. During a blockchain fork or protocol disruption impacting Token integrity or Smart-
+Contract operability, the Recipient may suspend payments for up to 10 Business Days while
+implementing a remediation. Any longer suspension requires consent of the Platform and
+Majority Token Holders. The Recipient shall (i) publish a notice on the Platform dashboard within
+2 Business Days of the suspension; and (ii) upon resolution, promptly resume payments or
+implement Substituted Tokens without diminishing Token Holders’ economic entitlements. All
+such suspensions are subject to the Annual Suspension Cap.
+3.8 The Platform and the Recipient may, acting jointly and in their discretion, re-issue Tokens or
+substitute them with new digital records of equivalent economic value (“ Substituted Tokens ”),
+provided that such substitution does not diminish or alter the economic entitlements of Token
+Holders under this Agreement. Shall Tokens be substituted for Substituted Tokens, the
+Substituted Tokens shall be treated for all purposes under this Agreement as Tokens, and the
+Recipient’s obligations to Token Holder shall remain unchanged. By entering into this Agreement,
+each Token Holder irrevocably consents in advance to any such substitution or re-issuance, on
+the condition that:
+(a) the economic entitlements remain equivalent; and
+(b) the Recipient provides written notice to Token Holders of such substitution or re-issuance
+within a reasonable period prior to its effectiveness.
+
+PAGE 12
+12
+3.9 The Platform may deploy contract ‑level upgrades or patches such as correcting verified coding
+bugs, security vulnerabilities or blockchain deprecations, or upgrading platform infrastructure,
+provided that no economic terms are altered.
+3.10 The economics of the Investment represented by the Tokens are the following:
+Token Symbol FLP
+Token Collection Name ReFi Hub x Pivot FLP
+Purchase Price 1.00 USDC per Token
+Maximum Supply of Tokens 59,000
+Soft Cap 29,500
+Closing Date November 13 th, 2025, 13:00 UTC
+First Repayment Date November 25 th, 2025, 13:00 UTC
+End of Term August 30 th, 2049
+Investment Amount The entirety of the number of Tokens issued multiplied by
+the Purchase Price across all Token Holders.
+Yield Rate Variable, with specific terms laid out in Section 3.12., 3.13.
+and 3.14.
+Yield Payment Date (“ Payment Date”) Monthly between the 23 rd and the 28 th of each month.
+Delivery Date (“ Delivery Date”) Tokens shall be distributed either when the Maximum
+Supply of Tokens is reached, or on the Closing Date,
+occurring on whichever date is sooner.
+3.11 If the Recipient fails to reach the Soft Cap on the Closing Date, this Agreement shall be
+terminated. In such case, the Token Holder shall have the ability to claim the Purchase Price per
+Token by burning the purchased Tokens through the Platform. Upon successfully burning the
+purchased Tokens, the Token Holder shall receive the Purchase Price per Token paid minus any
+fees incurred as the result of blockchain transactions.
+3.12 The Tokens represent a fractional right to Net Revenue payment arising from the Project, as
+described throughout Section 3. Upon purchase and possession, each Token Holder shall be
+deemed to have received, for all legal purposes, an assignment of a representative share of the
+Net Revenue payments generated by the Project. Such payments shall be derived from the sale
+of the Project’s energy generation, as well as any associated environmental attributes, including
+Renewable Energy Certificates (RECs), carbon credits, or subsidies, and distributed
+proportionally to each Token Holder’s total Token Holdings. Should the investment amount be
+equal to the Maximum Supply of Tokens upon the successful completion of the raise, Token
+Holders shall own 80% of the Net Revenue from exactly 25% of the Project, or 20% of the
+
+PAGE 13
+13
+Recipient’s Net Revenue from the entire Project. Otherwise, the share owned shall be
+proportional to the actual Investment Amount.
+3.13 On each Payment Date, from the First Repayment Date until the End of Term (inclusive), the
+Recipient shall transfer to the Smart Contract a single payment in Stablecoin (USDC) comprising
+both: (a) the Yield payable to Token Holders; and (b) the Platform User Fee. This aggregate
+payment shall be equal to 22.5% of the total Net Revenue generated by the Project, representing
+the combined entitlements of Token Holders and the Platform based on the 25% portion of the
+Project funded through the Investment (i.e., 80% to Token Holders and 10% to the Platform).
+The Smart Contract shall automatically disburse the payment as follows: 88.89% to Token
+Holders as Yield, pro rata to their Token holdings; 11.11% to the Platform as the Platform User
+Fee. For clarity, this structure results in Token Holders receiving 20% of the total Project Net
+Revenue, the Platform receiving 2.5%, and the Recipient retaining the remaining 77.5%,
+assuming the full 25% of the Project is funded through Token issuance.
+(a) In the event that the Project, or any component thereof, becomes non-functional,
+damaged, or is otherwise unable to operate for any reason (“ Breakdown Event ”), the
+Recipient shall be solely responsible for the diagnosis, repair, and full cost of restoring the
+Project to operational status, including any required replacement parts, technician labour,
+hardware, or software. For the avoidance of doubt, any maintenance, repair, or restoration
+costs arising from a Breakdown Event shall not be deducted from Net Revenue and shall
+not reduce the Yield owed to Token Holders. Such costs shall be borne entirely by the
+Recipient. In no case shall the Token Holders be liable, directly or indirectly, for any cost,
+expense, or obligation arising from a Breakdown Event.
+3.14 The Recipient shall ensure that the payment of Yield is made to the Smart Contract with the
+requisite amounts on or before each Payment Date. The Recipient shall also publish quarterly
+summaries of Project Net Revenue via the Platform dashboard or an email notice to Token
+Holders.
+3.15 Estimates of Yield, and/or case studies of yield from similar projects are laid out in the Recipient’s
+Materials, however these estimates in no way reflect any guarantee from the Recipient, are not
+legally binding and could be affected by a number of reasons including usership of the Project,
+unforeseen circumstances or any other reason such as those mentioned within the Disclaimers.
+3.16 Yield shall be paid on the Payment Date, monthly, from the First Repayment Date until the end
+of Term. The Recipient’s obligation to pay Yield shall automatically terminate upon the End of
+Term, and Token Holders expressly waive any claim to Yield after such date. For the avoidance
+of doubt, nothing in this Section limits the survival of accrued but unpaid Obligations, penalties,
+costs or indemnities, or claims for prior breach, as expressly preserved under the definition of
+End of Term.
+3.17 If the Recipient fails to make a payment of an Obligation on the relevant date in which
+such Obligation is due (e.g. payment of Yield on the Payment Date), the Recipient shall pay an
+additional 10% penalty (the “ Penalty”) on the amount of such Obligation for every 30 Business
+Days in which such Obligation remains unpaid until the Obligation is paid, limited to the total
+amount paid by the Token Holder, provided that the Recipient shall have fifteen (15) Business
+Days to rectify any unpaid Obligations from the Payment Date before a Penalty is applicable.
+These expenses shall be borne exclusively by the Recipient, either through their own business
+revenue, or through their share of the Project’s profit. All Obligations under this Agreement shall
+be due and payable without set-off, counterclaim, withholding or deduction of any kind, except
+for taxes required by law to be withheld, in which case the Recipient shall gross-up such
+payments so that Token Holders receive the amounts they would have received had no
+withholding been required.
+3.18 The Recipient shall supply the Platform (and, upon request, Token Holders) with an API endpoint
+or verifiable CSV report delivering meter ‑verified kWh data, purchase invoices, revenue
+statements, or other similar proofs for the preceding month, quarterly, or on demand by the
+Platform. The Recipient shall supply these data, no later than thirty (30) Business Days after a
+request is made. Failure to comply within sixty (60) Business Days after written notice shall
+constitute an Event of Default.
+3.19 The Recipient shall apply the Investment solely to develop, construct, interconnect, operate and
+maintain the Project, on a commercially reasonable cost basis consistent with market practice
+
+PAGE 14
+14
+for comparable solar assets. Spend that is (i) unrelated to the Project, or (ii) unreasonable in
+amount relative to prevailing market rates, is prohibited. The Platform (and the Collateral Agent,
+if appointed) may review use-of-proceeds records on reasonable notice and request supporting
+third-party invoices/contracts. This audit right is in addition to any audit rights in the Listing
+Agreement and does not excuse any payment obligations.
+3.20 Subject to and upon the terms and conditions hereof, the Tokens represent the Investment in the
+Recipient in an amount equal to the Purchase Price multiplied by the number of Tokens that the
+Token Holder holds. Upon the End of Term, all Tokens shall automatically expire and become
+invalid for any use, transfer, or claim, and the corresponding Smart Contract shall be deprecated
+and rendered inactive. The Recipient shall have no further obligations to Token Holders after
+such expiration, and Token Holders hereby irrevocably waive any claims against the Recipient
+arising after the expiration date. No rights, obligations, or functionalities related to the Tokens
+shall exist or be enforceable following such expiration.
+4. SECURITY INTEREST IN COLLATERAL & NEGATIVE PLEDGE
+4.1 As security for the Recipient’s obligations to pay Yield and perform under this Agreement, the
+Recipient grants to the Collateral Agent (for the benefit of Token Holders) a first ‑ranking fixed
+charge over the Collateral (the Equipment, including but not limited to, the solar PV modules,
+inverters, mounting systems, metering hardware, switchgear and balance ‑of‑plant financed with
+the Investment Amount), including replacements and proceeds.
+4.2 The Recipient shall not sell, transfer, assign, pledge, or create any lien or security interest over
+the Collateral (or receivables therefrom), other than the security interest granted herein, without
+the prior written consent of the Collateral Agent (the “ Negative Pledge”). The Recipient shall not
+sell, lease, assign, novate or otherwise transfer (i) any material Project asset (including the
+Collateral or key components thereof), (ii) any receivables or rights to payment arising from the
+Project, or (iii) any offtake/PPA or interconnection agreement, in each case in whole or in part,
+without the prior written consent of the Platform (or Collateral Agent, if appointed). Any permitted
+transferee shall execute an assumption agreement agreeing to be bound by this Agreement.
+4.3 To the extent any filing, registration, or local perfection step is required for the validity or priority
+of this security interest, the Recipient shall promptly execute and deliver all documents and bear
+all reasonable costs of such perfection steps as directed by the Collateral Agent.
+4.4 The Recipient shall maintain insurance customary for solar PV assets of comparable size and
+location, including coverage for fire, storm, theft, and other risks of physical loss or damage, in
+an amount sufficient to replace or repair the Collateral on a replacement cost basis. Such
+insurance shall (i) name the Collateral Agent, for the benefit of Token Holders, as loss payee and
+additional insured, (ii) not be cancelled or materially altered without at least thirty (30) Business
+Days’ prior written notice to, and approval by, the Collateral Agent, and (iii) be evidenced by
+certificates of insurance provided to the Collateral Agent upon request.
+4.5 Upon an Event of Default, the Collateral Agent may enforce this security interest in accordance
+with applicable law, including taking possession of, and disposing of, the Collateral and applying
+net proceeds against outstanding Obligations, with any deficiency remaining a claim against the
+Recipient.
+5. SALE OF TOKENS
+5.1 The Recipient shall distribute and sell the Tokens through the Platform. The Recipient contracts
+the Platform purely for SaaS hosting and optional technical assistance in deploying the Smart
+Contract; such assistance does not transfer title or control of any Stablecoins or Tokens to the
+Platform. For the avoidance of doubt, Tokens shall not be distributed or sold to persons in
+Singapore or any other Prohibited Jurisdiction.
+5.2 The Recipient may only agree to sell Tokens to Token Holders who have passed the KYC
+Process carried out by the Platform.
+5.3 Concurrently with the acceptance of this Agreement by the potential Token Holder, and the
+acceptance of the potential Token Holder by the Recipient, the potential Token Holder shall
+provide to the Recipient Wallet, the applicable Purchase Price, as applicable, for each purchased
+Token (the “ Total Purchase Price ”) to the Recipient Wallet, as provided by the Platform to the
+Token Holder. The Recipient will deliver the purchased Tokens to the Token Holder Wallet on or
+
+PAGE 15
+15
+before the Delivery Date, provided that all conditions precedent, including but not limited to
+successful completion of KYC Process and receipt of Total Purchase Price, have been satisfied.
+5.4 The Total Purchase Price shall be paid in Stablecoin, USDC.
+5.5 The Token Holder is responsible for implementing reasonable measures for securing any digital
+wallet, vault or other storage mechanism the Token Holder uses to receive and hold the
+purchased Tokens on the Token Holder Wallet, including, without limitation, any requisite private
+key(s) or other credentials necessary to access the Token Holder Wallet (" Token Holder Wallet
+Access Credentials "). Those measures shall at least comply with state of the art and shall not
+be less effective than measures that a third party would expect that Token Holder implements
+with regard to the assumption that Token Holder might store high values on the Token Holder
+Wallet and that losing the Token Holder Wallet Access Credentials means a loss of the entire
+amount of Tokens stored on the Token Holder Wallet. Token Holder agrees to regularly backup
+the Token Holder Wallet Access Credentials and will apply the same measures to such backup.
+The Token Holder acknowledges that if the Token Holder Wallet Access Credentials are lost, the
+Token Holder may lose access to the purchased Tokens. It is only the Token Holder’s
+responsibility to secure the Token Holder Wallet and the Token Holder Wallet Access
+Credentials. Therefore, and regardless of any other provision of this Agreement, the Recipient
+shall not be responsible or liable for any damages, losses, costs, penalties, fines or expenses
+arising out of or relating to (i) the Token Holder’s failure to implement reasonable measures to
+secure the Token Holder Wallet the Token Holder uses to receive the purchased Tokens; or (ii)
+the loss of or unauthorized use of any of the Token Holder Wallet Access Credentials.
+5.6 The reception of the purchased Tokens by the Token Holder is final. The Total Purchase Price
+for the purchased and received Tokens is not refundable under any circumstance, including but
+not limited to changes in market conditions, token value, or Token Holder's personal
+circumstances, unless the Recipient fails to reach the Soft Cap prior to the Closing Date.
+5.7 Nothing in this Agreement creates an agency, joint venture, partnership or trust between the
+Recipient and the Platform, nor does it constitute investment, tax or legal advice. The Platform’s
+role ends with provision of SaaS tooling, and occasional developer support.
+6. PRIORITY & REMEDIES
+6.1 If there are insufficient funds to make such a repayment, the Recipient’s available funds must be
+distributed amongst the Token Holders in proportion to the number of Tokens they hold.
+6.2 The obligations of the Recipient to the Token Holders under this Agreement rank:
+(a) secured by a first ‑ranking fixed charge over the Collateral;
+(b) pari passu among Token Holders with respect to the Obligations under this Agreement;
+and
+(c) junior only to statutory claims that cannot be contractually subordinated and to any security
+interests that are perfected prior to the security interest created hereby.
+6.3 Upon an Event of Default, the Collateral Agent may, on behalf of the Token Holders and without
+further notice, (i) declare all accrued and unpaid Yield immediately due and payable, and demand
+repayment of any outstanding Obligations, and/or (ii) enforce the security interest in the Collateral
+in accordance with applicable law, including taking possession of and disposing of the Collateral,
+with net proceeds applied to the Obligations. The Recipient shall cooperate fully and grant
+physical access for such enforcement.
+6.4 Upon an Event of Default, the Collateral Agent may take possession, sell, or otherwise realize
+the Collateral, and distribute proceeds to Token Holders.
+6.5 If the net proceeds of disposition are insufficient to satisfy all Obligations, the Recipient shall
+remain liable for the deficiency together with reasonable enforcement costs.
+7. COLLATERAL AGENT POWERS & DELEGATIONS
+7.1 Each Token Holder irrevocably appoints the Collateral  Agent to act as its agent, trustee and
+attorney‑in‑fact for all purposes of holding, managing and enforcing rights in respect of the
+Equipment and any guarantee.
+
+PAGE 16
+16
+7.2 Each Token Holder grants the Collateral  Agent full power to sign, lodge and deliver, in the Token
+Holder’s name or in the Collateral  Agent’s own name, any police reports, storage or sale
+contracts, energy ‑supply contracts, court pleadings, receipts and other documents required for
+protection, repossession, sale or other realisation of the Equipment.
+7.3 The Collateral  Agent may, without the consent of any Token Holder, delegate, novate or assign
+any of its rights or obligations under this Agreement to one or more qualified collateral or security
+agents in any jurisdiction.
+7.4 The Collateral  Agent shall be liable for gross negligence, wilful misconduct or fraud only, and
+shall be indemnified by the Recipient for all reasonable costs and expenses incurred in the
+exercise of its duties.
+7.5 In the event of significant loss or damage to the Project that materially impairs its ability to
+generate revenues or to make Yield payments, all insurance proceeds shall be assigned to the
+Collateral Agent for the benefit of Token Holders. The Collateral Agent, acting in consultation
+with Token Holders holding a majority of outstanding Tokens, shall determine whether such
+proceeds shall (i) be applied to repair and restore the Project to continue Yield payments, or (ii)
+be applied directly to repay outstanding Yield and obligations. For the avoidance of doubt, any
+insurance proceeds relating to minor damage, maintenance events, or repairs costing less than
+25% of the insured value of the Project shall be applied by the Recipient directly towards restoring
+the Project, without Token Holder consultation.
+8. FEES
+8.1 The Token Holder and Recipient both acknowledge and agree that the Recipient agrees to
+compensate the Platform by paying the ( “Platform Business Fee” ) of 3% of all funds
+successfully raised through the Platform. Such Fees will be withheld automatically by the Smart
+Contract at the time of the Delivery Date. This commission will be automatically deducted from
+the payout to the Recipient, contingent upon the achievement of the Soft Cap. The Platform shall
+receive the Platform Business Fee only if the Soft Cap is met or exceeded and the funds are
+successfully transferred to the Recipient.
+8.2 The Token Holder acknowledges and agrees that the Platform shall receive a Platform User Fee,
+as described in Section 3.13, equal to 2.5% of the Recipient’s total Net Revenue from the Project,
+which represents 11.11% of the aggregate payment made to the Smart Contract (comprising
+both Yield and Platform Fee).
+9. KYC PROCESS
+9.1 To purchase and receive the Tokens, or to receive any Yield, or any payment of any Obligations
+of the Recipient, you must complete and maintain compliance with the due diligence process
+mandated by Know Your Customer, Anti-money Laundering, and Combating the Financing of
+Terrorism regulations as conducted by the Platform, with such requirements being subject to
+change from time to time (the " KYC Process"). The Recipient shall not be liable for any delays,
+losses or inability to receive payments due to non-compliance with the KYC Process or changes
+in KYC requirements.
+9.2 In the KYC Process, the Platform will ask for information such as your name, physical address,
+mailing address, date of birth, and other information, and documents that will allow the Recipient
+to identify you in line with the KYC/AML & CTF Policy. You must provide the Platform information
+that is accurate, complete, and current at all times. Failure to do so constitutes a breach of this
+Agreement. You also agree to provide the Platform, as requested on an ongoing basis, with any
+additional information for the purposes of identity verification and the detection and prevention
+of money laundering, terrorist financing, fraud, or any other financial crime, including without
+limitation, a copy of your government-issued photo ID, a photograph of you holding your
+government-issued photo ID, a video-verification of you holding your government-issued photo
+ID, evidence of your residential address (such as a utility bill), evidence of the source of funds,
+evidence of the source of wealth, and evidence of your good character. You authorize the
+Recipient and the Platform or its agents to keep a record of such information and to make the
+inquiries, whether directly or through third parties, that the Platform or its agents considers
+necessary to verify your identity or protect you and others against fraud or other financial crime,
+and to take action the Platform or its agents reasonably deems necessary based on the results
+of such inquiries. When the Platform or its agents carries out these inquiries, you acknowledge
+
+PAGE 17
+17
+and agree that your personal information may be disclosed to regulatory or enforcement
+agencies. You acknowledge, understand and agree that your Transactions with the Recipient
+may be subject to limits or restrictions in line with the KYC/AML & CTF Policy. You further
+acknowledge, agree and understand that the Platform or its agents reserve the right to charge
+you reasonable fees and expenses associated with conducting the KYC Process.
+10. TAXES
+10.1 The assignment of the Tokens and the payment of any Obligations under this Agreement to a
+Token Holder shall be made without withholding or deduction for, or on account of, any present
+or future taxes, duties or charges of any nature. It is your sole responsibility to determine whether,
+and to what extent, any taxes apply to any Transactions you conduct with the Recipient, and to
+withhold, collect, report and remit the correct amounts of taxes to the appropriate tax authorities.
+10.2 The Recipient shall provide guidance on any applicable local withholding tax where required or
+if requested, and shall cooperate with Token Holders to avoid double taxation, subject to the
+Recipient’s reasonable efforts.
+11. REGULATORY ISSUES
+11.1 The Token Holder acknowledges and understands that this Agreement is not registered with any
+regulatory body or securities commission, and that the Recipient is not registered or licensed
+with any regulator as an Investment adviser, broker-dealer, money services business, money
+transmitter in Brazil, Singapore, or any other jurisdiction. For the avoidance of doubt, the Tokens
+are not ‘virtual assets,’ and the Recipient does not operate a virtual-asset service in respect of
+the Tokens. As a result, the Token Holder will not be afforded the full set of protections provided
+to the clients and customers of such entities.
+11.2 For the avoidance of doubt, the Tokens are not transferable, tradable or redeemable and
+therefore are not ‘virtual assets’ within the meaning of the Saint Vincent and the Grenadines
+Virtual Asset Service Providers Act 2022. References to ‘virtual assets’ in this Agreement are for
+infrastructure risk disclosure only.
+11.3 For the avoidance of doubt, the Tokens are not being offered or made available to persons in
+Singapore, or any other Prohibited Jurisdictions, and no steps have been taken to solicit or
+distribute the Tokens within Singapore, or any other Prohibited Jurisdiction.
+12. REPRESENTATIONS, WARRANTIES AND COVENANTS OF THE TOKEN HOLDER
+12.1 By conducting any Transaction with the Recipient, including but not limited to the purchase of
+Tokens from the Recipient, and the receipt of any Obligations’ payment from the Recipient, the
+Token Holder represents and warrants to the Recipient:
+(a) The Token Holder is at least 18 years old or of legal age to form a binding contract under
+applicable law, are an individual, legal person or other organization with full legal capacity
+and authority to enter into this Agreement;
+(b) The Token Holder acknowledges, understands and agrees that he or she or it has no legal
+right, voting right or claim towards the business of the Recipient, other than the right to
+receive Yield under this Agreement;
+(c) The Token Holder is not a U.S. Person.
+(d) The Token Holder is not physically in Singapore, or any other Prohibited Jurisdiction.
+(e) The Token Holder is not a citizen or resident of Singapore, or any other Prohibited
+Jurisdiction.
+(f) The Token Holder is not a legal person or legal arrangement incorporated, registered or
+organized under the laws of Singapore, or any other Prohibited Jurisdiction.
+(g) The Token Holder is not by reason of their nationality, domicile, citizenship, residence or
+otherwise subject to the laws of Singapore, or any other Prohibited Jurisdiction;
+(h) The Token Holder is not, and has not been involved in a transaction with a person who is,
+on any trade or economic sanctions lists, including, but not limited to, the UN Security
+Council Sanctions list, designated as a “Specially Designated National” by OFAC (Office
+of Foreign Assets Control of the U.S. Treasury Department) or placed on the U.S.
+
+PAGE 18
+18
+Commerce Department’s “Denied Persons List”. The Recipient maintains the right to
+restrict or deny conducting transactions in certain countries and/or to certain natural
+persons and/or juristic persons at its sole discretion.
+(i) The Token Holder understands that this Agreement has not been, and will not be,
+registered under the Securities Act of 1933 of the United States, or under any securities
+or investment ‑business legislation (“ Securities Laws ”) of any jurisdiction (and, where
+applicable, virtual ‑asset legislation applicable to the use of settlement tokens; for
+avoidance of doubt, Tokens are not virtual assets). The Token Holder acknowledges that
+the Recipient has no obligation to register under any Securities Laws. The Token Holder
+further acknowledges that if an exemption from registration or qualification is available, it
+may be conditioned on various requirements including, but not limited to, the time and
+manner of sale, the holding period for the Tokens, and on requirements relating to the
+Recipient which are outside of Token Holder’s control, and which the Recipient is under
+no obligation and may not be able to satisfy.
+(j) The Token Holder is a “qualified investor”, “sophisticated investor”, “professional investor”,
+“institutional investor”, “accredited investor” or analogous term as defined under the
+securities or investment business laws of the jurisdiction where the Token Holder is a
+resident of.
+(k) The Token Holder is permitted by the laws of his or her or its jurisdiction to purchase
+Tokens, and he or she or it is legally permitted and capable to acquire, receive and hold
+Tokens and Stablecoins used for settlement (e.g., USDC).
+(l) The Token Holder has had the opportunity to seek legal, accounting and other professional
+advice regarding this Agreement, and Tokens.
+(m) The Token Holder understands that finder's fees or commissions may be paid in
+connection with purchases and sales of Tokens, which may include his or her purchase or
+sale.
+(n) The Token Holder understands distributed ledger technology and Tokens and is fully
+aware of the risks associated with the same.
+(o) The Token Holder is responsible for ensuring compliance with the laws of his or her or its
+jurisdiction and acknowledge that the Recipient is not liable for his or her or its compliance
+with such laws,
+(p) The Token Holder’s transactions with the Recipient do not constitute a breach of the laws
+of his or her or its jurisdiction;
+(q) The Token Holder understands the inherent risks associated with Virtual Assets, including
+Stablecoins, and purchasing, selling or trading Virtual Assets;
+(r) The Token Holder has a working understanding of the usage of Virtual Assets, smart
+contract-based tokens, and blockchain-based software systems;
+(s) The Token Holder purchases Tokens with funds he, she or it can afford to lose, and have
+a high-risk tolerance;
+(t) The Token Holder will not carry out any activity that (i) involves proceeds from any illegal
+or unlawful activity (including money laundering or terrorism financing); or (ii) violates, or
+could violate, any applicable law;
+(u) The Token Holder is the legal owner (or an authorized agent of the legal owner) of the
+funds he, she or it uses to purchase Tokens and that these funds are derived from a
+legitimate source;
+(v) The Token Holder will not transact with the Recipient in order to conceal or disguise the
+origin or nature of proceeds of crime or terrorist financing, or blocked property, frozen
+assets, economic resources, or corruption related to any person or government official,
+under any applicable laws;
+(w) The Token Holder will not use any method or services to mask his or her or its internet
+protocol address or his or her or its internet traffic or current location or real internet
+connection, including but not limited to virtual private networks, proxy servers, Tor browser;
+
+PAGE 19
+19
+(x) The Token Holder is experienced in and fully capable of operating, maintaining and
+safekeeping the Wallet out of which he or she or it sent or will send the payment of the
+Total Purchase Price, receive the Tokens, and receive any Transactions from the
+Recipient.
+(y) The Token Holder understands and agrees that this Agreement and the Tokens do not
+represent shares, equity or any type of ownership interest in the Recipient and that Tokens
+do not represent any right to vote, manage, or share in the profits or proceeds of the
+Recipient.
+(z) Except as otherwise provided for herein, the Token Holder understands that he or she or
+it has no right to any refund of the Total Purchase Price.
+(aa) The Token Holder understands and acknowledges that nothing in these terms constitutes
+tax, accounting, financial or legal advice, and that he, she or it bears the sole responsibility
+to seek independent professional advice to determine the tax, financial and legal
+implications of (a) a transaction with the Recipient; (b) the purchase, ownership and use
+of Tokens; and (c) any expiration of Tokens at the end of the their term.
+(bb) The Token Holder bears responsibility to declare, bear and pay all such taxes, duties,
+imposts, levies, tariffs and surcharges that might be imposed by the laws and regulations
+of any applicable jurisdiction as a result of or in connection with the receipt, holding, use,
+purchase, appreciation, trading, remittance or disposal of Tokens.
+(cc) The Token Holder incorporates and restates in this Agreement by reference all
+representations and warranties made by the Token Holder contained in this Agreement.
+The Token Holder further represents that he, she or it has read this Agreement,
+understands and agrees to be bound by its terms, and has been provided the opportunity
+to ask the Recipient questions, and where applicable, has received answers from the
+Recipient, regarding this Agreement.
+(dd) The Token Holder agrees to be bound by any affirmation, assent or agreement that he,
+she or it transmits to the Recipient by computer or other electronic device, including
+internet, telephonic and wireless devices, including, but not limited to, any consent he, she
+or it gives to receive communications from the Recipient or any of the Affiliated Entities
+solely through electronic transmission.
+(ee) The Token Holder represents and warrants that all of the representations and warranties
+he or she or it is making in this Agreement are true and accurate as of the date of
+acceptance of this Agreement and any date of any Transaction (“ Relevant Dates”). If any
+representations and warranties are not true and accurate prior to acceptance of this
+Agreement and the Relevant Dates, the Token Holder shall give prompt written notice of
+this fact to the Recipient specifying which representations and warranties are not true and
+accurate and the reasons why they are not. The Token Holder agrees to notify the
+Recipient promptly if there is any change with respect to any of the representations and
+warranties in this Agreement.
+(ff) The Token Holder acknowledges and accepts that there are risks associated with
+purchasing, holding and selling Tokens, as more fully disclosed and explained in this
+Agreement.
+(gg) The Token Holder represents and warrants that he or she or it has sufficient knowledge,
+understanding, and experience, either independently or together with his or her or its
+representative(s), in financial and business matters, and of the functionality, usage,
+storage, transmission mechanisms, and other material characteristics of cryptographic
+Tokens, token wallets and other token storage mechanisms, public and private key
+management, blockchain technology, and blockchain-based software systems, to
+understand this Agreement, and such knowledge, understanding, and experience enables
+the Token Holder to evaluate the merits and risks of purchasing and/or selling Tokens.
+(hh) The Token Holder agrees that at any time in the future at which he or she or it may acquire
+Tokens from the Recipient or from any other party, or receive any Yield payments from
+the Recipient, the Token Holder shall be deemed to have reaffirmed, as of that date, each
+and every representation and warranty made by the Token Holder in this Agreement.
+
+PAGE 20
+20
+(ii) The Token Holder has full legal capacity, power and authority to execute and deliver this
+Agreement and to perform his, her or its obligations hereunder. This Agreement constitutes
+a valid and binding obligation of the Token Holder, enforceable in accordance with its
+terms, except as limited by bankruptcy, insolvency or other laws of general application
+relating to or affecting the enforcement of creditors’ rights generally and general principles
+of equity.
+(jj) The Token Holder agrees on behalf of himself and his or her or its successors and assigns,
+without further consideration, to prepare, execute, acknowledge, file, record, publish and
+deliver any other instruments, documents and statements and to take any other actions
+as the Recipient may determine to be necessary or appropriate to comply with applicable
+law and to effectuate and carry out the purposes of this Agreement. The Token Holder
+further agrees that the Recipient may, in its sole discretion, refuse to sell to the Tokens to
+the Token Holder, or to pay any of its Obligations or conduct any Transactions with the
+Token Holder, if, among other things, the Token Holder refuses to comply with this
+provision and this Agreement.
+(kk) Where the Token Holder is an entity, the Token Holder represents that all beneficial owners
+and control persons satisfy the Eligible Person and Prohibited Jurisdiction requirements
+and are not Sanctioned Persons; and will provide reasonable KYC information on such
+persons upon request.
+13. REPRESENTATIONS, WARRANTIES AND COVENANTS OF THE RECIPIENT
+13.1 The Recipient hereby represents and warrants to the Token Holder as follows:
+(a) The Recipient is a Singapore company organized, validly existing and in good standing
+under the laws of Singapore, and has the power and authority to own, lease and operate
+its properties and carry on its business as now conducted;
+(b) The execution, delivery and performance by the Recipient of this Agreement is within the
+power of the Recipient and has been duly authorized by all necessary actions on the part
+of the Recipient. This Agreement constitutes a legal, valid and binding obligation of the
+Recipient, enforceable against the Recipient in accordance with its terms, except as limited
+by bankruptcy, insolvency or other laws of general application relating to or affecting the
+enforcement of creditors’ rights generally and general principles of equity. To its
+knowledge, the Recipient is not in violation of (i) its current memorandum and articles of
+association, (ii) any material statute, rule or regulation applicable to the Recipient or (iii)
+any material debt or contract to which the Recipient is a party or by which it is bound,
+where, in each case, such violation or default, individually, or together with all such
+violations or defaults, could reasonably be expected to have a material adverse effect on
+the Recipient;
+(c) No insolvency proceedings have been commenced or are continuing with respect to the
+Recipient and any of its Affiliated Entities; and
+(d) To its knowledge, the Recipient and the Affiliated Entities own or possess (or can obtain
+on commercially reasonable terms) sufficient legal rights to all patents, trademarks, service
+marks, trade names, copyrights, trade secrets, licenses, information, processes and other
+intellectual property rights necessary for its business as now conducted and as currently
+proposed to be conducted, without any conflict with, or infringement of the rights of, others.
+(e) The Recipient states that it has not, nor ever will, assign, encumber, securitize or lend the
+Project or any assets relating to it in any capacity other than that stated within this
+Agreement.
+(f) The Recipient shall use commercially reasonable efforts to monitor and maintain the
+performance of the Project, including routine operation and maintenance. The costs of
+such monitoring, operation and maintenance shall be borne exclusively by the Recipient.
+(g) The Recipient has conducted a good-faith legal analysis and believes that the Tokens
+constitute lease-participation instruments and do not represent 'securities', 'capital markets
+products', or other regulated instruments under applicable law, including but not limited to
+the Securities and Futures Act 2001 of Singapore ('SFA').
+14. TOKEN LIFECYCLE AND YIELD OBLIGATIONS
+
+PAGE 21
+21
+14.1 The Token Holder hereby acknowledges and agrees to the following:
+(a) Upon completion of the timeline stipulated in this Agreement under the End of Term and/or
+the associated Smart Contract, all Tokens shall automatically expire and become invalid
+for any use, transfer, or claim;
+(b) The Smart Contract governing the Tokens shall be deprecated and rendered inactive at
+the close of the End of Term; and
+(c) Following the expiration of the End of Term, no obligations, rights, or functionalities related
+to the Tokens shall exist or be enforceable.
+14.2 The Recipient’s obligation to disburse Yield shall be limited until the End of Term. Token Holders
+acknowledge and consent that no yield shall be required or enforceable beyond the expiration of
+the End of Term.
+14.3 Token Holders expressly waive any claim to Yield following the termination of this Agreement at
+the End of Term.
+15. DISCLAIMER
+15.1 Your Transactions with the Recipient, including but not limited to the purchase of Tokens from
+the Recipient, the Investment, the receipt of Yield, the Investment Amount or any other payment
+of Obligations by the Recipient are at your sole risk, and you are solely responsible for any losses,
+damages or costs resulting from such Transactions. The Recipient does not provide, and nothing
+in this Agreement shall be construed as, investment advice, financial advice, or any marketing,
+promotion or offer of any regulated Investment product or service to you or any third party, as
+defined under applicable financial services laws and regulations. The Tokens are provided on an
+“AS IS” and “AS AVAILABLE” basis, without warranties of any kind, whether express or implied,
+including, but not limited to, implied warranties of merchantability, fitness for a particular purpose,
+non-infringement or course of performance. The Recipient shall in no event be held liable for any
+loss or other damages, including but not limited to special, incidental, consequential, or other
+damages. Without limiting the foregoing, the Recipient does not represent or warrant that Tokens
+are accurate, complete, reliable, current or error-free, or free of viruses or other harmful
+components. By transacting with the Recipient, you agree that the Recipient shall not have any
+liability, contingent or otherwise, to you or to any third parties, for the correctness, quality,
+accuracy, security, completeness, reliability, performance, timeliness, pricing or continued
+availability of Tokens or for delays or omissions, or for the failure of any connection or
+communication service to a Transaction related to Tokens with the Recipient, or for any
+interruption in or disruption of your access or any erroneous communications between the
+Recipient and you, regardless of cause.
+15.2 The Recipient does not make any representation or warranty with respect to the Tokens. The
+Recipient hereby expressly disclaims responsibility for, and shall in no case be liable for any
+damage, loss, penalty, cost or expense, whether direct, indirect, incidental, consequential,
+special, punitive, exemplary or economic (and whether or not caused by negligence) which arises
+in tort, contract or otherwise, to the fullest extent allowed by applicable law, to any person or
+entity in connection with:
+(a) any person's purchase or sale of Tokens, or conduct of any Transaction in violation of any
+anti-money laundering, counter-terrorism financing or other regulatory requirements that
+are imposed in any jurisdiction;
+(b) any person's purchase or sale of Tokens or conduct of any Transaction in violation of or
+contravention of any representation, warranty, obligation, covenant or other provision of
+the Agreement;
+(c) any transaction related to Tokens in which the Recipient is not a party;
+(d) the exercise of any right by the Recipient under this Agreement;
+(e) unauthorized data interception, interruption, transmission blackout, or delays (due to data
+volume, server error or otherwise) during the delivery of Tokens or any payment of
+Obligations;
+(f) a delay in transmitting the Tokens or any payment of Obligations, or a delay in any refund;
+
+PAGE 22
+22
+(g) any error, bug, flaw, defect or otherwise of the source code of the Tokens or in related
+code;
+(h) any application, program, service or good created on, operated on or connected to the
+Tokens;
+(i) any malfunction, breakdown, collapse, or delay caused by the blockchain or by software
+conducting any transaction between the Recipient and the Token Holder;
+(j) the loss, theft or perceived poor utilization of the proceeds from the Investment Amount;
+(k) any loss of Tokens due a failure to (i) safeguard a Wallet, including the loss, destruction,
+theft or accidental disclosure of a private key, or (ii) not utilizing proper type or kind of
+Wallet;
+(l) any default, breach, infringement, breakdown, collapse, service suspension or interruption,
+fraud, mishandling, misconduct, malpractice, negligence, bankruptcy, insolvency,
+dissolution or winding-up of any third-party funding portal, wallet or exchange service
+handling Tokens;
+(m) any difference, conflict or contradiction between this Agreement, and the Materials, and
+any information provided by any third-party;
+(n) listing or delisting of Tokens on or from any Virtual Asset exchange or market, or the
+trading of Tokens on the same; and
+(o) Tokens being classified or treated by any government, quasi-government, authority or
+public body as a kind of currency, securities, commercial paper, negotiable instrument,
+Investment or other classification that may be banned, regulated or subject to legal
+restrictions.
+16. RISK DISCLOSURES
+16.1 The Token Holder (i) is able to bear the economic cost of losing the Total Purchase Price; (ii) has
+adequate means of providing for his, her, or its current needs and possible personal
+contingencies even in the event that the Recipient does not satisfy its Obligations; and (iii) has
+no need for liquidity of the Tokens. The Token Holder is solely responsible for reviewing,
+understanding and considering the risks below and any additional risks, including without
+limitation those described in this Agreement, and the Materials. The Recipient’s operations,
+financial condition, and results of operations could be materially and adversely affected by any
+one or more of those risk factors. Risk Disclosures, include but are not limited to the following:
+(a) The proceeds from the sale of Tokens may not be sufficient for the Recipient to
+successfully grow or maintain its business and be able to pay the Yield.
+(b) Regulation of virtual assets and blockchain technologies, including Tokens and
+transactions such as this Agreement or the sale of Tokens, is evolving and varies
+significantly across jurisdictions, with regulatory frameworks being subject to frequent
+changes and reinterpretation. These regulations are evolving rapidly, are subject to
+significant variation among international jurisdictions and are generally subject to
+significant uncertainty. The Recipient may receive queries, notices, warnings, requests or
+rulings from one or more regulatory authorities from time to time or may even be ordered
+to suspend or discontinue any action in connection with the sale of Tokens or conducting
+any Transactions. In such a case, the ability of the Recipient to pay its Obligations may be
+negatively affected. There is no guarantee that the Recipient will not suffer as a result of
+new laws or regulations or by the new enforcement or interpretation of current laws or
+regulations.
+(c) Cryptography is constantly evolving, and current systems cannot guarantee absolute
+security going forward. Advances in cryptographic methods or algorithms, or with
+technology, such as with quantum computing, could present risks to all cryptography-
+based systems, including Tokens. These advances could result in the theft, loss,
+disappearance, destruction or devaluation of Tokens. There can be no guarantee that the
+value or security of Tokens will not be destroyed or negatively impacted by the future
+developments in the field of cryptography.
+
+PAGE 23
+23
+(d) The Recipient could prove to be incapable of effective management of its business due to
+a variety of reasons, such as due to a lack of Investment, managerial skill, due to technical
+difficulties, or due to a lack of resources, which would likely negatively affect the ability of
+the Recipient to pay any of its Obligations.
+(e) There have been many documented incidents of thefts and attempted thefts of Virtual
+Assets. The Recipient may hold large amounts of Virtual Assets in the form of USDC,
+USDT, or other Virtual Assets following the sale of Tokens. This may make the Recipient
+the target of Virtual Asset thieves and scammers. Due to the rapidly evolving nature of
+Virtual Assets, there likely will always be a risk of vulnerability to theft even with adherence
+to security best practices. There can be no guarantee that the Recipient will not be a victim
+of Virtual Asset theft, the result of which may adversely affect the ability of the Recipient
+to pay any of its Obligations.
+(f) No one can guarantee the source code of Tokens, or the relevant blockchain to be flaw-
+free. Flaws, errors, defects and bugs may disable functionality for users, expose users'
+information or otherwise negatively impact users. This could compromise the business of
+the Recipient and the ability of the Recipient to pay any of its Obligations.
+(g) The Solana Blockchain, and other relevant blockchains are public and permissionless and
+thus vulnerable to being overwhelmed with traffic. Whether due to an intentional and
+malicious attack, or whether due to the popularity of a blockchain-related event, the
+relevant blockchain may from time to time be flooded with requests for transactions that
+utilizes all its throughput capacity. If the Recipient Developers are unable to address
+scalability issues, blockchain congestion or downtime may adversely affect the ability of
+the Recipient to pay any of its Obligations.
+(h) Tokens stored in a digital wallet are accessible by a private key, which is simply a unique
+string of text. The loss or destruction of a digital wallet's private key may render the Tokens
+on such wallet inaccessible. Further, if a private key is learned or copied by another
+person, that person will be able to steal the Tokens (and any other Virtual Assets or
+Tokens) stored on the digital wallet. Token Holders are required to safeguard the private
+keys of their digital wallets. The Recipient will not be liable for any losses due to any
+situation in which a private key is lost, divulged, destroyed or otherwise compromised.
+(i) Tokens are personal, non-transferable digital instruments and shall not be listed, traded,
+exchanged, assigned, pledged or otherwise transferred on any Virtual-Asset exchange,
+peer-to-peer platform or other secondary market. Any attempted disposition of a Token is
+null and void and will not be recognised by the Recipient. The Recipient will not create,
+support or facilitate any marketplace for Tokens and bears no responsibility or liability for
+any prohibited trading activity undertaken by Token Holders or third parties.
+(j) The Virtual Asset market is relatively new, and may be subject to heightened oversight
+and scrutiny, including investigations or enforcement actions. There can be no assurance
+that governmental authorities will not examine the operations of the Recipient, or enact
+regulations or pursue enforcement actions against Token Holders and the Recipient,
+including with respect to the purchase, sale or trade of Tokens, which could result in
+curtailment of, or inability of the Recipient to pay its Obligations, or judgments, settlements,
+fines or penalties against the Recipient could affect the ability of the Recipient to pay any
+of its Obligations.
+(k) The Recipient may cease to, or poorly, conduct business thereby impacting the ability of
+the Recipient to pay any of its Obligations.
+(l) The use of Virtual Assets to, among other things, participate in the smart contracts
+economy, is part of a relatively new and rapidly evolving industry that employs Virtual
+Assets based on a computer-generated mathematical and/or cryptographic protocol. The
+growth of this industry in general, and the use of Virtual Assets in smart contracts in
+particular, is subject to a high degree of uncertainty, and the slowing or stopping of the
+development or acceptance of developing protocols may occur and is unpredictable.
+Some factors that could impact market development include, but are not limited to (i)
+continued worldwide growth in the adoption and use of Virtual Assets; (ii) governmental
+and quasi-governmental regulation of Virtual Assets and their use, or restrictions on or
+regulation of access to and operation of the network or similar; (iii) changes in consumer
+
+PAGE 24
+24
+demographics and public tastes and preferences; (iv) the security and further development
+of decentralized finance protocols; (v) the availability and popularity of alternatives to
+decentralized finance; (vi) the potential success or failure of the business of the Recipient
+and its competitors in addition to desired use thereof; (vii) general economic conditions
+and the regulatory environment relating to Virtual Assets; (viii) negative consumer
+sentiment and perception of Tokens, Virtual Assets or Stablecoins generally.
+(m) Banks and financial institutions may not provide banking services, or may cut off services,
+to businesses that provide Virtual Asset-related services or that accept Virtual Assets or
+otherwise are involved in Virtual Assets, which may limit the Recipient to conduct business.
+A number of companies that are related to Virtual Assets do not find banks or financial
+institutions that are willing to provide them with bank accounts and other services.
+Similarly, a number of companies and individuals or businesses associated with Virtual
+Assets may have had and may continue to have their existing bank accounts closed or
+services discontinued with financial institutions. The difficulty that many businesses that
+provide crypto asset-related services have and may continue to have in finding banks and
+financial institutions willing to provide them services may be decreasing the usefulness of
+Virtual Assets, harming public perception of Virtual Assets and could decrease its
+usefulness and harm its public perception in the future. Similarly, the usefulness of Virtual
+Assets as a payment system and the public perception of Virtual Assets could be damaged
+if banks or financial institutions were to close the accounts of businesses providing Virtual
+Assets-related services. This could occur as a result of compliance risk, cost, government
+regulation or public pressure. These risks may impact the ability of the Recipient to pay
+any of its Obligations.
+(n) As part of the process for the sale of Tokens or payment of its Obligations to Token
+Holders, the Recipient and/or its agents may collect and retain personal information from
+Token Holders. The collection and retention of such information is subject to applicable
+laws and regulations. Further, databases holding such information are vulnerable to
+breaches and other forms of unauthorized access. The Recipient may be required to
+expend significant financial resources to alleviate problems caused by any breaches or
+losses, settle fines and resolve inquiries from regulatory or government authorities. Any
+information breaches or losses will also damage the Recipient’s reputation and thereby
+may impact the ability of the Recipient to pay any of its Obligations.
+(o) Tax laws and regulations are highly complex and subject to interpretation, especially when
+cross-border transactions and multiple tax jurisdictions are involved. Consequently, the
+Recipient may be subject to changing tax laws, treaties and regulations. If any tax authority
+successfully challenges the operational structure of the Recipient or the Recipient loses
+a material tax dispute, the Recipient’s tax liabilities could increase substantially. This could
+cause the Recipient’s financial resources to be constrained or impaired and could cause
+the Recipient to redomicile or to alter its legal entity structure in order to optimize its tax
+situation. This in turn could negatively affect the Recipient’s ability to manage and grow its
+business, which would negatively impact the ability of the Recipient to pay any of its
+Obligations.
+(p) The taxation of Virtual Assets is an evolving area of law and often varies widely between
+jurisdictions. Token Holders may have tax reporting implications, and the purchase or sale
+of Tokens may create liabilities for Token Holders, depending on their tax jurisdiction and
+situation. Token Holders are urged to consult their tax advisors prior to participating in a
+sale of Tokens. The Recipient expressly disclaims responsibility and liability for the tax
+treatment and tax obligations arising from participation in a sale of Tokens.
+17. TERM
+17.1 This Agreement shall continue to be in force until:
+(a) the failure of the Recipient to reach the Soft Cap, and the subsequent reimbursement of
+the Total Purchase Price;
+(b) a Dissolution Event of any party of this Agreement;
+(c) the End of Term, subject to the Recipient having satisfied the payment of all its Obligations
+under this Agreement; or
+
+PAGE 25
+25
+(d) the Token Holder ceases to be a Token Holder;
+17.2 If the Recipient possesses objective evidence that a specific Token Holder has breached its
+representations or warranties in a manner that would render further payments to that Token
+Holder unlawful (e.g., sanctions/Prohibited-Jurisdiction status or KYC failure), the Recipient may
+suspend payments solely to that Token Holder upon prior written approval of the Platform. Such
+suspension or termination shall not affect payments or rights of any other Token Holder. The
+Recipient shall promptly notify the affected Token Holder and the Platform with reasonably
+detailed particulars and supporting evidence. If the Recipient seeks to terminate this Agreement
+as to the affected Token Holder only, it must (i) obtain the Platform’s written approval, and (ii)
+continue to perform fully to all other Token Holders. Any disputed suspension/termination shall
+be submitted to LCIA under the expedited/emergency procedures, without delaying payments to
+non-affected Token Holders.
+17.3 Upon completion of the Term of this agreement at the End of Term, (i) all Tokens associated with
+the Investment shall be deemed expired and no longer valid for use, transfer, or claim, (ii) the
+corresponding Smart Contract governing said Tokens shall be deprecated and rendered inactive,
+(iii) subject to the survival expressly set out in the definition of End of Term, no further obligations,
+rights or functionalities related to the Tokens shall exist or be enforceable, (iv) the Token Holder
+will no longer be entitled to any Yield from the Recipient, and (v) the Token Holder will not be
+entitled to any profits derived from any continued operation of the Project and/or the sale of the
+Equipment.
+18. INDEMNIFICATION
+18.1 Each party (an “ Indemnifying Party”) shall indemnify, defend and hold harmless the other party
+(the “ Indemnified Party ”), its affiliates, and each of their directors, officers, employees, and
+agents from and against all claims, suits and proceedings and any and all related liabilities,
+losses, expenses, damages and costs (including, without limitation, reasonable attorneys’ fees)
+(collectively, “Losses”) incurred by the Indemnified Party, relating to or arising out of the breach
+by the Indemnifying Party of any of its duties, obligations, representations or warranties under
+this Agreement.
+18.2 An Indemnified Party will (i) promptly notify the Indemnifying Party of any claim, suit, or
+proceeding for which indemnity is claimed (but the Indemnifying Party shall be relieved from
+liability only to the extent any delay in providing such notice prevents the Indemnifying Party from
+defending such claim, suit or proceeding); (ii) cooperate reasonably with the Indemnifying Party
+at the Indemnifying Party’s expense; and allow the Indemnifying Party to control the defence or
+settlement thereof. The Indemnified Party will have the right to participate in any defence of a
+claim and/or to be represented by counsel of its own choosing at its own expense.
+18.3 The Recipient shall indemnify Token Holders for direct Losses arising from gross negligence,
+fraud, or wilful breach of this Agreement. Liability shall not exceed the Investment Amount
+received by the Recipient.
+19. DISCLAIMER OF WARRANTIES / LIMITATION OF LIABILITY
+19.1 The Recipient shall not be responsible for any loss or damage caused, directly or indirectly, by
+any events, actions or omissions beyond the control of the Recipient including, without limitation,
+loss or damage resulting, directly or indirectly, from any delays or inaccuracies in the transmission
+of orders and/or information due to breakdown or failure of transmission or communication
+facilities, or electrical power outage.
+19.2 The Recipient shall not be liable for any losses, indirect damages, or other liabilities, including
+but not limited to special, incidental, consequential, or other indirect damages, except in cases
+of fraud, wilful misconduct or gross negligence. This limitation applies even if such damages are
+foreseeable.
+19.3 For the avoidance of doubt, Token Holders waive any claim against the Platform in respect of
+the Tokens, Investment or Smart Contract performance.
+19.4 To the maximum extent permitted by law, the Platform’s cumulative liability arising out of or
+related to this Agreement is capped at the greater of (i) USD 10,000 or (ii) the Platform Business
+Fee actually retained for the relevant Funding Round.
+20. NO WAIVER
+
+PAGE 26
+26
+20.1 From time to time, the Recipient may fail to require or strictly enforce compliance with relation to
+any provision in this Agreement. The Recipient may also fail to exercise any or all of its rights
+empowered herein. Any such failure shall not be construed as a waiver or relinquishment of the
+Recipient’s right to assert or rely upon any such provision or right in that or in any other instance.
+If applicable, an express waiver given by the Recipient of any condition, provision, or requirement
+of this Agreement shall not constitute a waiver of any future obligation to comply with such
+condition, provision or requirement.
+21. GOVERNING LAW AND JURISDICTION
+21.1 These Terms, and any terms announced on the Platform are governed and shall be interpreted
+in accordance with English Law without giving effect to any conflict of laws principles that may
+provide for the application of the law of another jurisdiction.
+21.2 You agree to submit any Dispute (as defined below) to arbitration in accordance with the terms
+of Section 22. To the extent that the agreement to arbitrate is ineffective or void, you agree to
+submit to the exclusive jurisdiction of the courts of England.
+21.3 Notwithstanding the above, either Party may seek interim or injunctive relief from courts of
+competent jurisdiction prior to constitution of the tribunal.
+21.4 Any dispute shall be referred to arbitration under LCIA Rules, as outlined in Section 22.
+21.5 Nothing in this clause shall prevent the Platform from enforcing this limitation-of-liability provision
+in any competent forum.
+22. SUBMISSION TO ARBITRATION
+22.1 Any dispute, claim, suit, action, cause of action, demand, or proceeding arising out of or related
+to this Agreement (including with respect of their validity, existence, or termination), action or
+transaction under or contemplated by this Agreement, (any " Dispute") that is not settled by you
+and the Recipient within 30 Business Days from the date that either party notifies the other party
+in writing of the Dispute shall be referred to and finally settled by arbitration. Further, the parties
+hereby agree:
+(a) To attempt informal resolution prior to any demand for arbitration for at least 30 Business
+Days before initiating any arbitration or court proceeding. Such informal negotiations
+commence upon receipt of written notice from you. If the Parties cannot resolve the dispute
+on an informal basis, the Parties agree that any dispute arising under this Agreement shall
+be finally settled in binding arbitration, on an individual basis;
+(b) That any dispute, controversy or claim arising out of or relating to this Agreement, or the
+breach, termination or invalidity thereof, shall be settled by arbitration in accordance with
+the London Court of International Arbitration (“LCIA”) rules, which are deemed to be
+incorporated by reference into this clause;
+(c) That the number of arbitrators shall be one;
+(d) That the place of arbitration shall be London, United Kingdom, unless the Parties agree
+otherwise;
+(e) That the language to be used in the arbitral proceedings shall be English;
+(f) That the courts in England have exclusive jurisdiction over any appeals of an arbitration
+award and over any suit between the parties not subject to arbitration;
+(g) That the arbitrator has the authority to grant any remedy that would otherwise be available
+in court; and
+(h) That the parties shall split the costs and expenses of any arbitration and bear their own
+legal costs and expenses.
+23. MISCELLANEOUS
+23.1 You may not assign, transfer, novate or otherwise dispose of any rights and/or licenses granted
+under this Agreement unless prior written consent from the Recipient has been obtained. The
+Recipient reserves the right to assign its rights, but not its obligations, without Token Holder
+consent, including without limitation to any of its Affiliated Entities, affiliates or subsidiaries, or to
+any successor in interest of any business contemplated in this Agreement. Any attempted
+
+PAGE 27
+27
+transfer or assignment in violation hereof shall be null and void. Subject to the foregoing, this
+Agreement will bind and inure to the benefit of the parties, their successors and permitted
+assigns.
+23.2 If any provision of this Agreement shall be determined to be invalid or unenforceable under any
+rule, law or regulation or any governmental agency, local, state, or federal, such provision will be
+changed and interpreted to accomplish the objectives of the provision to the greatest extent
+possible under any applicable law and the validity or enforceability of any other provision of this
+Agreement shall not be affected.
+23.3 The Recipient shall have no liability for any failure or delay resulting from any abnormal or
+unforeseeable circumstances outside its reasonable control, the consequences of which would
+have been unavoidable despite all efforts to the contrary, including without limitation
+governmental action or acts of terrorism, war, earthquake, fire, flood, or other acts of god, labour
+conditions, delays or failures caused by problems with another system or network, mechanical
+breakdown or data-processing failures or where the Recipient is bound by other legal obligations.
+23.4 Upon termination of this Agreement for any other reason, all rights and obligations of the parties
+that by their nature are continuing will survive such termination.
+23.5 This Agreement is not intended and shall not be construed to create any rights or remedies in
+any parties other than you and the Recipient and any Affiliated Entities which each shall be a
+third-party beneficiary of this Agreement, and no other person shall assert any rights as a third-
+party beneficiary hereunder.
+23.6 The Recipient maintains all intellectual property rights, including but not limited to copyright and
+trademark rights, in and to the Tokens and any associated content. Token Holders are prohibited
+from using such intellectual property for commercial or promotional purposes.
+23.7 Any and all content made available by the Recipient such as, but not limited to, texts, graphics,
+images, logos, icons, photographs, editorial content, notifications, software and other material,
+belongs exclusively to the Recipient.
+23.8 The terms and provisions of this contract will prevail over any other understandings or previous
+agreements between the parties, express or implied, regarding the established conditions, and
+the parties will not be held responsible for any adjustments established by their employees,
+representatives, intermediaries, etc., which are not included in the clauses inserted in this
+instrument.
+23.9 The Parties agree that this Agreement may be executed and delivered by electronic means,
+including digital or electronic signatures (such as DocuSign, Adobe Sign, or equivalent
+platforms). Any such electronic execution shall have the same legal validity, enforceability, and
+evidentiary effect as a handwritten (“wet-ink”) signature, in accordance with the Electronic
+Communications Act 2000 (UK), Regulation (EU) No. 910/2014 on electronic identification and
+trust services (eIDAS), the U.S. ESIGN Act and Uniform Electronic Transactions Act (UETA),
+and any other applicable laws of the jurisdiction where the Parties are incorporated or operate,
+recognizing the validity of electronic signatures.
+23.10 The Token Holder declares that it accepts all terms of this agreement by clicking the tick box that
+appears before they sign the blockchain transaction to invest.
+THE TOKEN HOLDER ACKNOWLEDGES HAVING RECEIVED, READ AND UNDERSTOOD THE
+FOREGOING TERMS AND HEREBY AGREES TO BE BOUND BY ALL OF THE TERMS AND
+CONDITIONS HEREOF.

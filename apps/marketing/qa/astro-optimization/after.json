@@ -1,0 +1,420 @@
+{
+  "label": "after",
+  "origin": "http://127.0.0.1:4321",
+  "pages": [
+    {
+      "route": "/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "lcp": 160,
+      "cls": 0.000558572149080504,
+      "javascriptBytes": 177459,
+      "scripts": [
+        {
+          "name": "/_astro/index.astro_astro_type_script_index_0_lang.rhr1oQe4.js",
+          "bytes": 142
+        },
+        {
+          "name": "/_astro/NavigationIsland.D8HrV2Jf.js",
+          "bytes": 3501
+        },
+        {
+          "name": "/_astro/client.Dg_VwyLe.js",
+          "bytes": 65843
+        },
+        {
+          "name": "/_astro/ProductiveCapitalSection.Vdc6BGNf.js",
+          "bytes": 2141
+        },
+        {
+          "name": "/_astro/InfrastructureShowcase.CaiV5oNA.js",
+          "bytes": 2584
+        },
+        {
+          "name": "/_astro/GenZStack.DZjIaNpQ.js",
+          "bytes": 5543
+        },
+        {
+          "name": "/_astro/motion-runtime.tE2qfE8o.js",
+          "bytes": 52304
+        },
+        {
+          "name": "/_astro/rolldown-runtime.WkwZ5CU-.js",
+          "bytes": 599
+        },
+        {
+          "name": "/_astro/jsx-runtime.C2aMnSBe.js",
+          "bytes": 435
+        },
+        {
+          "name": "/_astro/icons.Rm2Ipl4x.js",
+          "bytes": 14245
+        },
+        {
+          "name": "/_astro/AnimatePresence.d6srGose.js",
+          "bytes": 2085
+        },
+        {
+          "name": "/_astro/use-reduced-motion.D1isKAFH.js",
+          "bytes": 26054
+        },
+        {
+          "name": "/_astro/preload-helper.DHhhL8Zf.js",
+          "bytes": 852
+        },
+        {
+          "name": "/_astro/image-url.DwU6IW2B.js",
+          "bytes": 152
+        },
+        {
+          "name": "/_astro/pinned-sequence.BvWM43ap.js",
+          "bytes": 979
+        }
+      ],
+      "fonts": [
+        {
+          "name": "/assets/fonts/display-latin.woff2",
+          "bytes": 32096
+        },
+        {
+          "name": "/assets/fonts/ui-latin.woff2",
+          "bytes": 31688
+        },
+        {
+          "name": "/assets/fonts/editorial-latin.woff2",
+          "bytes": 30744
+        },
+        {
+          "name": "/_astro/plus-jakarta-sans-latin-700-normal.CfpNZvy6.woff2",
+          "bytes": 12244
+        },
+        {
+          "name": "/_astro/plus-jakarta-sans-latin-500-normal.Bf-nb4oT.woff2",
+          "bytes": 12312
+        }
+      ],
+      "htmlBytes": 170850,
+      "cssBytes": 85983,
+      "islands": [
+        {
+          "name": "NavigationIsland",
+          "client": "load",
+          "hydrated": true
+        },
+        {
+          "name": "EcosystemRoles",
+          "client": "visible",
+          "hydrated": false
+        },
+        {
+          "name": "ProductiveCapitalSection",
+          "client": "load",
+          "hydrated": true
+        },
+        {
+          "name": "InfrastructureShowcase",
+          "client": "load",
+          "hydrated": true
+        },
+        {
+          "name": "GenZStack",
+          "client": "load",
+          "hydrated": true
+        },
+        {
+          "name": "ProjectStandards",
+          "client": "visible",
+          "hydrated": false
+        },
+        {
+          "name": "WorkspaceScroll",
+          "client": "visible",
+          "hydrated": false
+        }
+      ]
+    },
+    {
+      "route": "/contact/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "lcp": 148,
+      "cls": 0,
+      "javascriptBytes": 84039,
+      "scripts": [
+        {
+          "name": "/_astro/ContactExperience.BovOU96c.js",
+          "bytes": 2917
+        },
+        {
+          "name": "/_astro/client.Dg_VwyLe.js",
+          "bytes": 65843
+        },
+        {
+          "name": "/_astro/rolldown-runtime.WkwZ5CU-.js",
+          "bytes": 599
+        },
+        {
+          "name": "/_astro/jsx-runtime.C2aMnSBe.js",
+          "bytes": 435
+        },
+        {
+          "name": "/_astro/icons.Rm2Ipl4x.js",
+          "bytes": 14245
+        }
+      ],
+      "fonts": [
+        {
+          "name": "/assets/fonts/display-latin.woff2",
+          "bytes": 32096
+        },
+        {
+          "name": "/assets/fonts/ui-latin.woff2",
+          "bytes": 31688
+        }
+      ],
+      "htmlBytes": 18955,
+      "cssBytes": 8903,
+      "islands": [
+        {
+          "name": "ContactExperience",
+          "client": "load",
+          "hydrated": true
+        }
+      ]
+    },
+    {
+      "route": "/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "lcp": 176,
+      "cls": 0,
+      "javascriptBytes": 177459,
+      "scripts": [
+        {
+          "name": "/_astro/index.astro_astro_type_script_index_0_lang.rhr1oQe4.js",
+          "bytes": 142
+        },
+        {
+          "name": "/_astro/NavigationIsland.D8HrV2Jf.js",
+          "bytes": 3501
+        },
+        {
+          "name": "/_astro/client.Dg_VwyLe.js",
+          "bytes": 65843
+        },
+        {
+          "name": "/_astro/ProductiveCapitalSection.Vdc6BGNf.js",
+          "bytes": 2141
+        },
+        {
+          "name": "/_astro/InfrastructureShowcase.CaiV5oNA.js",
+          "bytes": 2584
+        },
+        {
+          "name": "/_astro/GenZStack.DZjIaNpQ.js",
+          "bytes": 5543
+        },
+        {
+          "name": "/_astro/motion-runtime.tE2qfE8o.js",
+          "bytes": 52304
+        },
+        {
+          "name": "/_astro/rolldown-runtime.WkwZ5CU-.js",
+          "bytes": 599
+        },
+        {
+          "name": "/_astro/icons.Rm2Ipl4x.js",
+          "bytes": 14245
+        },
+        {
+          "name": "/_astro/jsx-runtime.C2aMnSBe.js",
+          "bytes": 435
+        },
+        {
+          "name": "/_astro/use-reduced-motion.D1isKAFH.js",
+          "bytes": 26054
+        },
+        {
+          "name": "/_astro/AnimatePresence.d6srGose.js",
+          "bytes": 2085
+        },
+        {
+          "name": "/_astro/preload-helper.DHhhL8Zf.js",
+          "bytes": 852
+        },
+        {
+          "name": "/_astro/pinned-sequence.BvWM43ap.js",
+          "bytes": 979
+        },
+        {
+          "name": "/_astro/image-url.DwU6IW2B.js",
+          "bytes": 152
+        }
+      ],
+      "fonts": [
+        {
+          "name": "/assets/fonts/ui-latin.woff2",
+          "bytes": 31688
+        },
+        {
+          "name": "/assets/fonts/display-latin.woff2",
+          "bytes": 32096
+        },
+        {
+          "name": "/assets/fonts/editorial-latin.woff2",
+          "bytes": 30744
+        },
+        {
+          "name": "/_astro/plus-jakarta-sans-latin-700-normal.CfpNZvy6.woff2",
+          "bytes": 12244
+        },
+        {
+          "name": "/_astro/plus-jakarta-sans-latin-500-normal.Bf-nb4oT.woff2",
+          "bytes": 12312
+        }
+      ],
+      "htmlBytes": 170948,
+      "cssBytes": 85983,
+      "islands": [
+        {
+          "name": "NavigationIsland",
+          "client": "load",
+          "hydrated": true
+        },
+        {
+          "name": "EcosystemRoles",
+          "client": "visible",
+          "hydrated": false
+        },
+        {
+          "name": "ProductiveCapitalSection",
+          "client": "load",
+          "hydrated": true
+        },
+        {
+          "name": "InfrastructureShowcase",
+          "client": "load",
+          "hydrated": true
+        },
+        {
+          "name": "GenZStack",
+          "client": "load",
+          "hydrated": true
+        },
+        {
+          "name": "ProjectStandards",
+          "client": "visible",
+          "hydrated": false
+        },
+        {
+          "name": "WorkspaceScroll",
+          "client": "visible",
+          "hydrated": false
+        }
+      ]
+    },
+    {
+      "route": "/contact/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "lcp": 60,
+      "cls": 0,
+      "javascriptBytes": 84039,
+      "scripts": [
+        {
+          "name": "/_astro/ContactExperience.BovOU96c.js",
+          "bytes": 2917
+        },
+        {
+          "name": "/_astro/client.Dg_VwyLe.js",
+          "bytes": 65843
+        },
+        {
+          "name": "/_astro/rolldown-runtime.WkwZ5CU-.js",
+          "bytes": 599
+        },
+        {
+          "name": "/_astro/icons.Rm2Ipl4x.js",
+          "bytes": 14245
+        },
+        {
+          "name": "/_astro/jsx-runtime.C2aMnSBe.js",
+          "bytes": 435
+        }
+      ],
+      "fonts": [
+        {
+          "name": "/assets/fonts/display-latin.woff2",
+          "bytes": 32096
+        },
+        {
+          "name": "/assets/fonts/ui-latin.woff2",
+          "bytes": 31688
+        }
+      ],
+      "htmlBytes": 18955,
+      "cssBytes": 8903,
+      "islands": [
+        {
+          "name": "ContactExperience",
+          "client": "load",
+          "hydrated": true
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "top",
+      "text": "One electrification ecosystem. From energy to global capital. Connecting energy asset owners with global investors through asset review, tokenisation, and project reporting. Illustrative energy landscape. Background film controls are available in Resources."
+    },
+    {
+      "id": "energy-context",
+      "text": "The next economy needs power. AI, energy security and electrification are changing what the world needs to build. See the demand behind the infrastructure. Electricity, growth and the infrastructure ahead. 40-second motion loop · Optional sound The motion loop starts when visible. Use Resources to choose a static energy section. Sound is optional. AI needs dependable electricity. Data centres used an estimated 485 TWh globally in 2025. The IEA projects around 950 TWh by 2030. Energy security changes the equation. Oil supply disruptions strengthen the case for diversification and EVs, alongside investment in generation, grids and storage. Read the thesis and sources View the electricity and GDP data Meeting growing demand requires dependable energy infrastructure and capital."
+    },
+    {
+      "id": "why",
+      "text": "Electricity powers infrastructure. Capital powers electricity. Gen-Z connects energy asset owners with global investors, bringing projects, information, and financing opportunities into one place. Energy asset owners Present operating infrastructure and funding needs to a broader investor audience. Global capital Find energy projects and assess their investment potential. Illustrative connection between energy infrastructure, Gen-Z, and a global capital audience. The illustration does not represent a specific project or live investor activity. Connecting productive infrastructure in Indonesia with a wider world of capital."
+    },
+    {
+      "id": "ecosystem",
+      "text": "Who We Serve. Asset Operators Your energy asset generates real cashflow. Gen-Z puts it on-chain. Operating energy infrastructure generates stable, long-term cashflow from signed offtake agreements. Gen-Z puts that cashflow on-chain and connects your asset to a global pool of institutional capital. Asset types Solar Farm Solar PV EV Charging Energy Storage Data Center Discuss your asset Investors Access tokenised energy assets backed by live on-chain production data. Gen-Z gives investors on-chain access to operating energy assets with structured yield instruments backed by real production data and long-term energy contracts. What investors look for Stable monthly income backed by real assets Live data to verify performance before and after investing Regulated and compliant investment structure Launch app"
+    },
+    {
+      "id": "assets",
+      "text": "Connect your energy assets to global capital. Bring operating infrastructure, project information, and investor participation into one financing workflow. The turbine blades follow page scrolling. Reduced motion displays a stationary turbine. 01 Verify. Bring operating records, energy sales agreements, and payment history into a structured asset review. 02 Structure & tokenise. Define the financing terms and investor rights, with on-chain records supporting participation and reporting. 03 Connect to capital. Present the project to suitable investors with the information they need to assess the opportunity. From operating infrastructure to an opportunity investors can understand. Discuss your asset"
+    },
+    {
+      "id": "opportunities",
+      "text": "The infrastructure behind the opportunity. From renewable generation to storage and the infrastructure that puts energy to work. Renewable generation, category 1 of 3. Illustrative infrastructure. Renewable generation Where energy begins. Solar, wind, and renewable generation. The starting point is an operating asset, its commercial agreements, and evidence of collected revenue. Asset focus Solar & wind Initial market Indonesia View asset category 01 / 03 Operating infrastructure. Project-specific opportunities. Discuss your asset"
+    },
+    {
+      "id": "stack",
+      "text": "The Gen-Z stack. Connecting assets and capital. From physical infrastructure and project information to financing and the investor workspace. Energy Infrastructure LAYER 01: ENERGY INFRASTRUCTURE Renewable Generation Energy Storage Electrification Project Information LAYER 02: PROJECT INFORMATION Energy Production Revenue Agreements Operating Records Capital & Participation LAYER 03: CAPITAL & PARTICIPATION Project Agreements Investor Rights On-chain Records Investor Workspace LAYER 04: INVESTOR WORKSPACE Project Profiles Performance Updates Payment History"
+    },
+    {
+      "id": "evidence",
+      "text": "The foundation for energy asset financing. Bring energy contracts, investor agreements, and operating records into one clear project view. Understand the energy sales agreements that underpin the project’s revenue. Launch app Power Purchase Agreements (PPAs) Energy sales and contracted revenue Project Agreements & Investor Rights Participation terms and payment arrangements Energy Production & Billing Records Production reports, invoices, and payment records Project information A clearer view of the underlying asset. Connect the physical infrastructure with the agreements and records behind it. Clear agreements. Defined participation. Understand the project’s financing structure, investor rights, and payment arrangements alongside the infrastructure behind them. Discuss your asset From asset review to investor access. We review operating records and revenue agreements, structure the financing terms, and prepare the project for investor assessment. 1. Asset & Revenue Reviewed 2. Project Terms Structured 3. Prepared for Investor Review"
+    },
+    {
+      "id": "platform",
+      "text": "Understand the opportunity. Follow its performance. A connected view of the project, its operating performance, and the payments you receive. Know the asset. Understand the infrastructure, its revenue sources, and the terms behind the opportunity. Follow performance. See project updates and operating records alongside the investment. See your payments. Keep the payments you receive connected to the project behind them. Gen-Z workspace Illustrative project view Asset overview Performance Payments Renewable generation The asset behind the opportunity. Bring the infrastructure, revenue model, and project agreements into focus. Infrastructure Rooftop solar Revenue source Energy sales Project information Operating records & agreements Energy infrastructure, with the information to understand it. Launch app"
+    },
+    {
+      "id": "comparison",
+      "text": "A new connection. Energy assets and global capital. Energy financing can be difficult to access and follow. Gen-Z brings assets, project information, and investor participation into one connected view. Traditional energy asset financing Closed networks Opportunities stay within private networks. Fragmented information Contracts and operating records sit in separate places. Limited visibility The asset and its payments can be hard to follow. Gen-Z Broader asset access Connect operating energy assets with a wider investor audience. A clearer project view Review project agreements, investor rights, and operating records together. Connected cashflow Follow project performance and the payments you receive. The asset. The information. The connection."
+    },
+    {
+      "id": "connect",
+      "text": "Earn from real infrastructure Review assets, monitor performance, and earn revenue generated by real-world energy infrastructure. Get started now"
+    }
+  ]
+}

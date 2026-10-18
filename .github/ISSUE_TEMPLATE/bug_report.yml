@@ -1,0 +1,21 @@
+name: Laporan bug
+description: Catat perilaku yang salah dan cara mereproduksinya.
+body:
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Langkah reproduksi dan hasil aktual
+      description: Sertakan route, langkah, serta pesan error yang sudah dibersihkan dari credential/data pribadi.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Hasil yang diharapkan
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Lingkungan dan bukti
+      description: Browser/OS, branch/commit, screenshot atau log aman bila tersedia.

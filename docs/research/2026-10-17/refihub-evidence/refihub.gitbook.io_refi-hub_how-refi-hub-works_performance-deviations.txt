@@ -1,0 +1,54 @@
+Performance Deviations | ReFi Hub
+🌐
+ReFi Hub
+🌐
+ReFi Hub
+Infrastructure-backed cashflow
+🌐
+How ReFi Hub works
+What ReFi Hub does
+Where returns come from
+How cashflow is defined
+Who is ReFi Hub is for
+Asset Selection & Due Diligence
+Geographical Focus
+Contracts & Distribution Mechanics
+Risk & Variability
+Performance Deviations
+Transparency & Reporting
+Technology & Settlement
+Fees on ReFi Hub
+Why ReFi Hub Exists
+ReFi Hub in one sentence
+🌐
+Environmental Impact
+User Impact & SDG alignment
+🌐
+Legal
+Terms & Conditions
+Privacy Policy
+Contracts with listed business
+🌐
+Additional
+Terminology
+Key Resources & Links
+Powered by GitBook
+On this page
+For the complete documentation index, see
+llms.txt
+. This page is also available as
+Markdown
+.
+Infrastructure cashflow reflects real-world operations and can vary over time.
+If revenue is lower than projected, Token Holder distributions adjust in line with actual asset cashflow.
+If a payment is late, the Recipient has 5 business days from the payment date to rectify before any penalty applies. After that, a penalty accrues at the lesser of 10% per 30 business days or the maximum permitted under applicable law.
+If a payment remains unpaid beyond 30 business days, this constitutes a First Payment Default. The Recipient then has a further 60 business days following written notice from the Collateral Agent to cure the default before formal enforcement is triggered.
+If a second payment is missed within any rolling 12-month period and remains unpaid beyond 30 business days, this constitutes an automatic Event of Default with no further notice or cure period required.
+Where an Event of Default is triggered, investor protections such as collateral or guarantees may be exercised where available and legally enforceable.
+Outcomes depend on asset performance, counterparty conduct, contractual terms, and jurisdiction.
+Previous
+Risk & Variability
+Next
+Transparency & Reporting
+Last updated
+7 months ago

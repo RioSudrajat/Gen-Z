@@ -1,0 +1,1248 @@
+PAGE 1
+SURYA TOKEN SALE & INVESTMENT AGREEMENT TERMS & CONDITIONS 
+ 
+These Terms and Conditions of the SURYA Token Sale and Investment Agreement (the “Agreement”) 
+are legal and binding terms between RECHARGE NETWORK LTD ., a company limited by shares 
+incorporated in the British Virgin Islands with registration number 2148239, its successors and assigns 
+(hereinafter the "Company", “our”, “us” or “ we”), and the Token Holder acquiring and/or holding the 
+Tokens representing the Investment or conducting any Transactions contemplated in this Agreement. 
+This Agreement sets out the respective rights and obligations of both parties in connection with the 
+Tokens, the Investment and the Transactions and both parties will accept and be bound by these terms 
+on acceptance of the terms and conditions contained herein. 
+In consideration of the Company agreeing to sell Tokens through Refi Hub to the Token Holder and to 
+conduct the Transactions with the Token Holder, the Token Holder agrees that the following rights and 
+obligations will govern the relationship between the Company and the Token Holder. 
+The Token Holder is strongly encouraged to seek legal, financial, and tax advice regarding their 
+individual circumstances and objectives in determining whether to purchase or dispose of Tokens. 
+The information in this Agreement does not constitute a recommendation by the Company, or any other 
+person, nor does it constitute advice on the merits of the Tokens, the Investment and the Transactions. 
+The information in this Agreement does not necessarily identify, or purport to identify, all the risk factors 
+associated with the Tokens, Transactions and the Investment. Token Holders must make their own 
+independent assessment, after making such investigations as they consider necessary, of the merits of 
+the Tokens, Transactions and the Investment. Token Holders should consult and rely upon their 
+accounting, legal and tax representatives and advisers in order to evaluate the economic, legal and tax 
+consequences of acquiring Tokens, providing the Investment and conducting Transactions. 
+Token Holders must also investigate themselves as to the regulations within the countries of their 
+nationality, residence, ordinary residence or domicile regarding the Tokens, the Investment, and the 
+Transactions including, but not limited to, restrictions  or regulations regarding (1) buying, holding, 
+trading or disposing of cryptographic coins/tokens or virtual currencies in general; or (2) the exchange 
+or export of their applicable currency. The Company does not offer to sell Tokens to the Token Holder, 
+and is not soliciting the purchase of Tokens or the Investment in any jurisdiction or to any person to 
+whom it is unlawful to make such an offer or solicitation in such jurisdiction. 
+The Token Holder acknowledges that in the event of any differences between the terms provided in this 
+Agreement and any Materials, this Agreement shall supersede any contrary information set forth in the 
+Materials. The Token Holder has had an opportunity t o (i) ask questions of and receive answers from 
+the Company concerning this Agreement, the Materials, and the business of the Company; and (ii) 
+obtain any additional information concerning this Agreement, the Company, the Materials, and any 
+related material, if said information is not confidential, to the extent the Company possesses relevant 
+information or can acquire it without unreasonable effort or expense. 
+Certain information contained in this Agreement and the Materials constitutes "forward looking 
+statements", which can be identified by the use of forward -looking terminology such as "may", "will", 
+"should", "expect", "anticipate", "project", "estimate", "i ntend", or "believe" or the negatives thereof or 
+other variations thereon or comparable terminology. Due to various risks and uncertainties, including 
+those described under the section headed "Risk Disclosures," actual events or results or the actual 
+performance of Tokens, Investment and/or the Company may differ materially from those reflected or 
+contemplated in such forward-looking statements. 
+PLEASE READ THE TERMS CAREFULLY AS THEY GOVERN YOUR RELATIONSHIP WITH THE 
+COMPANY. IF YOU DISAGREE WITH ANY PART OF THE TERMS THEN YOU SHALL NOT 
+ACQUIRE TOKENS FROM THE COMPANY, PROVIDE THE INVESTMENT TO OR CONDUCT ANY 
+TRANSACTIONS WITH THE COMPANY. THIS AGREEMENT CONTAINS A BINDING ARBITRATION 
+CLAUSE THAT IMPACTS YOUR RIGHTS ABOUT HOW TO RESOLVE DISPUTES. PLEASE READ 
+IT CAREFULLY. 
+BY CONDUCTING THE TRANSACTIONS, PROVIDING THE INVESTMENT, AND/OR ACQUIRING 
+TOKENS (I) YOU HAVE READ AND UNDERSTOOD YOUR OBLIGATIONS AND RIGHTS UNDER 
+THE TERMS AND AGREE AND ACKNOWLEDGE THAT THIS AGREEMENT WILL COMPRISE THE 
+
+PAGE 2
+ 
+ 2 
+FULL TERMS AND CONDITIONS OF YOUR RELATIONSHIP WITH THE COMPANY; (II) YOU 
+AGREE THAT YOU ARE FULLY RESPONSIBLE FOR MAKING ALL DECISIONS AS TO 
+TRANSACTIONS EFFECTED WITH THE COMPANY; (III) YOU ARE AWARE OF THE RISKS 
+ASSOCIATED WITH THE TOKENS, THE TRANSACTI ONS AND THE INVESTMENT; (IV) YOU 
+ASSUME ALL RISKS RELATED TO THE TOKENS, THE TRANSACTIONS AND THE INVESTMENT; 
+(V) TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW,  THE COMPANY SHALL NOT 
+BE LIABLE FOR ANY SUCH RISKS OR ADVERSE OUTCOMES; AND (VI) YOU DECLARE THAT 
+YOU HAVE CONSIDERED THE FOREGOING FACTORS AND IN VIEW OF YOUR PRESENT AND 
+ANTICIPATED FINANCIAL RESOURCES, YOU ARE WILLING AND ABLE TO ASSUME THE 
+SUBSTANTIAL FINANCIAL RISKS OF ACQUIRING THE TOKENS, PROVIDING THE INVESTMENT 
+OR CONDUCTING THE TRANSACTIONS. 
+THE TOKENS HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS 
+AMENDED, AND HAVE NOT BEEN REGISTERED WITH, OR APPROVED BY, THE SECURITIES 
+AND EXCHANGE COMMISSION, ANY STATE OR ADMINISTRATOR OR ANY OTHER 
+REGULATORY AUTHORITY IN ANY JURISDICTION. NO SUCH AUTHORITY HAS PASSED UPON 
+OR ENDORSED THE MERITS OF THE TOKENS OR THE ACCURACY OR ADEQUACY OF THIS 
+AGREEMENT, NOR IS IT INTENDED THAT ANY SUCH AUTHORITY WILL DO SO. ANY 
+REPRESENTATION TO THE CONTRARY IS A CRIMINAL OFFENSE.  
+THE TOKENS AND THE TRANSACTIONS ARE NOT AVAILABLE TO US PERSONS OR TO ANY 
+PERSONS RESIDING IN ANY PROHIBITED JURISDICTION. 
+IT IS YOUR RESPONSIBILITY TO OBTAIN ALL NECESSARY INFORMATION ABOUT ACQUIRING 
+AND HOLDING TOKENS AND VIRTUAL ASSETS IN GENERAL, AND THIS AGREEMENT AND 
+MAKE SURE THAT ALL RISKS AND ARRANGEMENTS ARE DISCUSSED AND CLEARLY 
+UNDERSTOOD PRIOR TO EFFECTING ANY TRANSACTION WITH THE COMPANY. 
+1. DEFINITIONS AND INTERPRETATION 
+1.1 When used in this Agreement, the following capitalised terms shall have the meanings set forth 
+below, unless the context otherwise requires or unless otherwise expressly provided herein. 
+TERM DEFINITION 
+Affiliated Entities includes, but is not limited to, any partnership, corporation, 
+limited liability company, trust, or other entity or association, 
+directly or indirectly, through one or more intermediaries, 
+controlling, controlled by, or under common control with, the 
+Company. The term “control” as used in the immediately 
+preceding sentence means, with respect to a corporation, the 
+right to exercise, directly or indirectly, more than 25% of the 
+voting rights attributable to the controlled corporation or limited 
+liability com pany, and, with respect to any partnership, trust, 
+other entity or association, the possession, directly or indirectly, 
+of the power to direct or cause the direction of the management 
+or policies of the controlled entity. 
+Delivery  Date is defined in section 3.3 of this Agreement. 
+Purchase Price shall mean the price per Token purchased by a Token Holder, 
+as provided in section 3.3 of this Agreement. 
+Business Day shall mean any day other than a Saturday, Sunday or public 
+holiday 
+Closing Date shall mean the date on which the Company concludes the sale 
+of Tokens, as provided in section 3.3 of this Agreement. 
+
+PAGE 3
+ 
+ 3 
+TERM DEFINITION 
+Company, our, us or we shall, where the context so permits or requires, mean 
+RECHARGE NETWORK LTD., or its subsidiaries and Affiliated 
+Entities and their successors and assigns. 
+Dispute Is defined in section 21.1 of this Agreement. 
+Dissolution Event shall mean (i) a voluntary termination of operations  (excluding 
+any corporate reorganization or restructuring) , (ii) a general 
+assignment for the benefit of the Company’s creditors or (iii) any 
+other liquidation, dissolution or winding up of the Company, 
+whether voluntary or involuntary  (excluding any corporate 
+reorganization or restructuring). 
+Eligible Person shall mean a Person that is: 
+a) if a natural person, at least 18 years old or of legal age 
+to form a binding contract under applicable law; 
+b) not a U.S. Person; 
+c) not physically in any Prohibited Jurisdiction; 
+d) not a resident of any Prohibited Jurisdiction; 
+e) not a legal person or legal arrangement incorporated, 
+registered or organized under the laws of any Prohibited 
+Jurisdiction with the exception of i) limited liability 
+companies organized under the Limited Liability 
+Companies Act of St Vincent and the Grena dines, ii) 
+business companies incorporated under the Business 
+Companies (Amendment & Consolidation) Act of St 
+Vincent and the Grenadines, iii) business companies 
+incorporated under the Business Companies Act of 
+Anguilla, iv) international business companie s 
+incorporated under the International Business 
+Companies Act of Antigua and Barbuda, v) International 
+Limited Liability Companies organized under the 
+International Limited Liability Companies Act of Antigua 
+and Barbuda, and vi) international business comp anies 
+incorporated under the International Business 
+Companies Act of Saint Lucia;  
+f) not by reason of nationality, domicile, citizenship, 
+residence or otherwise subject to the laws of a 
+Prohibited Jurisdiction; 
+g) not a politically exposed person; and 
+h) not in any trade or economic sanctions lists, including, 
+but not limited to, the UN Security Council Sanctions list, 
+designated as a “Specially Designated National” by 
+OFAC (Office of Foreign Assets Control of the U.S. 
+Treasury Department) or placed on the U.S. Commerce 
+Department’s “Denied Persons List”, or any other trade 
+or economic sanctions list of the United States of 
+America, Canada, the United Kingdom of Great Britain 
+and Northern Ireland, the European Union, the Republic 
+of Singapore or the Swiss Confederation. 
+End of Term shall mean the date on which  (i) the Company shall make the 
+final Yield Payment on the Investment Amount, (ii) all Tokens 
+shall automatically expire and become invalid for any use or 
+claim, and (iii) the associated smart contract shall be deprecated 
+and rendered inactive, as provided in section 3.4 of this 
+Agreement. Upon the occurrence of the End of Term, no further 
+
+PAGE 4
+ 
+ 4 
+TERM DEFINITION 
+obligations, rights, or functionalities related to the Tokens shall 
+exist or be enforceable by any party. 
+Event of Default shall mean one or more of the following events: 
+a) if the Company fails to pay any of the Obligations for a 
+continuous period of three (3) months from when such 
+payments are due; 
+b) if the Company fails or neglects to perform or observe 
+any other material term, provision, condition, covenant 
+contained in this Agreement; 
+c) if the Company is enjoined, restrained, or in any way 
+prevented by court order from continuing to conduct all 
+or any part of its business affairs; or 
+d) if the Company becomes insolvent, or if an insolvency 
+proceeding is commenced by the Company, or if an 
+insolvency proceeding is commenced against the 
+Company and is not dismissed or stayed within 20 
+Business Days. 
+Forks is defined in section 3.18 of this Agreement. 
+Indemnified Party is defined in section 17.1 of this Agreement. 
+Indemnifying Party is defined in section 17.1 of this Agreement. 
+Investment shall mean the Investment represented by Tokens and provided 
+by the Token Holder as further described in section 3.2 of this 
+Agreement, which shall be valid and enforceable only until the 
+Stipulated Timliene. 
+Investment Amount is defined in section 3.4 of this Agreement. 
+KYC Process is defined in section 8.1 of this Agreement. 
+KYC/AML & CTF Policy shall mean the policies and procedures implemented by Refi 
+Hub to detect and prevent money laundering, terrorist financing, 
+and corruption. 
+Losses is defined in section 17.1 of this Agreement. 
+Materials shall mean any whitepaper, content or documents issued or 
+produced by the Company related to Tokens or Investments, 
+including the Company’s website, and the information and 
+documents about the Company available at 
+https://www.refihub.io, provided that such Materials are 
+expressly designated by the Company as forming part of the 
+Materials for the purposes of this Agreement. 
+Minimum Purchase 
+Amount 
+shall mean the minimum amount of Tokens that a potential 
+Token Holder shall purchase from the Company, as provided in 
+section 3.3 of this Agreement. 
+Money means the money or currency of any country or jurisdiction that 
+is: 
+a) designated as legal tender; and, 
+
+PAGE 5
+ 
+ 5 
+TERM DEFINITION 
+b) circulated, customarily used, and accepted as a medium 
+of exchange in the country or jurisdiction of issuance. 
+Obligation shall mean any Yield, Penalty, or Investment Amount payable by 
+the Company to the Token Holder. 
+Payment Date are the dates on which the Company shall pay the Yield to the 
+Token Holder, as provided in section 3.3 of this Agreement. 
+Penalty is defined in section 3.10 of this Agreement. 
+Person shall mean any individual, corporation, partnership, trust, limited 
+liability company, association or other entity, including any 
+decentralized autonomous organization or other similar 
+decentralized or distributed entity. 
+Prohibited Jurisdiction shall mean (i) the United States, the Province of Ontario of 
+Canada, the People’s Republic of China, Anguilla, Afghanistan, 
+Antigua and Barbuda, Belarus, Central African Republic, Congo, 
+Democratic Republic of the Congo, Republic of the Cote D'Ivoire, 
+Crimea (a region of Ukraine annexed by the Russian 
+Federation), the self -proclaimed Donetsk People’s Republic (a 
+region of Ukraine), the self -proclaimed Luhansk Peopl e’s 
+Republic (a region of Ukraine), Kherson Oblast (a region of 
+Ukraine), Zaporizhzhia Oblast (a region of Ukraine), Cuba, 
+Dominica, El Salvador, Eswatini, Gambia, Grenada, Iran, Iraq, 
+Liberia, Libya, Malawi, Mali, Moldova, Montserrat, Myanmar, 
+Niger, North Korea, Palestinian Territory, Saint Kitts and Nevis, 
+Saint Lucia, Saint Vincent and the Grenadines, South Sudan, 
+Sudan, Syria, Venezuela, Yemen, Zambia, Zimbabwe; (ii) any 
+state, country or other jurisdiction that is sanctioned and/or 
+embargoed by the United States of America, the United Nations, 
+the United Kingdom, the European Union and/or Switzerland; (iii) 
+a jurisdiction where it would be illegal according to local law or 
+regulation for you to acquire Tokens or securities; or (iv) where 
+the distribution and sale of virtual assets or Tokens or securities 
+is prohibited or contrary to local law or regulation, or could 
+subject the Company or its Affiliated Entities to any local 
+registration, regulatory or licensing requirements. 
+Refi Hub shall mean the Refi Hub Platform available at 
+https://www.refihub.io and through which the Company shall 
+distribute the Tokens to eligible Token Holders. 
+Relevant Dated is defined in section 11.1(ee) of this Agreement. 
+Soft Cap shall mean the minimum amount of Tokens that the Company 
+shall sell to potential Token Holders, in order for a raise to 
+proceed successfully. 
+Stablecoin shall mean a Virtual Asset whose issuer claims that it is pegged 
+to the US dollar or other fiat currency, such as USDC or USDT. 
+Station shall mean the Electric Vehicle Charging station being built 
+through the funding raised from the Token Sale , including a 
+minimum of fifteen (15) 7.3 kW Beast Chargers, and four (4), DC 
+Fast Chargers of either 60 or 120 kW. 
+
+PAGE 6
+ 
+ 6 
+TERM DEFINITION 
+Token Holder Wallet 
+Access Credentials 
+is defined in section 4.5 of this Agreement. 
+Token Holder, or you shall mean the party who has agreed to be bound by the terms 
+of this Agreement, and holds Tokens from time to time. 
+Tokens shall mean the cryptographic , non-transferable tokens that are 
+sold by the Company pursuant to this Agreement as further 
+described in section 3 of this Agreement.  
+Total Purchase Price is defined in section 4.3 of this Agreement. 
+Transactions shall mean any payments of the Total Purchase Price by the 
+Token Holder to the Company, and/or any payments of Yield and 
+Penalties by the Company to the Token Holder, or any other 
+transaction between the Company and the Token Holder. 
+U.S. or US or United 
+States 
+shall mean all states of the United States of America, the District 
+of Columbia; the Commonwealth of Puerto Rico; the U.S. Virgin 
+Islands; Guam; the Commonwealth of the Northern Mariana 
+Islands; and all other territories and possessions of the United 
+States of America. 
+US Person shall mean (i) a U.S. citizen; (ii) a U.S. lawful permanent resident; 
+(iii) a protected individual under section 1324b(a)(3) of the U.S. 
+Immigration and Nationality Act, or individual who holds a 
+passport issued by the United States Government; (iv) a 
+corporation, company, partnership, or other legal entity 
+established or organized in or unde r the Laws of the United 
+States; (v) an individual, a corporation, company, partnership, or 
+other legal entity which engages in a trade or business in the 
+United States and generates income from sources within the 
+United States connected with the conduct o f that trade or 
+business; (vi) any estate of a decedent who was a U.S. citizen 
+or a U.S. lawful permanent resident; or a protected individual 
+under section 1324b(a)(3) of the U.S. Immigration and 
+Nationality Act; (vii) any trust if a court within the Unite d States 
+is able to exercise primary supervision over the administration of 
+the trust, and/or one or more US Persons have the authority to 
+control all substantial decisions of the trust, and/or one or US 
+Persons are designated as settlors, trustees, protec tors or 
+beneficiaries; (viii) any person organized or incorporated outside 
+the United States and the Territory or Insular Possession of the 
+United States in which any of the foregoing, whether singularly 
+or in the aggregate, directly or indirectly holds a 50 percent or 
+greater equity Yield by votes or value, holds a majority of seats 
+or memberships on the board of directors of the entity, or 
+authorizes, establishes, directs, or otherwise controls the 
+actions, policies, personnel decisions, or day -to-day operations 
+of the person; or (ix) any person who is subject to taxes in the 
+US. 
+Virtual Assets shall mean a digital representation of value that functions as 
+a) a medium of exchange;  
+b) a unit of account;  
+c) a store of value, and/or  
+
+PAGE 7
+ 
+ 7 
+TERM DEFINITION 
+d) other similar digital representations of rights or assets, 
+which is neither issued nor guaranteed by any country 
+or jurisdiction. 
+Wallet shall mean a digital wallet held by the Token Holder that is 
+capable of storing, sending and receiving Tokens and other 
+Virtual Assets. 
+Yield is defined in section 3.6 and 3.6 of this Agreement. 
+ 
+1.2 In this Agreement, unless the context otherwise requires 
+(a) words importing the singular include the plural and vice versa; 
+(b) words importing a gender include both gender and the neuter; 
+(c) words importing persons include companies, associations and bodies of persons whether 
+corporate or not;  
+(d) the words: “may” shall be construed as permissive; “shall” or “will” shall be construed as 
+imperative; 
+(e) the term “include” or “includes” means includes, without limitation, and “including” means 
+including, without limitation; 
+(f) the terms “hereof”, “herein” and “hereunder” refer to this Agreement as a whole and not to 
+any particular provision of this Agreement; and 
+(g) the headings contained in this Agreement are for reference purposes only, and shall not 
+affect in any way the meaning or interpretation of this Agreement. 
+1.3 The titles, subtitles and headings used herein are provided for convenience only and should not 
+be considered in construing or interpreting this Agreement.  
+1.4 The Terms and related documents may be translated. Any translation is for reference purposes 
+only and is not certified by any person. Only the English language version of this Agreement and 
+its related documents have legal effect and shall prevail to the extent of any inconsistency.  
+2. ELIGIBILITY 
+2.1 The acquisition of Tokens from the Company or from any other Person and the receipt of any 
+Transactions from the Company is intended for and extended only to a Person who is an Eligible 
+Person, as determined by ReFi Hub. Accordingly, if you are not an Eligible Person, you are not 
+eligible to acquire Tokens and you are not eligible to receive any Transactions. If you are not an 
+Eligible Person, or if you are acting on behalf of a Person that is not an Eligible Person, you must 
+not acquire Tokens and you must  not cause the Company to undertake any Transactions with 
+you. 
+3. TOKENS AND INVESTMENT 
+3.1 The cryptographic tokens to be offered for sale by the Company are the SURYA Tokens, and are 
+divisible up to 2 decimal places. The tokens will be issued through Solana and may be held in a 
+Wallet compatible with the Solana blockchain. 
+3.2 The Tokens represent a limited, non-equity Investment in the Company (the “ Investment”) as 
+further described herein, and subject to the terms of this Agreement, and are available for 
+purchase by an Eligible Person through Refi Hub.  By acquiring Tokens, each Token Holder 
+hereby acknowledges and expressly consents to the temporal nature of the Investment. This 
+includes, without limitation, the automatic expiration of the Tokens and the termination of all Yield 
+obligations upon the completion of the Stipulated Timeline, as defined in this Agreement. Token 
+Holders further waive any claim to rights, payments, or entitlements beyond such timeline. 
+3.3 The economics of the Investment represented by the Tokens are the following: 
+
+PAGE 8
+ 
+ 8 
+Token Symbol SURYA 
+Token Collection Name Refi Hub - EV SURYA Launch  
+Purchase Price 1.00 USDC per Token 
+Maximum Supply of Tokens 150,000.00 
+Soft Cap 149,000.00 
+Minimum Purchase Amount 1 Token 
+Closing Date September 15th, 2025 13:00 UTC 
+First Repayment Date The date that is the earlier of: (i) 30 days after the 
+Stations become operational; or (ii) between 
+January 15th – 20th, 2026. If the Station is not 
+operational or not in a position to make Yield 
+payments by the First Repayment Date, the 
+Company shall, from that date, make monthly 
+payments equal to 2.5% of the Investment 
+Amount. These payments shall continue until the 
+Project begins making Yield payments as defined 
+under this Agreement. 
+End of Term Variable, with specific terms laid out in Section 
+3.8. 
+Yield Rate Variable, with specific terms laid out in Section 
+3.6. 
+Yield Payment Date (“Payment Date”) Monthly between the 15th and the 20th of each 
+month.  
+Delivery Date (“Delivery Date”) Tokens shall be distributed either when the 
+Maximum Supply of Tokens is reached, or on the 
+Closing date, occurring on whichever date is 
+sooner.  
+3.4 Subject to and upon the terms and conditions hereof, the Tokens represent the Investment in the 
+Company in an amount equal to the Price per Token multiplied by the number of Tokens that the 
+Token Holder holds (the “ Investment Amount”). Upon the occurrence of the End of Term, all 
+Tokens shall automatically expire and become null, void, and unenforceable for any purpose or 
+claim. At such time the corresponding smart contract shall be deprecated and rendered 
+permanently inactive and the Company shall have no further obligations or liabilities to any Token 
+Holder; and each Token Holder shall be deemed to have irrevocably waived any and all rights, 
+claims, or entitlements against the Company that may arise after the expiration date. No rights, 
+
+PAGE 9
+ 
+ 9 
+obligations, or functionalities associated with the Tokens shall survive or be enforceable beyond 
+the End of Term. 
+3.5 If the Company fails to reach the Soft Cap on the Closing Date, this Agreement shall be 
+terminated. In such case, the Token Holder shall have the ability to claim the Purchase Price per 
+Token by burning the purchased Tokens through Refi Hub. Upon successfu lly burning the 
+purchased Tokens, the Token Holder shall receive the Purchase Price per Token paid minus any 
+fees incurred as the result of blockchain transactions. 
+3.6 From the First Repayment Date until the End of Term, inclusive of both dates, the Investment 
+Amount shall bear Yield equal to 60% of the net profit generated by the Station. For the purposes 
+of this clause, net profit shall mean the total revenue generated by the Station after deducting an 
+operating cost of $0. 05 per kWh (the “OPEX CAP”) charged by the Company and the actual 
+electricity cost incurred; and all applicable taxes ( “Net Profit ”), with 30% of the Net Profits 
+belonging to the Company, and 10% of t he Net Profits belonging to Re fi Hub. Should the 
+combined cost of electricity and the OPEX CAP at any point exceed $0.15 per kWh (the “Total 
+Expense Allowance ”), or should the electricity cost increase at any point throughout the 
+Stipulated Timeline, the Company shall deliver a written justification and suitable evidence of 
+such increase to the ReFi Hub Platform. Additionally, at any point throughout the Stipulated 
+Timeline, including if the cost of energy increases, ReFi Hub may request proof of th e actual 
+electricity costs, in the form of electricity bills from the chargers. The Business is required to 
+oblige these requests within a maximum of 30 Business Days. Additionally, the Company agrees 
+to provide ReFi Hub with access to an API / Dashboard showing charger usage data. Case 
+studies of yield from similar projects are laid out in the Company’s Materials, however these 
+estimates are in no way reflect any guarantee from the Company, are not legally binding and 
+could be affected by a number of reasons including usership of th e Station, unforeseen 
+circumstances or any other reason such as those mentioned within the Disclaimers. 
+3.7 Yield under this Agreement shall be calculated on the basis of a year of 365 days (or 366 days in 
+the case of a leap year) for the actual number of days elapsed during the period for which Yield 
+is calculated. Yield shall be so calculated with respect to each day during such period by 
+multiplying the Investment Amount on such day at the close of business on such day by a daily 
+Yield factor, which Yield factor shall be calculated by dividing the Yield Rate per annum in effect 
+on such day with respect to such Investment by 365 (or 366 days in the case of a leap year). 
+3.8 Yield shall be paid on the Payment Dates, monthly, from the First Repayment Date until both of 
+the following terms have occurred: (i) the Station stops generating sales revenue, due to broken 
+or malfunctioning equipment that cannot be repaired under commercially reasonable costs; and 
+(ii) the expiry of thirty-six (36) months from the First Repayment Date (the "Stipulated Timeline"). 
+Should the Station break down before the expiry of thirty-six (36) months, the Company shall be 
+obligated to burden the cost of repairing or replacing the Station to full functionality, so that it may 
+continue to pay Yield until this time period is met.  The Company’s obligation to pay Yield shall 
+automatically terminate upon the expiration of the Stipulated Timeline. Upon such termination, 
+Token Holders expressly and irrevocably waive any right or claim to receive further Yield beyond 
+that date. Notwithstanding the above, the Company guarantees that the total Yield paid to each 
+Token Holder over the course of the Stipulated Timeline shall be no less than one point five (1.5) 
+times the Token Holder’s original  Investment Amount (the “ Minimum Payback Guarantee ”). 
+Should the Station break down before this Minimum Payback Guarantee is delivered, the 
+Company shall either (i)  be obligated to burden the cost of repairing, or replacing the Station to 
+full functionality, so that it may continue to pay Yield until this Minimum Payback Guarantee is 
+met, or (ii) shall pay any remaining Yield amount needed to make whole the Minimum Payback 
+Guarantee, accounting for any Yield already paid to Token Holders. Should the Company opt for 
+option (ii), this final payment shall be delivered within a maximum of 90 business days from the 
+stoppage of Yield Payments.  
+3.9 Yield shall be paid in the Virtual Asset USDC. 
+3.10 If the Company fails to make a payment of an Obligation on the relevant date in which such 
+Obligation is due (e.g. payment of Yield on the Payment Date), the Company shall pay an 
+additional 10% penalty (the “Penalty”) on the amount of such Obligation for e very 30 Business 
+Days in which such Obligation remains unpaid until the Obligation is paid , limited to the  total 
+amount paid by the Token Holder , provided that the Company shall have fifteen (15) Business 
+Days to rectify any unpaid Obligations from the Payment Date before a Penalty is applicable . 
+
+PAGE 10
+ 
+ 10 
+These expenses shall be born e exclusively by the Company, either through their own business 
+revenue, or through their share of the Station’s profit.  
+3.11 Tokens are backed by receivables arising from the provision and sale of electric vehicle charging 
+services by the Station. Token Holders will be entitled to income derived from the usage of 
+charging services at the Station, proportional to their total Toke n Holdings, as described in 
+Section 3.6. 
+3.12 The purchase and possession of the Token by the Token Holder will imply and represent, for all 
+legal purposes, the assignment of profit from the representative fraction of the Station. 
+3.13 The Company will act as the custodian of all funds raised through the Station, and will distribute 
+60% of all Net Profits generated from the Station to Token Holders on a monthly basis  through 
+Refi Hub. The Company may publish reports of the Station’s revenue and profit through either 
+the Refi Hub Platform, or through an email newsletter. 
+3.14 The proceeds of the Investment shall be used by the Company in accordance with the business 
+activities and the use of the proceeds stated in the Materials. 
+3.15 The Investment and the Tokens do not represent or constitute any property rights to vote, manage 
+or share in the profits or proceeds of the Company or any of its partners, nor do they constitute 
+shares, titles or equivalent rights. 
+3.16 Every Token Holder shall have the sole responsibility to attend to and exercise due care with 
+regard to delivery and maintenance of Tokens and Yield payments. It is imperative that a Token 
+Holder utilizes a Wallet which is compatible with the Tokens, and t he Obligations’ payments. 
+Further, once Tokens, and the Obligations’ payments are delivered to a Token Holder Wallet, the 
+Token Holder should ensure the private keys relating to such Wallet are stored securely. The 
+Company shall not be liable for any loss or theft after delivery (or simultaneously at the time of 
+attempted delivery) of Tokens, and the Obligations’ payments to the Token Holder’s Wallet, 
+regardless of the reason for such loss or theft , and Token Holder hereby waives any claims 
+against the Company related to such losses. 
+3.17 Certain conditions may need to be met by the relevant Token Holder before they can receive the 
+Tokens or any payments of any Obligations, including the Token Holder successfully passing the 
+KYC Process.  Each Token Holder expressly agrees and acknowledges that Tokens are non-
+transferable, and may not be assigned, sold, or otherwise transferred to any third party and only 
+the original Token Holder shall be eligible to claim or enforce any rights, benefits, or entitlements 
+associated with the Tokens; and the Company and Refi Hub shall bear no responsibility or liability 
+whatsoever for any unauthorized transfer, attempted transfer, or resulting loss of Tokens or any 
+associated rights. Any purported transfer in violation of this clause shall be deemed null and void 
+3.18 Tokens are based on an open -source protocol. Anyone may clone the source code of the 
+blockchain in which Tokens are based, and develop a diverging blockchain protocol without prior 
+permission by anyone else, also known as “Forks”. Forks can be made to any Virtual Asset that 
+may change the usability, functions, value or even name of a given Virtual Asset. Such Forks may 
+result in multiple versions of a Virtual Asset. Due to the nature of Tokens, if a fork creates two or 
+more Virtual Assets which purport to b e the Tokens, it is only possible for one of those Virtual 
+Assets to be a Token. As a result, in the event of a fork only the Virtual Assets on the particular 
+blockchain or protocol that the Company announces by public notice as being supported by the 
+Company are Tokens. Only such Virtual Assets supported by the Company as Tokens, may 
+qualify for any payment of Obligations by the Company. Any other Virtual Assets resulting from 
+the fork are not Tokens, and its holders shall not be subject to receive any payment of Obligations. 
+Where a blockchain or protocol on which Tokens are issued is forked, the Company may elect to 
+suspend any payment of Obligations for an extended period of time on little or no notice. The 
+Company assumes no responsibility or liability whatsoever for any losses or other issues that 
+might arise from an unsupported Fork of Tokens. 
+3.19 The Tokens, or the payment of any Obligations under this Agreement may not be delivered if 
+such payments at the relevant date would constitute a violation of any applicable laws or other 
+regulations, as determined by the board of directors of the Company upon the advice of counsel. 
+As a condition to purchase Tokens and receive payments of any Obligations of the Company, the 
+Token Holder may be required to execute a document confirming and acknowledging that the 
+representations and warranties set forth in this Agreement as they apply to the Token Holder are 
+
+PAGE 11
+ 
+ 11 
+true and complete as of the date of any payment. In the event that legal counsel to the Company 
+advises the Company that it is necessary or advisable for regulatory reasons, the Token Holder 
+shall also be required to deliver, as a condition to receive any payment of any Obligation, an 
+accredited investor verification letter from a qualified third-party verifying that the Token Holder is 
+an “accredited investor” within the meaning of Rule 501 of the Securities Act of the United States. 
+3.20 The Token Holder agrees and acknowledges that the SURYA Tokens offered under this 
+Agreement are not native tokens issued by the Company, and shall serve solely for the limited 
+purpose of facilitating the receipt of Yield, as set forth in Section 3 of this Agreement. These 
+Tokens do not confer any ownership, eq uity, governance, or other rights in or against the 
+Company beyond the rights expressly described herein.  
+3.21 The ReFi Hub Platform and the Company may, acting jointly and in their discretion, re -issue 
+Tokens or substitute them with new digital records of equivalent economic value (“ Substituted 
+Tokens”), provided that such substitution does not diminish or alter the economic entitlements of 
+Token Holders under this Agreement. Shall Tokens be substituted for Substituted Tokens, the 
+Substituted Tokens shall be treated for all purposes under this Agreemen t as Tokens, and the 
+Company’s obligations to Token Holder shall remain unchanged. By entering into this Agreement, 
+each Token Holder irrevocably consents in advance to any such substitution or re -issuance, on 
+the condition that: 
+(a) the economic entitlements remain equivalent; and 
+(b) the Company provides written notice to Token Holders of such substitution or re-issuance 
+within a reasonable period prior to its effectiveness. 
+4. SALE OF TOKENS 
+4.1 The Company shall distribute and sell the Tokens through Refi Hub. 
+4.2 The Company may only agree to sell Tokens to Token Holders who have passed the KYC 
+Process carried out by Refi Hub. 
+4.3 Concurrently with the acceptance of this Agreement by the potential Token Holder, and the 
+acceptance of the potential Token Holder by the Company, the potential Token Holder shall 
+provide to the Company, the applicable Purchase Price, as applicable, for each purchased Token 
+(the “ Total Purchase Price ”) to the Company Wallet, as provided by Refi Hub to the Token 
+Holder. The Company will deliver the purchased Tokens to the Token Holder Wallet on or before 
+the Delivery Date, provided that all conditions precedent, including but not limited to successful 
+completion of KYC Process and receipt of Total Purchase Price, have been satisfied. 
+4.4 The Total Purchase Price shall be paid in the Stablecoin, USDC. 
+4.5 The Token Holder is responsible for implementing reasonable measures for securing any digital 
+wallet, vault or other storage mechanism the Token Holder uses to receive and hold the 
+purchased Tokens on the Token Holder Wallet, including, without limitation, any requisite private 
+key(s) or other credentials necessary to access the Token Holder Wallet ("Token Holder Wallet 
+Access Credentials"). Those measures shall at least comply with state of the art and shall not 
+be less effective than measures that a third  party would expect that Token Holder implements 
+with regard to the assumption that Token Holder might store high values on the Token Holder 
+Wallet and that losing the Token Holder Wallet Access Credentials means a loss of the entire 
+amount of Tokens stored on the Token Holder Wallet. Token Holder agrees to regularly backup 
+the Token Holder Wallet Access Credentials and will apply the same measures to such backup. 
+The Token Holder acknowledges that if the Token Holder Wallet Access Credentials are lost, the 
+Token Holder may lose access to the purchased Tokens. It is only the Token Holder’s 
+responsibility to secure the Token Holder Wallet and the Token Holder Wallet Access Credentials. 
+Therefore, and regardless of any other provision of this Agreement, the Co mpany shall not be 
+responsible or liable for any damages, losses, costs, penalties, fines or expenses arising out of 
+or relating to (i) the Token Holder’s failure to implement reasonable measures to secure the Token 
+Holder Wallet the Token Holder uses to r eceive the purchased Tokens; or (ii) the loss of or 
+unauthorized use of any of the Token Holder Wallet Access Credentials. 
+4.6 The reception of the purchased Tokens by the Token Holder is final. The Total Purchase Price for 
+the purchased and received Tokens is not refundable under any circumstance, including but not 
+
+PAGE 12
+ 
+ 12 
+limited to changes in market conditions, token value, or Token Holder's personal circumstances, 
+unless the Company fails to reach the Soft Cap prior to the Closing Date. 
+5. DISSOLUTION EVENT; EVENT OF DEFAULT; GUARANTORS 
+5.1 If a Dissolution Event or an Event of Default occurs, the Company shall use commercially 
+reasonable efforts to repay to Token Holders the full amount raised through the Token Sale, minus 
+any Yield which has already been paid to Token Holders , subject to available funds and legal 
+requirements, provided that such repayment obligation shall be limited to the realizable value of 
+the Company's assets at the time of such event.  
+5.2 If there are insufficient funds to make such a repayment, the Company’s available funds must be 
+distributed amongst the Token Holders in proportion to the number of Tokens they hold. The 
+Token Holders’ right to receive the Repayment Amount is Senior to: 
+(a) Payment of outstanding secured indebtedness and creditor claims; 
+(b) Payments of outstanding unsecured indebtedness and creditor claims; and 
+(c) Payments for convertible promissory notes, and Shares. 
+5.3 In the case that the full amount of the obligation cannot be satisfied through the above-mentioned 
+method, the Company shall liquidate any assets it is holding to satisfy the repayment obligations 
+of the Company. 
+6. FEES 
+6.1 The Token Holder acknowledges and agrees that the Company shall pay a 2.5% commission to 
+Refi Hub from the Total Purchase Price collected, such that the Token Holder’s payment 
+obligation remains fixed at 1.00 USDC per Token. 
+6.2 The Token Holder acknowledges and agrees that Refi Hub shall receive 10% of the Net Profits 
+generated by the Company. This share shall be extracted from the total amount transferred by 
+the Company to the Refi Hub smart contract system for monthly Yield distribution. Specifically, 
+14.28% of such transfers shall be allocated to Re fi Hub, while the remaining 8 5.71% shall be 
+allocated to Token Holders. This results in a final Net Profit distribution of 60% to Token Holders, 
+10% to Refi Hub, and 30% to the Company, consistent with the ReFi Hub Terms of Service, as 
+may be amended from time to time. 
+7. CANCELLATION OF TOKENS 
+7.1 The Company may, at its absolute discretion, determine to cancel Tokens in whole or in part at 
+any time upon (i) satisfying all its outstanding payment Obligations to the Token Holders, including 
+any accrued but unpaid Obligations in whole in accordance with this Agreement through the date 
+of cancellation, and (ii) providing at least 30 days' prior written notice to Token Holders of such 
+cancellation.  
+7.2 All Tokens shall automatically expire and be deemed cancelled upon the completion of the 
+timeline specified in the associated smart contract  (“Stipulated Timeline”), at which point the 
+smart contract shall be deprecated and all rights, obligations, and functionalities related to the 
+Tokens shall cease to exist or be enforceable.  
+7.3 The Company shall also cancel the Tokens as soon as reasonably practicable upon a Dissolution 
+Event and shall provide public notice of such cancellation (such notice to include the effective 
+date of such cancellation). 
+8. KYC PROCESS 
+8.1 To purchase and receive the Tokens, or to receive any Yield payment, or any payment of any 
+Obligations of the Company, you must complete and maintain compliance with the due diligence 
+process mandated by Know Your Customer, Anti -money Laundering, and Combating the 
+Financing of Terrorism regulations  as conducted by Refi Hub , with such requirements being 
+subject to change from time to time  (the "KYC Process"). The Company shall not be liable for 
+any delays, losses or inability to receive payments due to non-compliance with the KYC Process 
+or changes in KYC requirements.  
+8.2 In the KYC Process, Refi Hub will ask for information such as your name, physical address, 
+mailing address, date of birth, and other information, and documents that will allow the Company 
+
+PAGE 13
+ 
+ 13 
+to identify you in line with the KYC/AML & CTF Policy. You must provide us information that is 
+accurate, complete, and current at all times. Failure to do so constitutes a breach of this 
+Agreement. You also agree to provide the Refi Hub, as requested on an ongoing basis, with any 
+additional information for the purposes of identity verification and the detection and prevention of 
+money laundering, terrorist financing, fraud, or any other financial crime, including without 
+limitation, a co py of your governmen t-issued photo ID, a photograph of you holding your 
+government-issued photo ID, a video -verification of you holding your government -issued photo 
+ID, evidence of your residential address (such as a utility bill), evidence of the source of funds, 
+evidence of  the source of wealth, and evidence of your good character. You authorize the 
+Company and Refi Hub  or its agents to keep a record of such information and to make the 
+inquiries, whether directly or through third parties, that the Refi Hub  or its agents cons iders 
+necessary to verify your identity or protect you and others against fraud or other financial crime, 
+and to take action Refi Hub or its agents reasonably deems necessary based on the results of 
+such inquiries. When Refi Hub or its agents carries out these inquiries, you acknowledge and 
+agree that your personal information may be disclosed to regulatory or enforcement agencies. 
+You acknowledge, understand and agree that your Transactions with the Company may be 
+subject to limits or restrictions in line with the KYC/AML & CTF Policy. You further acknowledge, 
+agree and understand that Refi Hub  or its agents reserve the right to charge you fees and 
+expenses associated with conducting the KYC Process. 
+9. TAXES 
+9.1 The assignment of the Tokens and the payment of any Obligations under this Agreement to a 
+Token Holder shall be made without withholding or deduction for, or on account of, any present 
+or future taxes, duties or charges of whatsoever nature. It is your sole responsibility to determine 
+whether, and to what extent, any taxes apply to any Transactions you conduct with the Company, 
+and to withhold, collect, report and remit the correct amounts of taxes to the appropriate tax 
+authorities. 
+10. REGULATORY ISSUES 
+10.1 The Token Holder acknowledges and understands that this Agreement is not registered with any 
+regulatory body or securities commission, and that the Company is not registered or licensed 
+with any regulator as an investment adviser, broker -dealer, money serv ices business, money 
+transmitter, or Virtual Asset business. As a result, the Token Holder will not be afforded the full 
+set of protections provided to the clients and customers of such entities. 
+11. REPRESENTATIONS, WARRANTIES AND COVENANTS OF THE TOKEN HOLDER 
+11.1 By conducting any Transaction with the Company, including but not limited to the purchase of 
+Tokens from the Company, and the receipt of any Obligations’ payment from the Company, the 
+Token Holder represents and warrants to the Company: 
+(a) The Token Holder is at least 18 years old or of legal age to form a binding contract under 
+applicable law, are an individual, legal person or other organization with full legal capacity 
+and authority to enter into this Agreement; 
+(b) The Token Holder acknowledges, understands and agrees that he or she or it has no legal 
+right, voting right or claim towards the business of the Company; 
+(c) The Token Holder is not a U.S. Person. 
+(d) The Token Holder is not physically in any Prohibited Jurisdiction. 
+(e) The Token Holder is not a citizen or resident of any Prohibited Jurisdiction. 
+(f) The Token Holder is not a legal person or legal arrangement incorporated, registered or 
+organized under the laws of any Prohibited Jurisdiction. 
+(g) The Token Holder is not by reason of your nationality, domicile, citizenship, residence or 
+otherwise subject to the laws of a Prohibited Jurisdiction; 
+(h) The Token Holder is not, and has not been involved in a transaction with a person who is, 
+on any trade or economic sanctions lists, including, but not limited to, the UN Security 
+Council Sanctions list, designated as a “Specially Designated National” by OF AC (Office 
+of Foreign Assets Control of the U.S. Treasury Department) or placed on the U.S. 
+Commerce Department’s “Denied Persons List”. The Company maintains the right to 
+
+PAGE 14
+ 
+ 14 
+restrict or deny conducting transactions in certain countries and/or to certain natural 
+persons and/or juristic persons at its sole discretion. 
+(i) The Token Holder understands that this Agreement has not been, and will not be, 
+registered under the Securities Act of 1933 of the United States, or under any Securities 
+or Investment Business or Virtual Asset legislation (“Securities Laws”) of any jurisdi ction. 
+The Token Holder acknowledges that the Company has no obligation to register under any 
+Securities Laws. The Token Holder further acknowledges that if an exemption from 
+registration or qualification is available, it may be conditioned on various requ irements 
+including, but not limited to, the time and manner of sale, the holding period for the Tokens, 
+and on requirements relating to the Company which are outside of Token Holder’s control, 
+and which the Company is under no obligation and may not be able to satisfy. 
+(j) The Token Holder is a “qualified investor”, “sophisticated investor”, “professional investor”, 
+“institutional investor”, “accredited investor” or analogous term as defined under the 
+securities or investment business laws of the jurisdiction where the Token  Holder is a 
+resident of. 
+(k) The Token Holder is permitted by the laws of his or her or its jurisdiction to purchase and 
+Tokens, and he or she or it is legally permitted and capable to acquire, receive and hold 
+Tokens and Virtual Assets generally. 
+(l) The Token Holder has had the opportunity to seek legal, accounting and other professional 
+advice regarding this Agreement, and Tokens. 
+(m) The Token Holder understands that finder's fees or commissions may be paid in 
+connection with purchases and sales of Tokens, which may include his or her purchase or 
+sale. 
+(n) The Token Holder understands distributed ledger technology and Tokens, and is fully 
+aware of the risks associated with the same. 
+(o) The Token Holder is responsible for ensuring compliance with the laws of his or her or its 
+jurisdiction and acknowledge that the Company is not liable for his or her or its compliance 
+with such laws,  
+(p) The Token Holder’s transactions with the Company do not constitute a breach of the laws 
+of his or her or its jurisdiction; 
+(q) The Token Holder understands the inherent risks associated with Virtual Assets, and 
+purchasing, selling or trading Virtual Assets; 
+(r) The Token Holder has a working understanding of the usage of Virtual Assets, smart 
+contract based tokens, and blockchain-based software systems; 
+(s) The Token Holder purchases Tokens with funds he, she or it can afford to lose, and have 
+a high-risk tolerance; 
+(t) The Token Holder will not carry out any activity that (i) involves proceeds from any illegal 
+or unlawful activity (including money laundering or terrorism financing); or (ii) violates, or 
+could violate, any applicable law; 
+(u) The Token Holder is the legal owner (or an authorized agent of the legal owner) of the 
+funds he, she or it uses to purchase Tokens and that these funds are derived from a 
+legitimate source; 
+(v) The Token Holder will not transact with the Company in order to conceal or disguise the 
+origin or nature of proceeds of crime or terrorist financing, or blocked property, frozen 
+assets, economic resources, or corruption related to any person or government official, 
+under any applicable laws; 
+(w) The Token Holder will not use any method or services to mask his or her or its internet 
+protocol address or his or her or its internet traffic or current location or real internet 
+connection, including but not limited to virtual private networks, proxy servers, Tor browser;  
+(x) The Token Holder is experienced in and fully capable of operating, maintaining and 
+safekeeping the Wallet out of which he or she or it sent or will send the payment of the 
+
+PAGE 15
+ 
+ 15 
+Total Purchase Price, receive the Tokens, and receive any Transactions from the 
+Company. 
+(y) The Token Holder understands and agrees that this Agreement and the Tokens do not 
+represent shares, equity or any type of ownership interest in the Company and that Tokens 
+do not represent any right to vote, manage, or share in the profits or proceeds of t he 
+Company. 
+(z) Except as otherwise provided for herein, the Token Holder understands that he or she or 
+it has no right to any refund of the Total Purchase Price. 
+(aa) The Token Holder understands and acknowledges that nothing in these terms constitutes 
+tax, accounting, financial or legal advice, and that he, she or it bears the sole responsibility 
+to seek independent professional advice to determine the tax, financial and legal  
+implications of (a) a transaction with the Company; (b) the purchase, ownership and use 
+of Tokens; and (c) any expiration of Tokens at the end of the their term.  
+(bb) The Token Holder bears responsibility to declare, bear and pay all such taxes, duties, 
+imposts, levies, tariffs and surcharges that might be imposed by the laws and regulations 
+of any applicable jurisdiction as a result of or in connection with the receipt , holding, use, 
+purchase, appreciation, trading, remittance or disposal of Tokens. 
+(cc) The Token Holder incorporates and restates in this Agreement by reference all 
+representations and warranties made by the Token Holder contained in the Agreement. 
+The Token Holder further represents that he, she or it has read this Agreement, 
+understands and agrees to be bound by its terms, and has been provided the opportunity 
+to ask the Company questions, and where applicable, has received answers from the 
+Company, regarding this Agreement. 
+(dd) The Token Holder agrees to be bound by any affirmation, assent or agreement that he, 
+she or it transmits to the Company by computer or other electronic device, including 
+internet, telephonic and wireless devices, including, but not limited to, any consent he, she 
+or it gives to receive communications from the Company or any of the Affiliated Entities 
+solely through electronic transmission. 
+(ee) The Token Holder represents and warrants that all of the representations and warranties 
+he or she or it is making in this Agreement are true and accurate as of the date of 
+acceptance of this Agreement and any date of any Transactions (“Relevant Dates”). If any 
+representations and warranties are not true and accurate prior to acceptance of this 
+Agreement and the Relevant Dates, the Token Holder shall give prompt written notice of 
+this fact to the Company specifying which representations and warranties are not true and 
+accurate and the reasons why they are not. The Token Holder agrees to notify the 
+Company promptly if there is any change with respect to any of the representations and 
+warranties in this Agreement. 
+(ff) The Token Holder acknowledges and accepts that there are risks associated with 
+purchasing, holding and selling Tokens, as more fully disclosed and explained in this 
+Agreement. 
+(gg) The Token Holder represents and warrants that he or she or it has sufficient knowledge, 
+understanding, and experience, either independently or together with his or her or its 
+representative(s), in financial and business matters, and of the functionality, u sage, 
+storage, transmission mechanisms, and other material characteristics of cryptographic 
+Tokens, token wallets and other token storage mechanisms, public and private key 
+management, blockchain technology, and blockchain -based software systems, to 
+understand this Agreement, and such knowledge, understanding, and experience enables 
+the Token Holder to evaluate the merits and risks of purchasing and/or selling Tokens. 
+(hh) The Token Holder agrees that at any time in the future at which he or she or it may acquire 
+Tokens from the Company or from any other party, or receive any Obligations’ payments 
+from the Company, the Token Holder shall be deemed to have reaffirmed, as of that date, 
+each and every representation and warranty made by the Token Holder in this Agreement. 
+(ii) The Token Holder has full legal capacity, power and authority to execute and deliver this 
+Agreement and to perform his, her or its obligations hereunder. This Agreement constitutes 
+
+PAGE 16
+ 
+ 16 
+a valid and binding obligation of the Token Holder, enforceable in accordance with its 
+terms, except as limited by bankruptcy, insolvency or other laws of general application 
+relating to or affecting the enforcement of creditors’ rights generally and general principles 
+of equity. 
+(jj) The Token Holder agrees on behalf of himself and his or her or its successors and assigns, 
+without further consideration, to prepare, execute, acknowledge, file, record, publish and 
+deliver any other instruments, documents and statements and to take any other actions as 
+the Company may determine to be necessary or appropriate to comply with applicable law 
+and to effectuate and carry out the purposes of this Agreement. The Token Holder further 
+agrees that the Company may, in its sole discretion, refuse to se ll to the Token Holder, 
+Tokens, or to pay any of its Obligations or conduct any Transactions with the Token Holder, 
+if, among other things, the Token Holder refuses to comply with this provision and this 
+Agreement. 
+12. REPRESENTATIONS, WARRANTIES AND COVENANTS OF THE COMPANY 
+12.1 The Company hereby represents and warrants to the Token Holder as follows: 
+(a) The Company is a Singaporean company organized, validly existing and in good standing 
+under the laws of Singapore, and has the power and authority to own, lease and operate 
+its properties and carry on its business as now conducted; 
+(b) The execution, delivery and performance by the Company of this Agreement is within the 
+power of the Company and has been duly authorized by all necessary actions on the part 
+of the Company. This Agreement constitutes a legal, valid and binding obligation o f the 
+Company, enforceable against the Company in accordance with its terms, except as 
+limited by bankruptcy, insolvency or other laws of general application relating to or affecting 
+the enforcement of creditors’ rights generally and general principles of equity. To its 
+knowledge, the Company is not in violation of (i) its current memorandum and articles of 
+association, (ii) any material statute, rule or regulation applicable to the Company or (iii) 
+any material debt or contract to which the Company is a pa rty or by which it is bound, 
+where, in each case, such violation or default, individually, or together with all such 
+violations or defaults, could reasonably be expected to have a material adverse effect on 
+the Company; 
+(c) No insolvency proceedings have been commenced or are continuing with respect to the 
+Company and any of its Affiliated Entities; and 
+(d) To its knowledge, the Company and the Affiliated Entities own or possess (or can obtain 
+on commercially reasonable terms) sufficient legal rights to all patents, trademarks, service 
+marks, trade names, copyrights, trade secrets, licenses, information, processes and other 
+intellectual property rights necessary for its business as now conducted and as currently 
+proposed to be conducted, without any conflict with, or infringement of the rights of, others. 
+(e) The Company states that it has not, nor ever will, assign, encumber, securitize or lend the 
+Station or any assets relating to it in any capacity other than that stated within this 
+Agreement.  
+(f) The Company shall use commercially reasonable efforts to  monitor and maintain  the 
+performance of the Station, including routine operation and maintenance . The costs of 
+such monitoring, operation and maintenance shall be deducted monthly at the rate of USD 
+0.10 / kWh from the total value of the charging services sold by the Station, as outlined in 
+the revenue and profit estimates provided in the Materials. 
+ 
+13. TOKEN LIFECYCLE AND YIELD OBLIGATIONS 
+13.1 The Investor hereby acknowledges and agrees to the following: 
+(a) Upon completion of the timeline stipulated in this Agreement and/or the associated smart 
+contract ("Stipulated Timeline"), all Tokens shall automatically expire and become invalid 
+for any use, transfer, or claim. 
+(b) The smart contract governing the Tokens shall be deprecated and rendered inactive at the 
+close of the Stipulated Timeline.  
+
+PAGE 17
+ 
+ 17 
+(c) Following the expiration of the Stipulated Timeline, no obligations, rights, or functionalities 
+related to the Tokens shall exist or be enforceable. 
+13.2 The Company's obligation to disburse yield payments shall be limited to the duration of the 
+Stipulated Timeline. Token Holders acknowledge and consent that no yield payments shall be 
+required or enforceable beyond the expiration of the Stipulated Timeline. 
+13.3 Token Holders expressly waive any claim to yield following the termination of the Stipulated 
+Timeline. 
+ 
+14. DISCLAIMER  
+14.1 Your Transactions with the Company, including but not limited to the purchase of Tokens from the 
+Company, the Investment, the receipt of Yield, the Investment Amount or any other payment of 
+Obligations by the Company are at your sole risk, and you are solely responsible for any losses, 
+damages or costs resulting from such Transactions. The Company does not provide, and nothing 
+in this Agreement shall be construed as, investment advice, financial advice,  or any marketing, 
+promotion or offer of any regulated investment product or service to you or any third party , as 
+defined under applicable financial services laws and regulations. The Tokens are provided on an 
+“AS IS” and “AS AVAILABLE” basis, without warranties of any kind, whether express or implied, 
+including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, 
+non-infringement or course of performance. The Company shall in no event be held liable for any 
+loss or other damages, including but not limited to special, i ncidental, consequential, or other 
+damages. Without limiting the foregoing, the Company does not represent or warrant that Tokens 
+are accurate, complete, reliable, current or error -free, or free of viruses or other harmful 
+components. By transacting with the Company, you agree that the Company shall not have any 
+liability, contingent or otherwise, to you or to any third parties, for the correctness, quality, 
+accuracy, security, completeness, reliability, performance, timeliness, pricing or continued 
+availability of Tokens or for delays or omissions, or for the failure of any connection or 
+communication service to a Transaction related to Tokens with the Company, or for any 
+interruption in or disruption of your access or any erroneous communications between t he 
+Company and you, regardless of cause. 
+14.2 The Company does not make any representation or warranty with respect to the Tokens.  The 
+Company hereby expressly disclaims responsibility for, and shall in no case be liable for any 
+damage, loss, penalty, cost or expense, whether direct, indirect, incide ntal, consequential, 
+special, punitive, exemplary or economic (and whether or not caused by negligence) which arises 
+in tort, contract or otherwise, to the fullest extent allowed by applicable law, to any person or 
+entity in connection with: 
+(a) any person's purchase or sale of Tokens, or conduct of any Transaction in violation of any 
+anti-money laundering, counter -terrorism financing or other regulatory requirements that 
+are imposed in any jurisdiction; 
+(b) any person's purchase or sale of Tokens or conduct of any Transaction in violation of or 
+contravention of any representation, warranty, obligation, covenant or other provision of 
+the Agreement; 
+(c) any transaction related to Tokens in which the Company is not a party; 
+(d) the exercise of any right by the Company under this Agreement; 
+(e) unauthorized data interception, interruption, transmission blackout, or delays (due to data 
+volume, server error or otherwise) during the delivery of Tokens or any payment of 
+Obligations; 
+(f) a delay in transmitting the Tokens or any payment of Obligations, or a delay in any refund; 
+(g) any error, bug, flaw, defect or otherwise of the source code of the Tokens or in related 
+code; 
+(h) any application, program, service or good created on, operated on or connected to the 
+Tokens; 
+
+PAGE 18
+ 
+ 18 
+(i) any malfunction, breakdown, collapse, or delay caused by the blockchain or by software 
+conducting any transaction between the Company and the Token Holder;  
+(j) the loss, theft or perceived poor utilization of the proceeds from the Investment; 
+(k) any loss of Tokens due a failure to (i) safeguard a Wallet, including the loss, destruction, 
+theft or accidental disclosure of a private key, or (ii) not utilizing proper type or kind of 
+Wallet; 
+(l) any default, breach, infringement, breakdown, collapse, service suspension or interruption, 
+fraud, mishandling, misconduct, malpractice, negligence, bankruptcy, insolvency, 
+dissolution or winding -up of any third -party funding portal, wallet or exchange ser vice 
+handling Tokens; 
+(m) any difference, conflict or contradiction between this Agreement, and the Materials, and 
+any information provided by any third-party;  
+(n) listing or delisting of Tokens on or from any Virtual Asset exchange or market, or the trading 
+of Tokens on the same; and 
+(o) Tokens being classified or treated by any government, quasi -government, authority or 
+public body as a kind of currency, securities, commercial paper, negotiable instrument, 
+investment or other classification that may be banned, regulated or subject to lega l 
+restrictions. 
+15. RISK DISCLOSURES 
+15.1 The Token Holder (i) is able to bear the economic cost of losing the Total Purchase Price; (ii) has 
+adequate means of providing for his, her, or its current needs and possible personal 
+contingencies even in the event that the Company does not satisfy its O bligations; and (iii) has 
+no need for liquidity of the Tokens. The Token Holder is solely responsible for reviewing, 
+understanding and considering the risks below and any additional risks, including without 
+limitation those described in this Agreement, and  the Materials. The Company’s operations, 
+financial condition, and results of operations could be materially and adversely affected by any 
+one or more of those risk factors. Risk Disclosures, include but are not limited to the following: 
+(a) The proceeds from the sale of Tokens may not be sufficient for the Company to 
+successfully grow or maintain its business and be able to pay the Yields. 
+(b) Regulation of virtual assets and blockchain technologies, includ ing Tokens and 
+transactions such as this Agreement or the sale of Tokens , is evolving and varies 
+significantly across jurisdictions, with regulatory frameworks being subject to frequent 
+changes and reinterpreta tion. These regulations are evolving rapidly, are subject to 
+significant variation among international jurisdictions and are generally subject to 
+significant uncertainty. The Company may receive queries, notices, warnings, requests or 
+rulings from one or more regulatory authorities from time to time, or may even be ordered 
+to suspend or discontinue any action in connection with the sale of Tokens, or conducting 
+any Transactions. In such a case, the ability of the Company to pay its Obligations may be 
+negatively affected. There is no guarantee that the Com pany will not suffer as a result of 
+new laws or regulations or by the new enforcement or interpretation of current laws or 
+regulations.  
+(c) Cryptography is constantly evolving and current systems cannot guarantee absolute 
+security going forward. Advances in cryptographic methods or algorithms, or with 
+technology, such as with quantum computing, could present risks to all cryptography -
+based sys tems, including Tokens. These advances could result in the theft, loss, 
+disappearance, destruction or devaluation of Tokens.  There can be no guarantee that the 
+value or security of Tokens will not be destroyed or negatively impacted by the future 
+developments in the field of cryptography. 
+(d) The Company could prove to be incapable of effective management of its business due to 
+a variety of reasons, such as due to a lack of investment, managerial skill, due to technical 
+difficulties, or due to a lack of resources, which would likely negatively affect the ability of 
+the Company to pay any of its Obligations. 
+
+PAGE 19
+ 
+ 19 
+(e) There have been many documented incidents of thefts and attempted thefts of Virtual 
+Assets.  The Company may hold large amounts of Virtual Assets in the form of USDC, 
+USDT, BTC, ETH, SOL, GLMR, MATIC or CELO, or other Virtual Assets following the sale 
+of Tokens.  This may make the Company the target of Virtual Asset thieves and scammers.  
+Due to the rapidly evolving nature of Virtual Assets, there likely will always be a risk of 
+vulnerability to theft even with adherence to security best practices.  There c an be no 
+guarantee that the Company will not be a victim of Virtual Asset theft, the result of which 
+may adversely affect the ability of the Company to pay any of its Obligations. 
+(f) No one can guarantee the source code of Tokens, or the relevant blockchain to be flaw-
+free.  Flaws, errors, defects and bugs may disable functionality for users, expose users' 
+information or otherwise negatively impact users.  This could compromise the business of 
+the Company and the ability of the Company to pay any of its Obligations. 
+(g) The Solana Blockchain and the Ethereum Blockchain, including any Layer 2 blockchains, 
+and other relevant blockchains are public and permissionless and thus vulnerable to being 
+overwhelmed with traffic.  Whether due to an intentional and malicious attack, o r whether 
+due to the popularity of a blockchain-related event, the relevant blockchain may from time 
+to time be flooded with requests for transactions that utilizes all its throughput capacity. If 
+the Company Developers are unable to address scalability issues, blockchain congestion 
+or downtime may adversely affect the ability of the Company to pay any of its Obligations. 
+(h) Tokens stored in a digital wallet are accessible by a private key, which is simply a unique 
+string of text.  The loss or destruction of a digital wallet's private key may render the Tokens 
+on such wallet inaccessible.  Further, if a private key is learned or copied by another 
+person, that person will be able to steal the Tokens (and any other Virtual Assets or 
+Tokens) stored on the digital wallet.  Token Holders are required to safeguard the private 
+keys of their digital wallets. The Company will not be lia ble for any losses due to any 
+situation in which a private key is lost, divulged, destroyed or otherwise compromised.  
+(i) Tokens are personal, non -transferable digital instruments and shall not be listed, traded, 
+exchanged, assigned, pledged or otherwise transferred on any Virtual -Asset exchange, 
+peer-to-peer platform or other secondary market. Any attempted disposition of a Token is 
+null and void and will not be recognised by the Company. The Company will not create, 
+support or facilitate any marketplace for Tokens and bears no responsibility or liability for 
+any prohibited trading activity undertaken by Token Holders or third parties. 
+(j) The Virtual Asset market is relatively new, and may be subject to heightened oversight and 
+scrutiny, including investigations or enforcement actions. There can be no assurance that 
+governmental authorities will not examine the operations of the Company, or  enact 
+regulations or pursue enforcement actions against Token Holders and the Company, 
+including with respect to the purchase, sale or trade of Tokens, which could result in 
+curtailment of, or inability of the Company to pay its Obligations, or judgments, settlements, 
+fines or penalties against the Company could affect the ability of the Company to pay any 
+of its Obligations. 
+(k) The Company may cease to, or poorly, conduct business thereby impacting the ability of 
+the Company to pay any of its Obligations. 
+(l) The use of Virtual Assets to, among other things, participate in the smart contracts 
+economy, is part of a relatively new and rapidly evolving industry that employs Virtual 
+Assets based on a computer-generated mathematical and/or cryptographic protocol. Th e 
+growth of this industry in general, and the use of Virtual Assets in smart contracts in 
+particular, is subject to a high degree of uncertainty, and the slowing or stopping of the 
+development or acceptance of developing protocols may occur and is unpredictable. Some 
+factors that could impact market development include, but are not limited to (i) continued 
+worldwide growth in the adoption and use of Virtual Assets; (ii) governmental and quasi -
+governmental regulation of Virtual Assets and their use, or restr ictions on or regulation of 
+access to and operation of the network or similar; (iii) changes in consumer demographics 
+and public tastes and preferences; (iv) the security and further development of 
+decentralized finance protocols; (v) the availability and popularity of alternatives to 
+decentralized finance; (vi) the potential success or failure of the business of the Company 
+and its competitors in addition to desired use thereof; (vii) general economic conditions 
+
+PAGE 20
+ 
+ 20 
+and the regulatory environment relating to Virtual Assets; (viii) negative consumer 
+sentiment and perception of Virtual Assets generally. 
+(m) Banks and financial institutions may not provide banking services, or may cut off services, 
+to businesses that provide Virtual Asset -related services or that accept Virtual Assets or 
+otherwise are involved in Virtual Assets, which may limit the Company to conduct business. 
+A number of companies that are related to Virtual Assets do not find banks or financial 
+institutions that are willing to provide them with bank accounts and other services. 
+Similarly, a number of companies and individuals or businesses as sociated with Virtual 
+Assets may have had and may continue to have their existing bank accounts closed or 
+services discontinued with financial institutions. The difficulty that many businesses that 
+provide crypto asset-related services have and may continue to have in finding banks and 
+financial institutions willing to provide them services may be decreasing the usefulness of 
+Virtual Assets, harming public perception of Virtual Assets and could decrease its 
+usefulness and harm its public perception in the future. Similarly, the usefulness of Virtual 
+Assets as a payment system and the public perception of Virtual Assets could be damaged 
+if banks or financial institutions were to close the accounts of businesses providing Virtual 
+Assets-related services. This could occur as a result of compliance risk, cost, government 
+regulation or public pressure. These risks may impact the ability of the Company to pay 
+any of its Obligations. 
+(n) As part of the process for the sale of Tokens or payment of its Obligations to Token 
+Holders, the Company and/or its agents may collect and retain personal information from 
+Token Holders. The collection and retention of such information is subject to appli cable 
+laws and regulations. Further, databases holding such information are vulnerable to 
+breaches and other forms of unauthorized access. The Company may be required to 
+expend significant financial resources to alleviate problems caused by any breaches or  
+losses, settle fines and resolve inquiries from regulatory or government authorities. Any 
+information breaches or losses will also damage the Company's reputation and thereby 
+may impact the ability of the Company to pay any of its Obligations. 
+(o) Tax laws and regulations are highly complex and subject to interpretation, especially when 
+cross-border transactions and multiple tax jurisdictions are involved. Consequently, the 
+Company may be subject to changing tax laws, treaties and regulations. If any tax authority 
+successfully challenges the operational structure of the Company or the Company loses a 
+material tax dispute, the Company's tax liabilities could increase substantially. This could 
+cause the Company's financial resources to be constrained or impaired, and could cause 
+the Company to redomicile or to alter its legal entity structure in order to optimize its tax 
+situation. This in turn could negatively affect the Company's ability to manage and grow its 
+business, which would negatively impact t he ability of the Company to pay any of its 
+Obligations. 
+(p) The taxation of Virtual Assets is an evolving area of law and often varies widely between 
+jurisdictions. Token Holders may have tax reporting implications and the purchase or sale 
+of Tokens may create liabilities for Token Holders, depending on their tax j urisdiction and 
+situation. Token Holders are urged to consult their tax advisors prior to participating in a 
+sale of Tokens. The Company expressly disclaims responsibility and liability for the tax 
+treatment and tax obligations arising from participation in a sale of Tokens. 
+16. TERM 
+16.1 This Agreement shall continue to be in force until: 
+(a) the failure of the Company to reach the Soft Cap, and the subsequent reimbursement of 
+the Total Purchase Price; 
+(b) a Dissolution Event of any party of this Agreement; 
+(c) the End of Term, subject to the Company having satisfied the payment of all its Obligations 
+under this Agreement; or 
+(d) the Token Holder ceases to be a Token Holder; 
+16.2 The Company also reserves the right to terminate this Agreement with no liability to make any 
+further payments to the Token Holder, if the Company reasonably suspects, or factually knows 
+
+PAGE 21
+ 
+ 21 
+that any of the representations and warranties are not, or cease to be, true and complete at any 
+time. 
+16.3 Upon completion of the Term of this agreement  (the "Stipulated Timeline"), (i) all Tokens 
+associated with the Investment shall be deemed expired and no longer valid for use, transfer, or 
+claim, (ii) the corresponding smart contract governing said Tokens shall be deprecated and 
+rendered inactive, (iii) no further obligations, rights, or functionalities related to the Tokens shall 
+exist or be enforceable, (iv)  the Token Holder will no longer be entitled to any Yield payments 
+from the Company, and (v) the Token Holder will not be entitled to any profits derived from any 
+continued operation of the Station and/or the sale of the equipment or machinery.  
+17. INDEMNIFICATION 
+17.1 Each party (an “Indemnifying Party”) shall indemnify, defend and hold harmless the other party 
+(the “ Indemnified Party ”), its affiliates, and each of their directors, officers, employees, and 
+agents from and against all claims, suits and proceedings and any and all related liabilities, 
+losses, expenses, damages and costs (including, without limitation, reasonable attorney s’ fees) 
+(collectively, “Losses”) incurred by the Indemnified Party, relating to or arising out of the breach 
+by the Indemnifying Party of  any of its duties, obligations, representations or warranties under 
+this Agreement. 
+17.2 An Indemnified Party will (i) promptly notify the Indemnifying Party of any claim, suit, or 
+proceeding for which indemnity is claimed (but the Indemnifying Party shall be relieved from 
+liability only to the extent any delay in providing such notice prevents the Indemnifying Party from 
+defending such claim, suit or proceeding); (ii) cooperate reasonably with the Indemnifying Party 
+at the Indemnifying Party’s expense; and allow the Indemnifying Party to control the defence or 
+settlement thereof. The Indemnifi ed Party will have the right to participate in any defence of a 
+claim and/or to be represented by counsel of its own choosing at its own expense. 
+18. DISCLAIMER OF WARRANTIES / LIMITATION OF LIABILITY 
+18.1 The Company Entities shall not be responsible for any loss or damage caused, directly or 
+indirectly, by any events, actions or omissions beyond the control of the Company including, 
+without limitation, loss or damage resulting, directly or indirectly, from any delays or inaccuracies 
+in the transmission of orders and/or information due to breakdown or failure of transmission or 
+communication facilities, or electrical power outage.      
+18.2 The Company Entities shall not be liable for any losses, indirect damages, or other liabilities, 
+including but not limited to special, incidental, consequential, or other indirect damages , except 
+in cases of fraud, willful misconduct or gross negligence . This limitation applies even if such 
+damages are foreseeable. 
+19. NO WAIVER 
+19.1 From time to time, the Company may fail to require or strictly enforce compliance with relation to 
+any provision in this Agreement. The Company may also fail to exercise any or all of its rights 
+empowered herein. Any such failure shall not be construed as a waiver or relinquishment of the 
+Company's right to assert or rely upon any such provision or right in that or in any other instance.  
+If applicable, an express waiver given by the Company of any condition, provision, or requirement 
+of this Agreement shal l not constitute a waiver of any future obligation to comply with such 
+condition, provision or requirement.  
+20. GOVERNING LAW AND JURISDICTION 
+20.1 These Terms, and any terms announced on Re fi Hub are governed and shall be interpreted in 
+accordance with English Law without giving effect to any conflict of laws principles that may 
+provide for the application of the law of another jurisdiction. 
+20.2 You agree to submit any Dispute (as defined below) to arbitration in accordance with the terms 
+of section 21. To the extent that the agreement to arbitrate is ineffective or void, you agree to 
+submit to the exclusive jurisdiction of the courts of England. 
+21. SUBMISSION TO ARBITRATION 
+21.1 Any dispute, claim, suit, action, cause of action, demand, or proceeding arising out of or related 
+to this Agreement (including with respect of their validity, existence, or termination), action or 
+transaction under or contemplated by this Agreement, (any "Dispute") that is not settled by you 
+
+PAGE 22
+ 
+ 22 
+and the Company within 30 Business Days from the date that either party notifies the other party 
+in writing of the Dispute shall be referred to and finally settled by arbitration. Further, the parties 
+hereby agree: 
+(a) To attempt informal resolution prior to any demand for arbitration for at least 30 Business 
+Days before initiating any arbitration or court proceeding. Such informal negotiations 
+commence upon receipt of written notice from you. If the Parties cannot resolve the dispute 
+on an informal basis, the Parties agree that any dispute arising under this Agreement shall 
+be finally settled in binding arbitration, on an individual basis; 
+(b) That any dispute, controversy or claim arising out of or relating to this Agreement, or the 
+breach, termination or invalidity thereof, shall be settled by arbitration in accordance with 
+the London Court of International Arbitration (“LCIA”) rules, which are deemed to be 
+incorporated by reference into this clause; 
+(c) That the number of arbitrators shall be one;  
+(d) That the place of arbitration shall be the London, United Kingdom, unless the Parties agree 
+otherwise;  
+(e) That the language to be used in the arbitral proceedings shall be English; 
+(f) That the courts in England have exclusive jurisdiction over any appeals of an arbitration 
+award and over any suit between the parties not subject to arbitration; 
+(g) That the arbitrator has the authority to grant any remedy that would otherwise be available 
+in court; and 
+(h) That the parties shall split the costs and expenses of any arbitration and bear their own 
+legal costs and expenses. 
+22. MISCELLANEOUS 
+22.1 You may not assign, transfer, novate or otherwise dispose of any rights and/or licenses granted 
+under this Agreement unless prior written consent from the Company has been obtained. The 
+Company reserves the right to assign its rights without restriction, including without limitation to 
+any of its Affiliated Entities, affiliates or subsidiaries, or to any successor in interest of any 
+business contemplated in this Agreement. Any attempted transfer or assignment in violation 
+hereof shall be null and void. Subj ect to the foregoing, this Agreement will bind and inure to the 
+benefit of the parties, their successors and permitted assigns. 
+22.2 If any provision of this Agreement shall be determined to be invalid or unenforceable under any 
+rule, law or regulation or any governmental agency, local, state, or federal, such provision will be 
+changed and interpreted to accomplish the objectives of the  provision to the greatest extent 
+possible under any applicable law and the validity or enforceability of any other provision of this 
+Agreement shall not be affected. 
+22.3 The Company shall have no liability for any failure or delay resulting from any abnormal or 
+unforeseeable circumstances outside its reasonable control, the consequences of which would 
+have been unavoidable despite all efforts to the contrary, including wit hout limitation 
+governmental action or acts of terrorism, war, earthquake, fire, flood, or other acts of god, labour 
+conditions, delays or failures caused by problems with another system or network, mechanical 
+breakdown or data-processing failures or where the Company is bound by other legal obligations. 
+22.4 Upon termination of this Agreement for any other reason, all rights and obligations of the parties 
+that by their nature are continuing will survive such termination. 
+22.5 This Agreement is not intended and shall not be construed to create any rights or remedies in 
+any parties other than you and the Company and any Affiliated Entities which each shall be a 
+third-party beneficiary of this Agreement, and no other person shall assert any rights as a third -
+party beneficiary hereunder. 
+22.6 The Company maintains all intellectual property rights, including but not limited to copyright and 
+trademark rights, in and to the Tokens and any associated content. Token Holders are prohibited 
+from using such intellectual property for commercial or promotional purposes.  
+
+PAGE 23
+ 
+ 23 
+22.7 Any and all content made available by the Company such as, but not limited to, texts, graphics, 
+images, logos, icons, photographs, editorial content, notifications, software and other material, 
+belongs exclusively to the Company.  
+22.8 The terms and provisions of this contract will prevail over any other understandings or previous 
+agreements between the parties, express or implied, regarding the established conditions, and 
+the parties will not be held responsible for any adjustments esta blished by their employees, 
+representatives, intermediaries, etc., which are not included in the clauses inserted in this 
+instrument. 
+22.9 The Parties may opt for signatures to this instrument to be carried out using digital signature 
+tools, in accordance with paragraph 2 of article 10 of MP 2.200 -2/2001, with this Agreement, in 
+this case, being irrevocably considered, by everyone who signs i t, as documentary proof and 
+extrajudicial executive title, for all purposes and effects. The Parties declare that they are aware 
+and recognize that the digital signature tool meets the highest levels of signatory authentication 
+and rigorous security and le gal compliance standards, guaranteeing security and legal validity, 
+unequivocally attesting to the authorship and content of a document electronic.      
+22.10 The Token Holder declares that it accepts all terms of this agreement by clicking the tick box that 
+appears before they sign the blockchain transaction to invest.  
+THE TOKEN HOLDER ACKNOWLEDGES HAVING RECEIVED, READ AND UNDERSTOOD THE 
+FOREGOING TERMS AND HEREBY AGREES TO BE BOUND BY ALL OF THE TERMS AND 
+CONDITIONS HEREOF. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

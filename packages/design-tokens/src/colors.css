@@ -1,0 +1,25 @@
+/* Palette reference: https://nemesis-protocol.vercel.app/
+   Extracted 2026-10-12. Semantic roles are recommendations for Gen-Z.
+   Gen-Z is light-only. Dark-named tokens are charcoal component colors, not a theme. */
+:root {
+  --genz-brand-mint: #5eead4;
+  --genz-brand-primary: #2dd4bf;
+  --genz-brand-strong: #14b8a6;
+  --genz-brand-deep: #0f766e;
+  --genz-brand-soft: #ccfbf1;
+  --genz-on-primary: #050505;
+
+  --genz-dark-bg: #1a1d23;
+  --genz-dark-surface: #22262e;
+  --genz-dark-surface-raised: #2b3038;
+  --genz-dark-text: #f4f4f5;
+  --genz-dark-text-muted: #a1a1aa;
+
+  --genz-light-bg: #ffffff;
+  --genz-light-surface: #fafafa;
+  --genz-light-text: #111827;
+  --genz-light-text-muted: #4b5563;
+  --genz-light-link: #0f766e;
+
+  --genz-brand-gradient: linear-gradient(135deg, #2dd4bf 0%, #14b8a6 100%);
+}

@@ -1,0 +1,91 @@
+/* Pin the reading surface; ScrollTrigger reserves the travel beneath it. */
+main > .capital-section.has-pinned-sequence,
+main > .stack-section.has-pinned-sequence {
+  display:block;
+  padding-block:0;
+  overflow:clip;
+  content-visibility:visible;
+  contain-intrinsic-size:none;
+}
+.has-pinned-sequence .capital-scroll-pin,
+.has-pinned-sequence .stack-scroll-pin {
+  height:100svh;
+  min-height:0;
+  display:flex;
+  align-items:center;
+  padding-top:80px;
+  padding-bottom:20px;
+}
+.has-pinned-sequence .capital-stage {
+  width:100%;
+  height:100%;
+  min-height:0;
+}
+.has-pinned-sequence .capital-heading { padding-top:20px; }
+.has-pinned-sequence .capital-heading h2 { font-size:clamp(34px,min(4.6vw,6.4svh),68px); }
+.has-pinned-sequence .capital-heading > p { margin-top:22px; font-size:16px; }
+.has-pinned-sequence .capital-turbine { height:100%; }
+.has-pinned-sequence .capital-step-1 { top:13%; }
+.has-pinned-sequence .capital-step-2 { top:61%; }
+.has-pinned-sequence .capital-step-3 { top:64%; }
+.has-pinned-sequence .capital-step h3 { font-size:clamp(23px,2.2vw,28px); }
+.has-pinned-sequence .capital-step p { font-size:15px; }
+.has-pinned-sequence .capital-footnote { margin-block:20px 44px; }
+.has-pinned-sequence .stack-composition {
+  width:100%;
+  flex:none;
+  transform:scale(var(--stack-scale,1));
+  transform-origin:center;
+}
+/* Reserve space for the top slab extending above the SVG viewBox. */
+.has-pinned-sequence .stack-experience { margin-top:48px; }
+.has-pinned-sequence .stack-diagram { overflow:visible; }
+
+@media (min-width:1101px) {
+  .has-pinned-sequence .stack-stage { height:clamp(300px,calc(100svh - 290px),650px)!important; }
+  .has-pinned-sequence .stack-diagram { width:clamp(366.66px,calc((100svh - 290px) * 1.2222),794.445px); }
+  .has-pinned-sequence .stack-composition > h2 { font-size:clamp(36px,min(4.2vw,5.5svh),60px); }
+  .has-pinned-sequence .stack-composition > .section-intro { font-size:16px; margin-top:18px; }
+  .has-pinned-sequence .stack-experience { margin-top:clamp(64px,8svh,88px); }
+}
+
+@media (max-width:1100px) {
+  .has-pinned-sequence .stack-diagram { width:min(100%,calc(38svh * 1.2222)); }
+  .has-pinned-sequence .stack-labels { margin-top:12px; gap:10px; }
+  .has-pinned-sequence .stack-label { padding:10px 12px; min-height:64px; }
+  .has-pinned-sequence .stack-label strong { font-size:16px; }
+  .has-pinned-sequence .stack-label-chips { display:none; }
+  .has-pinned-sequence .stack-connector { display:none; }
+}
+@media (max-width:1023px) {
+  .has-pinned-sequence .capital-stage { display:block; }
+  .has-pinned-sequence .capital-heading { max-width:100%; padding-top:12px; }
+  .has-pinned-sequence .capital-heading h2 { max-width:650px; font-size:clamp(30px,4.8vw,46px); }
+  .has-pinned-sequence .capital-heading > p { max-width:480px; margin-top:16px; font-size:15px; }
+  .has-pinned-sequence .capital-turbine { position:absolute; left:0; top:28%; width:52%; height:72%; margin:0; }
+  .has-pinned-sequence .capital-steps { display:block; margin:0; }
+  .has-pinned-sequence .capital-step { position:absolute; left:auto; right:0; top:46%; bottom:auto; width:46%; }
+  .has-pinned-sequence .capital-step::before { display:none; }
+  .has-pinned-sequence .capital-step h3 { font-size:26px; }
+  .has-pinned-sequence .capital-step p { max-width:100%; }
+}
+@media (max-width:767px) {
+  .has-pinned-sequence .capital-scroll-pin,
+  .has-pinned-sequence .stack-scroll-pin { padding-top:72px; padding-bottom:24px; }
+  .has-pinned-sequence .capital-heading { padding-top:8px; }
+  .has-pinned-sequence .capital-heading h2 { font-size:clamp(28px,min(7.7vw,4.7svh),40px); }
+  .has-pinned-sequence .capital-heading > p { font-size:14px; line-height:1.45; margin-top:14px; }
+  .has-pinned-sequence .capital-turbine { left:12%; top:25%; width:76%; height:47%; }
+  .has-pinned-sequence .capital-step { left:0; right:0; top:auto; bottom:8px; width:100%; }
+  .has-pinned-sequence .capital-step > div { display:grid; grid-template-columns:32px 1fr; column-gap:12px; }
+  .has-pinned-sequence .capital-step h3 { font-size:24px; }
+  .has-pinned-sequence .capital-step-number { margin-top:3px; }
+  .has-pinned-sequence .capital-step p { font-size:15px; }
+  .has-pinned-sequence .stack-label strong { font-size:14px; }
+  .has-pinned-sequence .stack-label .layer-number { font-size:10px; letter-spacing:0; }
+  .has-pinned-sequence .stack-composition > h2 { font-size:clamp(28px,7vw,38px); }
+  .has-pinned-sequence .stack-composition > .section-intro { font-size:14px; margin-top:16px; }
+}
+@media (max-height:740px) and (max-width:767px) {
+  .has-pinned-sequence .capital-turbine { top:32%; height:38%; }
+}

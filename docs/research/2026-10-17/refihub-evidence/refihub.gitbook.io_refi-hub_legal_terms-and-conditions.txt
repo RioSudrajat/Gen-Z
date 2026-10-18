@@ -1,0 +1,326 @@
+Terms & Conditions | ReFi Hub
+🌐
+ReFi Hub
+🌐
+ReFi Hub
+Infrastructure-backed cashflow
+🌐
+How ReFi Hub works
+What ReFi Hub does
+Where returns come from
+How cashflow is defined
+Who is ReFi Hub is for
+Asset Selection & Due Diligence
+Geographical Focus
+Contracts & Distribution Mechanics
+Risk & Variability
+Performance Deviations
+Transparency & Reporting
+Technology & Settlement
+Fees on ReFi Hub
+Why ReFi Hub Exists
+ReFi Hub in one sentence
+🌐
+Environmental Impact
+User Impact & SDG alignment
+🌐
+Legal
+Terms & Conditions
+Privacy Policy
+Contracts with listed business
+🌐
+Additional
+Terminology
+Key Resources & Links
+Powered by GitBook
+On this page
+For the complete documentation index, see
+llms.txt
+. This page is also available as
+Markdown
+.
+Terms & Conditions
+Effective Date: March 13, 2026
+Last Updated: March 13, 2026
+These Terms & Conditions govern your use of the ReFi Hub Platform, including the tokenised funding infrastructure and the P2P Token Marketplace. Please read them carefully.
+1. Introduction
+About ReFi Hub
+These Terms & Conditions ("T&C") govern your use of the ReFi Hub electronic platform, accessible at
+www.refihub.io
+(the "Platform"), operated by ReFi Hub Ventures S.A., a company incorporated under the laws of the Republic of Panama (Registration No. 155780086), with its registered office at 55th Street East, P.H. SL55 Building, Floor 21, Suite 3, Panama City, Republic of Panama ("ReFi Hub", "Us", "We", "Our").
+Acceptance of Terms
+By accessing, registering, or using the Platform, or by clicking "accept" or "agree" when prompted, you acknowledge that you have read, understood, and agreed to be bound by these T&C, either personally and/or on behalf of the entity you represent. If you do not agree to these T&C and the accompanying Privacy Policy, you must not access or use the Platform.
+Scope of Terms
+These T&C apply to all features of the Platform, including the tokenised Funding Round infrastructure and the P2P Token Marketplace. They do not cover any third-party websites, services, or applications, even those you may access through the Platform.
+2. Definitions
+"Account"
+means an individual account on the Platform created by a Token Holder or Recipient following successful KYC or KYB verification.
+"Aggregate Payment"
+means the total periodic payment remitted by a Recipient to the Smart Contract, from which the Platform Servicing Fee is deducted and the remaining Yield is distributed to Token Holders.
+"Collateral Agent"
+means ReFi Hub acting in a limited, non-fiduciary, administrative capacity as agent for Token Holders for the sole purpose of holding and, where applicable, coordinating enforcement of a security interest over the Collateral, as set out in the applicable Token Sale & Investment Agreement.
+"Eligible Person"
+has the meaning given in Section 3.
+"Event of Default"
+means any of the events defined as such in the applicable Token Sale & Investment Agreement.
+"Funding Round"
+means the process by which a Recipient lists a Project on the Platform and raises capital from Token Holders through the issuance of Tokens via Smart Contract.
+"KYC / KYB"
+means Know Your Customer and Know Your Business identity verification procedures conducted via the Platform's third-party provider.
+"P2P Marketplace"
+means the peer-to-peer token trading feature of the Platform that enables KYC-verified Token Holders to place buy or sell orders for Tokens using smart contract escrow, as further described in Section 8.
+"Platform"
+means the software-as-a-service infrastructure operated by ReFi Hub at
+www.refihub.io
+, which provides smart-contract licensing, listing and visibility services, KYC/AML facilitation, the P2P Marketplace, and administrative coordination.
+"Platform Servicing Fee"
+means the fixed percentage deducted automatically by the Smart Contract from each Aggregate Payment prior to distribution of Yield to Token Holders, as specified in the applicable Token Sale & Investment Agreement.
+"Platform Structuring Fee"
+means a fee of 3% of the total Investment Amount, charged to the Recipient upon successful close of a Funding Round.
+"Politically Exposed Person (PEP)"
+means an individual entrusted with a prominent public function who, because of such position, is considered more likely to be vulnerable to abuse for the purposes of corruption, money laundering, and/or terrorist financing.
+"Project"
+means the asset or enterprise being financed through a Funding Round, as described on the applicable listing page.
+"Recipient"
+means a company, SME, or organisation that lists a Project on the Platform to raise capital from Token Holders, having entered into a Listing & Platform Service Agreement with ReFi Hub.
+"Sanctioned Person"
+means any individual or entity (a) listed on the OFAC Specially Designated Nationals and Blocked Persons List, the EU Consolidated Sanctions List, the UK Consolidated Sanctions List, the UN Consolidated List, or any equivalent sanctions list; (b) organised, resident, or located in a Prohibited Jurisdiction; or (c) otherwise the target of economic or financial sanctions administered by OFAC, the EU, the UK, the UN, or any other applicable authority.
+"Services"
+means all services provided by ReFi Hub through the Platform, including listing services, smart-contract automation, KYC/AML screening, and the P2P Marketplace, expressly
+excluding
+any regulated brokerage, advisory, custodial, fiduciary, or intermediary financial activity.
+"Smart Contract"
+means the self-executing code deployed on the Solana blockchain by the Recipient through the Platform, which governs the flow of funds during a Funding Round and the distribution of Yield payments to Token Holders.
+"Stablecoins"
+means USD-denominated digital settlement tokens (such as USDC on the Solana blockchain), used as the payment mechanism for Funding Round contributions and Yield distributions. The Platform makes no representation regarding the stability, solvency, or redemption rights of any Stablecoin issuer.
+"Token Holder"
+means a User who has completed KYC verification and participates in a Funding Round by acquiring Tokens, or who acquires Tokens via the P2P Marketplace.
+"Token Sale & Investment Agreement"
+means the legally binding agreement between a Recipient and a Token Holder governing the terms of the Tokens, Yield payments, Events of Default, and associated rights and obligations.
+"Tokens"
+means digitally recorded contractual Yield participation rights, represented in tokenised form on the Solana blockchain solely for programmatic payment automation. Tokens are transferable between KYC-verified Users within the Platform ecosystem, including via the P2P Marketplace, subject to Platform approval and compliance with applicable law. Tokens do not confer equity, voting, governance, or ownership rights in the Recipient or any other entity, and have no guaranteed monetary value or liquidity outside the Platform.
+For the avoidance of doubt, nothing in this definition, or anywhere in these T&C, shall be construed as a representation or admission that Tokens are, or are not, securities or regulated financial instruments under the laws of any jurisdiction. The regulatory classification of Tokens is jurisdiction-dependent and each User is responsible for obtaining independent legal advice as to the classification applicable to them.
+"User"
+means any individual or entity that registers for the Platform as a Token Holder or Recipient, having completed the applicable KYC or KYB procedure.
+"Yield"
+means the periodic payments distributed to Token Holders under the Token Sale & Investment Agreement, calculated as a proportional share of the Aggregate Payment and distributed automatically by the Smart Contract.
+3. Eligibility & Prohibited Jurisdictions
+Eligible Persons
+The Platform is exclusively available to "Eligible Persons." You are an Eligible Person only if you:
+Are at least 18 years of age;
+Are not a U.S. Person (as defined below);
+Are not physically present in, a resident of, or a legal entity incorporated under the laws of a Prohibited Jurisdiction;
+Are not a Politically Exposed Person;
+Are not a Sanctioned Person; and
+Have successfully completed the Platform's KYC or KYB verification process.
+A "U.S. Person" includes, without limitation, any individual or entity within the United States, any U.S. citizen or permanent resident wherever located, and any entity subject to U.S. jurisdiction.
+By using the Platform, you represent and warrant that you are legally permitted under the laws of your jurisdiction of residence, nationality, and domicile to acquire Tokens, receive Yield payments, and participate in revenue-sharing arrangements of this nature, and that doing so does not violate any applicable law or regulation.
+Prohibited Jurisdictions
+"Prohibited Jurisdiction" means:
+The United States; Panama
+(for the avoidance of doubt, this restriction does not apply to ReFi Hub Ventures S.A. or its affiliated entities participating in Funding Rounds or the P2P Marketplace in their own capacity)
+; Singapore; the Canadian provinces of Ontario and Quebec; the People's Republic of China; Russia; Ukraine, including any disputed or sanctioned territories; Afghanistan; Barbados; Belarus; Burkina Faso; Burundi; Cameroon; Central African Republic; Democratic Republic of the Congo; Cuba; El Salvador; Eritrea; Gambia; Guinea-Bissau; Haiti; Iran; Iraq; Lebanon; Libya; Mali; Mozambique; Myanmar; Nicaragua; Niger; North Korea; Pakistan; Palestinian Territories (Gaza Strip and West Bank); Senegal; Somalia; South Sudan; Sudan; Syria; Tanzania; Uganda; Venezuela; Yemen; Zimbabwe;
+Any jurisdiction sanctioned and/or embargoed by the United States, the United Nations, the United Kingdom, the European Union, or Switzerland;
+Any jurisdiction where it would be illegal under local law or regulation for you to acquire, hold, or transfer Tokens; or
+Any jurisdiction where the offer, sale, distribution, marketing, or transfer of Tokens would require ReFi Hub or any affiliated entity to obtain registration, licensing, approval, or authorisation from any governmental or regulatory authority.
+4. Role of the Platform — Important Disclosures
+This section sets out what ReFi Hub is, and what it is not. Users should read it carefully before using the Platform.
+What ReFi Hub Is
+ReFi Hub operates exclusively as a non-custodial software-as-a-service (SaaS) technology infrastructure provider. Specifically, ReFi Hub:
+Licenses configurable smart-contract code on the Solana blockchain to Recipients for use in Funding Rounds;
+Provides listing and visibility services for Recipient Projects;
+Facilitates KYC/AML identity screening via accredited third-party providers;
+Operates the P2P Marketplace as a smart-contract escrow infrastructure layer;
+Performs non-fiduciary administrative coordination, including as Collateral Agent where expressly designated in a Token Sale & Investment Agreement.
+What ReFi Hub Is Not
+ReFi Hub is not a broker, dealer, investment adviser, securities intermediary, exchange, financial institution, or custodian. Specifically:
+ReFi Hub is not the issuer of any Tokens and is not a party to any Token Sale & Investment Agreement;
+ReFi Hub does not take custody of User or Recipient funds at any point — all funds move directly between User wallets and Recipient-controlled Smart Contracts (or P2P Marketplace escrow contracts, which are also non-custodial);
+ReFi Hub does not arrange, place, or intermediate securities or investments;
+ReFi Hub does not provide brokerage, advisory, investment management, or fiduciary services to any User;
+ReFi Hub does not operate a securities exchange, multilateral trading facility, or regulated trading venue;
+ReFi Hub does not offer, market, or sell Tokens to any person;
+ReFi Hub does not guarantee the performance, accuracy, or completeness of any information provided by a Recipient.
+Regulatory Responsibility
+Each Recipient is solely responsible for determining whether the offering of Tokens constitutes a regulated activity in any applicable jurisdiction and for ensuring full compliance with applicable laws, including securities regulation, AML/CTF legislation, and consumer protection rules. ReFi Hub does not provide legal, regulatory, tax, or financial advice to any party.
+Blockchain Infrastructure
+The Platform operates exclusively on the Solana blockchain. All Tokens are Solana-based. All payment flows use USDC or other USD-denominated Stablecoins on the Solana network. Users must use a compatible Solana wallet (such as Phantom) to access the Platform.
+5. Tokens — Nature, Transferability & the P2P Marketplace
+Legal Nature
+Each Token represents a contractual right to receive defined Yield payments from a specific Project managed by a specific Recipient. Tokens:
+Are digitally recorded contractual Yield participation rights for programmatic payment automation;
+Do not convey equity, voting, governance, or ownership rights in the Recipient or any other entity;
+Expire automatically at the end of the applicable term as defined in the Token Sale & Investment Agreement;
+Are recorded on-chain solely for payment automation purposes;
+May be classified differently under the laws of different jurisdictions — each User is responsible for assessing the applicable regulatory characterisation in their own jurisdiction.
+Transferability
+Tokens are transferable between KYC-verified Users within the Platform ecosystem, including via the P2P Marketplace. The following conditions apply to all Token transfers:
+Transfers are only permitted between Users who have completed KYC verification on the Platform;
+All transfers must comply with applicable sanctions and AML/CTF obligations — the Platform will conduct screening on counterparties prior to approving transfers;
+Tokens may not be transferred to any person outside the Platform's KYC-verified ecosystem;
+Tokens may not be directly exchanged for fiat currency or other virtual assets outside the Platform;
+Tokens may not be listed, traded, or used as collateral on any external secondary market, exchange, or platform not operated by ReFi Hub.
+Any attempt to circumvent these conditions will result in immediate account termination and token nullification.
+No Guaranteed Liquidity
+While the P2P Marketplace enables Token transfers between Users, ReFi Hub does not guarantee that a buyer or seller will be available for any particular Token at any given time. Token Holders should not rely on the ability to liquidate their position prior to the end of the applicable term.
+6. Use of Platform & Restrictions
+Lawful Use
+You may use the Services solely for lawful purposes and in strict adherence to these T&C. You agree not to use the Services in any way that could impair, overburden, damage, or adversely affect the Platform or ReFi Hub's operations.
+Access Restrictions
+Access to the Platform must be via the provided Platform user interface only. Direct backend access to Smart Contracts without completing KYC and accepting applicable transaction agreements is strictly prohibited.
+Prohibited Conduct
+Users are strictly prohibited from:
+Providing false, inaccurate, or misleading information at any time, including during KYC/KYB;
+Accessing the Platform from a Prohibited Jurisdiction, including through the use of VPNs or other circumvention technology;
+Reverse engineering, modifying, or otherwise attempting to circumvent the Smart Contract infrastructure or the P2P Marketplace escrow;
+Using the Platform for money laundering, terrorist financing, fraud, tax evasion, or any other financial crime;
+Exploiting the P2P Marketplace for wash trading, market manipulation, or any form of price distortion;
+Licensing, sublicensing, or exploiting the Platform's content or Services without prior written consent from ReFi Hub.
+Intellectual Property
+All intellectual property rights in the Platform and its content are owned by ReFi Hub, its licensors, or other providers. No transfer of such rights is implied by these T&C. You must not use ReFi Hub's trademarks, logos, or service marks without prior written consent.
+7. Funding Rounds — How the Platform Works
+Service Description
+ReFi Hub lists Recipient Projects on the Platform and provides smart-contract infrastructure to facilitate Funding Rounds. Listing of a Project on the Platform does not constitute an endorsement, recommendation, verification of financial viability, or investment advice by ReFi Hub. All project information is provided solely by the Recipient and has not been independently verified by ReFi Hub. Users acknowledge that they rely solely on information provided by the Recipient, and not on any statements, descriptions, or representations made by the Platform, when making any decision to participate in a Funding Round or acquire Tokens.
+The terms of each Funding Round — including Yield rate, payment schedule, and tenure — are determined by the Recipient and disclosed in the applicable Token Sale & Investment Agreement. ReFi Hub does not set or guarantee those terms.
+Smart Contract Risk Acknowledgment
+Smart contracts deployed on the Solana blockchain execute automatically based on their underlying code. ReFi Hub does not guarantee the absence of bugs, exploits, logic errors, or unforeseen code behaviour in any Smart Contract. Users interact with Smart Contracts at their own risk. In the event of a Smart Contract error or exploit, ReFi Hub shall not be liable for any resulting loss except to the extent caused by ReFi Hub's own gross negligence or wilful misconduct in the software it provides.
+Registration & KYC
+Create an Account by connecting a compatible Solana wallet (e.g., Phantom);
+Complete KYC verification via the Platform's third-party provider; and
+Accept these T&C and the Privacy Policy.
+Participating in a Funding Round
+Token Holders participate by contributing USDC (or other supported Stablecoins) to the applicable Smart Contract in exchange for Tokens representing fractional Yield participation rights. Before participating, Users must read and accept the applicable Token Sale & Investment Agreement available on each Project listing page. The specific terms of each Funding Round — including Yield rate, Aggregate Payment schedule, and term length — are set out in that agreement.
+Claiming Yield
+To claim earned Yield:
+Access the Portfolio section on the Platform;
+View your claimable Yield amount;
+Click Claim to initiate a transaction to the Smart Contract;
+Approve the transaction to receive Yield into your wallet.
+Fees
+Platform Structuring Fee: 3% of the total Investment Amount, charged to the Recipient upon successful close of a Funding Round. Token Holders are not charged this fee.
+Platform Servicing Fee: A fixed percentage of each Aggregate Payment, automatically deducted by the Smart Contract prior to Yield distribution to Token Holders. The exact rate is specific to each Funding Round and is disclosed in full in the applicable Token Sale & Investment Agreement.
+No yield-based, performance-based, or ad valorem fees are charged to Token Holders directly by ReFi Hub in its capacity as Platform operator.
+8. P2P Token Marketplace
+Overview
+The ReFi Hub P2P Marketplace is a peer-to-peer token trading facility that enables KYC-verified Token Holders to buy and sell Tokens directly with one another using smart contract escrow infrastructure on the Solana blockchain.
+How It Works
+When a User places a buy or sell order, the relevant Tokens or Stablecoins are deposited into an immutable smart contract escrow controlled by the on-chain contract, not by ReFi Hub;
+ReFi Hub does not hold, control, or have discretionary access to funds in the escrow at any point;
+Orders are matched on a peer-to-peer basis and settle automatically via the Smart Contract when a counterparty is found;
+Users maintain full control of their deposited assets and may withdraw them at any time before a trade is matched;
+All counterparties to a P2P trade must be KYC-verified Users, and the Platform conducts AML/sanctions screening on all counterparties prior to settlement.
+Role of ReFi Hub in the P2P Marketplace
+ReFi Hub provides the technical escrow infrastructure and matching layer for the P2P Marketplace. ReFi Hub:
+Does not act as a principal, counterparty, market maker, or broker in any P2P trade;
+Does not set, influence, or guarantee the price at which Tokens are traded;
+Does not provide investment advice in connection with the P2P Marketplace;
+Does not operate a regulated trading venue, exchange, or multilateral trading facility.
+P2P Marketplace Risks
+Users of the P2P Marketplace acknowledge that:
+Token prices in the P2P Marketplace are determined entirely by supply and demand between Users — ReFi Hub makes no representation as to the fairness or appropriateness of any price;
+There is no guarantee that any buy or sell order will be matched;
+Smart contract escrow is subject to the technology risks described in Annex A;
+P2P trades are final and irreversible once settled on-chain.
+P2P Marketplace Fees
+Any fees applicable to P2P Marketplace transactions will be disclosed on the relevant page of the Platform prior to order placement. ReFi Hub reserves the right to introduce, modify, or remove P2P Marketplace fees with reasonable prior notice to Users.
+9. AML, CTF & Sanctions Compliance
+ReFi Hub maintains a risk-based approach to anti-money laundering (AML) and counter-terrorist financing (CTF) consistent with the Financial Action Task Force (FATF) Recommendations and applicable Panamanian law.
+User Representations
+By using the Platform, you represent and warrant that:
+All funds contributed to the Platform are from legitimate sources and do not constitute proceeds of crime;
+You are not a Sanctioned Person and are not acting on behalf of a Sanctioned Person;
+You will promptly notify ReFi Hub if any of the foregoing representations ceases to be accurate.
+Platform AML Controls
+ReFi Hub implements the following controls:
+KYC/KYB verification for all Users via accredited third-party providers, prior to access to any Funding Round or P2P Marketplace function;
+Screening of all Users and P2P trade counterparties against applicable sanctions lists (OFAC, EU, UN, UK) at onboarding and on an ongoing basis;
+Ongoing transaction monitoring for unusual or suspicious activity patterns;
+Retention of KYC documentation and transaction records for a minimum of five (5) years from the date of the relevant transaction or Account closure, whichever is later;
+Reporting of suspicious transactions to competent authorities where required by applicable law.
+ReFi Hub reserves the right to suspend or terminate any Account, freeze any Tokens, cancel any pending P2P orders, and report to competent authorities, without prior notice to the User, where it has reason to suspect AML, CTF, fraud, or sanctions violations.
+10. Risks
+Acknowledgment
+By using the Platform, you expressly acknowledge, accept, and assume all risks associated with participating in Funding Rounds, holding Tokens, and using the P2P Marketplace, including but not limited to those set out in Annex A.
+Visibility and Marketing Services
+ReFi Hub may provide listing visibility and marketing coordination services for Recipient Projects as part of the Services. Such services are technical and promotional in nature only. ReFi Hub does not provide personalised investment advice or recommendations to any User, whether in connection with marketing materials or otherwise. No statement made by ReFi Hub in any marketing context shall be construed as investment advice, a financial promotion, or a recommendation to acquire Tokens.
+11. No Warranty
+The Services are provided on an "AS IS" and "AS AVAILABLE" basis. ReFi Hub disclaims all warranties, express or implied, including warranties of merchantability, fitness for a particular purpose, and non-infringement. ReFi Hub does not warrant the accuracy, completeness, reliability, or availability of the Platform or any information on it.
+12. Limitation of Liability, Indemnification & No Waiver
+Liability Cap
+To the fullest extent permitted by applicable law, ReFi Hub's total aggregate liability to you — whether in contract, tort (including negligence), statute, or otherwise — arising from or in connection with your use of the Platform or these T&C shall not exceed the greater of: (a) the total Platform fees (if any) paid by or charged to you in the twelve (12) months immediately preceding the event giving rise to the claim; or (b) USD 2,500.
+This cap applies to all claims brought by you in aggregate, not per incident. It does not apply to liability arising from ReFi Hub's gross negligence, wilful misconduct, or fraud.
+Exclusion of Consequential Losses
+ReFi Hub shall not be liable for any indirect, special, incidental, consequential, or punitive damages, including loss of profits, loss of data, loss of investment returns, or loss arising from Token price movements, failed P2P trades, Smart Contract errors, or blockchain network failures, even if ReFi Hub has been advised of the possibility of such losses.
+Indemnification
+You agree to indemnify, defend, and hold harmless ReFi Hub and its affiliates, officers, directors, employees, agents, and successors from and against any losses, claims, damages, liabilities, and costs (including reasonable legal fees) arising from your breach of these T&C or your use or misuse of the Services, including the P2P Marketplace.
+Uncontrollable Events
+ReFi Hub is not liable for any failure or delay due to circumstances beyond its reasonable control, including governmental actions, natural disasters, war, terrorism, cyberattacks, Solana network outages, Stablecoin de-pegging events, or regulatory changes.
+No Waiver
+Failure by ReFi Hub to enforce any provision of these T&C does not constitute a waiver of its right to enforce that provision in the future.
+13. Suspension & Termination
+ReFi Hub's Right to Terminate
+ReFi Hub reserves the right to suspend or terminate your Account and access to the Services at any time, with or without notice, if you breach these T&C, if required by applicable law or regulation, or if ReFi Hub has reason to suspect AML/CTF violations, sanctions breaches, or fraudulent activity. Pending P2P orders may be cancelled and escrowed funds returned to your wallet upon termination.
+User's Right to Terminate
+You may terminate your Account at any time by contacting admin@refihub.io. Termination does not affect any outstanding Token obligations under an applicable Token Sale & Investment Agreement.
+Survival
+Provisions that by their nature should survive termination — including intellectual property rights, indemnification obligations, limitations of liability, and dispute resolution — shall continue in full force after termination.
+14. Changes to T&C and Services
+ReFi Hub reserves the right to modify these T&C and the Services at any time. Material changes will be communicated by email where reasonably practicable. Continued use of the Platform after any modification constitutes acceptance of the updated T&C.
+15. Taxation
+Yield payments and Token transactions will be processed without tax withholding by ReFi Hub unless required by applicable law. You are solely responsible for determining and fulfilling all tax obligations arising from your use of the Platform. ReFi Hub does not provide tax advice.
+16. Third-Party Websites & Services
+The Platform may contain links or references to third-party websites and services. These T&C do not apply to such third parties. ReFi Hub assumes no responsibility for their content, practices, or security.
+17. Applicable Law & Dispute Resolution
+Governing Law
+These T&C are governed by and construed in accordance with English Law, excluding conflict of law principles.
+Dispute Resolution
+Good Faith Negotiation: Any dispute arising from or relating to these T&C, any Token Sale & Investment Agreement, Token purchases, secondary Token transfers via the P2P Marketplace, the Platform's marketing materials, or your relationship with ReFi Hub shall first be referred to good faith negotiations between the parties.
+Arbitration: If unresolved within thirty (30) business days, the dispute shall be submitted to binding arbitration under the rules of the London Court of International Arbitration (LCIA), before a single arbitrator, in London, in the English language.
+Courts: English courts have exclusive jurisdiction over appeals of any arbitration award and over non-arbitrable disputes.
+Class Action Waiver: All claims must be brought on an individual basis. You waive any right to participate in class or representative actions.
+Costs: Each party bears its own legal costs; arbitration costs are shared equally unless the tribunal orders otherwise.
+18. Miscellaneous
+Assignment: You may not assign your rights or obligations under these T&C without ReFi Hub's prior written consent. ReFi Hub may assign its rights without restriction.
+Severability: If any provision is found invalid or unenforceable, it shall be modified to the minimum extent necessary, and remaining provisions remain in full force.
+Entire Agreement: These T&C, the Privacy Policy, and any applicable Token Sale & Investment Agreement constitute the entire agreement between you and ReFi Hub with respect to your use of the Platform.
+19. Contact
+ReFi Hub Ventures S.A. Registration No. 155780086 55th Street East, P.H. SL55 Building, Floor 21, Suite 3 Panama City, Republic of Panama Email: admin@refihub.io Website: www.refihub.io
+Annex A — Risk Factors
+Non-Payment / Recipient Default Risk There is a risk that a Recipient may fail to make Aggregate Payments due to project underperformance, economic downturns, insolvency, or other unforeseen events. Despite due diligence, default cannot be eliminated. Token Holders could lose some or all of their Investment.
+P2P Marketplace Liquidity Risk While the P2P Marketplace enables Token transfers between Users, there is no guarantee that a buyer or seller will be found for any particular Token. Token Holders should not assume that their position can be liquidated at any time or at any particular price.
+Smart Contract & Technology Risk The Platform relies on Solana smart contracts. Smart contract code may contain undiscovered bugs or vulnerabilities. Blockchain networks may experience outages, congestion, or governance forks. No guarantee is given that the technology will operate without interruption or error.
+Stablecoin Risk Yield payments are made via USDC or other Stablecoins on Solana. The Platform makes no representation regarding the ongoing stability or redeemability of any Stablecoin issuer. A de-pegging or issuer insolvency event could affect amounts received.
+Regulatory & Legal Risk The regulatory treatment of tokenised instruments and P2P token marketplaces is evolving globally and varies significantly across jurisdictions. Changes in law, new regulatory interpretations, or enforcement actions could adversely affect the Platform's operations or Token Holders' entitlements.
+Security & Cybersecurity Risk The Platform may be subject to cyberattacks or malicious activity targeting the Platform infrastructure, Smart Contracts, or individual wallets. Loss of wallet access, private key mismanagement, or User error is the sole responsibility of the User.
+Operational & Business Risk Recipients may face operational failures, management issues, or loss of key contracts (e.g., PPAs), which may impair their ability to make Yield payments. ReFi Hub makes no guarantee as to the ongoing viability of any listed Project.
+Currency & FX Risk Where a Recipient generates revenue in local currency and converts to USDC for Aggregate Payments, exchange rate fluctuations may affect the effective return received by Token Holders.
+Dissolution Risk The Platform could cease operations due to regulatory action, financial constraints, or other factors, which could affect Token Holders' ability to claim future Yield payments.
+Tax Risk The tax treatment of Tokens, Yield payments, and P2P trades varies by jurisdiction and is subject to change. Token Holders are solely responsible for their tax obligations and should seek independent tax advice.
+Total Loss Risk Token Holders should be prepared for the possibility of losing their entire Investment and should ensure that such a loss would not adversely affect their overall financial position. Tokens should not be acquired with funds that may be needed in the short term.
+Previous
+User Impact & SDG alignment
+Next
+Privacy Policy
+Last updated
+7 months ago
+Terms & Conditions
+1. Introduction
+2. Definitions
+3. Eligibility & Prohibited Jurisdictions
+4. Role of the Platform — Important Disclosures
+5. Tokens — Nature, Transferability & the P2P Marketplace
+6. Use of Platform & Restrictions
+7. Funding Rounds — How the Platform Works
+8. P2P Token Marketplace
+9. AML, CTF & Sanctions Compliance
+10. Risks
+11. No Warranty
+12. Limitation of Liability, Indemnification & No Waiver
+13. Suspension & Termination
+14. Changes to T&C and Services
+15. Taxation
+16. Third-Party Websites & Services
+17. Applicable Law & Dispute Resolution
+18. Miscellaneous
+19. Contact
+Annex A — Risk Factors

@@ -1,0 +1,12 @@
+{
+  "fixtureOrigin": "https://marketing.example.invalid",
+  "publicPages": [
+    "https://marketing.example.invalid/",
+    "https://marketing.example.invalid/contact/"
+  ],
+  "privateRoutesExcluded": true,
+  "canonical": true,
+  "socialImage": true,
+  "organization": true,
+  "robots": true
+}

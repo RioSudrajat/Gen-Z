@@ -1,0 +1,9 @@
+/* The existing mixed hero/body treatment is preserved for migration parity. */
+.navigation-fallback { pointer-events:auto; display:flex; align-items:center; gap:20px; padding:16px 32px; color:#fff; background:#1a1d23; }
+.navigation-fallback .brand { margin-right:auto; }
+@media (max-width:600px) { .navigation-fallback { padding:12px 16px; gap:12px; font-size:13px; } }
+/* Astro renders all sections before hydration, so their content survives JS failure. */
+html:not(.js) .hero-description { opacity:1; color:#fff; }
+html:not(.js) .hero-story { height:100dvh; }
+html:not(.js) .capital-step { opacity:1; visibility:visible; }
+.product-stage { color:#4b5563; font-size:14px; line-height:1.6; padding-top:24px; margin-bottom:0; }

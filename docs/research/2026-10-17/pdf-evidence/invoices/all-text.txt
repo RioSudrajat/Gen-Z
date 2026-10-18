@@ -1,0 +1,1787 @@
+=== PAGE 1 ===
+FLP Solar Project 
+Invoice & Revenue Summary
+Project Identiﬁcation  
+ 
+Project: FLP Solar Plant  
+ 
+System Size: 267.85 kWp 
+ 
+Location: Singapore 
+ 
+Original Developer and PPA Counterparty: Renewables Capital Asia Pte. Ltd. (RCA) 
+ 
+Designated Asset Holder: Pivot Green Asset Management Pte. Ltd. (PGAM) 
+ 
+Economic Revenue Entitlement (from Revenue Commencement Date): PGAM
+ 
+This document precedes the full invoice pack covering the operating period from September 2024 
+to December 2025. 
+It also includes the executed Term Sheet between RCA and PGAM, which sets out the agreed 
+project transfer mechanics, revenue entitlement framework, and ownership structure applicable to 
+this project within the Singapore solar portfolio.
+ 
+Billing Structure
+Each invoice reﬂects:
+* Onsite solar electricity consumption billed at S$0.1250 per kWh
+* Export of electricity to the grid at prevailing monthly export rates
+* 9% Goods & Services Tax (GST)
+* Itemised kWh consumption and cumulative metered generation
+Monthly total invoice amounts (inclusive of GST) range approximately between S$2,000 and 
+S$2,800.
+Cumulative metered generation increases sequentially across the invoice history, evidencing 
+continuous system operation.
+ 
+Contracting Entity
+All enclosed invoices are issued by:
+Renewables Capital Asia Pte. Ltd. (RCA)
+To
+Freight Links Properties Pte. Ltd.
+RCA is the original Power Purchase Agreement (PPA) counterparty and remains the invoicing 
+entity until formal novation. 
+Portfolio Transfer Framework 
+The signed Term Sheet between RCA and Pivot Green Asset Management Pte. Ltd. (PGAM)  
+provides that:
+- The Freight Links project (267.85 kWp) forms part of the transferred portfolio (Clause 1.1).
+
+
+=== PAGE 2 ===
+- Revenue entitlement for PGAM applies from the agreed Revenue Commencement Date.
+- Revenues generated prior to that date remain attributable to RCA.
+- Legal transfer of PPA rights is eﬀected through Novation Deeds.
+- Where novation is pending, receivables are assigned to preserve economic entitlement.
+- Net Distributable Revenues are subject to the agreed revenue sharing waterfall.
+ 
+Documentation Attached:
+Full invoice history (Sep 2024 – Dec 2025)
+Signed Term Sheet (Project Transfer & Revenue Sharing)
+This executive summary has been prepared by ReFi Hub for informational purposes only. It is 
+provided as a high-level overview and should be read together with the full underlying 
+documentation, including the complete invoice set and executed Term Sheet. In the event of any 
+inconsistency, the original source documents shall prevail.
+
+
+=== PAGE 3 ===
+Sep 24 Solar Electricity Bill Dated 11 Oct 2024
+Account No: 202400002
+Invoice No: 24-00012
+11/10/2024
+BILL TO:
+FREIGHT LINKS PROPERTIES PTE LTD This is your tax invoice for
+51 PENJURU RD, LEVEL 4
+SINGAPORE 609143 47 CHANGI SOUTH AVE 2
+SINGAPORE 486148
+SUMMARY OF CHARGES FROM28 Aug 24to30 Sep 24 Amount(S$)
+Balance B/F from Previous Bill -              
+Payment Received on -              
+Outstanding Balance -              
+Total Current Charges due on 10 Nov 24 3,682.15    
+TOTAL AMOUNT PAYABLE 3,682.15    
+Payment received on or after  14 Oct 24may not be included in this bill.
+CURRENT MONTH CHARGES RATE (S$) TOTAL (S$)
+BUILDING CONSUMPTION CHARGES
+ONSITE CONSUMPTION kWh 0.1250 3,378.12       
+EXPORT OF ELECTRICITY CHARGES 
+EXPORT CHARGES* kWh 0.0000 -                 
+Subtotal 3,378.12       
+Goods & Service Tax 9% 304.03          
+Total Current Charges Inclusive of GST 3,682.15       
+PAYMENT DETAILS
+NAME OF BANK: UNITED OVERSEAS BANK LTD
+ADDRESS OF BANK: 80 RAFFLES PLACE UOB PLAZA 1 SINGAPORE 048624
+BANK ACCOUNT NAME:RENEWABLES CAPITAL ASIA PTE. LTD.
+BANK ACCOUNT NUMBER:7693407706
+SWIFT CODE: UOVBSGSG
+ALL BANK CHARGES TO BE PAID BY REMITTER
+USAGE AMOUNT(S$)
+27,024.96 3,378.12
+0.00 0.00
+3,378.12
+304.03
+RENEWABLES CAPITAL ASIA PTE. LTD.
+182 CECIL STREET #17 FRASERS TOWER SINGAPORE 069547
+UEN: 202144830E | GST Reg: 202144830E
+Email: accounts@renewablescapitalasia.com
+
+=== PAGE 4 ===
+Sep 24 Solar Electricity Bill Dated 11 Oct 2024
+Account No: 202400002
+Invoice No: 24-00012
+BILL TO:
+FREIGHT LINKS PROPERTIES PTE LTD This is your tax invoice for
+51 PENJURU RD, LEVEL 4
+SINGAPORE 609143 47 CHANGI SOUTH AVE 2
+SINGAPORE 486148
+Details of the Solar PV Power for RETAILER RATE(S$) SAVINGS(S$)
+Cummulative Metered Electricity Usage kWh 0.2444 3,226.78
+Current Month Solar Electricity Usage kWh 0.2444 3,226.78
+Current Month Solar Export* kWh 0.1250 0.00
+Notes:
+- The Company reserves the right to charge interest on all late payment.
+- No official receipt will be issued unless requested.
+- This is a computer generated invoice, no signature is required. 
+- For queries related to this invoice, please email to: accounts@renewablescapitalasia.com
+Bar Graph for Past Consumption
+*Subject to final verification and tabulation, will reflect in the next billing cycle. This export rate is based on average monthly Uniform 
+Singapore Energy Price published by EMC. 
+0.17500.00
+RCA RATE (S$)
+0.1250
+0.1250
+USAGE
+27,024.96
+27,024.96
+2957.5524067.410000050001000015000200002500030000Aug-23 Sep-23 Oct-23 Nov-23 Dec-23 Jan-24
+RENEWABLES CAPITAL ASIA PTE. LTD.
+182 CECIL STREET #17 FRASERS TOWER SINGAPORE 069547
+UEN: 202144830E | GST Reg: 202144830E
+Email: accounts@renewablescapitalasia.com
+
+=== PAGE 5 ===
+Nov 24 Solar Electricity BillDated 09 Dec 2024
+Account No: 202400002
+Invoice No: 24-00016
+9/12/2024
+BILL TO:
+FREIGHT LINKS PROPERTIES PTE LTD This is your tax invoice for
+51 PENJURU RD, LEVEL 4
+SINGAPORE 609143 47 CHANGI SOUTH AVE 2
+SINGAPORE 486148
+SUMMARY OF CHARGES FROM 1 Nov 24to30 Nov 24 Amount(S$)
+Balance B/F from Previous Bill -
+Payment Received on -
+Outstanding Balance -
+Total Current Charges due on 8 Jan 25 2,395.37
+TOTAL AMOUNT PAYABLE 2,395.37
+Payment received on or after  12 Dec 24 may not be included in this bill.
+CURRENT MONTH CHARGES RATE (S$) TOTAL (S$)
+BUILDING CONSUMPTION CHARGES
+ONSITE CONSUMPTION kWh 0.1250 2,197.59
+EXPORT OF ELECTRICITY CHARGES 
+EXPORT CHARGES* kWh 0.0000 -
+Subtotal 2,197.59
+Goods & Service Tax 9% 197.78
+Total Current Charges Inclusive of GST 2,395.37
+PAYMENT DETAILS
+NAME OF BANK: UNITED OVERSEAS BANK LTD
+ADDRESS OF BANK: 80 RAFFLES PLACE UOB PLAZA 1 SINGAPORE 048624
+BANK ACCOUNT NAME: RENEWABLES CAPITAL ASIA PTE. LTD.
+BANK ACCOUNT NUMBER: 7693407706
+SWIFT CODE: UOVBSGSG
+ALL BANK CHARGES TO BE PAID BY REMITTER
+2,197.59
+197.78
+USAGE AMOUNT(S$)
+17,580.70 2,197.59
+0.00 0.00
+RENEWABLES CAPITAL ASIA PTE. LTD.
+182 CECIL STREET #17 FRASERS TOWER SINGAPORE 069547
+UEN: 202144830E | GST Reg: 202144830E
+Email: accounts@renewablescapitalasia.com
+
+=== PAGE 6 ===
+Nov 24 Solar Electricity BillDated 09 Dec 2024
+Account No: 202400002
+Invoice No: 24-00016
+BILL TO:
+FREIGHT LINKS PROPERTIES PTE LTD This is your tax invoice for
+51 PENJURU RD, LEVEL 4
+SINGAPORE 609143 47 CHANGI SOUTH AVE 2
+SINGAPORE 486148
+Details of the Solar PV Power for RETAILER RATE(S$) SAVINGS(S$)
+Cummulative Metered Electricity Usage kWh 0.2444 8,002.79
+Current Month Solar Electricity Usage kWh 0.2444 2,099.14
+Previous Month Solar Export* kWh 0.0986 0.00
+Notes:
+- The Company reserves the right to charge interest on all late payment.
+- No official receipt will be issued unless requested.
+- This is a computer generated invoice, no signature is required. 
+- For queries related to this invoice, please email to: accounts@renewablescapitalasia.com
+Bar Graph for Past Consumption
+*Subject to final verification and tabulation, will reflect in the next billing cycle. This export rate is based on average monthly Uniform 
+Singapore Energy Price published by EMC. 
+0.00000.00
+RCA RATE (S$)
+0.1250
+0.1250
+USAGE
+67,025.08
+17,580.70
+2957.55
+24067.41
+22419.42
+17580.70
+0 00
+5000
+10000
+15000
+20000
+25000
+30000
+Aug-24 Sep-24 Oct-24 Nov-24 Dec-24 Jan-25
+RENEWABLES CAPITAL ASIA PTE. LTD.
+182 CECIL STREET #17 FRASERS TOWER SINGAPORE 069547
+UEN: 202144830E | GST Reg: 202144830E
+Email: accounts@renewablescapitalasia.com
+
+=== PAGE 7 ===
+Jan 25 Solar Electricity Bill Dated 18 Feb 2025
+Account No: 202400002
+Invoice No: 25-00004
+18/2/2025
+BILL TO:
+FREIGHT LINKS PROPERTIES PTE LTD This is your tax invoice for
+51 PENJURU RD, LEVEL 4
+SINGAPORE 609143 47 CHANGI SOUTH AVE 2
+SINGAPORE 486148
+SUMMARY OF CHARGES FROM 1 Jan 25to31 Jan 25 Amount(S$)
+Balance B/F from Previous Bill -
+Payment Received on -
+Outstanding Balance -
+Total Current Charges due on 20 Mar 25 2,037.48
+TOTAL AMOUNT PAYABLE 2,037.48
+Payment received on or after  21 Feb 25 may not be included in this bill.
+CURRENT MONTH CHARGES RATE (S$) TOTAL (S$)
+BUILDING CONSUMPTION CHARGES
+CURRENT MONTH ONSITE CONSUMPTION kWh 0.1250 1,011.89
+EXPORT OF ELECTRICITY CHARGES 
+EXPORT CHARGES* kWh 0.0877 874.11
+VESTING CREDIT / DEBIT
+RECURRING CHARGES (16.75)
+Subtotal 1,869.24
+Goods & Service Tax 9% 168.23
+Total Current Charges Inclusive of GST 2,037.48
+PAYMENT DETAILS
+NAME OF BANK: UNITED OVERSEAS BANK LTD
+ADDRESS OF BANK: 80 RAFFLES PLACE UOB PLAZA 1 SINGAPORE 048624
+BANK ACCOUNT NAME: RENEWABLES CAPITAL ASIA PTE. LTD.
+BANK ACCOUNT NUMBER: 7693407706
+SWIFT CODE: UOVBSGSG
+ALL BANK CHARGES TO BE PAID BY REMITTER
+1,869.24
+168.23
+USAGE AMOUNT(S$)
+8,095.11 1,011.89
+9,967.00 874.11
+(16.75)
+RENEWABLES CAPITAL ASIA PTE. LTD.
+182 CECIL STREET #17 FRASERS TOWER SINGAPORE 069547
+UEN: 202144830E | GST Reg: 202144830E
+Email: accounts@renewablescapitalasia.com
+
+=== PAGE 8 ===
+Jan 25 Solar Electricity Bill Dated 18 Feb 2025
+Account No: 202400002
+Invoice No: 25-00004
+BILL TO:
+FREIGHT LINKS PROPERTIES PTE LTD This is your tax invoice for
+51 PENJURU RD, LEVEL 4
+SINGAPORE 609143 47 CHANGI SOUTH AVE 2
+SINGAPORE 486148
+Details of the Solar PV Power for RETAILER RATE(S$) SAVINGS(S$)
+Cummulative Metered Electricity Usage kWh 0.2444 12,616.30
+Current Solar Electricity Usage kWh 0.2444 966.56
+Current Month Solar Export* kWh 0.0877 874.11
+Notes:
+- The Company reserves the right to charge interest on all late payment.
+- No official receipt will be issued unless requested.
+- This is a computer generated invoice, no signature is required. 
+- For queries related to this invoice, please email to: accounts@renewablescapitalasia.com
+Bar Graph for Past Consumption
+*Subject to final verification and tabulation, will reflect in the next billing cycle. This export rate is based on average monthly Uniform 
+Singapore Energy Price published by EMC. 
+0.00009,967.00
+RCA RATE (S$)
+0.1250
+0.1250
+USAGE
+105,664.15
+8,095.11
+2957.55
+24067.41
+22419.42
+17580.7
+20576.96
+18062.11
+0
+5000
+10000
+15000
+20000
+25000
+30000
+Aug-24 Sept-24 Oct-24 Nov-24 Dec-24 Jan-25
+RENEWABLES CAPITAL ASIA PTE. LTD.
+182 CECIL STREET #17 FRASERS TOWER SINGAPORE 069547
+UEN: 202144830E | GST Reg: 202144830E
+Email: accounts@renewablescapitalasia.com
+
+=== PAGE 9 ===
+Feb 25 Solar Electricity Bill Dated 14 Mar 2025
+Account No: 202400002
+Invoice No: 25-00007
+14/3/2025
+BILL TO:
+FREIGHT LINKS PROPERTIES PTE LTD This is your tax invoice for
+51 PENJURU RD, LEVEL 4
+SINGAPORE 609143 47 CHANGI SOUTH AVE 2
+SINGAPORE 486148
+SUMMARY OF CHARGES FROM 1 Feb 25to28 Feb 25 Amount(S$)
+Balance B/F from Previous Bill 2,037.48
+Payment Received on -
+Outstanding Balance 2,037.48
+Total Current Charges due on 13 Apr 25 2,531.75
+TOTAL AMOUNT PAYABLE 4,569.23
+Payment received on or after  17 Mar 25may not be included in this bill.
+CURRENT MONTH CHARGES RATE (S$) TOTAL (S$)
+BUILDING CONSUMPTION CHARGES
+CURRENT MONTH ONSITE CONSUMPTION kWh 0.1250 923.71
+EXPORT OF ELECTRICITY CHARGES 
+EXPORT CHARGES* kWh 0.0899 1,420.28
+VESTING CREDIT / DEBIT
+RECURRING CHARGES (21.28)
+Subtotal 2,322.71
+Goods & Service Tax 9% 209.04
+Total Current Charges Inclusive of GST 2,531.75
+PAYMENT DETAILS
+NAME OF BANK: UNITED OVERSEAS BANK LTD
+ADDRESS OF BANK: 80 RAFFLES PLACE UOB PLAZA 1 SINGAPORE 048624
+BANK ACCOUNT NAME: RENEWABLES CAPITAL ASIA PTE. LTD.
+BANK ACCOUNT NUMBER: 7693407706
+SWIFT CODE: UOVBSGSG
+ALL BANK CHARGES TO BE PAID BY REMITTER
+2,322.71
+209.04
+USAGE AMOUNT(S$)
+7,389.68 923.71
+15,798.39 1,420.28
+(21.28)
+RENEWABLES CAPITAL ASIA PTE. LTD.
+182 CECIL STREET #17 FRASERS TOWER SINGAPORE 069547
+UEN: 202144830E | GST Reg: 202144830E
+Email: accounts@renewablescapitalasia.com
+
+=== PAGE 10 ===
+Feb 25 Solar Electricity Bill Dated 14 Mar 2025
+Account No: 202400002
+Invoice No: 25-00007
+BILL TO:
+FREIGHT LINKS PROPERTIES PTE LTD This is your tax invoice for
+51 PENJURU RD, LEVEL 4
+SINGAPORE 609143 47 CHANGI SOUTH AVE 2
+SINGAPORE 486148
+Details of the Solar PV Power for RETAILER RATE(S$) SAVINGS(S$)
+Cummulative Metered Electricity Usage kWh 0.2444 15,384.96
+Current Solar Electricity Usage kWh 0.2444 882.33
+Current Month Solar Export* kWh 0.0899 1,420.28
+Notes:
+- The Company reserves the right to charge interest on all late payment.
+- No official receipt will be issued unless requested.
+- This is a computer generated invoice, no signature is required. 
+- For queries related to this invoice, please email to: accounts@renewablescapitalasia.com
+Bar Graph for Past Consumption
+*Subject to final verification and tabulation, will reflect in the next billing cycle. This export rate is based on average monthly Uniform 
+Singapore Energy Price published by EMC. 
+0.000015,798.39
+RCA RATE (S$)
+0.1250
+0.1250
+USAGE
+128,852.22
+7,389.68
+24067.41
+22419.42
+17580.7
+20576.96
+18062.11
+23188.07
+0
+5000
+10000
+15000
+20000
+25000
+30000
+Sept-24 Oct-24 Nov-24 Dec-24 Jan-25 Feb-25
+RENEWABLES CAPITAL ASIA PTE. LTD.
+182 CECIL STREET #17 FRASERS TOWER SINGAPORE 069547
+UEN: 202144830E | GST Reg: 202144830E
+Email: accounts@renewablescapitalasia.com
+
+=== PAGE 11 ===
+Mar 25 Solar Electricity Bill Dated 11 Apr 2025
+Account No: 202400002
+Invoice No: 25-00010
+11/4/2025
+BILL TO:
+FREIGHT LINKS PROPERTIES PTE LTD This is your tax invoice for
+51 PENJURU RD, LEVEL 4
+SINGAPORE 609143 47 CHANGI SOUTH AVE 2
+SINGAPORE 486148
+SUMMARY OF CHARGES FROM 1 Mar 25to31 Mar 25 Amount(S$)
+Balance B/F from Previous Bill -
+Payment Received on -
+Outstanding Balance -
+Total Current Charges due on 11 May 25 2,386.28
+TOTAL AMOUNT PAYABLE 2,386.28
+Payment received on or after  14 Apr 25 may not be included in this bill.
+CURRENT MONTH CHARGES RATE (S$) TOTAL (S$)
+BUILDING CONSUMPTION CHARGES
+CURRENT MONTH ONSITE CONSUMPTION kWh 0.1250 1,124.69
+EXPORT OF ELECTRICITY CHARGES 
+EXPORT CHARGES* kWh 0.0947 1,080.61
+VESTING CREDIT / DEBIT
+RECURRING CHARGES (16.05)
+Subtotal 2,189.25
+Goods & Service Tax 9% 197.03
+Total Current Charges Inclusive of GST 2,386.28
+PAYMENT DETAILS
+NAME OF BANK: UNITED OVERSEAS BANK LTD
+ADDRESS OF BANK: 80 RAFFLES PLACE UOB PLAZA 1 SINGAPORE 048624
+BANK ACCOUNT NAME: RENEWABLES CAPITAL ASIA PTE. LTD.
+BANK ACCOUNT NUMBER: 7693407706
+SWIFT CODE: UOVBSGSG
+ALL BANK CHARGES TO BE PAID BY REMITTER
+2,189.25
+197.03
+USAGE AMOUNT(S$)
+8,997.52 1,124.69
+11,410.85 1,080.61
+(16.05)
+RENEWABLES CAPITAL ASIA PTE. LTD.
+182 CECIL STREET #17 FRASERS TOWER SINGAPORE 069547
+UEN: 202144830E | GST Reg: 202144830E
+Email: accounts@renewablescapitalasia.com
+
+=== PAGE 12 ===
+Mar 25 Solar Electricity Bill Dated 11 Apr 2025
+Account No: 202400002
+Invoice No: 25-00010
+BILL TO:
+FREIGHT LINKS PROPERTIES PTE LTD This is your tax invoice for
+51 PENJURU RD, LEVEL 4
+SINGAPORE 609143 47 CHANGI SOUTH AVE 2
+SINGAPORE 486148
+Details of the Solar PV Power for RETAILER RATE(S$) SAVINGS(S$)
+Cummulative Metered Electricity Usage kWh 0.2444 17,821.71
+Current Solar Electricity Usage kWh 0.2444 1,074.30
+Current Month Solar Export* kWh 0.0947 1,080.61
+Notes:
+- The Company reserves the right to charge interest on all late payment.
+- No official receipt will be issued unless requested.
+- This is a computer generated invoice, no signature is required. 
+- For queries related to this invoice, please email to: accounts@renewablescapitalasia.com
+Bar Graph for Past Consumption
+*Subject to final verification and tabulation, will reflect in the next billing cycle. This export rate is based on average monthly Uniform 
+Singapore Energy Price published by EMC. 
+0.000011,410.85
+RCA RATE (S$)
+0.1250
+0.1250
+USAGE
+149,260.59
+8,997.52
+22419.42
+17580.7
+20576.96
+18062.11
+23188.07
+20408.37
+0
+5000
+10000
+15000
+20000
+25000
+Oct-24 Nov-24 Dec-24 Jan-25 Feb-25 Mar-25
+RENEWABLES CAPITAL ASIA PTE. LTD.
+182 CECIL STREET #17 FRASERS TOWER SINGAPORE 069547
+UEN: 202144830E | GST Reg: 202144830E
+Email: accounts@renewablescapitalasia.com
+
+=== PAGE 13 ===
+Apr 25 Solar Electricity Bill Dated 14 May 2025
+Account No: 202400002
+Invoice No: 25-00014
+14/5/2025
+BILL TO:
+FREIGHT LINKS PROPERTIES PTE LTD This is your tax invoice for
+51 PENJURU RD, LEVEL 4
+SINGAPORE 609143 47 CHANGI SOUTH AVE 2
+SINGAPORE 486148
+SUMMARY OF CHARGES FROM 1 Apr 25to30 Apr 25 Amount(S$)
+Balance B/F from Previous Bill -
+Payment Received on -
+Outstanding Balance -
+Total Current Charges due on 13 Jun 25 2,616.92
+TOTAL AMOUNT PAYABLE 2,616.92
+Payment received on or after  17 May 25may not be included in this bill.
+CURRENT MONTH CHARGES RATE (S$) TOTAL (S$)
+BUILDING CONSUMPTION CHARGES
+CURRENT MONTH ONSITE CONSUMPTION kWh 0.1250 1,147.17
+EXPORT OF ELECTRICITY CHARGES 
+EXPORT CHARGES* kWh 0.0964 1,272.52
+VESTING CREDIT / DEBIT
+RECURRING CHARGES (18.85)
+Subtotal 2,400.84
+Goods & Service Tax 9% 216.08
+Total Current Charges Inclusive of GST 2,616.92
+PAYMENT DETAILS
+NAME OF BANK: UNITED OVERSEAS BANK LTD
+ADDRESS OF BANK: 80 RAFFLES PLACE UOB PLAZA 1 SINGAPORE 048624
+BANK ACCOUNT NAME: RENEWABLES CAPITAL ASIA PTE. LTD.
+BANK ACCOUNT NUMBER: 7693407706
+SWIFT CODE: UOVBSGSG
+ALL BANK CHARGES TO BE PAID BY REMITTER
+2,400.84
+216.08
+USAGE AMOUNT(S$)
+9,177.36 1,147.17
+13,200.45 1,272.52
+(18.85)
+RENEWABLES CAPITAL ASIA PTE. LTD.
+182 CECIL STREET #17 FRASERS TOWER SINGAPORE 069547
+UEN: 202144830E | GST Reg: 202144830E
+Email: accounts@renewablescapitalasia.com
+
+=== PAGE 14 ===
+Apr 25 Solar Electricity Bill Dated 14 May 2025
+Account No: 202400002
+Invoice No: 25-00014
+BILL TO:
+FREIGHT LINKS PROPERTIES PTE LTD This is your tax invoice for
+51 PENJURU RD, LEVEL 4
+SINGAPORE 609143 47 CHANGI SOUTH AVE 2
+SINGAPORE 486148
+Details of the Solar PV Power for RETAILER RATE(S$) SAVINGS(S$)
+Cummulative Metered Electricity Usage kWh 0.2444 20,493.62
+Current Solar Electricity Usage kWh 0.2444 1,095.78
+Current Month Solar Export* kWh 0.0964 1,272.52
+Notes:
+- The Company reserves the right to charge interest on all late payment.
+- No official receipt will be issued unless requested.
+- This is a computer generated invoice, no signature is required. 
+- For queries related to this invoice, please email to: accounts@renewablescapitalasia.com
+Bar Graph for Past Consumption
+*Subject to final verification and tabulation, will reflect in the next billing cycle. This export rate is based on average monthly Uniform 
+Singapore Energy Price published by EMC. 
+0.000013,200.45
+RCA RATE (S$)
+0.1250
+0.1250
+USAGE
+171,638.40
+9,177.36
+17580.7
+20576.96
+18062.11
+23188.07
+20408.37
+22377.81
+0
+5000
+10000
+15000
+20000
+25000
+Nov-24 Dec-24 Jan-25 Feb-25 Mar-25 Apr-25
+RENEWABLES CAPITAL ASIA PTE. LTD.
+182 CECIL STREET #17 FRASERS TOWER SINGAPORE 069547
+UEN: 202144830E | GST Reg: 202144830E
+Email: accounts@renewablescapitalasia.com
+
+=== PAGE 15 ===
+May 25 Solar Electricity Bill Dated 12 Jun 2025
+Account No: 202400002
+Invoice No: 25-00016
+12/6/2025
+BILL TO:
+FREIGHT LINKS PROPERTIES PTE LTD This is your tax invoice for
+51 PENJURU RD, LEVEL 4
+SINGAPORE 609143 47 CHANGI SOUTH AVE 2
+SINGAPORE 486148
+SUMMARY OF CHARGES FROM1 May 25to31 May 25 Amount(S$)
+Balance B/F from Previous Bill 2,616.92
+Payment Received on -
+Outstanding Balance 2,616.92
+Total Current Charges due on 12 Jul 25 2,607.25
+TOTAL AMOUNT PAYABLE 5,224.17
+Payment received on or after  15 Jun 25 may not be included in this bill.
+CURRENT MONTH CHARGES RATE (S$) TOTAL (S$)
+BUILDING CONSUMPTION CHARGES
+CURRENT MONTH ONSITE CONSUMPTION kWh 0.1250 1,063.53
+EXPORT OF ELECTRICITY CHARGES 
+EXPORT CHARGES* kWh 0.0999 1,349.64
+VESTING CREDIT / DEBIT
+RECURRING CHARGES (21.20)
+Subtotal 2,391.97
+Goods & Service Tax 9% 215.28
+Total Current Charges Inclusive of GST 2,607.25
+PAYMENT DETAILS
+NAME OF BANK: UNITED OVERSEAS BANK LTD
+ADDRESS OF BANK: 80 RAFFLES PLACE UOB PLAZA 1 SINGAPORE 048624
+BANK ACCOUNT NAME: RENEWABLES CAPITAL ASIA PTE. LTD.
+BANK ACCOUNT NUMBER: 7693407706
+SWIFT CODE: UOVBSGSG
+ALL BANK CHARGES TO BE PAID BY REMITTER
+2,391.97
+215.28
+USAGE AMOUNT(S$)
+8,508.25 1,063.53
+13,509.88 1,349.64
+(21.20)
+RENEWABLES CAPITAL ASIA PTE. LTD.
+182 CECIL STREET #17 FRASERS TOWER SINGAPORE 069547
+UEN: 202144830E | GST Reg: 202144830E
+Email: accounts@renewablescapitalasia.com
+
+=== PAGE 16 ===
+May 25 Solar Electricity Bill Dated 12 Jun 2025
+Account No: 202400002
+Invoice No: 25-00016
+BILL TO:
+FREIGHT LINKS PROPERTIES PTE LTD This is your tax invoice for
+51 PENJURU RD, LEVEL 4
+SINGAPORE 609143 47 CHANGI SOUTH AVE 2
+SINGAPORE 486148
+Details of the Solar PV Power for RETAILER RATE(S$) SAVINGS(S$)
+Cummulative Metered Electricity Usage kWh 0.2444 23,122.59
+Current Solar Electricity Usage kWh 0.2444 1,015.89
+Current Month Solar Export* kWh 0.0999 1,349.64
+Notes:
+- The Company reserves the right to charge interest on all late payment.
+- No official receipt will be issued unless requested.
+- This is a computer generated invoice, no signature is required. 
+- For queries related to this invoice, please email to: accounts@renewablescapitalasia.com
+Bar Graph for Past Consumption
+*Subject to final verification and tabulation, will reflect in the next billing cycle. This export rate is based on average monthly Uniform 
+Singapore Energy Price published by EMC. 
+0.000013,509.88
+RCA RATE (S$)
+0.1250
+0.1250
+USAGE
+193,656.53
+8,508.25
+20576.96
+18062.11
+23188.07
+20408.37
+22377.81 22018.13
+0
+5000
+10000
+15000
+20000
+25000
+Dec-24 Jan-25 Feb-25 Mar-25 Apr-25 May-25
+RENEWABLES CAPITAL ASIA PTE. LTD.
+182 CECIL STREET #17 FRASERS TOWER SINGAPORE 069547
+UEN: 202144830E | GST Reg: 202144830E
+Email: accounts@renewablescapitalasia.com
+
+=== PAGE 17 ===
+Jun 25 Solar Electricity Bill Dated 10 Jul 2025
+Account No: 202400002
+Invoice No: 25-00018
+10/7/2025
+BILL TO:
+FREIGHT LINKS PROPERTIES PTE LTD This is your tax invoice for
+51 PENJURU RD, LEVEL 4
+SINGAPORE 609143 47 CHANGI SOUTH AVE 2
+SINGAPORE 486148
+SUMMARY OF CHARGES FROM 1 Jun 25to30 Jun 25 Amount(S$)
+Balance B/F from Previous Bill -
+Payment Received on -
+Outstanding Balance -
+Total Current Charges due on 9 Aug 25 2,591.00
+TOTAL AMOUNT PAYABLE 2,591.00
+Payment received on or after  13 Jul 25 may not be included in this bill.
+CURRENT MONTH CHARGES RATE (S$) TOTAL (S$)
+BUILDING CONSUMPTION CHARGES
+CURRENT MONTH ONSITE CONSUMPTION kWh 0.1250 1,145.75
+EXPORT OF ELECTRICITY CHARGES 
+EXPORT CHARGES* kWh 0.0967 1,253.40
+VESTING CREDIT / DEBIT
+RECURRING CHARGES (22.09)
+Subtotal 2,377.06
+Goods & Service Tax 9% 213.94
+Total Current Charges Inclusive of GST 2,591.00
+PAYMENT DETAILS
+NAME OF BANK: UNITED OVERSEAS BANK LTD
+ADDRESS OF BANK: 80 RAFFLES PLACE UOB PLAZA 1 SINGAPORE 048624
+BANK ACCOUNT NAME: RENEWABLES CAPITAL ASIA PTE. LTD.
+BANK ACCOUNT NUMBER: 7693407706
+SWIFT CODE: UOVBSGSG
+ALL BANK CHARGES TO BE PAID BY REMITTER
+2,377.06
+213.94
+USAGE AMOUNT(S$)
+9,165.99 1,145.75
+12,961.74 1,253.40
+(22.09)
+RENEWABLES CAPITAL ASIA PTE. LTD.
+182 CECIL STREET #17 FRASERS TOWER SINGAPORE 069547
+UEN: 202144830E | GST Reg: 202144830E
+Email: accounts@renewablescapitalasia.com
+
+=== PAGE 18 ===
+Jun 25 Solar Electricity Bill Dated 10 Jul 2025
+Account No: 202400002
+Invoice No: 25-00018
+BILL TO:
+FREIGHT LINKS PROPERTIES PTE LTD This is your tax invoice for
+51 PENJURU RD, LEVEL 4
+SINGAPORE 609143 47 CHANGI SOUTH AVE 2
+SINGAPORE 486148
+Details of the Solar PV Power for RETAILER RATE(S$) SAVINGS(S$)
+Cummulative Metered Electricity Usage kWh 0.2444 25,764.64
+Current Solar Electricity Usage kWh 0.2444 1,094.42
+Current Month Solar Export* kWh 0.0967 1,253.40
+Notes:
+- The Company reserves the right to charge interest on all late payment.
+- No official receipt will be issued unless requested.
+- This is a computer generated invoice, no signature is required. 
+- For queries related to this invoice, please email to: accounts@renewablescapitalasia.com
+Bar Graph for Past Consumption
+*Subject to final verification and tabulation, will reflect in the next billing cycle. This export rate is based on average monthly Uniform 
+Singapore Energy Price published by EMC. 
+0.000012,961.74
+RCA RATE (S$)
+0.1250
+0.1250
+USAGE
+215,784.26
+9,165.99
+18062.11
+23188.07
+20408.37
+22377.81 22018.13 22127.73
+0
+5000
+10000
+15000
+20000
+25000
+Jan-25 Feb-25 Mar-25 Apr-25 May-25 Jun-25
+RENEWABLES CAPITAL ASIA PTE. LTD.
+182 CECIL STREET #17 FRASERS TOWER SINGAPORE 069547
+UEN: 202144830E | GST Reg: 202144830E
+Email: accounts@renewablescapitalasia.com
+
+=== PAGE 19 ===
+Jul 25 Solar Electricity Bill Dated 13 Aug 2025
+Account No: 202400002
+Invoice No: 25-00021
+13/8/2025
+BILL TO:
+FREIGHT LINKS PROPERTIES PTE LTD This is your tax invoice for
+51 PENJURU RD, LEVEL 4
+SINGAPORE 609143 47 CHANGI SOUTH AVE 2
+SINGAPORE 486148
+SUMMARY OF CHARGES FROM 1 Jul 25 to31 Jul 25 Amount(S$)
+Balance B/F from Previous Bill -
+Payment Received on -
+Outstanding Balance -
+Total Current Charges due on 12 Sept 25 2,800.98
+TOTAL AMOUNT PAYABLE 2,800.98
+Payment received on or after  16 Aug 25 may not be included in this bill.
+CURRENT MONTH CHARGES RATE (S$) TOTAL (S$)
+BUILDING CONSUMPTION CHARGES
+CURRENT MONTH ONSITE CONSUMPTION kWh 0.1250 1,379.36
+EXPORT OF ELECTRICITY CHARGES 
+EXPORT CHARGES* kWh 0.0960 1,212.18
+VESTING CREDIT / DEBIT
+RECURRING CHARGES (21.83)
+Subtotal 2,569.71
+Goods & Service Tax 9% 231.27
+Total Current Charges Inclusive of GST 2,800.98
+PAYMENT DETAILS
+NAME OF BANK: UNITED OVERSEAS BANK LTD
+ADDRESS OF BANK: 80 RAFFLES PLACE UOB PLAZA 1 SINGAPORE 048624
+BANK ACCOUNT NAME: RENEWABLES CAPITAL ASIA PTE. LTD.
+BANK ACCOUNT NUMBER: 7693407706
+SWIFT CODE: UOVBSGSG
+ALL BANK CHARGES TO BE PAID BY REMITTER
+2,569.71
+231.27
+USAGE AMOUNT(S$)
+11,034.85 1,379.36
+12,626.92 1,212.18
+(21.83)
+RENEWABLES CAPITAL ASIA PTE. LTD.
+182 CECIL STREET #17 FRASERS TOWER SINGAPORE 069547
+UEN: 202144830E | GST Reg: 202144830E
+Email: accounts@renewablescapitalasia.com
+
+=== PAGE 20 ===
+Jul 25 Solar Electricity Bill Dated 13 Aug 2025
+Account No: 202400002
+Invoice No: 25-00021
+BILL TO:
+FREIGHT LINKS PROPERTIES PTE LTD This is your tax invoice for
+51 PENJURU RD, LEVEL 4
+SINGAPORE 609143 47 CHANGI SOUTH AVE 2
+SINGAPORE 486148
+Details of the Solar PV Power for RETAILER RATE(S$) SAVINGS(S$)
+Cummulative Metered Electricity Usage kWh 0.2444 28,589.85
+Current Solar Electricity Usage kWh 0.2444 1,317.56
+Current Month Solar Export* kWh 0.0960 1,212.18
+Notes:
+- The Company reserves the right to charge interest on all late payment.
+- No official receipt will be issued unless requested.
+- This is a computer generated invoice, no signature is required. 
+- For queries related to this invoice, please email to: accounts@renewablescapitalasia.com
+Bar Graph for Past Consumption
+*Subject to final verification and tabulation, will reflect in the next billing cycle. This export rate is based on average monthly Uniform 
+Singapore Energy Price published by EMC. 
+0.000012,626.92
+RCA RATE (S$)
+0.1250
+0.1250
+USAGE
+239,446.01
+11,034.85
+23188.07
+20408.37
+22377.81
+22018.13 22127.73
+23661.77
+18000
+19000
+20000
+21000
+22000
+23000
+24000
+Feb-25 Mar-25 Apr-25 May-25 Jun-25 Jul-25
+RENEWABLES CAPITAL ASIA PTE. LTD.
+182 CECIL STREET #17 FRASERS TOWER SINGAPORE 069547
+UEN: 202144830E | GST Reg: 202144830E
+Email: accounts@renewablescapitalasia.com
+
+=== PAGE 21 ===
+Aug 25 Solar Electricity Bill Dated 12 Sep 2025
+Account No: 202400002
+Invoice No: 25-00023
+12/9/2025
+BILL TO:
+FREIGHT LINKS PROPERTIES PTE LTD This is your tax invoice for
+51 PENJURU RD, LEVEL 4
+SINGAPORE 609143 47 CHANGI SOUTH AVE 2
+SINGAPORE 486148
+SUMMARY OF CHARGES FROM 1 Aug 25to31 Aug 25 Amount(S$)
+Balance B/F from Previous Bill -
+Payment Received on -
+Outstanding Balance -
+Total Current Charges due on 12 Oct 25 2,575.29
+TOTAL AMOUNT PAYABLE 2,575.29
+Payment received on or after  15 Sept 25may not be included in this bill.
+CURRENT MONTH CHARGES RATE (S$) TOTAL (S$)
+BUILDING CONSUMPTION CHARGES
+CURRENT MONTH ONSITE CONSUMPTION kWh 0.1250 1,150.51
+EXPORT OF ELECTRICITY CHARGES 
+EXPORT CHARGES* kWh 0.0933 1,233.34
+VESTING CREDIT / DEBIT
+RECURRING CHARGES (21.20)
+Subtotal 2,362.65
+Goods & Service Tax 9% 212.64
+Total Current Charges Inclusive of GST 2,575.29
+PAYMENT DETAILS
+NAME OF BANK: UNITED OVERSEAS BANK LTD
+ADDRESS OF BANK: 80 RAFFLES PLACE UOB PLAZA 1 SINGAPORE 048624
+BANK ACCOUNT NAME: RENEWABLES CAPITAL ASIA PTE. LTD.
+BANK ACCOUNT NUMBER: 7693407706
+SWIFT CODE: UOVBSGSG
+ALL BANK CHARGES TO BE PAID BY REMITTER
+2,362.65
+212.64
+USAGE AMOUNT(S$)
+9,204.08 1,150.51
+13,219.03 1,233.34
+(21.20)
+RENEWABLES CAPITAL ASIA PTE. LTD.
+182 CECIL STREET #17 FRASERS TOWER SINGAPORE 069547
+UEN: 202144830E | GST Reg: 202144830E
+Email: accounts@renewablescapitalasia.com
+
+=== PAGE 22 ===
+Aug 25 Solar Electricity Bill Dated 12 Sep 2025
+Account No: 202400002
+Invoice No: 25-00023
+BILL TO:
+FREIGHT LINKS PROPERTIES PTE LTD This is your tax invoice for
+51 PENJURU RD, LEVEL 4
+SINGAPORE 609143 47 CHANGI SOUTH AVE 2
+SINGAPORE 486148
+Details of the Solar PV Power for RETAILER RATE(S$) SAVINGS(S$)
+Cummulative Metered Electricity Usage kWh 0.2444 31,267.18
+Current Solar Electricity Usage kWh 0.2444 1,098.97
+Current Month Solar Export* kWh 0.0933 1,233.34
+Notes:
+- The Company reserves the right to charge interest on all late payment.
+- No official receipt will be issued unless requested.
+- This is a computer generated invoice, no signature is required. 
+- For queries related to this invoice, please email to: accounts@renewablescapitalasia.com
+Bar Graph for Past Consumption
+*Subject to final verification and tabulation, will reflect in the next billing cycle. This export rate is based on average monthly Uniform 
+Singapore Energy Price published by EMC. 
+0.000013,219.03
+RCA RATE (S$)
+0.1250
+0.1250
+USAGE
+261,869.14
+9,204.08
+20408.37
+22377.81
+22018.13 22127.73
+23661.77
+22423.11
+18000
+19000
+20000
+21000
+22000
+23000
+24000
+Mar-25 Apr-25 May-25 Jun-25 Jul-25 Aug-25
+RENEWABLES CAPITAL ASIA PTE. LTD.
+182 CECIL STREET #17 FRASERS TOWER SINGAPORE 069547
+UEN: 202144830E | GST Reg: 202144830E
+Email: accounts@renewablescapitalasia.com
+
+=== PAGE 23 ===
+Sep 25 Solar Electricity Bill Dated 22 Oct 2025
+Account No: 202400002
+Invoice No: 25-00027
+22/10/2025
+BILL TO:
+FREIGHT LINKS PROPERTIES PTE LTD This is your tax invoice for
+51 PENJURU RD, LEVEL 4
+SINGAPORE 609143 47 CHANGI SOUTH AVE 2
+SINGAPORE 486148
+SUMMARY OF CHARGES FROM1 Sept 25to30 Sept 25 Amount(S$)
+Balance B/F from Previous Bill -
+Payment Received on -
+Outstanding Balance -
+Total Current Charges due on 21 Nov 25 2,435.89
+TOTAL AMOUNT PAYABLE 2,435.89
+Payment received on or after  25 Oct 25 may not be included in this bill.
+CURRENT MONTH CHARGES RATE (S$) TOTAL (S$)
+BUILDING CONSUMPTION CHARGES
+CURRENT MONTH ONSITE CONSUMPTION kWh 0.1250 1,116.38
+EXPORT OF ELECTRICITY CHARGES 
+EXPORT CHARGES* kWh 0.0933 1,139.02
+VESTING CREDIT / DEBIT
+RECURRING CHARGES (20.64)
+Subtotal 2,234.76
+Goods & Service Tax 9% 201.13
+Total Current Charges Inclusive of GST 2,435.89
+PAYMENT DETAILS
+NAME OF BANK: UNITED OVERSEAS BANK LTD
+ADDRESS OF BANK: 80 RAFFLES PLACE UOB PLAZA 1 SINGAPORE 048624
+BANK ACCOUNT NAME: RENEWABLES CAPITAL ASIA PTE. LTD.
+BANK ACCOUNT NUMBER: 7693407706
+SWIFT CODE: UOVBSGSG
+ALL BANK CHARGES TO BE PAID BY REMITTER
+2,234.76
+201.13
+USAGE AMOUNT(S$)
+8,931.01 1,116.38
+12,208.17 1,139.02
+(20.64)
+RENEWABLES CAPITAL ASIA PTE. LTD.
+182 CECIL STREET #17 FRASERS TOWER SINGAPORE 069547
+UEN: 202144830E | GST Reg: 202144830E
+Email: accounts@renewablescapitalasia.com
+
+=== PAGE 24 ===
+Sep 25 Solar Electricity Bill Dated 22 Oct 2025
+Account No: 202400002
+Invoice No: 25-00027
+BILL TO:
+FREIGHT LINKS PROPERTIES PTE LTD This is your tax invoice for
+51 PENJURU RD, LEVEL 4
+SINGAPORE 609143 47 CHANGI SOUTH AVE 2
+SINGAPORE 486148
+Details of the Solar PV Power for RETAILER RATE(S$) SAVINGS(S$)
+Cummulative Metered Electricity Usage kWh 0.2444 33,791.19
+Current Solar Electricity Usage kWh 0.2444 1,066.36
+Current Month Solar Export* kWh 0.0800 976.65
+Notes:
+- The Company reserves the right to charge interest on all late payment.
+- No official receipt will be issued unless requested.
+- This is a computer generated invoice, no signature is required. 
+- For queries related to this invoice, please email to: accounts@renewablescapitalasia.com
+Bar Graph for Past Consumption
+*Subject to final verification and tabulation, will reflect in the next billing cycle. This export rate is based on average monthly Uniform 
+Singapore Energy Price published by EMC. 
+0.000012,208.17
+RCA RATE (S$)
+0.1250
+0.1250
+USAGE
+283,008.32
+8,931.01
+22377.81
+22018.13 22127.73
+23661.77
+22423.11
+21139.18
+19500
+20000
+20500
+21000
+21500
+22000
+22500
+23000
+23500
+24000
+Apr-25 May-25 Jun-25 Jul-25 Aug-25 Sept-25
+RENEWABLES CAPITAL ASIA PTE. LTD.
+182 CECIL STREET #17 FRASERS TOWER SINGAPORE 069547
+UEN: 202144830E | GST Reg: 202144830E
+Email: accounts@renewablescapitalasia.com
+
+=== PAGE 25 ===
+Oct 25 Solar Electricity Bill Dated 19 Nov 2025
+Account No: 202400002
+Invoice No: 25-00029
+19/11/2025
+BILL TO:
+FREIGHT LINKS PROPERTIES PTE LTD This is your tax invoice for
+51 PENJURU RD, LEVEL 4
+SINGAPORE 609143 47 CHANGI SOUTH AVE 2
+SINGAPORE 486148
+SUMMARY OF CHARGES FROM 1 Oct 25to31 Oct 25 Amount(S$)
+Balance B/F from Previous Bill 2,435.89
+Payment Received on -
+Outstanding Balance 2,435.89
+Total Current Charges due on 19 Dec 25 2,620.21
+TOTAL AMOUNT PAYABLE 5,056.10
+Payment received on or after  22 Nov 25 may not be included in this bill.
+CURRENT MONTH CHARGES RATE (S$) TOTAL (S$)
+BUILDING CONSUMPTION CHARGES
+CURRENT MONTH ONSITE CONSUMPTION kWh 0.1250 1,313.67
+EXPORT OF ELECTRICITY CHARGES 
+EXPORT CHARGES* kWh 0.0831 1,110.32
+VESTING CREDIT / DEBIT
+RECURRING CHARGES (20.13)
+Subtotal 2,403.86
+Goods & Service Tax 9% 216.35
+Total Current Charges Inclusive of GST 2,620.21
+PAYMENT DETAILS
+NAME OF BANK: UNITED OVERSEAS BANK LTD
+ADDRESS OF BANK: 80 RAFFLES PLACE UOB PLAZA 1 SINGAPORE 048624
+BANK ACCOUNT NAME: RENEWABLES CAPITAL ASIA PTE. LTD.
+BANK ACCOUNT NUMBER: 7693407706
+SWIFT CODE: UOVBSGSG
+ALL BANK CHARGES TO BE PAID BY REMITTER
+2,403.86
+216.35
+USAGE AMOUNT(S$)
+10,509.37 1,313.67
+13,361.29 1,110.32
+(20.13)
+RENEWABLES CAPITAL ASIA PTE. LTD.
+182 CECIL STREET #17 FRASERS TOWER SINGAPORE 069547
+UEN: 202144830E | GST Reg: 202144830E
+Email: accounts@renewablescapitalasia.com
+
+=== PAGE 26 ===
+Oct 25 Solar Electricity Bill Dated 19 Nov 2025
+Account No: 202400002
+Invoice No: 25-00029
+BILL TO:
+FREIGHT LINKS PROPERTIES PTE LTD This is your tax invoice for
+51 PENJURU RD, LEVEL 4
+SINGAPORE 609143 47 CHANGI SOUTH AVE 2
+SINGAPORE 486148
+Details of the Solar PV Power for RETAILER RATE(S$) SAVINGS(S$)
+Cummulative Metered Electricity Usage kWh 0.2444 36,641.35
+Current Solar Electricity Usage kWh 0.2444 1,254.82
+Current Month Solar Export* kWh 0.0831 1,110.32
+Notes:
+- The Company reserves the right to charge interest on all late payment.
+- No official receipt will be issued unless requested.
+- This is a computer generated invoice, no signature is required. 
+- For queries related to this invoice, please email to: accounts@renewablescapitalasia.com
+Bar Graph for Past Consumption
+*Subject to final verification and tabulation, will reflect in the next billing cycle. This export rate is based on average monthly Uniform 
+Singapore Energy Price published by EMC. 
+0.000013,361.29
+RCA RATE (S$)
+0.1250
+0.1250
+USAGE
+306,878.98
+10,509.37
+22018.13 22127.73
+23661.77
+22423.11
+21139.18
+23870.66
+19500
+20000
+20500
+21000
+21500
+22000
+22500
+23000
+23500
+24000
+24500
+May-25 Jun-25 Jul-25 Aug-25 Sept-25 Oct-25
+RENEWABLES CAPITAL ASIA PTE. LTD.
+182 CECIL STREET #17 FRASERS TOWER SINGAPORE 069547
+UEN: 202144830E | GST Reg: 202144830E
+Email: accounts@renewablescapitalasia.com
+
+=== PAGE 27 ===
+Nov 25 Solar Electricity Bill Dated 17 Dec 2025
+Account No: 202400002
+Invoice No: 25-00031
+17/12/2025
+BILL TO:
+FREIGHT LINKS PROPERTIES PTE LTD This is your tax invoice for
+51 PENJURU RD, LEVEL 4
+SINGAPORE 609143 47 CHANGI SOUTH AVE 2
+SINGAPORE 486148
+SUMMARY OF CHARGES FROM 1 Nov 25to30 Nov 25 Amount(S$)
+Balance B/F from Previous Bill -
+Payment Received on -
+Outstanding Balance -
+Total Current Charges due on 16 Jan 26 2,161.93
+TOTAL AMOUNT PAYABLE 2,161.93
+Payment received on or after  20 Dec 25 may not be included in this bill.
+CURRENT MONTH CHARGES RATE (S$) TOTAL (S$)
+BUILDING CONSUMPTION CHARGES
+CURRENT MONTH ONSITE CONSUMPTION kWh 0.1250 962.00
+EXPORT OF ELECTRICITY CHARGES 
+EXPORT CHARGES* kWh 0.0903 1,043.75
+VESTING CREDIT / DEBIT
+RECURRING CHARGES (22.33)
+Subtotal 1,983.42
+Goods & Service Tax 9% 178.51
+Total Current Charges Inclusive of GST 2,161.93
+PAYMENT DETAILS
+NAME OF BANK: UNITED OVERSEAS BANK LTD
+ADDRESS OF BANK: 80 RAFFLES PLACE UOB PLAZA 1 SINGAPORE 048624
+BANK ACCOUNT NAME: RENEWABLES CAPITAL ASIA PTE. LTD.
+BANK ACCOUNT NUMBER: 7693407706
+SWIFT CODE: UOVBSGSG
+ALL BANK CHARGES TO BE PAID BY REMITTER
+1,983.42
+178.51
+USAGE AMOUNT(S$)
+7,695.98 962.00
+11,558.72 1,043.75
+(22.33)
+RENEWABLES CAPITAL ASIA PTE. LTD.
+182 CECIL STREET #17 FRASERS TOWER SINGAPORE 069547
+UEN: 202144830E | GST Reg: 202144830E
+Email: accounts@renewablescapitalasia.com
+
+=== PAGE 28 ===
+Nov 25 Solar Electricity Bill Dated 17 Dec 2025
+Account No: 202400002
+Invoice No: 25-00031
+BILL TO:
+FREIGHT LINKS PROPERTIES PTE LTD This is your tax invoice for
+51 PENJURU RD, LEVEL 4
+SINGAPORE 609143 47 CHANGI SOUTH AVE 2
+SINGAPORE 486148
+Details of the Solar PV Power for RETAILER RATE(S$) SAVINGS(S$)
+Cummulative Metered Electricity Usage kWh 0.2444 38,940.36
+Current Solar Electricity Usage kWh 0.2444 918.90
+Current Month Solar Export* kWh 0.0831 960.53
+Notes:
+- The Company reserves the right to charge interest on all late payment.
+- No official receipt will be issued unless requested.
+- This is a computer generated invoice, no signature is required. 
+- For queries related to this invoice, please email to: accounts@renewablescapitalasia.com
+Bar Graph for Past Consumption
+*Subject to final verification and tabulation, will reflect in the next billing cycle. This export rate is based on average monthly Uniform 
+Singapore Energy Price published by EMC. 
+0.000011,558.72
+RCA RATE (S$)
+0.1250
+0.1250
+USAGE
+326,133.68
+7,695.98
+22127.73
+23661.77 22423.11 21139.18
+23870.66
+19254.7
+0
+5000
+10000
+15000
+20000
+25000
+30000
+Jun-25 Jul-25 Aug-25 Sept-25 Oct-25 Nov-25
+RENEWABLES CAPITAL ASIA PTE. LTD.
+182 CECIL STREET #17 FRASERS TOWER SINGAPORE 069547
+UEN: 202144830E | GST Reg: 202144830E
+Email: accounts@renewablescapitalasia.com
+
+=== PAGE 29 ===
+Dec 25 Solar Electricity Bill Dated 15 Jan 2026
+Account No: 202400002
+Invoice No: 26-00002
+15/1/2026
+BILL TO:
+FREIGHT LINKS PROPERTIES PTE LTD This is your tax invoice for
+51 PENJURU RD, LEVEL 4
+SINGAPORE 609143 47 CHANGI SOUTH AVE 2
+SINGAPORE 486148
+SUMMARY OF CHARGES FROM 1 Dec 25to31 Dec 25 Amount(S$)
+Balance B/F from Previous Bill -
+Payment Received on -
+Outstanding Balance -
+Total Current Charges due on 14 Feb 26 2,005.57
+TOTAL AMOUNT PAYABLE 2,005.57
+Payment received on or after  18 Jan 26 may not be included in this bill.
+CURRENT MONTH CHARGES RATE (S$) TOTAL (S$)
+BUILDING CONSUMPTION CHARGES
+CURRENT MONTH ONSITE CONSUMPTION kWh 0.1250 1,117.10
+EXPORT OF ELECTRICITY CHARGES 
+EXPORT CHARGES* kWh 0.0818 814.36
+VESTING CREDIT / DEBIT
+RECURRING CHARGES (91.49)
+Subtotal 1,839.97
+Goods & Service Tax 9% 165.60
+Total Current Charges Inclusive of GST 2,005.57
+PAYMENT DETAILS
+NAME OF BANK: UNITED OVERSEAS BANK LTD
+ADDRESS OF BANK: 80 RAFFLES PLACE UOB PLAZA 1 SINGAPORE 048624
+BANK ACCOUNT NAME: RENEWABLES CAPITAL ASIA PTE. LTD.
+BANK ACCOUNT NUMBER: 7693407706
+SWIFT CODE: UOVBSGSG
+ALL BANK CHARGES TO BE PAID BY REMITTER
+1,839.97
+165.60
+USAGE AMOUNT(S$)
+8,936.80 1,117.10
+9,955.49 814.36
+(91.49)
+RENEWABLES CAPITAL ASIA PTE. LTD.
+182 CECIL STREET #17 FRASERS TOWER SINGAPORE 069547
+UEN: 202144830E | GST Reg: 202144830E
+Email: accounts@renewablescapitalasia.com
+
+=== PAGE 30 ===
+Dec 25 Solar Electricity Bill Dated 15 Jan 2026
+Account No: 202400002
+Invoice No: 26-00002
+BILL TO:
+FREIGHT LINKS PROPERTIES PTE LTD This is your tax invoice for
+51 PENJURU RD, LEVEL 4
+SINGAPORE 609143 47 CHANGI SOUTH AVE 2
+SINGAPORE 486148
+Details of the Solar PV Power for RETAILER RATE(S$) SAVINGS(S$)
+Cummulative Metered Electricity Usage kWh 0.2444 41,196.10
+Current Solar Electricity Usage kWh 0.2444 1,067.05
+Current Month Solar Export* kWh 0.0818 814.36
+Notes:
+- The Company reserves the right to charge interest on all late payment.
+- No official receipt will be issued unless requested.
+- This is a computer generated invoice, no signature is required. 
+- For queries related to this invoice, please email to: accounts@renewablescapitalasia.com
+Bar Graph for Past Consumption
+*Subject to final verification and tabulation, will reflect in the next billing cycle. This export rate is based on average monthly Uniform 
+Singapore Energy Price published by EMC. 
+0.00009,955.49
+RCA RATE (S$)
+0.1250
+0.1250
+USAGE
+345,025.97
+8,936.80
+23661.77 22423.11 21139.18
+23870.66
+19254.7 18892.29
+0
+5000
+10000
+15000
+20000
+25000
+30000
+Jul-25 Aug-25 Sept-25 Oct-25 Nov-25 Dec-25
+RENEWABLES CAPITAL ASIA PTE. LTD.
+182 CECIL STREET #17 FRASERS TOWER SINGAPORE 069547
+UEN: 202144830E | GST Reg: 202144830E
+Email: accounts@renewablescapitalasia.com
+
+=== PAGE 31 ===
+Strictly Private & Confidential 
+Page 1 of 8 
+ 
+TERM SHEET FOR PROJECT TRANSFER & REVENUE SHARIING 
+ 
+ 
+This term sheet (“Term Sheet”) outlines the principal terms and conditions in connection with the proposed 
+transfer of the Singapore solar project (the “Transferred Projects”), and any future novated project(s) (each a 
+“Project” and collectively the “Projects”), 
+From 
+ 
+RENEWABLES CAPITAL ASIA PTE. LTD. (Company Registration No.202144830E), a company registered 
+in Singapore with its registered office address at 182 Cecil Street, #17, Frasers Tower, Singapore 069547  
+(“RCA”),  
+To 
+ 
+PIVOT GREEN ASSET MANAGEMENT PTE. LTD. (Company Registration No.202516002E), a company 
+registered in Singapore with its registered office address at 23 new industrial road, #05-04, Solstice Business 
+Center, Singapore 536209, being designated to hold the RCA Projects under this Term Sheet (“PGAM”),  
+ 
+Together, the “Parties” and each a “Party”.  
+ 
+Background: 
+RCA has historically undertaken the development, financing, and/or construction of the Transferred Projects with 
+certain works performed by its appointed contractor, Global Energy Alliance Pte. Ltd. (“GAE”). For the avoidance 
+of doubt, GAE is a contractor to RCA in connection with the Projects and in not a party to this Term Sheet. 
+ 
+This Term Sheet records the principles agreed between the Parties in connection with the novation of the 
+Transferred Projects and related arrangements. 
+ 
+ 
+1. TRANSFERRED PROJECTS  
+ 
+1.1 SINGAPORE SOLAR PROJECT PORTFOLIO  
+ 
+ Transferred Projects kWp Individual Project Cost (SGD) 
+1 Reclaims Enterprise       271.32 308,000 
+2 Freight Link Properties 267.85 304,000 
+3 Centurion Group  150.88 157,700 
+4 Grandlink Mall 102.91 121,620 
+5 Eng Cheong Changi 89.79 103,258 
+ Total Portfolio 882.66 994,578 
+ 
+• Total Portfolio: 882.66 kWp for S$994,578  
+• Projects transferred “as-is” at stated costs with no additional fees or hidden charges. For the purpose of 
+this Term Sheet, the “PPA” mean the Solar Power Purchase Agreement entered into between RCA and 
+clients in respect of the Transferred Projects.  
+ 
+1.2 DEBT & LIABILITY   
+• The Transferred Projects shall be made available free from any  existing financial indebtedness or 
+obligations of debt-like nature, including but not limited to any bank loans, shareholder loans, 
+guarantees, bonds, or other borrowings, tax arrears, fines, penalties, litigation claims, legacy obligations 
+and similar liabilities (collectively, “Excluded Liabilities”).   
+• The only exception to this is the outstanding amount payable to GAE for works performed on the 
+Transferred Projects, together with any contractual interest accruing thereon (the “GAE Payable”). For 
+clarity, the GAE Payable constitutes a bona fide trade payables incurred in the ordinary course of project 
+construction, and does not represent a loan, borrowing, or financial indebtedness.  
+• RCA warrants that, apart from the GAE Payable, there are no other debts, liabilities, or obligations 
+relating to the Transferred Projects that could transfer to PGAM. All other historical obligations remain 
+with RCA. 
+ 
+
+=== PAGE 32 ===
+Strictly Private & Confidential 
+Page 2 of 8 
+ 
+• On or prior to the Effective Date of each relevant Novation Deed, RCA shall procure from GAE a 
+written confirmation acknowledging the amount owing in respect of the Transferred Projects (together 
+with any contractual interest) and confirming that such payable remains with RCA up to the Effective 
+Date of this Term Sheet.  
+ 
+1.3 REVENUE RECOGNITION  
+• Revenue accrues to PGAM: only from [1 September 2025] (the “Revenue Commencement Date”).  
+• RCA shall retain all revenues relating to the period up to 31 August 2025, including August invoices 
+issued in September and payments received thereafter.  
+• Any RECs attributable to generation prior to 1 September 2025 shall remain RCA ’s entitlement, with 
+RECs thereafter accruing to PGAM on a pro-rata basis.  
+• For avoidance of doubt, all revenues attributable to the solar-generated electricity supplied to the clients 
+under the Transferred Projects on or after the Revenue Commencement Date, shall belong to PGAM, 
+regardless of the date of invoicing, receipt of payment, or execution of the relevant Novation Deed (each 
+a “Novation Deed”, and together the “Novation Deeds”) to be entered into between RCA, PGAM, and 
+the relevant counterparty.  
+• Until the relevant Novation Deed for a Transferred Project is fully executed, RCA shall remain the legal 
+counterparty under the PPA for that Transferred Project, with all rights and obligations vis-à-vis the 
+client, and in that capacity, shall continue to issue invoices and receive payments in its own name, but 
+shall hold such revenues on bare trust for PGAM and promptly remit them to PGAM (or its nominated 
+account) within three (3) business days of receipt, failing which interest shall accrue at one percent (1%) 
+per month on overdue sums until payment.  
+• If the relevant Novation Deed of any Project is not completed by 31 October 2025 (the “Longstop Date”), 
+the Parties shall execute an Assignment of Receivables Agreement between RCA (as assignor) and 
+PGAM (as assignee) to give legal effect to the interim revenue pass-through arrangement described 
+above, thereby ensuring PGAM’s entitlement to all revenues from such Project is legally enforceable 
+until novation is completed. RCA will bear the costs of completing each Novation Deed. 
+ 
+1.4 ASSET MANAGEMENT COOPERATION  
+• If mutually agreed, RCA may provide ongoing operational & technical support (including, if required, 
+invoicing, revenue collection and related administration) under a separate Service Agreement, if and 
+when executed by the Parties. Such agreement may may specify:  
+i. A mutually agreed management or service fee (fixed, cost-plus, or otherwise structured); 
+ii. Treatment of pass-through O&M and compliance costs (with prior mutual approval required for 
+extraordinary expenses);  
+iii. Mutually agreed reporting obligations relevant to the Transferred Projects; and 
+iv. Additional consideration beyond RCA’s thirty percent (30%) revenue entitlement, where RCA 
+personnel are materially and directly responsible for originating an opportunity, securing land or 
+building rights, obtaining material permits, or introducing/negotiating with any offtakers or 
+financiers. Such consideration may take the form of (i) reimbursement of secondment costs, and/or 
+(ii) a mutually agreed success or development fee. 
+ 
+ 
+2. REVENUE ENTITLEMENT   
+ 
+2.1 OWNERSHIP OF PROJECTS 
+ 
+• PGAM shall hold legal ownership of the Transferred Projects and any Future Projects novated by RCA 
+(together, the “RCA Projects”), with effect from the Effective Date of the relevant Novation Deed duly 
+executed by RCA, PGAM and acknowledge by the relevant PPA counterparty (client). Only upon such 
+execution shall PGAM assume all rights and obligations under the relevant Project. The Parties shall 
+use best efforts to complete execution of each Novation Deed no later than 31 October 2025. Until such 
+execution, RCA shall maintain in force the Assignment of Receivables in favour of PGAM to secure all 
+revenues and shall continue to perform all acts necessary to give effect to PGAM’s beneficial ownership 
+of the relevant Project.   
+ 
+
+=== PAGE 33 ===
+Strictly Private & Confidential 
+Page 3 of 8 
+ 
+2.2 REVENUE SHARE & DISTRIBUTION  
+• RCA shall be entitled to thirty percent (30%) of the Net Distributable Revenues of RCA Projects, with 
+all calculations and distributions to be made in accordance with the Revenue Sharing Waterfall set out 
+in ANNEX A.  
+• PGAM shall apply such revenues in accordance with the agreed Revenue Sharing Waterfall and shall 
+remit RCA ’s thirty percent (30%) revenue share promptly following each distribution declared by 
+PGAM, and in any event no later than thirty (30) calendar days, or such other period as may be mutually 
+agreed by the Parties in writing.   
+• Distributions shall be made only out of positive Net Distributable Revenues and shall not be guaranteed 
+or scheduled on fixed dates. For administrative purposes, distribution may, at PGAM’s discretion, be 
+declared and made on a quarterly or semi-annual basis, after reconciling project revenues and Revenue 
+Sharing Waterfall items. Distributions shall be declared whenever sufficient cash is available for 
+distribution under ANNEX A.   
+• Whenever PGAM declares a distribution, it shall at the same time provide RCA with a distribution 
+statement evidencing (i) revenues received, (ii) payments made under Revenue Sharing Waterfall items 
+(1) to (5), and (iii) any resulting Net Distributable Revenues. For avoidance of doubt, RCA ’s rights to 
+access revenue and Revenue Sharing Waterfall records are set out in Clause 2.5.  
+• Any dispute over any calculation of the Net Distributable Revenues shall be resolved in good faith and, 
+if not resolved, referred to an independent accountant mutually appointed by the Parties, whose 
+determination shall be used as the basis for settlement, without prejudice to either Party’s rights under 
+Clause 3.4.  
+• For avoidance of doubt: 
+i. no PGAM corporate-level overhead or general administrative expenses, or unrelated general costs 
+not directly attributable to RCA Projects shall be deducted prior to the calculation of Net 
+Distributable Revenues; and 
+ii. only the agreed Revenue Sharing Waterfall items set out in ANNEX A shall apply.  
+ 
+2.3 FUTURE PROJECT PIPELINE & NOVATION  
+• RCA may from time to time novate to PGAM additional solar projects in Singapore (the “Future 
+Projects”), which PGAM shall accept subject to its customary internal approvals.   
+• Thes same revenue entitlement (70% PGAM : 30% RCA), together with the Revenue Sharing Waterfall 
+and calculation methodology set out in ANNEX A, shall apply mutatis mutandis, unless otherwise 
+amended by mutual agreement of the Parties.   
+• The novation mechanism, timing, and documentation of novation (for both the Transferred Projects and 
+any Future Projects) shall be effected by the execution of a Novation Deed (or such other formal 
+documentation as required the law), following written notice by RCA to PGAM and the relevant client.   
+• For the five (5) Transferred Projects set out in Clause 1.1, RCA shall bear all third-party legal and 
+administrative costs at market-standard rates directly attributable to the novation or transfer.   
+• For any Future Projects novated to PGAM, such third-party legal and administrative costs shall be 
+shared pro rata between PGAM and RCA, or as otherwise mutually agreed.   
+• Each Party shall bear its own internal costs relating to the novation process. 
+ 
+2.4 PROJECT FINANCING  
+• PGAM shall be solely responsible for arranging and securing all project financing and refinancing for 
+RCA Projects.   
+• RCA shall not be required to provide any guarantees or security in connection with such financing or 
+refinancing, unless it voluntarily elects to do so in its sole discretion.  
+• PGAM shall not enter into any financing arrangements that would subordinate or dilute or otherwise 
+materially affect RCA’s revenue entitlement or risk exposure without RCA’s prior written consent. RCA 
+shall respond to any such request within ten (10) business days of receipt of full details of the proposed 
+financing. Such consent shall not be unreasonably withheld or delayed, and PGAM may proceed if 
+RCA ’s consent is unreasonably withheld. 
+
+=== PAGE 34 ===
+Strictly Private & Confidential 
+Page 4 of 8 
+ 
+ 
+2.5. TRANSPARENCY & REPORTING  
+• For administrative purposes and at PGAM’s discretion, the mechanism for revenue recording may be 
+(i) a separate project bank account for the RCA Projects; or (ii) on-book segregation of all revenues and 
+expenses relating to the RCA Projects, or (iii) any other recording approach that is transparent and 
+auditable. The chosen approach shall be applied from the Revenue Commencement Date so that all 
+revenues and expenses are easily identifiable, and if required, capable of verification for the purposes 
+of applying the Revenue Sharing Waterfall. For clarity, this provision relates only to transparency of 
+revenues and expenses for application of Revenue Sharing Waterfall, and is independent of any legal 
+form or ownership structure through which the Transferred Projects are held.  
+• RCA will have access, as reasonably requested, to any periodic statements or equivalent records, 
+consistent with PGAM’s internal reporting practices, showing project revenues received and their 
+applications under the Revenue Sharing Waterfall.  
+• PGAM will share with RCA periodic financial information, as and when available under PGAM’s 
+internal reporting cycle, and in any case no less than once annually, evidencing project revenues, 
+deductions under the Revenue Sharing Waterfall, and cash available for distribution, whether or not a 
+distribution is declared.   
+• RCA may, in good faith consultation with PGAM, request an independent review (or, if mutually agreed, 
+an audit) of the revenues and applications under the Revenue Sharing Waterfall for all RCA Projects, at 
+RCA’s cost.  
+ 
+2.6. REPURCHASE OPTION  
+• RCA may, but shall not be obliged to, submit a written request to repurchase the RCA Projects (whether 
+consisting of one or more individual projects, or the entire portfolio) from PGAM, upon giving not less 
+than sixty (60) days’ written notice, or any such longer period as may be required to obtain any lender 
+consents required by PGAM’s financing arrangement, if applicable.   
+• PGAM shall consider such request in good faith and shall have discretion to determine whether to accept 
+it, while also discussing the repurchase request with RCA before making its decision, and shall use 
+reasonable endeavours to procure any required lender consents without delay and promptly inform RCA 
+of any such requirements and its decision.   
+• If a repurchase is agreed, the repurchase price shall equal: 
+i. the outstanding principal and interest of any project financing amounts, and 
+ii. any documented, third-party project costs directly incurred by PGAM for the RCA Projects that 
+remain unrecovered, excluding PGAM corporate-level overhead or general administrative   
+• In addition, the Parties may mutually agree on an appropriate additional premium on the repurchase price, 
+not to exceed five percent (5%) of the repurchase price unless otherwise expressly agreed by the Parties, 
+having regard to prevailing market practice for comparable rooftop solar project transactions.  
+ 
+ 
+3. GENERAL PROVISIONS 
+ 
+3.1 WARRANTIES  
+• RCA warrants, to the best of its knowledge as at the effective date of novation or transfer of each 
+Transferred Project, that all material permits are valid, the relevant contracts are transferable, there is 
+no material litigation, and RCA has complied in all material aspects with applicable law.  
+• Indemnity period: twelve (12) months from the effective of novation or transfer of the relevant 
+Transferred Project.  
+• RCA’s aggregate liability under this Clause 3.1 is capped at S$994,578 (being the portfolio cost), within 
+the liability allocation framework set out in the Side Letter.  
+• For clarity, public liability insurance claims and other insured risks are addressed through the project 
+insurance policies, and the Parties acknowledge that RCA remains responsible for pre -transfer 
+obligations while PGAM assumes responsibility thereafter, as provided in the Side Letter.   
+
+=== PAGE 35 ===
+Strictly Private & Confidential 
+Page 5 of 8 
+ 
+• RCA shall be liable for all bona-fide pre-transfer claims relating to the Transferred Projects, limited to 
+the Excluded Liabilities as defined in Clause 1.2. RCA shall not be liable for any post-transfer claims 
+relating to the Transferred Projects, nor for any indirect, consequential, punitive, special, or post-transfer 
+losses. For avoidance of doubts, PGAM will not assume any historical liabilities.  
+• Each Party shall procure its own corporate approvals, solvency declarations, statutory filings, and legal 
+opinions required to give effect to the novation or transfer of the Transferred Projects. RCA shall 
+indemnify and hold PGAM harmless for third-party claims directly arising from pre-transfer events of 
+the Transferred Projects, with such indemnity limited to reasonable documented defence costs and 
+capped in accordance with Clause 3.1.  
+• RCA further warrants that, upon execution of the relevant Novation Deed, it shall have no further legal 
+or beneficial claim to ownership of the relevant Project, and shall not dispute or challenge PGAM’s full 
+ownership and entitlement thereto. 
+ 
+3.2 CONFIDENTIALITY  
+• Strict confidentiality shall apply to this Term Sheet, all discussions, negotiations, and information 
+exchanged between the Parties, except as required by law, regulation, or to professional advisers, 
+financiers, lenders, or other persons strictly on a need-to-know basis, provided that such recipients are 
+bound by confidentiality obligations no less strict than those set out in this Clause 3.2.  
+• The Parties acknowledge that the provisions relating to RCA ’s revenue entitlement and the Revenue 
+Sharing Waterfall shall apply from the Revenue Commencement Date. For administrative purposes and 
+convenience, these provisions may also be set out in a side letter if either Party so requests, without 
+affecting their enforceability under this Term Sheet. 
+ 
+3.3 TERM & SURVIV AL  
+• This Term Sheet shall remain in effect from the Effective Date until the expiry or termination of the last 
+of the RCA Projects under its respective PPA.  
+• For avoidance of doubt, Clause 3.2 (Confidentiality), and Clause 3.5 (Governing law and dispute 
+resolution) shall remain binding on the Parties even after such expiry or termination, to the extend 
+necessary to give effect to this Term Sheet. 
+ 
+3.4 PORTFOLIO RECOGNITION  
+• The Parties acknowledge that RCA may, for marketing, fundraising, and corporate track record purposes, 
+reference the RCA Projects as part of its portfolio to reflect its originating role, and such reference do 
+not expressly suggest ongoing ownership or involvement after the transfer, unless otherwise agreed in 
+writing. 
+ 
+3.5 GOVERNING LAW & DISPUTE RESOLUTION  
+• This Term Sheet shall be governed by the laws of Singapore.  
+• Any dispute shall first be referred to Singapore Mediation Centre (SMC) for resolution in good faith.  
+• If not resolved within thirty (30) days, either Party may refer the dispute to the courts of Singapore, 
+which shall have exclusive jurisdiction for enforcement purposes. 
+ 
+ 
+ 
+[Remainder of Page Intentionally Left Blank. Signature Page Follows.] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 36 ===
+Strictly Private & Confidential 
+Page 6 of 8 
+ 
+ANNEX A -- REVENUE SHARING WATERFALL ALLOCATION STRUCTURE 
+ 
+For the purposes of this Term Sheet, the “Revenue Sharing Waterfall” means the order of application of project 
+revenues as set out in this ANNEX A. All project revenues of the RCA Projects shall be applied in accordance 
+with the Revenue Sharing Waterfall, unless otherwise mutually agreed in writing by both PGAM and RCA. 
+ 
+ 
+A. SCOPE OF APPLICATION:   
+ 
+• This revenue sharing structure applies solely to the RCA Projects.  
+ 
+B. REVENUE SOURCES  
+• Feed-in tariffs, grid export payments, RECs’ sales, and all other project-related income from RCA Projects. 
+ 
+C. REVENUE SHARING WATERFALL PRIORITY (FOR RCA PROJECTS)  
+• All Project revenues shall be applied in the following order of priority, unless otherwise mutually agreed 
+in writing by both PGAM and RCA: 
+ 
+(1) Payment of the GAE Payables (as defined in Clause 1.2), until fully discharged. For avoidance of 
+doubt, the GAE Payable is a one-time, disclosed obligation arising from works performed on the 
+Transferred Projects, and is not treated as project financing debt. Its inclusion here ensures transparency 
+and orderly settlement.  
+ 
+(2) Statutory Charges and Regulatory Obligations  
+• Payment of all statutory charges, licences, and regulatory obligations directly attributable to RCA 
+Projects. 
+• For avoidance of doubt, no PGAM corporate-level income tax or other group-level tax obligations 
+shall be deducted at this stage, as such taxes are unrelated to the RCA’s Projects.  
+ 
+(3) Agreed Debt Service Obligations (Senior Lenders) – if any  
+• Repayment of principal and interest on all project financing from external banks or institutional 
+lenders, duly approved in writing by both PGAM and RCA in respect of the RCA Projects. For clarity, 
+this item covers only third-party external financing. It does not include amounts owed to GAE unless 
+expressly approved in writing by both Parties in accordance with Clause 2.4. 
+ 
+(4) Insurance Premiums (if applicable)  
+• Annual insurance premiums required to maintain project compliance and risk coverage for RCA 
+Projects. 
+ 
+(5) Priority Return to Approved Investor (Preferred Equity) – if applicable  
+• Any third-party investor (“Class A Investor”) may be granted a priority return to recover its invested 
+capital and receive a mutually agreed benchmark return, solely from Net Distributable Revenues of 
+the RCA Projects. 
+ 
+• All such distributions shall be made only after sa tisfaction of higher-ranking Revenue Sharing 
+Waterfall items. 
+ 
+• Optional Capital Recovery Structure (if mutually agreed): Alternatively, Class A Investor may 
+receive 100% of the distributable cashflows of RCA Projects until it has recovered its invested capital 
+plus the mutually agreed benchmark return.   
+• Thereafter, distributions shall commence. 
+ 
+(5) O&M and Compliance Costs   
+• Payment of O&M and compliance costs, including equipment servicing, site works, performance 
+monitoring, regulatory compliance for RCA Projects.   
+• General administrative expenses and corporate overhead shall not be included in this category, except:  
+i. where such costs are solely and directly attributable to the RCA Projects, are incurred at market-
+standard rates, and expressly approved in writing by PGAM and RCA; or 
+
+=== PAGE 37 ===
+Strictly Private & Confidential 
+Page 7 of 8 
+ 
+ii. any management fees, administrative support fees, or seconded personnel costs payable to RCA 
+(or its affiliates) under a separate service or secondment agreement mutually agreed by the 
+Parties.  
+• Essential O&M Protection: Essential safety-critical, compliance-related O&M related to RCA 
+Projects shall not be deferred and must be funded as a priority before investor distributions.  
+• For clarity, such costs are managed and incurred by PGAM as project owner after the transfer, and 
+are deducted at the project level prior to distribution under this Revenue Sharing Waterfall allocation. 
+RCA does not invoice PGAM for these expenses, unless mutually agreed otherwise under a separate 
+service or secondment arrangement in accordance with the carve-out for administrative expenses set 
+out in ANNEX A. 
+ 
+(6) Net Distributable Revenues:   
+• After satisfaction of all items above, the Net Distributable Revenues from RCA Projects shall be 
+shared pro rata: 70% PGAM and 30% RCA. 
+ 
+D. DEFINITION OF NET DISTRIBUTABLE REVENUES  
+• “Net Distributable Revenues” means all project-related revenues of RCA Projects remaining after 
+satisfaction of items (1) to (5) above, expressly excluding:  
+i. any PGAM corporate overhead, administrative charges, or general costs not directly attributable to 
+the RCA Projects, except expressly approved under item (5); and 
+ii. any non-cash accounting charges (including depreciation, provisions, or reserve).  
+ 
+ 
+ 
+ 
+ 
+[ Remainder of Page Intentionally Left Blank ] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 38 ===
+Strictly Private & Confidential 
+Page 8 of 8 
+ 
+IN WITNESS WHEREOF  the Parties have executed this Term Sheet on 28 September 2025 (the “Effective 
+Date”). 
+ 
+ 
+For an on behalf of 
+for and on behalf of  
+RENEWABLES CAPITAL ASIA PTE. LTD. 
+ 
+) 
+ 
+(Company Registration No. 202144830E) 
+ 
+ 
+) ______________________________ 
+Director 
+Name: Suen Bohn 
+ 
+ 
+ 
+ 
+ 
+For an on behalf of 
+for and on behalf of  
+PIVOT GREEN ASSET MANAGEMENT PTE. LTD.    
+ 
+) 
+ 
+(Company Registration No. 202516002E) 
+ 
+) ______________________________ 
+Director 
+Name: Lai Y un Jun 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[ Signing Page ] 
+ 

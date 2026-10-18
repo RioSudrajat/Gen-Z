@@ -1,0 +1,55 @@
+---
+import PublicLayout from '../layouts/PublicLayout.astro';
+import SiteFooter from '../components/layout/SiteFooter.astro';
+import Hero from '../components/sections/Hero.astro';
+import EnergyThesis from '../components/sections/EnergyThesis.astro';
+import CapitalBridge from '../components/sections/CapitalBridge.astro';
+import Closing from '../components/sections/Closing.astro';
+import Comparison from '../components/sections/Comparison.astro';
+import { getMarketingImages } from '../assets/marketing-images';
+import { NavigationIsland } from '../components/islands/NavigationIsland.jsx';
+import { EcosystemRoles } from '../components/islands/EcosystemRoles.jsx';
+import { ProductiveCapitalSection } from '../components/islands/ProductiveCapitalSection.jsx';
+import { InfrastructureShowcase } from '../components/islands/InfrastructureShowcase.jsx';
+import { GenZStack } from '../components/islands/GenZStack';
+import { ProjectStandards } from '../components/islands/ProjectStandards.jsx';
+import { WorkspaceScroll } from '../components/islands/WorkspaceScroll.jsx';
+import 'lenis/dist/lenis.css';
+import '../styles/styles.css';
+import '../styles/landing.css';
+import '../styles/productive-capital.css';
+import '../styles/marketing-refresh.css';
+import '../styles/pinned-sequences.css';
+import '../styles/energy-context.css';
+import '../styles/migration.css';
+const images = await getMarketingImages();
+---
+<PublicLayout title="Gen-Z · Energy infrastructure meets global capital" description="Gen-Z connects productive energy infrastructure with global capital through asset review, tokenisation, and project reporting." hero>
+  <a class="skip-link" href="#hero-title">Skip to content</a>
+  <div id="navigation-root" class="site-navigation"><NavigationIsland client:load /></div>
+  <main id="main-content">
+    <Hero />
+    <EnergyThesis />
+    <CapitalBridge />
+    <section id="ecosystem" class="landing-section ecosystem-section" aria-labelledby="ecosystem-title"><div class="page-container"><h2 id="ecosystem-title" tabindex="-1">Who We Serve.</h2><div id="ecosystem-root"><EcosystemRoles images={images.audience} client:visible={{ rootMargin: '1000px' }} /></div></div></section>
+    <section id="assets" class="landing-section capital-section" aria-labelledby="assets-title"><div id="productive-capital-root" class="page-container"><ProductiveCapitalSection client:load /></div></section>
+    <section id="opportunities" class="landing-section showcase-section" aria-labelledby="opportunities-title"><div id="infrastructure-showcase-root" class="page-container"><InfrastructureShowcase images={images.showcase} client:load /></div></section>
+    <section id="stack" class="landing-section stack-section" aria-labelledby="stack-title"><div class="page-container stack-scroll-pin"><div class="stack-composition"><h2 id="stack-title" tabindex="-1">The Gen-Z stack.<br /><span class="text-teal">Connecting assets and capital.</span></h2><p class="section-intro">From physical infrastructure and project information to financing and the investor workspace.</p><div id="stack-root"><GenZStack client:load /></div></div></div></section>
+    <section id="evidence" class="landing-section evidence-section" aria-labelledby="evidence-title"><div class="page-container"><div id="evidence-root"><ProjectStandards skyline={images.skyline} client:visible={{ rootMargin: '600px' }} /></div></div></section>
+    <section id="platform" class="landing-section platform-section" aria-labelledby="platform-title"><div class="page-container"><div id="platform-root"><WorkspaceScroll image={images.showcase.generation} client:visible={{ rootMargin: '600px' }} /></div></div></section>
+    <Comparison />
+    <Closing />
+  </main>
+  <SiteFooter />
+  <noscript><p class="no-script">Interactive project views require JavaScript. <a href="/contact/">Contact Gen-Z</a>.</p></noscript>
+  <script>
+    import { initializeLanding } from '../runtime/landing-runtime.js';
+    import { publishLandingRuntime } from '../runtime/landing-session.js';
+    try {
+      publishLandingRuntime(initializeLanding());
+    } catch (error) {
+      publishLandingRuntime({ failed:true });
+      console.error('Landing motion could not initialize.', error);
+    }
+  </script>
+</PublicLayout>

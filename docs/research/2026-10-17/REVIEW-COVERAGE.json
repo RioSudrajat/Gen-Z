@@ -1,0 +1,16 @@
+{
+  "screenshot_files": 34,
+  "screenshot_hashes_match": true,
+  "screenshot_review_sections": 34,
+  "pdf_files": 6,
+  "pdf_pages": 114,
+  "main_report_missing_local_targets": [],
+  "reports": [
+    "ANALYSIS-AND-RECOMMENDATIONS.md",
+    "FLP-II-DOCUMENT-REVIEW.md",
+    "GEN-AND-ARCHITECTURE.md",
+    "REFIHUB-RESEARCH.md",
+    "SCREENSHOT-REVIEW-34.md"
+  ],
+  "note": "Validasi dossier, bukan pengujian runtime aplikasi atau legal/security audit."
+}

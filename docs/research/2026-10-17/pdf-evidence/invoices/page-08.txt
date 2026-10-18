@@ -1,0 +1,45 @@
+Jan 25 Solar Electricity Bill Dated 18 Feb 2025
+Account No: 202400002
+Invoice No: 25-00004
+BILL TO:
+FREIGHT LINKS PROPERTIES PTE LTD This is your tax invoice for
+51 PENJURU RD, LEVEL 4
+SINGAPORE 609143 47 CHANGI SOUTH AVE 2
+SINGAPORE 486148
+Details of the Solar PV Power for RETAILER RATE(S$) SAVINGS(S$)
+Cummulative Metered Electricity Usage kWh 0.2444 12,616.30
+Current Solar Electricity Usage kWh 0.2444 966.56
+Current Month Solar Export* kWh 0.0877 874.11
+Notes:
+- The Company reserves the right to charge interest on all late payment.
+- No official receipt will be issued unless requested.
+- This is a computer generated invoice, no signature is required. 
+- For queries related to this invoice, please email to: accounts@renewablescapitalasia.com
+Bar Graph for Past Consumption
+*Subject to final verification and tabulation, will reflect in the next billing cycle. This export rate is based on average monthly Uniform 
+Singapore Energy Price published by EMC. 
+0.00009,967.00
+RCA RATE (S$)
+0.1250
+0.1250
+USAGE
+105,664.15
+8,095.11
+2957.55
+24067.41
+22419.42
+17580.7
+20576.96
+18062.11
+0
+5000
+10000
+15000
+20000
+25000
+30000
+Aug-24 Sept-24 Oct-24 Nov-24 Dec-24 Jan-25
+RENEWABLES CAPITAL ASIA PTE. LTD.
+182 CECIL STREET #17 FRASERS TOWER SINGAPORE 069547
+UEN: 202144830E | GST Reg: 202144830E
+Email: accounts@renewablescapitalasia.com

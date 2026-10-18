@@ -1,0 +1,263 @@
+- main:
+  - navigation:
+    - link "Nemesis Protocol NEMESIS×":
+      - /url: /
+      - img "Nemesis Protocol"
+      - generic: NEMESIS×
+    - link "News":
+      - /url: "#news"
+    - link "Docs":
+      - /url: "#docs"
+    - link "Community":
+      - /url: "#community"
+    - link "Launch App":
+      - /url: /login
+  - heading "Welcome to the open Financing and Powering Productive EV Infrastructure Ecosystem" [level=1]:
+    - generic: Welcome to the open
+    - generic: Financing and Powering
+    - generic: Productive EV Infrastructure Ecosystem
+  - link "Get Started":
+    - /url: /login
+    - text: Get Started
+  - link "Onboard Asset":
+    - /url: /rwa/onboard
+  - paragraph: Ecosystem Partners & Backers
+  - img "Solana Logo"
+  - generic: SOLANA
+  - img "Colosseum Logo"
+  - generic: COLOSSEUM
+  - img "Superteam Indonesia Logo"
+  - generic: SUPERTEAM INDONESIA
+  - generic: SOLANA
+  - generic: COLOSSEUM
+  - generic: SUPERTEAM INDONESIA
+  - heading "Protocol Metrics" [level=3]
+  - generic: Live
+  - generic: Connected EV Assets
+  - generic: "100"
+  - generic: Network Activity
+  - generic: 50.932 km
+  - generic: Active Nodes
+  - generic: "75"
+  - generic: On-chain Proofs
+  - generic: "100"
+  - generic: Capital Deployed
+  - generic: 5.875.000.000 IDRX
+  - generic: Avg Pool APY
+  - generic: 13.8%
+  - generic: Active Campaigns
+  - generic: "4"
+  - generic: Asset Coverage
+  - generic: 3 Classes
+  - heading "Financing EV Infrastructure is Broken" [level=2]
+  - paragraph: Fragmented capital markets
+  - paragraph: Operators stuck — can't scale fleet
+  - paragraph: No real-time asset verification
+  - paragraph: Investors flying blind
+  - paragraph: Siloed revenue data
+  - paragraph: Growth blocked at every level
+  - heading "Nemesis Modular Stack for Productive EV Infrastructure" [level=2]:
+    - text: Nemesis Modular Stack for
+    - text: Productive EV Infrastructure
+  - paragraph: Four interlocking layers turn real-world hardware into verified on-chain yield. Click or hover a layer to focus.
+  - generic: Apps & Ecosystem
+  - generic: Layer 04 — Apps & Ecosystem
+  - generic: Investor Dashboard
+  - generic: Operator Portal
+  - generic: RWA Tokenization App
+  - generic: DeFi & Liquidity
+  - generic: Layer 03 — DeFi & Liquidity
+  - generic: IDRX Stablecoin Pools
+  - generic: Automated Yield Distribution
+  - generic: Smart Contract Vaults
+  - generic: DePIN Network
+  - generic: Layer 02 — DePIN Network
+  - generic: Proof of Physical Work (PoPW)
+  - generic: GPS & IoT Telemetry
+  - generic: On-chain Activity Records
+  - generic: Physical Infrastructure EV Smart Ecosystem
+  - generic: Layer 01 — Physical Infrastructure EV Smart Ecosystem
+  - generic: EV Mobility
+  - generic: EV Infrastructure
+  - generic: EV Energy
+  - generic: Layer 01 — Physical Infrastructure EV Smart Ecosystem
+  - heading "Physical Infrastructure EV Smart Ecosystem" [level=3]
+  - paragraph: Productive physical assets across EV mobility fleets, charging & swap networks, and renewable solar energy.
+  - text: EV Mobility
+  - text: EV Infrastructure
+  - text: EV Energy
+  - heading "Specific Flow of EV Operations" [level=2]
+  - paragraph: End-to-end lifecycle connecting investors, smart contracts, operators, and EV assets across Mobility, Infrastructure, and Solar Energy.
+  - button "1 Asset Tokenization & Capital Origination":
+    - generic: "1"
+    - generic: Asset Tokenization & Capital Origination
+  - button "2 Operation & Real-Time Yield Streaming":
+    - generic: "2"
+    - generic: Operation & Real-Time Yield Streaming
+  - button "3 Agreement Maturation & Capital Settlement":
+    - generic: "3"
+    - generic: Agreement Maturation & Capital Settlement
+  - generic: Phase (1) • Origination & Funding
+  - heading "Asset Tokenization & Capital Origination" [level=3]
+  - paragraph: Investors deposit IDRX stablecoin into verified pools. Nemesis Protocol issues RWA Tokens representing real asset ownership & yield rights, funding operators across EV Mobility, Infrastructure, and Solar Energy.
+  - 'heading "Step A: Capital Pool Deposit & RWA Token Minting" [level=4]'
+  - paragraph: Investors deposit IDRX stablecoin into Nemesis Pool Vault. Verified ownership & yield rights are minted on Solana.
+  - generic: Investor / Liquidity Provider
+  - generic: IDRX Depositor
+  - generic: IDRX Capital Deposit
+  - generic: RWA Ownership & Yield Tokens Minted
+  - generic: Nemesis Protocol
+  - generic: Smart Contract Vault
+  - 'heading "Step B: Operator Leasing across EV Mobility, Infra & Energy" [level=4]'
+  - paragraph: Pool funds are deployed to verified fleet, charging, and solar operators under legal sublease & operational contracts.
+  - generic: Nemesis Vault
+  - generic: Lease Financing & Capital Disbursement
+  - generic: EV Fleet & Infra Operator
+  - generic: KYC/KYB Verified
+  - generic: Deployment into Real World Assets
+  - generic: Mobility, Infra & Solar
+  - generic: Operational Assets
+  - text: EV Mobility
+  - paragraph: Electric Fleets, Vans & Delivery Bikes
+  - text: EV Infrastructure
+  - paragraph: DC Fast Chargers & Swap Depots
+  - text: EV Energy
+  - paragraph: Solar PV Arrays & Storage Nodes
+  - heading "Open Financing Campaigns" [level=2]
+  - paragraph: Browse verified EV infrastructure pools with transparent cashflow metrics.
+  - link "View All Pools":
+    - /url: /fi/pools
+    - text: View All Pools
+  - generic: Filled
+  - paragraph: Minimum ticket
+  - paragraph: 300.000 IDRX
+  - paragraph: Verified partner-operated mobility credit pool for last-mile delivery EV bikes with recurring collections.
+  - link "View campaign":
+    - /url: /fi/pools/pool-batch-2
+    - text: View campaign
+  - img "Surabaya Delivery Credit Pool"
+  - heading "Surabaya Delivery Credit Pool" [level=2]
+  - paragraph:
+    - text: Surabaya · SurabayaExpress Fleet
+  - paragraph: Units
+  - paragraph: "100"
+  - paragraph: APY
+  - paragraph: 14.4%
+  - button "Previous":
+  - button "Next":
+  - button "Go to campaign 1"
+  - button "Go to campaign 2"
+  - button "Go to campaign 3"
+  - button "Go to campaign 4"
+  - generic: 2 / 4
+  - paragraph: Transparency
+  - heading "Real-time visibility into every asset." [level=2]
+  - paragraph: Every yield you earn is backed by verified telematics data — visible in the DePIN dashboard.
+  - generic: nemesis.protocol/depin/network
+  - paragraph: DePIN Network Dashboard Preview
+  - paragraph: GPS routes · Fleet activity · Pool health
+  - generic: LIVE
+  - paragraph: Active Units
+  - paragraph: "47"
+  - paragraph: Distributed
+  - paragraph: Rp 1.2M
+  - paragraph: Uptime
+  - paragraph: 98%
+  - paragraph: Ecosystem
+  - heading "Built on battle-tested infrastructure." [level=2]
+  - paragraph: Verified by telemetry. Settled on Solana. Distributed transparently.
+  - img "Solana"
+  - paragraph: Solana
+  - paragraph: Settlement layer
+  - img "Colosseum"
+  - paragraph: Colosseum
+  - paragraph: Hackathon accelerator
+  - img "Superteam ID"
+  - paragraph: Superteam ID
+  - paragraph: Community partner
+  - link "Whitepaper Read the protocol specification":
+    - /url: "#"
+    - paragraph: Whitepaper
+    - paragraph: Read the protocol specification
+  - link "Smart Contracts Verify on Solana Explorer":
+    - /url: "#"
+    - paragraph: Smart Contracts
+    - paragraph: Verify on Solana Explorer
+  - link "Audit Reports Independent security reviews":
+    - /url: "#"
+    - paragraph: Audit Reports
+    - paragraph: Independent security reviews
+  - heading "Powering a Smarter EV Ecosystem" [level=2]
+  - paragraph: The Nemesis network connects drivers, fleet operators, energy providers, and global investors with reliable productive EV infrastructure.
+  - img "Productive 3D EV Hub Infrastructure"
+  - generic: Metered On-Chain Attestation
+  - heading "Productive EV Infrastructure Ecosystem" [level=3]
+  - paragraph: Smart, fully managed EV mobility fleets, charging hubs, and solar energy arrays with metered capacity and transparent on-chain revenue streaming.
+  - generic: 3 min • 0.7 mi
+  - generic: Fast
+  - heading "Global Network" [level=3]
+  - paragraph: A worldwide EV DePIN network, powered by real-time IoT telematics and Proof of Physical Work (PoPW) on Solana.
+  - img "Tokenized RWA 3D Glass Vault"
+  - paragraph: RWA Liquidity Vault
+  - paragraph: Fractional Ownership
+  - heading "Tokenized" [level=3]
+  - paragraph: DePINFi enables fractional tokenized ownership of productive EV infrastructure, accessible to global investors.
+  - img "Solar EV Infrastructure Mesh Network"
+  - generic: IDRX Telemetry Yield Stream
+  - heading "Ecosystem Powered" [level=3]
+  - paragraph: Back EV Mobility, EV Infrastructure, or EV Energy—earn real-time IDRX yield while accelerating the global EV transition and green energy revolution.
+  - img "Glass Decor"
+  - heading "Finance the Proof Layer of Indonesia's Electric Infrastructure." [level=2]:
+    - text: Finance the Proof Layer of
+    - text: Indonesia's Electric
+    - text: Infrastructure.
+  - paragraph: Join the first Nemesis pools built around verified activity, APY, principal recovery, and productive EV infrastructure.
+  - link "Invest in Fleet Pools":
+    - /url: /fi
+  - img "NEMESIS Protocol Cube"
+  - paragraph: NEMESIS Protocol
+  - paragraph: Bridging RWA and DePIN to create a new dimension of utility.
+  - generic: Protocol
+  - link "Marketplace":
+    - /url: "#"
+  - link "Nodes & Data":
+    - /url: "#"
+  - link "Yield Tracking":
+    - /url: "#"
+  - link "Governance":
+    - /url: "#"
+  - generic: Portals
+  - link "🏍️ Driver Login":
+    - /url: /driver
+  - link "DePIN Network":
+    - /url: /depin
+  - link "FI Pools":
+    - /url: /fi/pools
+  - link "RWA / Operators":
+    - /url: /rwa
+  - generic: Resources
+  - link "RWA / Operators":
+    - /url: /rwa
+  - generic: Resources
+  - link "Whitepaper":
+    - /url: "#"
+  - link "Documentation":
+    - /url: "#"
+  - link "GitHub":
+    - /url: "#"
+  - link "Contracts":
+    - /url: "#"
+  - generic: Company
+  - link "About Us":
+    - /url: "#"
+  - link "Careers":
+    - /url: "#"
+  - link "Contact":
+    - /url: "#"
+  - link "Press Kit":
+    - /url: "#"
+  - paragraph: Introducing NEMESIS Protocol, the universal financial layer for Indonesia's EV infrastructure ecosystem.
+  - link "Launch App":
+    - /url: /fi
+  - heading "NEMESIS" [level=2]
+- alert

@@ -1,0 +1,61 @@
+{
+  "asOf": "2026-10-16",
+  "year": 2023,
+  "countries": [
+    {
+      "code": "IDN",
+      "name": "Indonesia",
+      "kwh": 1480.78843766555,
+      "gdp": 4876.2992959843
+    },
+    {
+      "code": "VNM",
+      "name": "Viet Nam",
+      "kwh": 2550.10872109301,
+      "gdp": 4322.82572261566
+    },
+    {
+      "code": "THA",
+      "name": "Thailand",
+      "kwh": 2966.46829358027,
+      "gdp": 7210.54130832685
+    },
+    {
+      "code": "MYS",
+      "name": "Malaysia",
+      "kwh": 5315.70392074906,
+      "gdp": 11386.0395636528
+    },
+    {
+      "code": "CHN",
+      "name": "China",
+      "kwh": 6585.67033621368,
+      "gdp": 12951.1782397043
+    },
+    {
+      "code": "SGP",
+      "name": "Singapore",
+      "kwh": 9750.49546711802,
+      "gdp": 86382.5900499252
+    },
+    {
+      "code": "USA",
+      "name": "United States",
+      "kwh": 12710.8412318637,
+      "gdp": 82586.7847707894
+    }
+  ],
+  "worldKwh": 3577.5292559598,
+  "sources": {
+    "electricity": "https://api.worldbank.org/v2/country/IDN;CHN;SGP;USA;MYS;VNM;THA;WLD/indicator/EG.USE.ELEC.KH.PC?date=2023&format=json&per_page=100",
+    "gdp": "https://api.worldbank.org/v2/country/IDN;CHN;SGP;USA;MYS;VNM;THA/indicator/NY.GDP.PCAP.CD?date=2023&format=json&per_page=100",
+    "metadata": "https://data360.worldbank.org/en/indicator/WB_WDI_EG_USE_ELEC_KH_PC",
+    "ai": "https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai"
+  },
+  "notes": [
+    "Snapshot hasil API publik; nilai dapat direvisi. Tahun 2023 dipilih untuk membandingkan dua indikator dengan tahun sama, bukan klaim tahun terbaru tersedia.",
+    "PDB per kapita nominal current USD; bukan PPP atau ukuran modernitas universal.",
+    "Tujuh ekonomi dipilih sebagai konteks PRD dan kawasan; bukan sampel representatif atau regresi global.",
+    "Proyeksi data center memakai IEA Energy and AI 2025 Base Case; lebih dari dua kali pada 2030 relatif 2024, bukan semua listrik regional."
+  ]
+}

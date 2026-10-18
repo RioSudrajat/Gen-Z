@@ -1,0 +1,329 @@
+- main:
+  - link "GEN logo":
+    - /url: /
+    - img "GEN logo"
+  - link "Core":
+    - /url: /core
+  - link "Contact":
+    - /url: /contact
+  - img "Wind turbine and solar panels"
+  - heading "The Open Infrastructure for Energy Assets On-chain." [level=1]:
+    - generic: The Open
+    - generic: Infrastructure
+    - generic: for Energy Assets
+    - generic: On-chain.
+  - link "Get Started":
+    - /url: /contact
+    - text: Get Started
+  - paragraph: Trusted by
+  - img "Solana"
+  - img "Jelawang Capital"
+  - img "Kenanga"
+  - img "MDEC"
+  - img "SIDEC"
+  - img "Colosseum"
+  - img "Solana"
+  - img "Jelawang Capital"
+  - img "Kenanga"
+  - img "MDEC"
+  - img "SIDEC"
+  - img "Colosseum"
+  - img "Solana"
+  - img "Jelawang Capital"
+  - img "Kenanga"
+  - img "MDEC"
+  - img "SIDEC"
+  - img "Colosseum"
+  - img "Solana"
+  - img "Jelawang Capital"
+  - img "Kenanga"
+  - img "MDEC"
+  - img "SIDEC"
+  - img "Colosseum"
+  - heading "Verified energy infrastructure, open to global capital." [level=2]:
+    - generic: Verified energy infrastructure, open to global capital.
+  - paragraph: GEN connects operating energy infrastructure with real-time verification, live production data, and institutional-grade investment access.
+  - generic: $60M+
+  - generic: Asset Pipeline
+  - paragraph: Operating renewable infrastructure onboarding to GEN.
+  - generic: 11.8%
+  - generic: Average Annual Yield
+  - paragraph: Yield backed by real energy production cashflow.
+  - generic: LIVE
+  - generic: IoT Streaming
+  - paragraph: Real-time production verification across connected assets.
+  - heading "Global capital moves instantly. Energy infrastructure still does not." [level=2]
+  - paragraph: Electricity demand across Southeast Asia is accelerating faster than existing infrastructure financing systems can support.
+  - text: +
+  - generic: "60"
+  - text: "%"
+  - paragraph: Projected electricity demand growth across Southeast Asia by 2035.
+  - heading "Southeast Asia Electricity Demand — Historical & Projected (2010–2035)" [level=3]
+  - generic: TWh
+  - generic: "Source: IEA Southeast Asia Energy Outlook 2024"
+  - paragraph: Yet energy infrastructure remains largely closed to global capital coordination.
+  - heading "Who We Serve." [level=2]:
+    - generic: Who We Serve.
+  - img "Energy asset operator inspecting solar infrastructure"
+  - generic: Asset Operators
+  - article:
+    - heading "Your energy asset generates real cashflow. GEN puts it on-chain." [level=3]
+    - paragraph: Operating energy infrastructure generates stable, long-term cashflow from signed offtake agreements. GEN puts that cashflow on-chain and connects your asset to a global pool of institutional capital.
+    - paragraph: Asset types
+    - generic: Solar Farm
+    - generic: Solar PV
+    - generic: EV Charging
+    - generic: Energy Storage
+    - generic: Data Center
+  - article:
+    - heading "Access tokenised energy assets backed by live on-chain production data." [level=3]
+    - paragraph: GEN gives investors on-chain access to operating energy assets with structured yield instruments backed by real production data and long-term energy contracts.
+    - paragraph: What investors look for
+    - list:
+      - listitem: Stable monthly income backed by real assets
+      - listitem: Live data to verify performance before and after investing
+      - listitem: Regulated and compliant investment structure
+  - img "Green energy investor reviewing infrastructure performance data"
+  - generic: Investors
+  - heading "From Operating Asset to On-Chain Yield." [level=2]:
+    - generic: From Operating Asset to On-Chain Yield.
+  - paragraph: Three steps. One open infrastructure.
+  - img "Wind turbine representing connected energy infrastructure"
+  - article:
+    - generic: "01"
+    - heading "Verify" [level=3]
+    - paragraph: GEN Core installs on your energy meter. Live production data is signed and streamed on-chain from day one. No manual reporting. No third-party audit required.
+  - article:
+    - generic: "02"
+    - heading "Tokenise" [level=3]
+    - paragraph: GEN handles the full tokenisation flow. Verified production data and your offtake agreement back a structured instrument, available as a single asset or portfolio.
+  - article:
+    - generic: "03"
+    - heading "Connect to Capital" [level=3]
+    - paragraph: Your tokenised asset is listed on GEN Invest. Global institutional and qualified investors access it through compliant rails with live performance data visible to everyone in the stack.
+  - heading "Built for Trust." [level=3]
+  - paragraph: Every asset on GEN is backed by deployed energy infrastructure, not projections. Generation, revenue, and ownership are all verifiable on-chain in real time by any party.
+  - link "See the architecture":
+    - /url: /core
+    - text: See the architecture
+  - heading "Live Telemetry" [level=4]
+  - paragraph: Energy production streamed in real time from every connected site.
+  - heading "On-Chain Proof" [level=4]
+  - paragraph: Cryptographically signed records. Independently verifiable by anyone.
+  - heading "Global Access" [level=4]
+  - paragraph: Open to institutional and qualified investors anywhere in the world.
+  - heading "Real Yield" [level=4]
+  - paragraph: Backed by energy offtake revenue from long-term supply agreements.
+  - heading "Energy Asset Tokenization in Three Layers." [level=2]:
+    - generic: Energy Asset Tokenization in Three Layers.
+  - paragraph: One energy RWA tokenization infrastructure. From operating asset to verified on-chain yield.
+  - article:
+    - generic: "1"
+    - heading "GEN Core" [level=3]
+    - paragraph: The IoT Node that installs on any energy meter. Reads live production data, signs it cryptographically, and streams it on-chain. Verification at the source.
+    - link "Explore Core":
+      - /url: /core
+      - text: Explore Core
+  - article:
+    - generic: "2"
+    - heading "GEN Network" [level=3]
+    - paragraph: The public layer of the GEN infrastructure. Live production data, device status, and site performance visible to operators and investors worldwide in real time.
+    - link "View Network":
+      - /url: /network
+      - text: View Network
+  - article:
+    - generic: "3"
+    - heading "GEN Invest" [level=3]
+    - paragraph: Verified production backed by signed offtake agreements structured into tokenised yield instruments. Monthly distribution. Compliant investment rails.
+    - link "Access Invest":
+      - /url: /invest
+      - text: Access Invest
+  - region "Energy infrastructure, on-chain.":
+    - navigation "Platform steps":
+      - generic: ↳
+      - generic: Review curated operating assets
+      - generic: ↳
+      - generic: Invest with full visibility
+      - generic: ↳
+      - generic: Receive monthly distributions
+    - heading "Energy infrastructure, on-chain." [level=2]:
+      - generic: Energy infrastructure, on-chain.
+    - paragraph: Onboard operating assets, verify performance with live data, and open them to investment — on one open infrastructure.
+    - list "Platform previews":
+      - heading "Project Listings" [level=3]
+      - generic: Live
+      - img "FLP II"
+      - generic: FLP II
+      - generic: Pivot Green
+      - generic: Kedah, Malaysia • Solar
+      - generic: Upcoming
+      - generic: 12.3%
+      - generic: "9"
+      - button "View Asset"
+      - img "FLP"
+      - generic: FLP
+      - generic: Pivot Green
+      - generic: Kuala Lumpur, Malaysia • Solar
+      - generic: Distributing Revenue
+      - generic: 12.3%
+      - generic: "24"
+      - button "View Asset"
+      - img "Surya"
+      - generic: Surya
+      - generic: DeCharge
+      - generic: Selangor, Malaysia • EV Charging
+      - generic: Distributing Revenue
+      - generic: 23%
+      - generic: "4"
+      - button "View Asset"
+      - img "VOX"
+      - generic: VOX
+      - generic: EPower
+      - generic: Johor, Malaysia • Storage
+      - generic: Distributing Revenue
+      - generic: 17%
+      - generic: "4"
+      - button "View Asset"
+      - img "Solar installation"
+      - generic: Investment Live
+      - generic: Closes on
+      - text: 30th of September, 2026
+      - generic: Amount Raised
+      - generic: $83,720
+      - generic: 83% Funded
+      - generic: "Target: $100,000"
+      - generic: Projected Avg Yield
+      - text: 21.5%
+      - generic: Pays Until
+      - text: "2035"
+      - generic: Instalment
+      - text: Monthly
+      - paragraph: Funding 111.69 kWp of a proven solar asset already distributing cashflow.
+      - button "Invest Now"
+      - generic: Deal Terms
+      - generic: Performance
+      - generic: Risks
+      - generic: Asset & Operator
+      - generic: Documents
+      - heading "Portfolio Overview" [level=3]
+      - generic: Avg Annual Yield
+      - generic: 12.6%
+      - generic: ↑ 0.5%
+      - generic: Total Yield Earned
+      - generic: $14,370
+      - generic: ↑ 2.2%
+      - generic: Next Payout
+      - generic: Jul 18, 2026
+      - generic: Unclaimed Yield
+      - generic: $
+      - generic: USDC
+      - generic: $2,530
+      - button "Claim Yield"
+      - generic: Yield Earned Overtime
+      - generic: Earnings
+      - generic: Allocation
+      - text: $16,205
+  - region "A new model for green energy investing":
+    - heading "A new model for green energy investing" [level=2]:
+      - text: A new model for
+      - text: green energy investing
+    - paragraph: Traditional green energy deals are closed and slow. GEN makes assets, data, and cashflow easier to see.
+    - article:
+      - heading "Traditional energy infrastructure" [level=3]
+      - heading "Closed Access" [level=4]
+      - paragraph: Deals stay inside private networks
+      - heading "Slow Reporting" [level=4]
+      - paragraph: Performance is checked after the fact
+      - heading "Blind Capital" [level=4]
+      - paragraph: Investors rarely pick the real asset
+    - article:
+      - img "GEN"
+      - heading "Open Asset Access" [level=4]
+      - paragraph: Invest into operating energy assets
+      - heading "Live Verification" [level=4]
+      - paragraph: Production data streams from the source
+      - heading "Clear Cashflow" [level=4]
+      - paragraph: Track asset performance and distributions
+      - text: Verified at the source
+  - heading "Insights, updates, and market perspectives" [level=2]
+  - paragraph: Static notes on verified energy assets, open infrastructure, and the problems GEN is solving across real-world energy finance.
+  - link "View all posts":
+    - /url: /blog
+    - text: View all posts
+  - link "NOV 18, 2025 NEWS GEN launches Malaysia's first green digital asset at GEN Impact 2025 GEN Impact 2025 introduced Malaysia's first green digital asset, connecting tokenized renewable infrastructure with verified energy data and regulated custody. GEN Core Team Company Updates":
+    - /url: /blog/gen-impact-2025-malaysia-first-green-digital-asset
+    - generic: NOV 18, 2025
+    - generic: •
+    - generic: NEWS
+    - heading "GEN launches Malaysia's first green digital asset at GEN Impact 2025" [level=3]
+    - paragraph: GEN Impact 2025 introduced Malaysia's first green digital asset, connecting tokenized renewable infrastructure with verified energy data and regulated custody.
+    - paragraph: GEN Core Team
+    - paragraph: Company Updates
+  - link "MAY 19, 2026 INSIGHTS Why energy infrastructure needs verifiable operating data A look at why real-time production records matter when energy assets move from private spreadsheets to open financial rails. GEN Research Infrastructure Intelligence":
+    - /url: /blog/verifiable-operating-data-energy-assets
+    - generic: MAY 19, 2026
+    - generic: •
+    - generic: INSIGHTS
+    - heading "Why energy infrastructure needs verifiable operating data" [level=3]
+    - paragraph: A look at why real-time production records matter when energy assets move from private spreadsheets to open financial rails.
+    - paragraph: GEN Research
+    - paragraph: Infrastructure Intelligence
+  - link "MAY 12, 2026 PROJECT UPDATES From solar output to transparent on-chain cashflows How GEN connects verified kilowatt-hour data, asset records, and investor visibility into one open infrastructure layer. GEN Core Team Product & Network":
+    - /url: /blog/solar-output-transparent-on-chain-cashflows
+    - generic: MAY 12, 2026
+    - generic: •
+    - generic: PROJECT UPDATES
+    - heading "From solar output to transparent on-chain cashflows" [level=3]
+    - paragraph: How GEN connects verified kilowatt-hour data, asset records, and investor visibility into one open infrastructure layer.
+    - paragraph: GEN Core Team
+    - paragraph: Product & Network
+  - heading "We started with data. Assets and capital followed." [level=2]
+  - paragraph: If you operate energy infrastructure or invest in real-world assets, GEN is built for you. Tell us about your asset or investment mandate and we will walk you through how GEN works for your situation.
+  - link "Contact Us":
+    - /url: /contact
+    - text: Contact Us
+  - link "GEN logo":
+    - /url: /
+    - img "GEN logo"
+  - heading "Building the future of green energy on-chain" [level=3]:
+    - text: Building the
+    - text: future of green
+    - text: energy on-chain
+  - paragraph: Get early access to new energy assets and platform updates.
+  - link "Explore the Platform":
+    - /url: /contact
+  - heading "Legal" [level=4]
+  - list:
+    - link "Privacy":
+      - /url: "#"
+    - link "Terms":
+      - /url: "#"
+    - link "License":
+      - /url: "#"
+  - heading "Sections" [level=4]
+  - list:
+    - link "Home":
+      - /url: /
+    - link "Stats":
+      - /url: /#stats
+    - link "Market":
+      - /url: /#market
+    - link "Comparison":
+      - /url: /#comparison
+    - link "How It Works":
+      - /url: /#how-it-works
+    - link "Platform":
+      - /url: /#features
+    - link "Insights":
+      - /url: /#insights
+    - link "CTA":
+      - /url: /#cta
+  - generic: © 2026 GEN
+  - generic: Open Infrastructure for Energy Assets
+  - link "X / Twitter":
+    - /url: https://x.com/GENPowered
+  - link "Discord":
+    - /url: https://discord.com
+- alert
+- button "AI Tools":
+  - generic: AI Tools

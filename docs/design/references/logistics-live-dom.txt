@@ -1,0 +1,416 @@
+- main:
+  - navigation "Page sections":
+    - link "Mesta, back to top":
+      - /url: "#/"
+      - img "Mesta"
+    - list:
+      - button "Products":
+        - text: Products
+      - button "Solutions"
+      - button "How it works"
+      - button "Security"
+      - button "FAQ"
+      - link "Help":
+        - /url: "#/help"
+    - link "Sign in":
+      - /url: "#/signin"
+  - region "One shipment record. From order to invoice.":
+    - button "Scroll to explore":
+      - text: Scroll to explore
+    - generic "Core capabilities":
+      - list:
+        - listitem: Transportation management
+        - listitem: Warehouse management
+        - listitem: Route optimization
+        - listitem: First-mile pickup
+        - listitem: Hub-to-hub
+        - listitem: Last-mile delivery
+        - listitem: Multi-carrier
+        - listitem: On-demand delivery
+        - listitem: International logistics
+        - listitem: Freight procurement
+        - listitem: Shipment tracking
+        - listitem: Address validation
+        - listitem: Live fleet & ETAs
+        - listitem: AI workflows
+      - generic: Transportation management
+      - generic: Warehouse management
+      - generic: Route optimization
+      - generic: First-mile pickup
+      - generic: Hub-to-hub
+      - generic: Last-mile delivery
+      - generic: Multi-carrier
+      - generic: On-demand delivery
+      - generic: International logistics
+      - generic: Freight procurement
+      - generic: Shipment tracking
+      - generic: Address validation
+      - generic: Live fleet & ETAs
+      - generic: AI workflows
+      - generic: Transportation management
+      - generic: Warehouse management
+      - generic: Route optimization
+      - generic: First-mile pickup
+      - generic: Hub-to-hub
+      - generic: Last-mile delivery
+      - generic: Multi-carrier
+      - generic: On-demand delivery
+      - generic: International logistics
+      - generic: Freight procurement
+      - generic: Shipment tracking
+      - generic: Address validation
+      - generic: Live fleet & ETAs
+      - generic: AI workflows
+    - heading "One shipment record. From order to invoice." [level=1]:
+      - generic: One shipment record.
+      - generic: From order to invoice.
+    - paragraph: Orders, hub operations, delivery, and billing in one system. Your team stops copying numbers between spreadsheets, and vendor overcharges surface before the money goes out.
+  - region "How it works":
+    - heading "One shipment, one unbroken trail" [level=2]
+    - paragraph: One order can go out as several shipments, and every shipment has one waybill. They all stay connected.
+    - 'button "Step 1: Order"'
+    - article:
+      - paragraph:
+        - generic: Step 02
+        - generic: •
+        - generic: Shipment
+      - button "Previous step":
+      - button "Next step":
+      - 'heading "The goods move: route, weight, and location always current" [level=3]'
+      - list:
+        - listitem: Service type and route
+        - listitem: The weight used for billing
+        - listitem: Location and journey status
+        - listitem: Flags for shipments that need attention
+      - link "Request access":
+        - /url: "#/signin?mode=request"
+    - 'button "Step 3: Waybill"'
+  - paragraph: Solutions
+  - heading "One system for every team." [level=2]:
+    - text: One system
+    - text: for every team.
+  - paragraph: Operations, finance, and customer service work from the same data. Record a number once, and every team uses it.
+  - article:
+    - heading "Daily operations" [level=3]
+    - paragraph: Every order, shipment, and waybill on one board. No more asking the group chat “where is this shipment now?”
+    - generic: Limited access
+    - link "Request access":
+      - /url: "#/signin?mode=request"
+    - list:
+      - generic: "01"
+      - generic: Every shipment’s status at a glance
+      - generic: "02"
+      - generic: Trip and manifest schedules in one place
+      - generic: "03"
+      - generic: PODs and documents attach straight to their waybill
+      - generic: "04"
+      - generic: "Every change recorded: who, when, and why"
+  - article:
+    - heading "Billing & reconciliation" [level=3]
+    - paragraph: Vendor invoices are matched to the shipments behind them. Overpayments are caught before the transfer, not at month-end close.
+    - generic: Limited access
+    - link "Request access":
+      - /url: "#/signin?mode=request"
+    - list:
+      - generic: "01"
+      - generic: Every vendor invoice linked to its source waybill
+      - generic: "02"
+      - generic: Rate and weight differences flagged immediately
+      - generic: "03"
+      - generic: Correction notes when figures don’t match
+      - generic: "04"
+      - generic: Month-end reconciliation as one document, not a pile of spreadsheets
+  - article:
+    - heading "Early warnings" [level=3]
+    - paragraph: Problems show up as today’s to-do list, not as a finding in next month’s report.
+    - generic: Limited access
+    - link "Request access":
+      - /url: "#/signin?mode=request"
+    - list:
+      - generic: "01"
+      - generic: Shipments past their promised arrival
+      - generic: "02"
+      - generic: Delivered, but no POD yet
+      - generic: "03"
+      - generic: Invoices coming due
+      - generic: "04"
+      - generic: Customer complaints still open
+  - article:
+    - heading "Hubs & linehaul" [level=3]
+    - paragraph: Every hub-to-hub move is recorded step by step. When something gets stuck, you know exactly where and why.
+    - generic: Limited access
+    - link "Request access":
+      - /url: "#/signin?mode=request"
+    - list:
+      - generic: "01"
+      - generic: "Trip status at every hub: load, close, depart, arrive"
+      - generic: "02"
+      - generic: Next-manifest suggestions while sorting
+      - generic: "03"
+      - generic: Load-rerouting options you can compare before choosing
+      - generic: "04"
+      - generic: Stuck manifests raise an alert right away
+  - article:
+    - heading "AI assistant" [level=3]
+    - paragraph: "AI handles the repetitive work: checking, preparing, proposing. Important decisions stay with your team."
+    - generic: Limited access
+    - link "Request access":
+      - /url: "#/signin?mode=request"
+    - list:
+      - generic: "01"
+      - generic: AI proposes, your team approves
+      - generic: "02"
+      - generic: A double click or dropped connection never runs an action twice
+      - generic: "03"
+      - generic: History can’t be deleted, only corrected
+      - generic: "04"
+      - generic: Risky actions require a reason
+  - region "Mesta by the numbers":
+    - heading "Mesta is building the foundation for logistics that runs on one record." [level=2]:
+      - text: Mesta is building the foundation
+      - text: for logistics that runs on one record.
+    - term: Record per shipment, from order to invoice
+    - definition:
+      - generic "1":
+        - generic: "0"
+        - generic: "1"
+        - generic: "2"
+        - generic: "3"
+        - generic: "4"
+        - generic: "5"
+        - generic: "6"
+        - generic: "7"
+        - generic: "8"
+        - generic: "9"
+        - generic: "0"
+        - generic: "1"
+        - generic: "2"
+        - generic: "3"
+        - generic: "4"
+        - generic: "5"
+        - generic: "6"
+        - generic: "7"
+        - generic: "8"
+        - generic: "9"
+    - definition: Record per shipment, from order to invoice
+    - term: Solutions on the same data
+    - definition:
+      - generic "5":
+        - generic: "0"
+        - generic: "1"
+        - generic: "2"
+        - generic: "3"
+        - generic: "4"
+        - generic: "5"
+        - generic: "6"
+        - generic: "7"
+        - generic: "8"
+        - generic: "9"
+        - generic: "0"
+        - generic: "1"
+        - generic: "2"
+        - generic: "3"
+        - generic: "4"
+        - generic: "5"
+        - generic: "6"
+        - generic: "7"
+        - generic: "8"
+        - generic: "9"
+    - definition: Solutions on the same data
+    - term: Core logistics capabilities
+    - definition:
+      - generic "14":
+        - generic: "0"
+        - generic: "1"
+        - generic: "2"
+        - generic: "3"
+        - generic: "4"
+        - generic: "5"
+        - generic: "6"
+        - generic: "7"
+        - generic: "8"
+        - generic: "9"
+        - generic: "0"
+        - generic: "1"
+        - generic: "2"
+        - generic: "3"
+        - generic: "4"
+        - generic: "5"
+        - generic: "6"
+        - generic: "7"
+        - generic: "8"
+        - generic: "9"
+        - generic: "0"
+        - generic: "1"
+        - generic: "2"
+        - generic: "3"
+        - generic: "4"
+        - generic: "5"
+        - generic: "6"
+        - generic: "7"
+        - generic: "8"
+        - generic: "9"
+        - generic: "0"
+        - generic: "1"
+        - generic: "2"
+        - generic: "3"
+        - generic: "4"
+        - generic: "5"
+        - generic: "6"
+        - generic: "7"
+        - generic: "8"
+        - generic: "9"
+    - definition: Core logistics capabilities
+  - region "FAQ":
+    - paragraph: FAQ
+    - article:
+      - paragraph: Do we have to replace the systems we already run?
+      - paragraph: Question 01 / 05
+      - paragraph: “No. Mesta runs the flow from order to invoice. Other systems, like accounting or courier apps, stay in place; their reference numbers are simply recorded in Mesta too.”
+    - article:
+      - paragraph: Our data still lives in spreadsheets. Where do we start?
+      - paragraph: Question 02 / 05
+      - paragraph: “With your customer list and lane rates. Once those are in, your team can quote and record new shipments. Old data can move over gradually without pausing operations.”
+    - article:
+      - paragraph: How do we know the data hasn’t been tampered with?
+      - paragraph: Question 03 / 05
+      - paragraph: “Every change is recorded with who made it, when, and why, and it can’t be deleted. Corrections show up as corrections, not as numbers that quietly changed. The history’s integrity can also be verified by an outside party.”
+    - article:
+      - paragraph: Can the AI change data without us knowing?
+      - paragraph: Question 04 / 05
+      - paragraph: “No. The AI uses the same path your team does, and every risky action waits for approval. You can always review what the AI proposes before it runs.”
+    - article:
+      - paragraph: Is it available in Indonesian?
+      - paragraph: Question 05 / 05
+      - paragraph: “Yes. The app is in Indonesian, numbers use local thousands separators, weights are in kilograms, and amounts follow the customer’s currency.”
+    - button "Previous question" [disabled]:
+    - button "Next question":
+    - paragraph: "Do we have to replace the systems we already run?: No. Mesta runs the flow from order to invoice. Other systems, like accounting or courier apps, stay in place; their reference numbers are simply recorded in Mesta too."
+  - region "We believe in One record":
+    - paragraph: A message from Mesta
+    - heading "We believe in" [level=2]
+    - paragraph: One record
+    - paragraph: Order, shipment, waybill, and invoice share one record, so operations, finance, and customer service stop arguing over whose spreadsheet is right.
+    - group "Choose a principle":
+      - button "One record" [pressed]: "01"
+      - button "Human approval": "02"
+      - button "Data you own": "03"
+  - region "Security and audit trail":
+    - paragraph: Security
+    - heading "Records you can stand behind" [level=2]:
+      - text: Records you can
+      - text: stand behind
+    - paragraph: To customers, auditors, and management. The system enforces the rules, so nothing depends on discipline.
+    - button "01 Provable history Every change, from your team, AI, or another system, is recorded permanently with who made it and when. Its integrity can be verified by an outside party, so the evidence is ready for an audit or a billing dispute." [expanded]:
+      - generic: "01"
+      - generic: Provable history
+      - generic: Every change, from your team, AI, or another system, is recorded permanently with who made it and when. Its integrity can be verified by an outside party, so the evidence is ready for an audit or a billing dispute.
+    - button "02 Big decisions stay human Changing invoice totals, cancelling shipments, issuing invoices, or replying to customers always waits for your team’s approval.":
+      - generic: "02"
+      - generic: Big decisions stay human
+      - generic: Changing invoice totals, cancelling shipments, issuing invoices, or replying to customers always waits for your team’s approval.
+    - button "03 Role-based access Staff view, operators work and approve, admins manage the team. Each company’s data is separated at the storage level, not just hidden on screen.":
+      - generic: "03"
+      - generic: Role-based access
+      - generic: Staff view, operators work and approve, admins manage the team. Each company’s data is separated at the storage level, not just hidden on screen.
+    - button "04 Your data stays yours Your data lives in your own database and can be exported in full at any time. It is never locked inside a third-party platform.":
+      - generic: "04"
+      - generic: Your data stays yours
+      - generic: Your data lives in your own database and can be exported in full at any time. It is never locked inside a third-party platform.
+    - button "Previous guarantee" [disabled]:
+    - button "Next guarantee":
+  - region "Built with operators":
+    - paragraph: Built with operators
+    - heading "Built with logistics operators" [level=2]:
+      - text: Built with
+      - text: logistics operators
+    - img "One trail from order to invoice"
+    - list:
+      - generic: order
+      - generic: shipment
+      - generic: waybill
+      - generic: POD
+      - generic: invoice
+    - paragraph: "The foundation is live: one record from order to invoice, with a history no one can quietly rewrite. What comes next we build with the teams using it, including yours."
+    - link "Request access":
+      - /url: "#/signin?mode=request"
+  - region "Integrations":
+    - paragraph: Integrations
+    - heading "Keep the systems you already run" [level=2]:
+      - text: Keep the systems
+      - text: you already run
+    - paragraph: Accounting, courier apps, and carrier portals stay in place. Their reference numbers are recorded next to each shipment in Mesta.
+    - button "Read the FAQ"
+  - region "Explore":
+    - paragraph: Explore
+    - heading "Try Mesta without an account" [level=2]:
+      - text: Try Mesta
+      - text: without an account
+    - list:
+      - link "Access /signin?mode=request Request a Mesta workspace for your team":
+        - /url: "#/signin?mode=request"
+        - text: Access
+        - generic: •
+        - text: /signin?mode=request
+        - text: Request a Mesta workspace for your team
+      - link "Developers /openapi.json Read the API contract (OpenAPI)":
+        - /url: /openapi.json
+        - text: Developers
+        - generic: •
+        - text: /openapi.json
+        - text: Read the API contract (OpenAPI)
+      - 'link "Developers /llms.txt llms.txt: this page for language models"':
+        - /url: /llms.txt
+        - text: Developers
+        - generic: •
+        - text: /llms.txt
+        - text: "llms.txt: this page for language models"
+    - link "Sign in":
+      - /url: "#/signin"
+  - region "Run every shipment from one record.":
+    - heading "Run every shipment from one record." [level=2]:
+      - text: Run every shipment
+      - text: from one record.
+    - paragraph: Mesta is in limited access. Tell us about your operation and we will set up your workspace.
+    - link "Request access":
+      - /url: "#/signin?mode=request"
+      - text: Request access
+    - link "Sign in":
+      - /url: "#/signin"
+  - paragraph: Logistics operations software for couriers and 3PLs, from order to invoice.
+  - navigation "Product":
+    - paragraph: Product
+    - link "Mesta platform":
+      - /url: "#/platform"
+    - link "Transportation mgmt":
+      - /url: "#/tms"
+    - link "Warehouse & hub":
+      - /url: "#/wms"
+    - link "Live tracking & ETA":
+      - /url: "#/live-tracking"
+    - link "Shipment tracking":
+      - /url: "#/shipment-tracking"
+    - link "AI workflows":
+      - /url: "#/agentflow"
+    - link "AI agents":
+      - /url: "#/agentfleet"
+    - link "Data security":
+      - /url: "#/data-security"
+  - navigation "Access":
+    - paragraph: Access
+    - link "Sign in":
+      - /url: "#/signin"
+    - link "Request access":
+      - /url: "#/signin?mode=request"
+    - link "Help center":
+      - /url: "#/help"
+  - navigation "Developers":
+    - paragraph: Developers
+    - link "API contract ↗":
+      - /url: /openapi.json
+    - link "llms.txt ↗":
+      - /url: /llms.txt
+  - img "Mesta"
+  - paragraph: © 2026 Mesta
+  - 'button "Language: English"':
+    - text: English

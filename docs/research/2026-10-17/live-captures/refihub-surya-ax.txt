@@ -1,0 +1,185 @@
+Browser tab: 3, Title: "DeCharge - Surya - ReFi Hub", URL: "https://app.refihub.io/investments/7".
+0 AXWebArea DeCharge - Surya - ReFi Hub, URL: app.refihub.io/investments/7
+	60 container reef
+		61 container
+			62 link Description: Refi Hub logo, Help: ReeFi Hub, Value: app.refihub.io/
+			110 image
+			111 link Description: Energy Assets, Value: app.refihub.io/energy-assets
+			112 image
+			113 heading DeCharge - Surya, Value: 1
+				114 text DeCharge - Surya
+			115 container
+				116 text Distributing Revenue
+				117 image investment-image
+				118 container
+					119 heading DeCharge - Surya, Value: 4
+						120 text DeCharge - Surya
+					121 image
+					122 text India
+				123 container summary-content
+					124 text NEXT PAYOUT ESTIMATED FOR
+					125 heading September 20, 2026, Value: 3
+						126 text September 20, 2026
+					127 text AMOUNT RAISED $149,999.99
+					128 text AVG YIELD
+					129 text 12.27%
+					130 text PAYS UNTIL
+					131 text 2028
+					132 text INSTALMENT
+					133 text Monthly
+					134 text REPAYMENTS TO DATE
+					135 text 8 Total
+					136 container
+						137 text Sep 2026 $1,071.38
+						138 link solscan.io/tx/5ftjdqV69QhmQNnvFURFccKGu9aZpPFUhwSZNipUxnxqBb84B1srzYdkKJTAyQonEaJ1oyWboS3gJgR17wti8vVu
+						139 text Aug 2026 $899.96
+						140 link solscan.io/tx/3kswUbBD4XN9FAEmbd1LTbxN7fsnfbEDHijdnRNkJeuxrUjcrbJCioYRmykhcPmf7Z2ct4bqNGVkWpU1g1tzN61Z
+						141 text Jun 2026 $771.40
+						142 link solscan.io/tx/5cYDQtM1KCpfZZh7MiunCbLB58z7txEsVY69RKDAMxd3fzqSvsvucDSieR5giad3kbS5ShFY9P8qJ1YxvxqMjA47
+						143 text May 2026 $1,264.22
+						144 link solscan.io/tx/5FcUnSugjeoMTtPC5DhKn96T7HfYdHrpFhNBtgifMBzGPzTG2YC3BDWUpYTMeJxSNj9ex7EsRrmXyMzNAt1LbVng
+						145 text Apr 2026 $1,884.76
+						146 link solscan.io/tx/5MTpWujXWfSWdgTarGV7MxqC5QfJ2gyGYPzsxPATkUrMaKfEopdK3ak4ms19UjjuDuni49vYgYaYkFpk6Xsywk8p
+						147 text Mar 2026 $1,502.50
+						148 link solscan.io/tx/2aE3giPTcxXfvqFKeAuGAaYQobgRnRB8q2oFD5pupkk3eqAj2tk1TFnAqEyR2wnq7fJFC9vmAi2ECtop1rS1omfs
+						149 text Feb 2026 $1,875.33
+						150 link solscan.io/tx/4rJ9Htm81ZJaL3HSsyLUekHtN4xKWHsFpMcZvsZkkVS5Y6WpHUkH4JDoby2xw34oZYbS6pYsgCVhCrSvmkRzge2s
+						151 link solscan.io/tx/5pbo5FsFrpXaxXrJ8cmhPVSm7LyecHYtqD38aZ1W2bo62aEZknX9emJ3rEHqstrb4WdocGnFTgNYB7AF8VDNVoDm
+						152 text Jan 2026 $2,999.85
+						153 link solscan.io/tx/3D4VTUTPgEsJhfW1RdnGLWNQ46SH2FfJf8JaSju3TECHxj4J4Y5hNMrkHUNXD1DwrTRxcXhPE2x25YvAZNxqyv6H
+				154 container
+					155 button Reports
+					156 button Overview
+					157 button Details
+					158 button Impact
+					159 button Calculate Your Returns
+				160 container
+					161 heading July 20, 2026, Value: 3
+						162 text July 20, 2026
+					163 text Distribution date moving
+					164 text Project Surya has always paid out on a 16th-to-15th cycle. That is changing to a standard calendar month (1st to month-end), because the operator's charging partners all report on calendar months; aligning the two makes reconciliation cleaner and supports the live data feed now being built. Switching between the two cycles requires one longer period to bridge the gap. The 7th payout therefore covers **16 June to 31 July 2026** — six weeks instead of the usual month. The report and distribution will be finalised in **early August 2026**, once partner data is reconciled. If you were expecting a distribution in mid-July, it will now arrive in early August.** This is a one-time shift. From the 8th payout onwards, every cycle closes at month-end and pays on the normal monthly rhythm. The 6th payout (16 May – 15 June) was reported and distributed as normal. Dashboard and API integration: At ReFi Hub's request, the operator is building a live reporting feed for charger sessions, energy dispensed, billing and revenue — already running in preview for an initial set of chargers, with electricity costs reconciled monthly rather than shown in real time. Network status: The network comprises 19 chargers (15 x 7 kW AC, 4 DC at 30 kW and 60 kW), with a portion currently offline while units are relocated to higher-demand sites, migrated away from partners who exited low-usage locations, or updated for government compliance, all targeted back online by the end of August 2026. This downtime is deliberate rather than a fault: it moves hardware onto better sites, which supports stronger revenue per charger from the same asset base going forward.
+					165 heading June 20, 2026, Value: 3
+						166 text June 20, 2026
+					167 text Stronger Margins
+					168 text The network dispensed 10,503 kWh, down around a third on the previous cycle. Gross revenue of $2,804 less $1,519 of electricity and operating costs left $1,285 net, with $771 to investors at a 6.17% APY. Lower charging activity drove the decline, though unit economics improved: the average selling price rose to $0.267/kWh against $0.145 in costs, leaving $0.122 net per kWh. Cumulative investor earnings now stand at $10,297 across six cycles, a 13.73% blended APY. Payment was received and distributed on schedule.
+					169 heading May 20, 2026, Value: 3
+						170 text May 20, 2026
+					171 text Softer Throughput
+					172 text The network dispensed 16,025 kWh over the period. Gross revenue of $3,830 against $1,724 of electricity and operating costs produced $2,106 net, of which $1,264 was distributed to investors — a 10.11% APY for the month. Throughput was softer than the prior cycle, driven by lower utilisation at certain locations rather than any availability issue; uptime held across both AC and DC chargers and the cost base stayed flat. Payment was received and distributed on schedule.
+					173 heading April 20th, 2026, Value: 3
+						174 text April 20th, 2026
+					175 text Consistent Performance
+					176 text Project Surya delivered 20,585 kWh during the period, reflecting stable energy throughput across DC and AC chargers. Utilization and uptime remained consistent, indicating a normalized operating cycle across the network. Energy delivery continues to track steady demand, with no material interruptions observed.
+					177 heading March 20, 2026, Value: 3
+						178 text March 20, 2026
+					179 text Shorter Month, Down Time Reported
+					180 text Net revenue for the period was $2,504 on $4,433 gross revenue, with 16,873 kWh delivered; per-unit economics remained stable at $0.148 net revenue per kWh despite a shorter operating window and temporary uptime constraints. Investor distributions totalled $1,503 for the month, bringing cumulative distributions to $6,377, with allocation executed in line with the predefined revenue participation structure. Lower total output versus the prior cycle reflects seasonality (28-day month) and temporary network downtime, while underlying utilization and pricing continue to track consistently on a per-unit basis.
+					181 heading Feb 20, 2026, Value: 3
+						182 text Feb 20, 2026
+					183 text First Full Operating Cycle
+					184 text This period reflects the first fully normalised 30-day operating cycle following commissioning. The prior reporting period covered approximately 40 days of staggered deployment, whereas this cycle represents a standardised monthly baseline. A total of 20,245 kWh was dispensed across the network, with stable per-unit margins and consistent utilisation. Performance now reflects normalised reporting, clearer cost allocation, and repeatable revenue mechanics. Investor distributions were executed in line with the agreed revenue participation structure. A minor calculation oversight in the initial payout (platform fee not included) was corrected on 24 February, with the adjustment processed through the smart contract's standard allocation logic. All balances are now fully aligned.
+					185 heading Jan 21, 2026, Value: 3
+						186 text Jan 21, 2026
+					187 text Asset Now Live
+					188 text Civil works and electrical installation progressed during the period. Grid interconnection with the utility remains active. Revenue was generated during the month and settled in full. Capital deployment remains within planned parameters. Full update: https://resources.refihub.io/blog/project-surya-january-2026-investor-update
+				189 heading NEXT, Value: 4
+					190 text NEXT
+				191 text Overview
+				192 image
+			193 heading Live Operating Assets, Value: 3
+				194 text Live Operating Assets
+			195 link Value: app.refihub.io/investments/9, Description: icon FLP II PivotGreen Singapore - Solar Asset STATUS Distributing Revenue AVG YIELD 21.4% YEARS 9 CAPACITY (KW) 590 View Asset
+			196 link Value: app.refihub.io/investments/8, Description: icon FLP PivotGreen Singapore - Solar Asset STATUS Distributing Revenue AVG YIELD 14% YEARS 24 CAPACITY (KW) 590 View Asset
+			197 link Value: app.refihub.io/investments/7, Description: icon Surya DeCharge India - Ev Charging STATUS Distributing Revenue AVG YIELD 12.27% YEARS 3 CAPACITY (KW) 590 View Asset
+			198 link Value: app.refihub.io/investments/6, Description: icon EV Charging Stations VOX Brazil - Ev Charging STATUS Distributing Revenue AVG YIELD 9.3% YEARS 5 CAPACITY (KW) 590 View Asset
+			199 link Value: app.refihub.io/investments/5, Description: icon CRN Tab Energia Brazil - Solar Asset STATUS Under Maintenance AVG YIELD 11.29% YEARS 30 CAPACITY (KW) 590 View Asset
+			200 link Value: app.refihub.io/investments/4, Description: icon Exodos 1 IPE Assets Brazil - Solar Asset STATUS Distributing Revenue AVG YIELD 14.53% YEARS 24.5 CAPACITY (KW) 590 View Asset
+			82 image
+			83 link twitter.com/refihub
+			84 link discord.com/invite/B7f8Vx2ZFK
+			85 link linkedin.com/company/refi-hub/
+			86 text COMPANY
+			87 link Description: Home, Value: app.refihub.io/investments/7
+			88 link Description: About, Value: refihub.gitbook.io/refi-hub/how-refi-hub-works/why-refi-hub-exists
+			89 link Description: How it Works, Value: refihub.gitbook.io/refi-hub/how-refi-hub-works/what-refi-hub-does
+			90 link Description: Reporting & Transparency, Value: refihub.gitbook.io/refi-hub/how-refi-hub-works/transparency-and-reporting
+			91 link Description: Contact the team, Value: mailto:adolfo@refihub.io
+			92 text INVESTMENTS & LIVE ASSETS
+			93 link Description: Solar Infrastructure, Value: app.refihub.io/investments/8/
+			94 link Description: EV Charging Infrastructure, Value: app.refihub.io/investments/7/
+			95 link Description: View all assets, Value: app.refihub.io/energy-assets
+			96 text RESOURCES
+			97 link Description: Investor Reports, Value: refihub.io/blog/
+			98 link Description: Singapore Market Research, Value: refihub-images.s3.eu-central-1.amazonaws.com/Singapore+Solar+Market+Overview.pdf
+			99 link Description: Articles, Value: refihub.io/blog
+			100 link Description: Documentation, Value: refihub.gitbook.io/refi-hub/how-refi-hub-works/where-returns-come-from
+			101 link Description: Due Diligence Framework, Value: refihub.gitbook.io/refi-hub/how-refi-hub-works/asset-selection-and-due-diligence
+			102 link Description: KYC FAQs, Value: refihub.io/blog/kyc-on-refi-hub
+			103 text LEGAL & ACCESS
+			104 link Description: Risk Disclosures, Value: refihub.gitbook.io/refi-hub/how-refi-hub-works/risk-and-variability
+			105 link Description: Terms & Conditions, Value: refihub.gitbook.io/refi-hub/legal/terms-and-conditions
+			106 link Description: Privacy Policy, Value: refihub.gitbook.io/refi-hub/legal/privacy-policy
+			107 text Copyright © Refi Hub 2026
+			108 text Access to real-world energy assets with transparent reporting.
+		109 image SvgjsSvg1001
+	1 container aitopia
+		2 container aitopia-sidebar
+			3 container ai-sidebar
+				4 container ait-sidebar-chat
+					5 container
+						6 text Chat
+						7 button New Chat
+							8 image
+							9 text New Chat
+					10 container ai-sidebar-content
+						11 container ai-message-container
+							12 container aitopia-example
+								13 heading Hi, 👋, Value: 1
+									14 text Hi, 👋
+								15 text How can I help you today?
+								16 button Explain a complex thing Explain Artificial Intelligence so that I can explain it to my six-year-old child.
+									17 text Explain a complex thing
+									18 text Explain Artificial Intelligence so that I can explain it to my six-year-old child.
+								19 button Get suggestions and create new ideas Please give me the best 10 travel ideas around the world
+									20 text Get suggestions and create new ideas
+									21 text Please give me the best 10 travel ideas around the world
+								22 button Translate, summarize, fix grammar and more… Translate "I love you" French
+									23 text Translate, summarize, fix grammar and more…
+									24 text Translate "I love you" French
+						25 container
+							26 container
+								27 image
+								28 text AITOPIA
+								29 image
+							30 button
+								31 image
+							32 button
+								33 image
+							34 button
+								35 image
+							36 button
+								37 image
+							38 button Model Capabilities
+								39 image
+							40 button
+								41 image
+							42 button
+								43 image
+						44 container
+							45 text entry area (settable) ask
+							46 button Group Chat
+							47 button Web Access
+						48 container
+							49 button 10
+								50 image
+								51 text 10
+							52 button Upgrade, ID: aitopia-pricing
+						53 button
+							54 image
+						55 button
+							56 image
+						57 button
+							58 image
+		59 text entry area (settable) ait_clipboard
+
+The focused UI element is 0 AXWebArea DeCharge - Surya - ReFi Hub, URL: app.refihub.io/investments/7

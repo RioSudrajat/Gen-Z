@@ -1,0 +1,30 @@
+{
+  "name": "gen-z-energy-thesis-motion",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "studio": "remotion studio src/index.tsx --port=3100",
+    "render": "remotion render src/index.tsx EnergyThesis out/energy-thesis-v2-silent.mp4 --codec=h264 --crf=19 --concurrency=4",
+    "still": "remotion still src/index.tsx EnergyThesis out/poster.png --frame=300",
+    "intro:lint": "hyperframes lint hyperframes",
+    "typecheck": "tsc --noEmit",
+    "score": "python compose_score.py",
+    "mux": "ffmpeg -y -i out/energy-thesis-v2-silent.mp4 -i public/pulse-score.wav -c:v copy -c:a aac -b:a 160k -movflags +faststart -shortest out/gen-z-energy-thesis-v2.mp4",
+    "web": "ffmpeg -y -i out/gen-z-energy-thesis-v2.mp4 -c:v libx264 -preset slow -crf 22 -pix_fmt yuv420p -c:a copy -movflags +faststart ../apps/marketing/public/assets/gen-z-energy-thesis-v2.mp4"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.535",
+    "@remotion/renderer": "4.0.535",
+    "gsap": "3.15.0",
+    "hyperframes": "0.8.162",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.535"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.2",
+    "@types/react-dom": "19.2.2",
+    "typescript": "5.9.3"
+  }
+}

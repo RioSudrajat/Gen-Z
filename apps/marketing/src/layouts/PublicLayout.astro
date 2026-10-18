@@ -1,0 +1,50 @@
+---
+import '@gen-z/design-tokens/colors.css';
+import '../styles/base.css';
+import { publicMetadata } from '../application/site-metadata.mjs';
+
+interface Props {
+  title: string;
+  description: string;
+  hero?: boolean;
+  noindex?: boolean;
+}
+const { title, description, hero = false, noindex = false } = Astro.props;
+const metadata = publicMetadata(Astro.site?.origin ?? '', Astro.url.pathname, noindex);
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#1A1D23" />
+    <meta name="description" content={description} />
+    {noindex && <meta name="robots" content="noindex, nofollow" />}
+    <title>{title}</title>
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Gen-Z" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:locale" content="en_US" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    {metadata && <>
+      <link rel="canonical" href={metadata.canonical} />
+      <meta property="og:url" content={metadata.canonical} />
+      <meta property="og:image" content={metadata.image} />
+      <meta property="og:image:width" content="1280" />
+      <meta property="og:image:height" content="720" />
+      <meta property="og:image:alt" content="Gen-Z energy infrastructure" />
+      <meta name="twitter:image" content={metadata.image} />
+      <link rel="sitemap" href="/sitemap-index.xml" />
+      <script type="application/ld+json" set:html={JSON.stringify(metadata.organization).replace(/</g, '\\u003c')} />
+    </>}
+    <link rel="icon" type="image/svg+xml" href="/assets/gen-z-symbol.svg" />
+    {hero && <link rel="preload" as="image" href="/assets/gen-z-video-poster.webp" fetchpriority="high" />}
+    <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/display-latin.woff2" crossorigin />
+    <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/ui-latin.woff2" crossorigin />
+    <slot name="head" />
+  </head>
+  <body><slot /></body>
+</html>

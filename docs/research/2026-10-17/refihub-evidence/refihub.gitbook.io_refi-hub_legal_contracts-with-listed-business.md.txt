@@ -1,0 +1,13 @@
+> For the complete documentation index, see [llms.txt](https://refihub.gitbook.io/refi-hub/llms.txt). Markdown versions of documentation pages are available by appending `.md` to page URLs; this page is available as [Markdown](https://refihub.gitbook.io/refi-hub/legal/contracts-with-listed-business.md).
+
+# Contracts with listed business
+
+**CRN Solar Plant - Tab Energia:**\
+[**https://refihub-public-resources.s3.eu-central-1.amazonaws.com/CRN+Token+Sale+%26+Investment+Agreement.pdf**\ <br>](https://refihub-public-resources.s3.eu-central-1.amazonaws.com/CRN+Token+Sale+%26+Investment+Agreement.pdf)**EXODOS Solar Plant - IPE Assets:** [\
+**https://refihub-public-resources.s3.eu-central-1.amazonaws.com/EXO+Token+Sale+%26+Investment+Agreement+Final+Sep+3%2C+2024.pdf**\ <br>](https://refihub-public-resources.s3.eu-central-1.amazonaws.com/EXO+Token+Sale+%26+Investment+Agreement+Final+Sep+3%2C+2024.pdf)**Rio EV Stations - VOX Epower:** [\
+**https://refihub-public-resources.s3.eu-central-1.amazonaws.com/EV+Equipment+Lease+Participation+Agreement+.pdf**<br>](https://refihub-public-resources.s3.eu-central-1.amazonaws.com/EV+Equipment+Lease+Participation+Agreement+.pdf)\
+**Project Sruya EV Stations- DeCharge:** [\
+**https://refihub-public-resources.s3.eu-central-1.amazonaws.com/DeCharge/SURYA+Token+Sale+Agreement.pdf**](https://refihub-public-resources.s3.eu-central-1.amazonaws.com/DeCharge/SURYA+Token+Sale+Agreement.pdf)\
+\
+**FLP Solar Plant - Pivot Green** \
+[**https://refihub-public-resources.s3.eu-central-1.amazonaws.com/PivotGreen/FLP/FLP%2BToken%2BSale%2BAgreement.pdf**](https://refihub-public-resources.s3.eu-central-1.amazonaws.com/PivotGreen/FLP/FLP%2BToken%2BSale%2BAgreement.pdf)

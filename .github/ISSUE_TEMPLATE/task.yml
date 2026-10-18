@@ -1,0 +1,19 @@
+name: Pekerjaan
+description: Tentukan hasil yang perlu dibuat dan bukti selesainya.
+body:
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Masalah dan hasil yang dibutuhkan
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Kriteria selesai dan cara verifikasi
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Scope, dependensi, dan referensi

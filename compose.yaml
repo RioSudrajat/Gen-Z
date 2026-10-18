@@ -1,0 +1,23 @@
+name: gen-z-local
+
+services:
+  postgres:
+    image: postgres:17-alpine
+    container_name: gen-z-platform-postgres
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-genz}
+      POSTGRES_DB: ${POSTGRES_DB:-genz_demo}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Run npm run setup:platform first}
+    ports:
+      - "127.0.0.1:${POSTGRES_PORT:-5433}:5432"
+    volumes:
+      - genz_postgres:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", 'pg_isready -U "$$POSTGRES_USER" -d "$$POSTGRES_DB"']
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+volumes:
+  genz_postgres:
+    name: gen-z-platform-postgres-data

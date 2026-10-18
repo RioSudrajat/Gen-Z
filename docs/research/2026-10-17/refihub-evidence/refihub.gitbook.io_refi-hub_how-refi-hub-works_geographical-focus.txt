@@ -1,0 +1,51 @@
+Geographical Focus | ReFi Hub
+🌐
+ReFi Hub
+🌐
+ReFi Hub
+Infrastructure-backed cashflow
+🌐
+How ReFi Hub works
+What ReFi Hub does
+Where returns come from
+How cashflow is defined
+Who is ReFi Hub is for
+Asset Selection & Due Diligence
+Geographical Focus
+Contracts & Distribution Mechanics
+Risk & Variability
+Performance Deviations
+Transparency & Reporting
+Technology & Settlement
+Fees on ReFi Hub
+Why ReFi Hub Exists
+ReFi Hub in one sentence
+🌐
+Environmental Impact
+User Impact & SDG alignment
+🌐
+Legal
+Terms & Conditions
+Privacy Policy
+Contracts with listed business
+🌐
+Additional
+Terminology
+Key Resources & Links
+Powered by GitBook
+On this page
+For the complete documentation index, see
+llms.txt
+. This page is also available as
+Markdown
+.
+ReFi Hub focuses on markets that offer favourable energy economics, regulatory clarity or established precedent, enforceable contracts, stable or manageable currency exposure, and the ability to build repeat operator relationships.
+We currently focus on Brazil and Singapore solar, which offer distinct risk-return profiles within this framework.
+Brazil offers high irradiance, strong energy economics, and established operator partnerships.
+Singapore offers regulatory stability, premium REC pricing, and currency strength.
+Previous
+Asset Selection & Due Diligence
+Next
+Contracts & Distribution Mechanics
+Last updated
+7 months ago

@@ -1,0 +1,11 @@
+> For the complete documentation index, see [llms.txt](https://refihub.gitbook.io/refi-hub/llms.txt). Markdown versions of documentation pages are available by appending `.md` to page URLs; this page is available as [Markdown](https://refihub.gitbook.io/refi-hub/how-refi-hub-works/geographical-focus.md).
+
+# Geographical Focus
+
+ReFi Hub focuses on markets that offer favourable energy economics, regulatory clarity or established precedent, enforceable contracts, stable or manageable currency exposure, and the ability to build repeat operator relationships.
+
+We currently focus on Brazil and Singapore solar, which offer distinct risk-return profiles within this framework.
+
+Brazil offers high irradiance, strong energy economics, and established operator partnerships.
+
+Singapore offers regulatory stability, premium REC pricing, and currency strength.

@@ -1,0 +1,45 @@
+{
+  "name": "gen-z",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=24.11.0 <25", "npm": ">=11 <12" },
+  "packageManager": "npm@11.6.1",
+  "workspaces": [
+    "packages/domain",
+    "packages/content-schema",
+    "packages/design-tokens",
+    "apps/marketing",
+    "apps/platform",
+    "workers/operations"
+  ],
+  "scripts": {
+    "hooks:install": "git config --local core.hooksPath .githooks",
+    "repo:check": "node scripts/check-repository.mjs",
+    "docs:check": "node scripts/check-docs.mjs",
+    "verify:ci": "npm run repo:check && npm run docs:check && npm run docs:api:check && npm run check && npm test && npm run build && npm run smoke && npm run test:platform",
+    "docs:api:build": "node scripts/build-api-contract.mjs",
+    "docs:api:check": "node scripts/check-api-contract.mjs",
+    "build": "npm run build --workspaces",
+    "build:packages": "npm run build --workspace=@gen-z/domain --workspace=@gen-z/content-schema --workspace=@gen-z/design-tokens",
+    "check": "npm run build:packages && npm run check --workspaces",
+    "test": "npm run build:packages && node --test tests/*.test.mjs apps/marketing/tests/*.test.mjs",
+    "test:marketing": "npm run test --workspace=@gen-z/marketing",
+    "verify:marketing": "npm run verify:browser --workspace=@gen-z/marketing",
+    "smoke": "node scripts/smoke.mjs",
+    "dev:marketing": "npm run build:packages && npm run dev --workspace=@gen-z/marketing",
+    "dev:platform": "npm run build:packages && npm run dev --workspace=@gen-z/platform",
+    "setup:platform": "npm run setup --workspace=@gen-z/platform",
+    "build:platform": "npm run build:packages && npm run build --workspace=@gen-z/platform",
+    "test:platform": "npm run test:integration --workspace=@gen-z/platform",
+    "dev:worker": "npm run build:packages && npm run dev --workspace=@gen-z/operations",
+    "db:up": "npm run db:up --workspace=@gen-z/platform",
+    "db:down": "npm run db:down --workspace=@gen-z/platform"
+  },
+  "devDependencies": {
+    "@types/node": "24.19.2",
+    "ajv": "8.20.0",
+    "ajv-formats": "3.0.1",
+    "typescript": "5.9.3"
+  }
+}

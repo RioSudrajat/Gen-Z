@@ -1,0 +1,17 @@
+**/node_modules
+**/.next
+**/dist
+**/.astro
+**/coverage
+**/test-results
+**/.env
+**/.env.*
+**/*.tsbuildinfo
+**/*.log
+.cache
+.git
+.agents
+.codex
+landing
+motion
+docs

@@ -1,0 +1,13 @@
+> For the complete documentation index, see [llms.txt](https://refihub.gitbook.io/refi-hub/llms.txt). Markdown versions of documentation pages are available by appending `.md` to page URLs; this page is available as [Markdown](https://refihub.gitbook.io/refi-hub/how-refi-hub-works/asset-selection-and-due-diligence.md).
+
+# Asset Selection & Due Diligence
+
+ReFi Hub curates assets against specific criteria through a three-stage review process:
+
+1. Business fundamentals - team credibility, operational history, and jurisdiction
+2. Project analysis - financial projections, equipment specifications, and market benchmarking
+3. Risk assessment - collateral verification, legal enforceability, and ongoing monitoring access
+
+Each project undergoes structured review, independent performance and contract verification, and financial analysis before approval for listing.
+
+[Visit our Due Dilligence framework for more details ](https://resources.refihub.io/blog/rebusiness-due-diligence-framework)

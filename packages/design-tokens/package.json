@@ -1,0 +1,12 @@
+{
+  "name": "@gen-z/design-tokens",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": { "./colors.css": "./src/colors.css" },
+  "files": ["src/colors.css"],
+  "scripts": {
+    "build": "node scripts/check.mjs",
+    "check": "node scripts/check.mjs"
+  }
+}

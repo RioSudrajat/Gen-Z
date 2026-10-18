@@ -1,0 +1,13 @@
+{
+  "name": "@gen-z/operations",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node --env-file-if-exists=.env.local --watch src/index.ts",
+    "build": "tsc -p tsconfig.json",
+    "check": "tsc -p tsconfig.json --noEmit",
+    "start": "node --env-file-if-exists=.env.local dist/index.js"
+  },
+  "dependencies": { "@gen-z/domain": "0.1.0" }
+}

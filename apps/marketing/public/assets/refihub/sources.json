@@ -1,0 +1,11 @@
+{
+  "reference": "https://www.refihub.io/",
+  "capturedOn": "2026-10-14",
+  "purpose": "Local prototype references supplied by the user. Workspace images depict ReFiHub, not live Gen-Z listings or balances.",
+  "assets": [
+    { "file": "review-assets.avif", "source": "https://framerusercontent.com/images/PSz7XgIPCReHld6ovuAD5pyFMj8.png?width=760&height=467", "contentType": "image/avif" },
+    { "file": "project-terms.avif", "source": "https://framerusercontent.com/images/ITOU5Sq3v2DY369aT7TffYscUU.png?width=760&height=467", "contentType": "image/avif" },
+    { "file": "track-payments.avif", "source": "https://framerusercontent.com/images/ufbxRMfGyK7cgnWsjieOKlFIjc.png?width=760&height=467", "contentType": "image/avif" },
+    { "file": "skyline.webp", "source": "https://framerusercontent.com/images/75vAMlpHbHTkKJhxcoas1cDkgqc.png?width=1520&height=704", "contentType": "image/webp" }
+  ]
+}

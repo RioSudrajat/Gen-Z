@@ -1,0 +1,15 @@
+> For the complete documentation index, see [llms.txt](https://refihub.gitbook.io/refi-hub/llms.txt). Markdown versions of documentation pages are available by appending `.md` to page URLs; this page is available as [Markdown](https://refihub.gitbook.io/refi-hub/how-refi-hub-works/where-returns-come-from.md).
+
+# Where returns come from
+
+## The Economic Flow
+
+ReFi Hub follows a simple structure:
+
+1. A solar asset operates and generates electricity
+2. The asset generates revenue through usage
+   * Customers and offtakers pay for that electricity
+   * Revenue streams include Power Purchase Agreements (PPAs), grid tariffs, and Renewable Energy Certificates (RECs)
+3. Revenue is distributed to Token Holders: A predefined percentage of gross revenue flows to Token Holders under contractual terms, typically before operating costs are deducted.
+4. The project company covers operations: Maintenance, energy costs, and operating expenses are managed by the project operator.
+5. Performance is reported transparently: Revenue generation, Yield distributions, and asset performance are reported on-chain.

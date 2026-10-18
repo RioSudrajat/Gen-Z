@@ -1,0 +1,8 @@
+{
+  "status": "illustrative_pre_pilot",
+  "generation": ["Ground-mounted solar", "Rooftop solar", "Wind turbines", "Micro-hydro", "Geothermal", "Biomass or biogas"],
+  "network_and_storage": ["Substation and transformers", "Transmission and distribution", "Battery energy storage", "Smart meters and microgrid controls"],
+  "productive_demand": ["Data centre", "Industrial facilities", "EV charging hubs", "Battery-swap stations", "Electric cars, vans and motorcycles", "Swappable battery packs"],
+  "records_and_wallet": ["Operating evidence", "Contract invoices", "Customer payments", "Project servicing records", "Investor wallet"],
+  "note": "These are illustrative ecosystem categories, not live investment listings. Project principal and income are separate from partner rewards and native-token utility."
+}

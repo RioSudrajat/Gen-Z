@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"/><meta name="viewport" content="width=1920,height=1080"/><title>Gen-Z: Know the shift, motion v2</title>
+<style>
+@font-face{font-family:Display;src:url('./assets/display.woff2')}@font-face{font-family:UI;src:url('./assets/ui.woff2')}
+*{box-sizing:border-box}html,body{margin:0;width:1920px;height:1080px;background:#fff;color:#111827;font-family:UI,Arial,sans-serif}
+#stage{position:relative;width:1920px;height:1080px;overflow:hidden}.scene{position:absolute;inset:0}.brand{position:absolute;left:104px;top:72px;display:flex;align-items:center;gap:15px;font-size:30px}.brand img{width:54px;height:54px;background:#1a1d23;border-radius:11px;padding:8px}
+.headline{position:absolute;left:104px;top:285px;margin:0;font:500 134px/1.05 Display,Arial,sans-serif;letter-spacing:-5px}.line{display:block;overflow:hidden;padding-bottom:12px}.line span{display:block}.teal{color:#0f766e}.next{top:264px;opacity:0}.pulse-network{position:absolute;inset:0}.caption{position:absolute;left:110px;bottom:164px;font-size:32px;color:#4b5563;opacity:0}
+</style></head><body><div id="stage" data-composition-id="genz-intro" data-start="0" data-duration="6" data-fps="30" data-width="1920" data-height="1080"><section id="intro-scene" class="scene clip" data-start="0" data-duration="6" data-track-index="0">
+<div class="brand"><img src="assets/gen-z-symbol.svg" alt=""/>Gen-Z</div>
+<svg id="pulse-network" class="pulse-network" viewBox="0 0 1920 1080" aria-hidden="true"><g fill="none" stroke="#C5E5DD" stroke-width="3"><path d="M-40 770 H310 Q370 770 370 710 V680 Q370 640 420 640 H1510 Q1580 640 1580 580 V190"/><path d="M1580 580 Q1580 770 1740 770 H1960"/><path d="M1580 480 H1740 Q1780 480 1780 440 V260"/></g><path id="power-path" d="M-40 770 H310 Q370 770 370 710 V680 Q370 640 420 640 H1510 Q1580 640 1580 580 V190" fill="none" stroke="#0F766E" stroke-width="5" pathLength="1"/><g fill="#fff" stroke="#0F766E" stroke-width="4"><circle cx="1580" cy="190" r="14"/><circle cx="1780" cy="260" r="14"/><circle cx="1740" cy="770" r="14"/></g><circle id="beam" cx="0" cy="770" r="9" fill="#0f766e"/></svg>
+<h1 id="knowledge" class="headline"><span class="line"><span id="know">Who knows more,</span></span><span class="line"><span id="wins" class="teal">wins the next move.</span></span></h1>
+<h2 id="economy" class="headline next"><span class="line"><span id="next-one">The next economy.</span></span><span class="line"><span id="next-two" class="teal">Runs on electricity.</span></span></h2>
+<p id="caption" class="caption">See the shift. Be ready to lead.</p>
+</section></div><script src="assets/gsap.min.js"></script><script>
+const tl=gsap.timeline({paused:true});
+tl.fromTo('#know',{yPercent:110},{yPercent:0,duration:.46,ease:'power3.out'},.12);
+tl.fromTo('#wins',{yPercent:110},{yPercent:0,duration:.5,ease:'power3.out'},.48);
+tl.fromTo('#power-path',{strokeDasharray:1,strokeDashoffset:1},{strokeDashoffset:0,duration:1.45,ease:'power2.inOut'},.4);
+tl.to('#beam',{x:1900,duration:2.5,ease:'none'},.1);
+tl.to('#knowledge',{y:-70,opacity:0,duration:.35,ease:'power2.in'},2.35);
+tl.set('#economy',{opacity:1},2.55);
+tl.fromTo('#next-one',{yPercent:110},{yPercent:0,duration:.5,ease:'power3.out'},2.6);
+tl.fromTo('#next-two',{yPercent:110},{yPercent:0,duration:.55,ease:'power3.out'},2.92);
+tl.to('#caption',{opacity:1,duration:.4},3.4);
+tl.to('#pulse-network',{x:-25,duration:2},4);
+window.__timelines=window.__timelines||{};window.__timelines['genz-intro']=tl;
+</script></body></html>

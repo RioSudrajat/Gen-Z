@@ -1,0 +1,632 @@
+{
+  "origin": "http://127.0.0.1:4321",
+  "checks": [
+    {
+      "name": "1440x900 stacked → opening → open → reverse, including wheel and late layout refresh",
+      "evidence": {
+        "closed": {
+          "top": 989.5,
+          "traditional": {
+            "x": 301.6,
+            "y": 0,
+            "opacity": 1,
+            "width": 580
+          },
+          "connected": {
+            "x": -301.6,
+            "y": 0,
+            "opacity": 0,
+            "width": 580
+          },
+          "rows": [
+            0,
+            1,
+            1
+          ],
+          "overflow": false
+        },
+        "middle": {
+          "top": 584.5,
+          "traditional": {
+            "x": 157.315,
+            "y": 0,
+            "opacity": 1,
+            "width": 580
+          },
+          "connected": {
+            "x": -157.315,
+            "y": 0,
+            "opacity": 0.4784,
+            "width": 580
+          },
+          "rows": [
+            0.2853,
+            0.0187,
+            1
+          ],
+          "overflow": false
+        },
+        "opened": {
+          "top": 179.5,
+          "traditional": {
+            "x": 0,
+            "y": 0,
+            "opacity": 1,
+            "width": 580
+          },
+          "connected": {
+            "x": 0,
+            "y": 0,
+            "opacity": 1,
+            "width": 580
+          },
+          "rows": [
+            1,
+            1,
+            1
+          ],
+          "overflow": false
+        },
+        "reverse": {
+          "top": 584.5,
+          "traditional": {
+            "x": 157.315,
+            "y": 0,
+            "opacity": 1,
+            "width": 580
+          },
+          "connected": {
+            "x": -157.315,
+            "y": 0,
+            "opacity": 0.4784,
+            "width": 580
+          },
+          "rows": [
+            0.2853,
+            0.0187,
+            0
+          ],
+          "overflow": false
+        },
+        "wheel": {
+          "top": 584.5,
+          "traditional": {
+            "x": 157.315,
+            "y": 0,
+            "opacity": 1,
+            "width": 580
+          },
+          "connected": {
+            "x": -157.315,
+            "y": 0,
+            "opacity": 0.4784,
+            "width": 580
+          },
+          "rows": [
+            0.2853,
+            0.0187,
+            0
+          ],
+          "overflow": false
+        }
+      }
+    },
+    {
+      "name": "1176x1339 stacked → opening → open → reverse, including wheel and late layout refresh",
+      "evidence": {
+        "closed": {
+          "top": 1472.703125,
+          "traditional": {
+            "x": 273.52,
+            "y": 0,
+            "opacity": 1,
+            "width": 526
+          },
+          "connected": {
+            "x": -273.52,
+            "y": 0,
+            "opacity": 0,
+            "width": 526
+          },
+          "rows": [
+            0,
+            1,
+            1
+          ],
+          "overflow": false
+        },
+        "middle": {
+          "top": 870.703125,
+          "traditional": {
+            "x": 142.753,
+            "y": 0,
+            "opacity": 1,
+            "width": 526
+          },
+          "connected": {
+            "x": -142.753,
+            "y": 0,
+            "opacity": 0.4781,
+            "width": 526
+          },
+          "rows": [
+            0.2846,
+            0.018,
+            1
+          ],
+          "overflow": false
+        },
+        "opened": {
+          "top": 267.703125,
+          "traditional": {
+            "x": 0,
+            "y": 0,
+            "opacity": 1,
+            "width": 526
+          },
+          "connected": {
+            "x": 0,
+            "y": 0,
+            "opacity": 1,
+            "width": 526
+          },
+          "rows": [
+            1,
+            1,
+            1
+          ],
+          "overflow": false
+        },
+        "reverse": {
+          "top": 870.703125,
+          "traditional": {
+            "x": 142.753,
+            "y": 0,
+            "opacity": 1,
+            "width": 526
+          },
+          "connected": {
+            "x": -142.753,
+            "y": 0,
+            "opacity": 0.4781,
+            "width": 526
+          },
+          "rows": [
+            0.2846,
+            0.018,
+            0
+          ],
+          "overflow": false
+        },
+        "wheel": {
+          "top": 869.703125,
+          "traditional": {
+            "x": 142.328,
+            "y": 0,
+            "opacity": 1,
+            "width": 526
+          },
+          "connected": {
+            "x": -142.328,
+            "y": 0,
+            "opacity": 0.4796,
+            "width": 526
+          },
+          "rows": [
+            0.2881,
+            0.0214,
+            0
+          ],
+          "overflow": false
+        }
+      }
+    },
+    {
+      "name": "768x1024 stacked → opening → open → reverse, including wheel and late layout refresh",
+      "evidence": {
+        "closed": {
+          "top": 1126.765625,
+          "traditional": {
+            "x": 177.84,
+            "y": 0,
+            "opacity": 1,
+            "width": 341.9999694824219
+          },
+          "connected": {
+            "x": -177.84,
+            "y": 0,
+            "opacity": 0,
+            "width": 342.0000305175781
+          },
+          "rows": [
+            0,
+            1,
+            1
+          ],
+          "overflow": false
+        },
+        "middle": {
+          "top": 665.765625,
+          "traditional": {
+            "x": 92.9491,
+            "y": 0,
+            "opacity": 1,
+            "width": 342
+          },
+          "connected": {
+            "x": -92.9491,
+            "y": 0,
+            "opacity": 0.4773,
+            "width": 342
+          },
+          "rows": [
+            0.283,
+            0.0163,
+            1
+          ],
+          "overflow": false
+        },
+        "opened": {
+          "top": 204.765625,
+          "traditional": {
+            "x": 0,
+            "y": 0,
+            "opacity": 1,
+            "width": 342
+          },
+          "connected": {
+            "x": 0,
+            "y": 0,
+            "opacity": 1,
+            "width": 342
+          },
+          "rows": [
+            1,
+            1,
+            1
+          ],
+          "overflow": false
+        },
+        "reverse": {
+          "top": 665.765625,
+          "traditional": {
+            "x": 92.9491,
+            "y": 0,
+            "opacity": 1,
+            "width": 342
+          },
+          "connected": {
+            "x": -92.9491,
+            "y": 0,
+            "opacity": 0.4773,
+            "width": 342
+          },
+          "rows": [
+            0.283,
+            0.0163,
+            0
+          ],
+          "overflow": false
+        },
+        "wheel": {
+          "top": 665.765625,
+          "traditional": {
+            "x": 92.9491,
+            "y": 0,
+            "opacity": 1,
+            "width": 342
+          },
+          "connected": {
+            "x": -92.9491,
+            "y": 0,
+            "opacity": 0.4773,
+            "width": 342
+          },
+          "rows": [
+            0.283,
+            0.0163,
+            0
+          ],
+          "overflow": false
+        }
+      }
+    },
+    {
+      "name": "deep-link stacked → opening → open → reverse, including wheel and late layout refresh",
+      "evidence": {
+        "closed": {
+          "top": 1126.765625,
+          "traditional": {
+            "x": 177.84,
+            "y": 0,
+            "opacity": 1,
+            "width": 341.9999694824219
+          },
+          "connected": {
+            "x": -177.84,
+            "y": 0,
+            "opacity": 0,
+            "width": 342.0000305175781
+          },
+          "rows": [
+            0,
+            1,
+            1
+          ],
+          "overflow": false
+        },
+        "middle": {
+          "top": 665.765625,
+          "traditional": {
+            "x": 92.9491,
+            "y": 0,
+            "opacity": 1,
+            "width": 342
+          },
+          "connected": {
+            "x": -92.9491,
+            "y": 0,
+            "opacity": 0.4773,
+            "width": 342
+          },
+          "rows": [
+            0.283,
+            0.0163,
+            1
+          ],
+          "overflow": false
+        },
+        "opened": {
+          "top": 204.765625,
+          "traditional": {
+            "x": 0,
+            "y": 0,
+            "opacity": 1,
+            "width": 342
+          },
+          "connected": {
+            "x": 0,
+            "y": 0,
+            "opacity": 1,
+            "width": 342
+          },
+          "rows": [
+            1,
+            1,
+            1
+          ],
+          "overflow": false
+        },
+        "reverse": {
+          "top": 665.765625,
+          "traditional": {
+            "x": 92.9491,
+            "y": 0,
+            "opacity": 1,
+            "width": 342
+          },
+          "connected": {
+            "x": -92.9491,
+            "y": 0,
+            "opacity": 0.4773,
+            "width": 342
+          },
+          "rows": [
+            0.283,
+            0.0163,
+            0
+          ],
+          "overflow": false
+        },
+        "wheel": {
+          "top": 665.765625,
+          "traditional": {
+            "x": 92.9491,
+            "y": 0,
+            "opacity": 1,
+            "width": 342
+          },
+          "connected": {
+            "x": -92.9491,
+            "y": 0,
+            "opacity": 0.4773,
+            "width": 342
+          },
+          "rows": [
+            0.283,
+            0.0163,
+            0
+          ],
+          "overflow": false
+        }
+      }
+    },
+    {
+      "name": "live reduced-motion change restores readable static panels",
+      "evidence": {
+        "top": 204.53125,
+        "traditional": {
+          "x": 0,
+          "y": 0,
+          "opacity": 1,
+          "width": 342
+        },
+        "connected": {
+          "x": 0,
+          "y": 0,
+          "opacity": 1,
+          "width": 342
+        },
+        "rows": [
+          1,
+          1,
+          1
+        ],
+        "overflow": false
+      }
+    },
+    {
+      "name": "mobile 390 vertical reveal and readable panels",
+      "evidence": {
+        "top": -428.375,
+        "traditional": {
+          "x": 0,
+          "y": 0.0001,
+          "opacity": 1,
+          "width": 350
+        },
+        "connected": {
+          "x": 0,
+          "y": 0.0001,
+          "opacity": 1,
+          "width": 350
+        },
+        "rows": [
+          1,
+          1,
+          1
+        ],
+        "overflow": false
+      }
+    },
+    {
+      "name": "mobile 320 vertical reveal and readable panels",
+      "evidence": {
+        "top": -522.078125,
+        "traditional": {
+          "x": 0,
+          "y": 0.0001,
+          "opacity": 1,
+          "width": 280
+        },
+        "connected": {
+          "x": 0,
+          "y": 0.0001,
+          "opacity": 1,
+          "width": 280
+        },
+        "rows": [
+          1,
+          1,
+          1
+        ],
+        "overflow": false
+      }
+    },
+    {
+      "name": "resize-mobile-to-desktop stacked → opening → open → reverse, including wheel and late layout refresh",
+      "evidence": {
+        "closed": {
+          "top": 989.5,
+          "traditional": {
+            "x": 301.6,
+            "y": 0,
+            "opacity": 1,
+            "width": 580
+          },
+          "connected": {
+            "x": -301.6,
+            "y": 0,
+            "opacity": 0,
+            "width": 580
+          },
+          "rows": [
+            0,
+            1,
+            1
+          ],
+          "overflow": false
+        },
+        "middle": {
+          "top": 584.5,
+          "traditional": {
+            "x": 157.315,
+            "y": 0,
+            "opacity": 1,
+            "width": 580
+          },
+          "connected": {
+            "x": -157.315,
+            "y": 0,
+            "opacity": 0.4784,
+            "width": 580
+          },
+          "rows": [
+            0.2853,
+            0.0187,
+            1
+          ],
+          "overflow": false
+        },
+        "opened": {
+          "top": 179.5,
+          "traditional": {
+            "x": 0,
+            "y": 0,
+            "opacity": 1,
+            "width": 580
+          },
+          "connected": {
+            "x": 0,
+            "y": 0,
+            "opacity": 1,
+            "width": 580
+          },
+          "rows": [
+            1,
+            1,
+            1
+          ],
+          "overflow": false
+        },
+        "reverse": {
+          "top": 584.5,
+          "traditional": {
+            "x": 157.315,
+            "y": 0,
+            "opacity": 1,
+            "width": 580
+          },
+          "connected": {
+            "x": -157.315,
+            "y": 0,
+            "opacity": 0.4784,
+            "width": 580
+          },
+          "rows": [
+            0.2853,
+            0.0187,
+            0
+          ],
+          "overflow": false
+        },
+        "wheel": {
+          "top": 584.5,
+          "traditional": {
+            "x": 157.315,
+            "y": 0,
+            "opacity": 1,
+            "width": 580
+          },
+          "connected": {
+            "x": -157.315,
+            "y": 0,
+            "opacity": 0.4784,
+            "width": 580
+          },
+          "rows": [
+            0.2853,
+            0.0187,
+            0
+          ],
+          "overflow": false
+        }
+      }
+    },
+    {
+      "name": "no runtime or hydration errors",
+      "evidence": []
+    }
+  ],
+  "errors": []
+}
