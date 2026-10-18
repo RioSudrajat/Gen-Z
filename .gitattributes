@@ -11,3 +11,7 @@
 *.mp3 binary
 *.woff2 binary
 *.pdf binary
+
+# Migration fixtures verify the original bytes, including line endings.
+apps/marketing/public/assets/gen-z-symbol.svg -text
+apps/marketing/src/pages/robots.txt.ts -text
