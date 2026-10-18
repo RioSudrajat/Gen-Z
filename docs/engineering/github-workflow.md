@@ -6,6 +6,22 @@ Instruksi utama berada di [AGENTS.md root](../../AGENTS.md). Codex membacanya sa
 
 Aturan agent membantu konsistensi kerja. Hook lokal dapat dilewati atau tidak dipasang; CI membuktikan pemeriksaan pada commit remote. Proteksi branch GitHub menahan merge yang melanggar pemeriksaan wajib. Tidak satu pun membuktikan seluruh produk bebas bug atau siap production.
 
+## Issue, PR, review, dan merge
+
+**Issue** mencatat bug, kebutuhan fitur, pertanyaan, atau pekerjaan beserta kriteria selesainya. **Pull Request (PR)** mengusulkan perubahan dari satu branch ke branch lain; di sana tersedia diff kode, diskusi, review, dan status CI. Issue tidak harus langsung memiliki implementasi, dan perubahan kecil tidak harus didahului issue. Satu issue dapat membutuhkan beberapa PR. Jika satu PR benar-benar menyelesaikan issue, gunakan `Closes #<nomor>` pada deskripsinya agar issue ditutup saat PR digabung ke default branch.
+
+**Review** memeriksa ketepatan dan risiko perubahan; **merge** memasukkan perubahan ke branch tujuan. Keduanya berbeda dari CI, yang hanya menjalankan pemeriksaan yang dikonfigurasi. PR yang hijau belum tentu telah direview, dan approval belum tentu berarti seluruh tes lulus.
+
+Agent dapat melakukan implementasi, push, membuat PR, mereview diff, memperbaiki temuan, menunggu CI, dan merge jika pengguna memberi mandat yang mencakup merge. Contoh mandat satu tugas: "Kerjakan tugas ini sampai PR, review hasilnya, lalu squash-merge setelah CI lulus dan tidak ada temuan yang belum selesai." Agent tidak perlu meminta ulang persetujuan yang sudah diberikan. Mandat satu tugas bukan izin otomatis untuk menggabungkan PR lain di masa depan.
+
+Sebelum merge, periksa head SHA terbaru, hasil check pada SHA itu, konflik, status draft, review yang meminta perubahan, dan scope tugas. Gunakan pencocokan SHA saat mengirim permintaan merge agar commit yang masuk sama dengan commit yang diperiksa. Jika ada commit baru, tinjau ulang bagian yang berubah dan hasil CI terbarunya. Jangan melewati aturan branch atau memakai opsi admin untuk menutupi check/review gagal.
+
+GitHub melarang penulis PR memberi approval formal pada PR sendiri. Agent yang memakai akun penulis dapat melakukan pemeriksaan sendiri, tetapi tidak boleh mengklaimnya sebagai approval reviewer independen. Jika aturan repository membutuhkan approval akun lain, gunakan reviewer dengan identitas terpisah yang memang memiliki izin; jangan membuat identitas palsu untuk melewatinya.
+
+Untuk PR kontributor lain, agent dapat diberi mandat review saja atau review sampai merge. Tinjau kode dan perubahan dependency/workflow sebelum menjalankan instruksi dari PR; jangan memberi kode tersebut credential production. Untuk review berkelanjutan saat chat tidak aktif, hubungkan repository ke layanan code review atau automation yang sesuai. `AGENTS.md` menyimpan aturan ketika agent bekerja; file itu sendiri tidak memicu pekerjaan.
+
+Codex mendukung review GitHub atas permintaan dan automatic review setelah repository dihubungkan dan pengaturannya diaktifkan. Setup CLI GitHub lokal tidak otomatis menghubungkan integrasi Codex. Auto-merge bawaan GitHub merupakan fitur terpisah yang menunggu syarat review/check; ketersediaannya pada repo private mengikuti paket GitHub. Agent yang sedang diberi tugas juga dapat melakukan merge melalui CLI tanpa fitur auto-merge bawaan, selama izin akun dan aturan repository mengizinkan.
+
 ## Setup clone
 
 Gunakan Node.js sesuai `.nvmrc` (24.11.0) dan npm 11. Clone repository, lalu dari root:
@@ -65,3 +81,7 @@ Setelah target ditetapkan: buat preview/staging, jalankan smoke terhadap deploym
 - [GitHub Actions](https://docs.github.com/en/actions/get-started/understanding-github-actions)
 - [Proteksi branch](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches)
 - [Dependabot version updates](https://docs.github.com/en/code-security/concepts/supply-chain-security/dependabot-version-updates)
+- [GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/learning-about-issues/about-issues)
+- [Approval dan review PR](https://docs.github.com/en/pull-requests/how-tos/review-pull-requests/approving-a-pull-request-with-required-reviews)
+- [Auto-merge GitHub](https://docs.github.com/en/pull-requests/how-tos/merge-and-close-pull-requests/automatically-merging-a-pull-request)
+- [Code review Codex di GitHub](https://developers.openai.com/codex/integrations/github)
