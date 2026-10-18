@@ -14,4 +14,3 @@
 
 # Migration fixtures verify the original bytes, including line endings.
 apps/marketing/public/assets/gen-z-symbol.svg -text
-apps/marketing/src/pages/robots.txt.ts -text
