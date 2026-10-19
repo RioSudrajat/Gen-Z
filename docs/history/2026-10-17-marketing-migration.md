@@ -40,14 +40,16 @@ Copy audience yang sebelumnya disetujui sebagai referensi dipertahankan. Preserv
 
 ## Bukti verifikasi
 
+Log `*.log` di `apps/marketing/qa/` adalah artefak lokal dari sesi verifikasi asal dan tidak ikut Git. Nama log di bawah mencatat lokasi bukti saat laporan dibuat; file tersebut tidak tersedia pada clone baru. Tautan JSON dan gambar mengarah ke bukti yang disimpan di repository. Hasil historis ini bukan hasil pengujian ulang CI saat ini.
+
 | Pemeriksaan | Bukti |
 |---|---|
-| Type-check npm workspaces | [workspace-check.log](../../apps/marketing/qa/workspace-check.log), marketing 0 error/warning/hint; packages, scaffold platform dan worker ikut diperiksa |
-| Build npm workspaces | [workspace-build.log](../../apps/marketing/qa/workspace-build.log); build marketing terbaru ada di [build.log](../../apps/marketing/qa/build.log) |
-| Unit dan boundary | [unit-tests.log](../../apps/marketing/qa/unit-tests.log), 12 test; meliputi domain editorial existing, URI safety, inquiry failure/receipt, asset hash dan lifecycle motion |
-| Browser produksi | [browser-verification.json](../../apps/marketing/qa/browser-verification.json) dan [browser-run.log](../../apps/marketing/qa/browser-run.log), 63 pemeriksaan lulus, termasuk nol respons aset gagal pada pemuatan normal dan font audience terdaftar |
-| HTTP smoke | [smoke.log](../../apps/marketing/qa/smoke.log), public HTML/contact/handoff serta batas platform/API/worker |
-| Font derivation | [font-subsets.log](../../apps/marketing/qa/font-subsets.log), enam font dengan glyph metrics identik |
+| Type-check npm workspaces | Log lokal `workspace-check.log`, marketing 0 error/warning/hint; packages, scaffold platform dan worker ikut diperiksa |
+| Build npm workspaces | Log lokal `workspace-build.log`; build marketing terakhir pada sesi asal di `build.log` |
+| Unit dan boundary | Log lokal `unit-tests.log`, 12 test; meliputi domain editorial existing, URI safety, inquiry failure/receipt, asset hash dan lifecycle motion |
+| Browser produksi | [browser-verification.json](../../apps/marketing/qa/browser-verification.json) dan log lokal `browser-run.log`, 63 pemeriksaan lulus, termasuk nol respons aset gagal pada pemuatan normal dan font audience terdaftar |
+| HTTP smoke | Log lokal `smoke.log`, public HTML/contact/handoff serta batas platform/API/worker |
+| Font derivation | Log lokal `font-subsets.log`, enam font dengan glyph metrics identik |
 | Kontras tambahan | [contrast.json](../../apps/marketing/qa/contrast.json): body 17,74:1, muted 7,56:1, teal 5,47:1, dimmed stack 5,52:1 pada putih, CTA 10,95:1; computed text/ancestor opacity dan screenshot diperiksa untuk melengkapi incomplete axe |
 | Visual | [hero desktop](../../apps/marketing/qa/hero-desktop.png), [hero mobile](../../apps/marketing/qa/hero-mobile.png), [operator mobile](../../apps/marketing/qa/operator-mobile.png), screenshot penuh tiap viewport di `apps/marketing/qa/` |
 | Lighthouse mobile | [hasil Astro](../../apps/marketing/qa/lighthouse-mobile.json), [baseline produksi Vite](../../apps/marketing/qa/lighthouse-legacy-production-mobile.json); angka lab, bukan SLA atau hasil pengguna lapangan |
