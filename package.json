@@ -36,7 +36,13 @@
     "db:up": "npm run db:up --workspace=@gen-z/platform",
     "db:down": "npm run db:down --workspace=@gen-z/platform"
   },
+  "overrides": {
+    "@esbuild-kit/core-utils": {
+      "esbuild": "0.25.12"
+    }
+  },
   "devDependencies": {
+    "@esbuild-kit/core-utils": "3.3.2",
     "@types/node": "24.19.2",
     "ajv": "8.20.0",
     "ajv-formats": "3.0.1",
