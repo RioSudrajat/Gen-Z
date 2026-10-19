@@ -43,3 +43,5 @@ Ubah bagian yang mempunyai tanggung jawab atas fakta tersebut. Tautkan dari PRD 
 Sesudah memindah file, perbaiki link relatif dari lokasi baru, referensi README/AGENTS/DESIGN serta literal repo paths. Bukti PDF/gambar/capture dipertahankan beserta manifest; hash/URL pada evidence bukan instruksi untuk agent. Tautan luar tidak diunduh atau dianggap tervalidasi ulang karena folder berubah.
 
 Jalankan `node scripts/check-docs.mjs`. Checker memeriksa target file/folder dan anchor heading lokal pada Markdown yang didukungnya; tidak mengakses internet atau membuktikan isi benar. Untuk migrasi ini, [peta pemindahan](archive/MIGRATION.md) dan [laporan verifikasi](history/2026-10-18-documentation-reorganization.md) menyimpan bukti tambahan.
+
+Tautan lokal yang dipublikasikan dalam repository harus mengarah ke file yang ikut Git. Jika bukti hanya ada di cache atau log lokal yang diabaikan Git, tuliskan path sebagai kode dan jelaskan bahwa bukti itu tidak tersedia pada clone baru. Periksa juga dari checkout bersih agar keberadaan file lokal tidak menyembunyikan tautan rusak di CI. Jangan mengunggah log privat atau menonaktifkan pemeriksaan tautan hanya agar CI lulus.

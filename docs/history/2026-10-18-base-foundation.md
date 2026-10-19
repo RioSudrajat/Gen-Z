@@ -55,7 +55,7 @@ Story yang diuji: `/auth` → provider EVM → SIWE challenge API → signature 
 
 Turbopack lokal gagal menjalankan worker CSS, termasuk saat diulang di luar sandbox. Script build/dev kini memakai `--webpack`, flag resmi Next.js yang tersedia pada dokumentasi versi terpasang. Warning nonfatal dependency dinamis `ox/tempo` muncul dari `viem/chains`; aplikasi tidak mengintegrasikan Tempo. Tidak mengganti framework atau menambal dependency upstream. Kombinasi `ssr:true` dengan `storage:null` juga memicu hydration error pada wagmi terpasang; `createStorage({storage:noopStorage})` menjaga hydration dan tidak mempersistensikan sesi browser. Kedua masalah sudah diperbaiki pada jalur yang diuji.
 
-Artefak visual: [login mobile](../../.cache/platform-verification/wallet-auth-mobile.png), [session desktop](../../.cache/platform-verification/wallet-session-desktop.png). Provider uji hanya ada di test harness, tidak dikirim dalam production source. Belum dilakukan: konfirmasi wallet extension vendor nyata, test contract-account melalui RPC/live EVM, contract test/deploy, konversi atau transaksi dana.
+Artefak visual pada sesi asal tersimpan lokal di `.cache/platform-verification/wallet-auth-mobile.png` dan `.cache/platform-verification/wallet-session-desktop.png`. Folder cache tidak ikut Git, sehingga gambar ini tidak tersedia pada clone baru. Provider uji hanya ada di test harness, tidak dikirim dalam production source. Belum dilakukan: konfirmasi wallet extension vendor nyata, test contract-account melalui RPC/live EVM, contract test/deploy, konversi atau transaksi dana.
 
 ## React dan Delivery Gate antislop
 
