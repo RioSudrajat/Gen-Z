@@ -1,6 +1,6 @@
 # Tiga opsi desain Contact Gen-Z
 
-Eksplorasi 20 Oktober 2026, Asia/Jakarta. Permintaan founder: tiga alternatif Contact yang lebih profesional dan aesthetic, mengikuti kebutuhan data, dengan rekomendasi agent. **Belum ada pilihan founder atau implementasi halaman baru.** Antislop `during` dipilih untuk sesi ini; preferensi global tidak diubah.
+Eksplorasi 20 Oktober 2026, Asia/Jakarta. Permintaan founder: tiga alternatif Contact yang lebih profesional dan aesthetic, mengikuti kebutuhan data, dengan rekomendasi agent. **[F] Founder memilih Guided Inquiry dan meminta implementasi pada 20 Oktober 2026.** Source frontend sekarang memakai pilihan tersebut; [QA implementasi](../../design-qa.md) memisahkan bukti dari batas backend. Antislop `during` dipilih untuk sesi ini; preferensi global tidak diubah.
 
 ## Brief dan batas
 
@@ -42,7 +42,7 @@ Nomor mengikuti urutan tiga hasil Image Gen yang ditampilkan pada percakapan. Se
 | 2 | [Guided Inquiry](references/contact-2026-10-20/guided-inquiry.png) | Tiga tahap: Your details → Asset & financing → Review inquiry. Mockup menampilkan tahap kedua | Perlu state, Back, focus dan validasi antar-tahap yang benar; jumlah klik lebih banyak |
 | 3 | [Role-led Workspace](references/contact-2026-10-20/role-led-workspace.png) | Pilihan jenis pengaju dominan; kelompok form dapat dibuka langsung dalam satu halaman | Fleksibel untuk pengaju berulang, tetapi accordion dan pergantian kategori menambah state serta potensi kebingungan |
 
-**Rekomendasi [R]: Guided Inquiry.** Kontak, konteks aset dan review merupakan tiga kelompok nyata. Pemisahan membuat jumlah data lebih mudah dipahami tanpa menambah pertanyaan. Rekomendasi belum teruji sebagai peningkatan completion rate dan bukan pilihan founder. Open Brief menjadi alternatif jika discovery membuktikan pengaju lebih menyukai melihat semua pertanyaan sekaligus.
+**Pilihan founder [F]: Guided Inquiry**, mengikuti rekomendasi agent. Kontak, konteks aset dan review merupakan tiga kelompok nyata. Pemisahan membuat jumlah data lebih mudah dipahami tanpa menambah pertanyaan. Dampak terhadap completion rate belum diukur. Open Brief tetap rekaman alternatif eksplorasi, bukan alur aktif kedua.
 
 ## Kesetaraan data
 

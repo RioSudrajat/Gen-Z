@@ -87,4 +87,6 @@ CMS, conversion/payout/refund provider, kontrak produksi dan mandat custody belu
 
 Inspeksi source 18 Oktober: marketing Astro, satu platform Next.js, SIWE Base Sepolia, sesi PostgreSQL dan Drizzle tersedia. Resource authorization, inquiry persisten/outbox, offering/editorial publication, investment lifecycle dan worker handlers belum dibuat. [Roadmap](ROADMAP.md) membedakan fondasi tersedia dari milestone target; [Testing](TESTING.md) menetapkan bukti kelulusan.
 
+Pembaruan 20 Oktober: [Contact Guided Inquiry](history/2026-10-20-guided-contact.md) menyediakan alur frontend tiga tahap sesuai pilihan founder. Policy/intake backend, inquiry persistence dan email belum tersedia; uji transport menggunakan fixture sintetis, bukan penerimaan inquiry live.
+
 Alasan teknis ada di [ADR](adr/README.md); keputusan produk di [register](product/decisions.md); riwayat lengkap di [PRD arsip](archive/prd-2026-10-18.md). PRD ini tidak menggantikan hasil uji atau legal review.

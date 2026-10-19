@@ -4,5 +4,5 @@ import { site } from '../../config/site';
 <a class="skip-link" href="#entry-main">Skip to content</a>
 <header class="entry-header">
   <a class="entry-brand" href="/" aria-label="Gen-Z home"><img src="/assets/gen-z-symbol.svg" width="32" height="32" alt="" /><span>Gen-Z</span></a>
-  <nav aria-label="Page navigation"><a href="/#why">Our purpose</a><a href="/contact/">Contact Gen-Z</a><a class="launch-button" href={site.platformAuthUrl}>Launch app</a></nav>
+  <nav aria-label="Page navigation"><a href="/#why">Our purpose</a><a href="/contact/" aria-current={Astro.url.pathname === '/contact/' ? 'page' : undefined}>Contact Gen-Z</a><a class="launch-button" href={site.platformAuthUrl}>Launch app</a></nav>
 </header>
