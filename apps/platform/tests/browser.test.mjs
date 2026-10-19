@@ -375,6 +375,7 @@ test("wallet modal, light-only theme, keyboard and mobile states work without em
     await page.keyboard.press("Tab");
     assert.equal(await page.locator(":focus").innerText(), "Skip to content");
     await page.keyboard.press("Enter");
+    await page.waitForURL(`${origin}/auth#main-content`);
     assert.equal(new URL(page.url()).hash, "#main-content");
     await page.goto(`${origin}/app/assets`);
     await page.waitForURL(`${origin}/auth`);
