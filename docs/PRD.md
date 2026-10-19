@@ -64,6 +64,8 @@ Investor: marketing → proof wallet/sesi → Assets/tujuh tab → terms, bukti 
 
 Operator: contact → inquiry server + referensi → notifikasi → assisted screening → bukti sensitif melalui kanal privat → review proyek/publikasi.
 
+Penjelasan proses dan rekomendasi prioritas workspace internal versus portal mitra terbatas: [pengajuan dan onboarding mitra](product/partner-onboarding.md). Rincian rekomendasi tidak memperluas scope MVP.
+
 - Login membuktikan kontrol wallet; grant admin, kewenangan institusi dan eligibility ditetapkan terpisah di server.
 - Input confirmed belum berarti net settlement; allocation menunggu net settlement dan closing sesuai terms.
 - Produksi, invoice, kas diterima dan distribusi merupakan catatan berbeda. Forecast/telemetry tidak membuat claimable balance.

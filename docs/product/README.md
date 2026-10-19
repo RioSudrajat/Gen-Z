@@ -7,6 +7,7 @@
 | [Requirements](requirements.md) | 22 stories dan acceptance M01–M17 beserta prioritas fase |
 | [Finance](finance.md) | Model hak, distribusi, gross/net, contoh sintetis dan settlement |
 | [Strategy](strategy.md) | Vision, persona hipotesis, pricing/model bisnis dan GTM |
+| [Partner onboarding](partner-onboarding.md) | Contact, assisted screening, pencatatan internal dan pemicu portal mitra terbatas |
 | [Metrics](metrics.md) | Definisi ukuran pre-pilot/live; bukan hasil aktual |
 | [Decisions](decisions.md) | Register keputusan founder, rekomendasi dan dependency asal |
 | [Risks and dependencies](risks-and-dependencies.md) | Risiko aktif, blocker teknis/live dan tindak lanjut |
