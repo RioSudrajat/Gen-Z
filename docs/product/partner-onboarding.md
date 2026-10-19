@@ -76,4 +76,4 @@ Inspeksi source 20 Oktober 2026: form memiliki jalur menyiapkan/copy/download pe
 
 Urutan yang direkomendasikan: selaraskan kebutuhan form dan payload → penyimpanan inquiry serta referensi → notifikasi yang dapat dicoba ulang → pencatatan screening internal → validasi workflow dengan calon mitra → evaluasi kebutuhan portal terbatas. Urutan ini tidak mengubah scope investasi atau mengotorisasi deploy/live funding.
 
-Permintaan founder untuk tiga alternatif desain Contact dicatat sebagai pekerjaan eksplorasi tersendiri. Pilihan visual dan implementasi halaman menunggu eksplorasi serta pemilihan; dokumen ini tidak menetapkan desain pemenang.
+Permintaan founder untuk tiga alternatif desain Contact ditindaklanjuti pada [eksplorasi Contact](../design/contact-options.md). Tiga mockup dan rekomendasi tersedia; pilihan founder serta implementasi halaman masih menunggu. Dokumen ini tidak menetapkan desain pemenang.

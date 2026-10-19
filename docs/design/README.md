@@ -9,6 +9,7 @@ Arah visual utama ada di [DESIGN](../../DESIGN.md). Folder ini menyimpan referen
 | Purpose/persona | [Purpose options](purpose-options.md), [Who we serve options](audience-options.md) |
 | Hero | [Storyboard](hero-storyboard.md) |
 | Thesis | [Section options](thesis-options.md), [motion v1](thesis-motion.md), [motion v2](thesis-motion-v2.md) |
+| Contact | [Tiga opsi Contact](contact-options.md), pemetaan data, rekomendasi dan batas mockup |
 | Bukti visual | [References/captures](references/) |
 
 Rencana historis dapat merujuk stack sebelum migrasi. Implementasi aktif mengikuti codebase dan [Architecture](../ARCHITECTURE.md); scope mengikuti [PRD](../PRD.md).
