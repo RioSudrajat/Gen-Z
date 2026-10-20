@@ -35,32 +35,7 @@ function AudiencePhoto({ source, label, alt }) {
 }
 
 export function EcosystemRoles({ images }) {
-  const root = useRef(null);
-  useEffect(() => {
-    let alive = true;
-    const observer = new IntersectionObserver(([entry]) => {
-      if (!entry?.isIntersecting) return;
-      observer.disconnect();
-      import('../../styles/audience-fonts.css?inline').then(async ({ default:css }) => {
-        if (!document.getElementById('genz-audience-fonts')) {
-          const style = document.createElement('style');
-          style.id = 'genz-audience-fonts';
-          style.textContent = css;
-          document.head.append(style);
-        }
-        await Promise.all([
-          document.fonts.load('600 36px "Serve Sora"'),
-          document.fonts.load('400 18px "Serve Geist"'),
-          document.fonts.load('600 14px "Serve Geist"'),
-        ]);
-      }).then(() => {
-        if (alive) window.dispatchEvent(new Event('genz:layout-ready'));
-      }).catch(() => {});
-    }, { rootMargin:'1000px' });
-    observer.observe(root.current);
-    return () => { alive = false; observer.disconnect(); };
-  }, []);
-  return <div className="serve-audiences" ref={root}>
+  return <div className="serve-audiences">
     <article id="ecosystem-operator" className="serve-row serve-operator" aria-labelledby="serve-operator-title">
       <AudiencePhoto source={images.operator} label="Asset Operators" alt="Energy asset operator inspecting solar infrastructure" />
       <div className="serve-copy">

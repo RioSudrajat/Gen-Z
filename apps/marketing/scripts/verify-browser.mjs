@@ -7,7 +7,7 @@ import { AxePuppeteer } from '@axe-core/puppeteer';
 
 const origin = process.env.MARKETING_ORIGIN || 'http://127.0.0.1:4321';
 const configured = process.env.CONFIGURED_MARKETING_ORIGIN;
-const output = new URL('../qa/', import.meta.url);
+const output = new URL(process.env.MARKETING_QA_ROOT || '../qa/', import.meta.url);
 await mkdir(output, { recursive:true });
 const checks = [];
 const consoleErrors = [];
@@ -25,7 +25,7 @@ const page = await browser.newPage();
 page.on('pageerror', error => runtimeErrors.push(error.message));
 page.on('console', message => { if (message.type() === 'error') consoleErrors.push(message.text()); });
 page.on('response', response => { if (response.status() >= 400) failedResponses.push({ url:response.url(), status:response.status() }); });
-const expectedSections = ['top','energy-context','why','ecosystem','assets','opportunities','stack','evidence','platform','comparison','connect'];
+const expectedSections = ['top','energy-context','why','ecosystem','assets','opportunities','stack','evidence','platform','comparison','insights','connect'];
 
 async function load(path = '/', base = origin) {
   await page.goto(base + path, { waitUntil:'networkidle0' });
@@ -34,7 +34,12 @@ async function load(path = '/', base = origin) {
   if (path.startsWith('/contact')) await page.waitForFunction(() => !document.querySelector('fieldset')?.disabled);
 }
 async function click(selector) {
-  await page.$eval(selector, element => element.scrollIntoView({ block:'center', behavior:'instant' }));
+  await page.$eval(selector, element => {
+    const box = element.getBoundingClientRect();
+    if (box.top < 0 || box.bottom > innerHeight || box.left < 0 || box.right > innerWidth) {
+      element.scrollIntoView({ block:'center', behavior:'instant' });
+    }
+  });
   await page.waitForFunction(selector => !document.querySelector(selector)?.closest('astro-island')?.hasAttribute('ssr'), {}, selector);
   await page.click(selector);
   await delay(90);
@@ -52,7 +57,7 @@ async function revealAll() {
   }
   await page.waitForFunction(() => [...document.images].every(image => image.complete && image.naturalWidth > 0));
   await page.evaluate(() => document.fonts.ready);
-  await page.waitForFunction(() => document.fonts.check('600 36px "Serve Sora"') && document.fonts.check('400 18px "Serve Geist"'));
+  await page.waitForFunction(() => document.fonts.check('500 36px "GenZ Display"') && document.fonts.check('500 18px "GenZ UI"'));
   await page.evaluate(() => window.scrollTo({ top:0, behavior:'instant' }));
   await delay(200);
 }
@@ -76,10 +81,10 @@ try {
   pass('Latin subset avoids duplicate font downloads and the full font remains available for extended characters', 'fallback loaded only by the synthetic extended-character probe');
   await revealAll();
   assert.deepEqual(failedResponses, [], 'no normal production asset may return an error');
-  pass('all initial production resources and audience fonts load', 'no 4xx/5xx; Serve Sora and Serve Geist registered');
+  pass('all initial production resources and Gen-Z fonts load', 'no 4xx/5xx; GenZ Display and GenZ UI registered');
   assert.deepEqual(await page.$$eval('main>section', sections => sections.map(section => section.id)), expectedSections);
   assert.equal(await page.$$eval('h1', elements => elements.length), 1);
-  pass('all eleven sections and the original title survive Astro rendering', await page.title());
+  pass('all twelve sections and the original title survive Astro rendering', await page.title());
   await overflow('Desktop 1440');
   await audit('desktop reduced motion');
   await page.screenshot({ path:fileURLToPath(new URL('desktop.png', output)), fullPage:true });
@@ -156,11 +161,13 @@ try {
     assert.equal(await page.$eval('.stack-label-' + id, element => element.getAttribute('aria-pressed')), 'true');
     pass('stack keyboard selection ' + id, 'label is selected');
   }
-  for (let index = 1; index <= 2; index++) {
-    await click(`.thesis-details:nth-of-type(${index}) summary`);
-    assert.equal(await page.$eval(`.thesis-details:nth-of-type(${index})`, element => element.open), true);
-    pass('energy thesis disclosure ' + index, 'sources/transcript or data table opens');
-  }
+  await click('.thesis-reading-link a');
+  await page.waitForSelector('#film-transcript');
+  assert.equal(await page.$$eval('#source-data tbody tr', rows => rows.length), 7);
+  assert.ok(await page.$('.insight-toc a[href="#film-transcript"]'));
+  await overflow('Energy outlook article'); await audit('energy outlook article');
+  pass('energy film links to its descriptive transcript, seven-economy data table and sources', await page.url());
+  await load(); await revealAll();
 
   for (const width of [768,390,320]) {
     await page.setViewport({ width, height:900 }); await load(); await revealAll(); await overflow('Viewport ' + width);
@@ -186,27 +193,33 @@ try {
   }
 
   await page.setViewport({ width:390, height:844 });
+  await page.setRequestInterception(true);
+  const offlinePolicy = request => request.url().endsWith('/api/v1/public/inquiry-policy')
+    ? request.respond({ status:503, headers:{ 'access-control-allow-origin':new URL(origin).origin }, body:'{}' }) : request.continue();
+  page.on('request', offlinePolicy);
   await load('/contact/?role=investor');
-  assert.equal(await page.$eval('#contact-role', element => element.value), 'investor');
+  assert.equal(await page.$eval('input[name="role"]:checked', element => element.value), 'investor');
   await click('button[type="submit"]');
   assert.equal(await page.$eval('#contact-name', element => element === document.activeElement), true);
-  assert.equal(await page.$$eval('.entry-error', elements => elements.length), 3);
-  await page.type('#contact-name', 'QA fixture'); await page.type('#contact-email', 'qa@example.invalid'); await page.type('#contact-message', 'Illustrative browser verification only, no real inquiry.');
+  assert.equal(await page.$$eval('.entry-error', elements => elements.length), 2);
+  await page.type('#contact-name', 'QA fixture'); await page.type('#contact-email', 'qa@example.invalid');
+  await click('button[type="submit"]');
+  await page.type('#contact-message', 'Illustrative browser verification only, no real inquiry.');
   await click('button[type="submit"]');
   await page.waitForSelector('.message-review');
-  const draft = await page.$eval('.message-review pre', element => element.textContent);
-  assert.match(draft, /Investor/);
-  await click('.message-review button.secondary-button');
+  await click('.inquiry-review-actions button.secondary-button');
   assert.match(await page.$eval('.entry-feedback', element => element.textContent), /copied|download/i);
   const download = await page.$eval('[download="gen-z-message.txt"]', async element => ({ text:await (await fetch(element.href)).text(), name:element.download }));
-  assert.equal(download.text, draft);
-  assert.equal(await page.$$eval('.message-review .primary-button', elements => elements.length), 0);
+  assert.match(download.text, /Investor/);
+  assert.match(download.text, /Illustrative browser verification/);
+  assert.equal(await page.$eval('.inquiry-review-actions .primary-button', element => element.disabled), true);
   await overflow('Contact mobile'); await audit('contact mobile');
   await page.screenshot({ path:fileURLToPath(new URL('contact-mobile.png', output)), fullPage:true });
   pass('contact invalid, draft, copy, download and honest disconnected state', 'no network submission or success receipt fabricated');
 
   // A configured platform may be offline locally. Capture the navigation without
   // depending on that server or treating its login as a marketing responsibility.
+  page.off('request', offlinePolicy); await page.setRequestInterception(false);
   const handoffs = [];
   await page.setRequestInterception(true);
   const captureHandoff = request => {
@@ -243,23 +256,28 @@ try {
     let failRequest = true;
     await page.setRequestInterception(true);
     const intercept = async request => {
-      if (!request.url().endsWith('/api/v1/inquiries')) return request.continue();
+      if (!/\/api\/v1\/(inquiries|public\/inquiry-policy)$/.test(request.url())) return request.continue();
       const headers = { 'access-control-allow-origin':new URL(configured).origin, 'access-control-allow-methods':'POST,OPTIONS', 'access-control-allow-headers':'content-type,idempotency-key' };
       if (request.method() === 'OPTIONS') return request.respond({ status:204, headers });
+      if (request.url().endsWith('/public/inquiry-policy')) return request.respond({ status:200, headers:{ ...headers, 'content-type':'application/json' }, body:JSON.stringify({ privacyNoticeVersionId:'12345678-1234-4234-8234-123456789012', noticeUrl:new URL('/privacy', request.url()).href, sensitiveUploadsAllowed:false, marketingOptIn:false }) });
       attempts.push({ key:request.headers()['idempotency-key'], body:JSON.parse(request.postData()) });
       return request.respond({ status:failRequest ? 503 : 201, headers:{ ...headers, 'content-type':'application/json' }, body:JSON.stringify(failRequest ? { error:'Synthetic failure' } : { reference:'INQ-synthetic-browser' }) });
     };
     page.on('request', intercept);
     await load('/contact/?role=operator', configured);
-    await page.type('#contact-name', 'QA fixture'); await page.type('#contact-email', 'qa@example.invalid'); await page.type('#contact-message', 'Synthetic browser transport fixture only.'); await click('button[type="submit"]');
-    await click('.message-review .primary-button');
-    await page.waitForFunction(() => document.querySelector('.message-review .primary-button')?.textContent === 'Retry sending');
-    assert.ok(await page.$('.message-review pre'));
+    await page.type('#contact-name', 'QA fixture'); await page.type('#contact-email', 'qa@example.invalid'); await click('button[type="submit"]');
+    await page.select('#contact-assetCategory', 'energy'); await page.select('#contact-operationsState', 'operational'); await page.type('#contact-region', 'West Java');
+    await page.type('#contact-message', 'Synthetic browser transport fixture only.'); await click('button[type="submit"]');
+    await click('.inquiry-review-actions .primary-button');
+    await page.waitForSelector('#contact-error-privacyAcknowledged'); await click('#contact-privacyAcknowledged');
+    await click('.inquiry-review-actions .primary-button');
+    await page.waitForFunction(() => document.querySelector('.inquiry-review-actions .primary-button')?.textContent.startsWith('Retry sending'));
+    assert.ok(await page.$('.message-review'));
     failRequest = false;
-    await click('.message-review .primary-button');
-    await page.waitForFunction(() => document.querySelector('.message-review strong')?.textContent === 'INQ-synthetic-browser');
+    await click('.inquiry-review-actions .primary-button');
+    await page.waitForFunction(() => document.querySelector('.inquiry-receipt strong')?.textContent === 'INQ-synthetic-browser');
     assert.equal(attempts.length, 2); assert.equal(attempts[0].key, attempts[1].key);
-    assert.equal(await page.$eval('.message-review .primary-button', element => element.disabled), true);
+    assert.equal(await page.$eval('.inquiry-review-actions .primary-button', element => element.disabled), true);
     pass('configured inquiry failure -> retry -> confirmed receipt', { synthetic:true, stableIdempotency:true, attempts:attempts.length });
     page.off('request', intercept); await page.setRequestInterception(false);
   }
@@ -311,7 +329,7 @@ try {
   await noJS.setJavaScriptEnabled(false); await noJS.goto(origin, { waitUntil:'networkidle0' });
   assert.deepEqual(await noJS.$$eval('main>section', sections => sections.map(section => section.id)), expectedSections);
   assert.ok(await noJS.$('.serve-audiences')); assert.ok(await noJS.$('.standards-grid'));
-  pass('all public sections render without JavaScript', 'Astro HTML contains all eleven sections and copy');
+  pass('all public sections render without JavaScript', 'Astro HTML contains all twelve sections and copy');
   await noJS.close();
 
   assert.deepEqual(runtimeErrors, [], 'uncaught browser errors');

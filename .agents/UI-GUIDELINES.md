@@ -23,4 +23,6 @@ Keputusan founder, 18 Oktober 2026: semua UI Gen-Z mengikuti fondasi produk yang
 
 ## Pemeriksaan hasil
 
+Untuk landing marketing dan Insights, ikuti [aturan landing page](../docs/design/landing-page.md): satu container konten, typography Gen-Z, pemisahan media dari rail konten, artikel sebagai pendalaman, dan motion yang dapat diinterupsi. Nilai token landing tidak otomatis berlaku untuk platform.
+
 Verifikasi font yang benar-benar ter-render, tema light pada sistem dark dan storage lama, mobile/zoom, kontras, focus keyboard, Escape dan pengembalian focus modal, serta state loading/empty/pending/error. Jalankan check/build dan tes perilaku yang relevan. Catat keterbatasan uji dengan jujur.

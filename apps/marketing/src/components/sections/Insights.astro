@@ -1,0 +1,18 @@
+---
+import { energyInsight as article } from '../../content/insights.mjs';
+---
+<section id="insights" class="landing-section insights-section" aria-labelledby="insights-title">
+  <div class="page-container">
+    <h2 id="insights-title" tabindex="-1">The context behind<br /><span class="text-teal">the infrastructure.</span></h2>
+    <p class="section-intro">Research and perspectives on the energy systems we depend on.</p>
+    <article class="insight-feature">
+      <a class="insight-image-link" href={article.href} aria-label={`Read ${article.title}`}><img src={article.image} width="1920" height="1080" loading="lazy" decoding="async" alt="Electricity consumption and GDP per person compared across seven economies" /></a>
+      <div class="insight-feature-copy">
+        <p class="insight-meta"><span>{article.category}</span><time datetime={article.published}>{article.publishedLabel}</time></p>
+        <h3><a href={article.href}>{article.title}</a></h3>
+        <p>{article.description}</p>
+        <a class="insight-link" href={article.href}>Read the energy outlook <span aria-hidden="true">↗</span></a>
+      </div>
+    </article>
+  </div>
+</section>

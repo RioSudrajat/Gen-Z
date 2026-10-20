@@ -1,0 +1,39 @@
+{
+  "checks": [
+    "details validation focuses first invalid field",
+    "desktop asset axe: zero violations",
+    "asset validation follows visual field order",
+    "operator review disconnected axe: zero violations",
+    "unknown financing maps to null; disconnected review exports without claiming success",
+    "edits invalidate forward progress and preserve exact large rupiah amounts",
+    "Back, native role selection, shared contacts and separate context drafts retain answers",
+    "asset 320 no horizontal overflow",
+    "asset 390 no horizontal overflow",
+    "mobile asset axe: zero violations",
+    "asset 768 no horizontal overflow",
+    "asset 1440 no horizontal overflow",
+    "200 percent layout equivalent no horizontal overflow",
+    "light-only, reduced motion and visible keyboard focus"
+  ],
+  "audits": [
+    {
+      "label": "desktop asset",
+      "violations": []
+    },
+    {
+      "label": "operator review disconnected",
+      "violations": []
+    },
+    {
+      "label": "mobile asset",
+      "violations": []
+    }
+  ],
+  "errors": [],
+  "consoleErrors": [],
+  "configuredTransportTested": false,
+  "reference": {
+    "width": 1435,
+    "height": 1096
+  }
+}

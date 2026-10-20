@@ -6,6 +6,7 @@ import EnergyThesis from '../components/sections/EnergyThesis.astro';
 import CapitalBridge from '../components/sections/CapitalBridge.astro';
 import Closing from '../components/sections/Closing.astro';
 import Comparison from '../components/sections/Comparison.astro';
+import Insights from '../components/sections/Insights.astro';
 import { getMarketingImages } from '../assets/marketing-images';
 import { NavigationIsland } from '../components/islands/NavigationIsland.jsx';
 import { EcosystemRoles } from '../components/islands/EcosystemRoles.jsx';
@@ -22,6 +23,7 @@ import '../styles/marketing-refresh.css';
 import '../styles/pinned-sequences.css';
 import '../styles/energy-context.css';
 import '../styles/migration.css';
+import '../styles/insights.css';
 const images = await getMarketingImages();
 ---
 <PublicLayout title="Gen-Z · Energy infrastructure meets global capital" description="Gen-Z connects productive energy infrastructure with global capital through asset review, tokenisation, and project reporting." hero>
@@ -38,6 +40,7 @@ const images = await getMarketingImages();
     <section id="evidence" class="landing-section evidence-section" aria-labelledby="evidence-title"><div class="page-container"><div id="evidence-root"><ProjectStandards skyline={images.skyline} client:visible={{ rootMargin: '600px' }} /></div></div></section>
     <section id="platform" class="landing-section platform-section" aria-labelledby="platform-title"><div class="page-container"><div id="platform-root"><WorkspaceScroll image={images.showcase.generation} client:visible={{ rootMargin: '600px' }} /></div></div></section>
     <Comparison />
+    <Insights />
     <Closing />
   </main>
   <SiteFooter />

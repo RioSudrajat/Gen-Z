@@ -2,6 +2,7 @@ export function createThesisMotion(section) {
   const film=section?.querySelector('#energy-thesis-film');
   const status=section?.querySelector('#thesis-film-status');
   const sound=section?.querySelector('#thesis-sound');
+  const toggle=section?.querySelector('#thesis-toggle');
   const idle={enabled:false,canAnimate:false,playing:false,sound:false,error:false};
   if (!film || !sound || !status) return {getState:()=>idle,subscribe:()=>()=>{},toggleMotion:()=>{},dispose:()=>{}};
   const reduced=matchMedia('(prefers-reduced-motion: reduce)');
@@ -17,6 +18,11 @@ export function createThesisMotion(section) {
     sound.textContent=film.muted?'Sound off':'Sound on';
     sound.setAttribute('aria-label',film.muted?'Sound off, enable section soundtrack':'Sound on, mute section soundtrack');
     sound.disabled=!enabled()||failed;
+    if(toggle){
+      toggle.disabled=!allowed()||failed;
+      toggle.textContent=failed?'Film unavailable':!allowed()?'Motion off':manuallyStopped?'Play film':'Pause film';
+      toggle.setAttribute('aria-pressed',String(manuallyStopped));
+    }
     listeners.forEach(listener=>listener(getState()));
   };
   const shouldPlay=()=>enabled()&&inView&&!document.hidden&&!failed&&!disposed;
@@ -49,23 +55,26 @@ export function createThesisMotion(section) {
     else if(!entry.isIntersecting)inView=false;
     sync();
   },{threshold:[0,.18]});
+  function toggleMotion(){manuallyStopped=!manuallyStopped;sync();}
   const source=film.querySelector('source');
   film.muted=true;film.loop=true;film.controls=false;film.volume=.65;
   film.addEventListener('error',onError);source?.addEventListener('error',onError);
   film.addEventListener('loadeddata',onLoaded);
   film.addEventListener('play',emit);film.addEventListener('pause',emit);
   sound.addEventListener('click',onSound);
+  toggle?.addEventListener('click',toggleMotion);
   reduced.addEventListener('change',sync);connection?.addEventListener('change',sync);
   document.addEventListener('visibilitychange',sync);
   observer.observe(film);emit();
   return {
     getState,
     subscribe(listener){listeners.add(listener);return()=>listeners.delete(listener);},
-    toggleMotion(){manuallyStopped=!manuallyStopped;sync();},
+    toggleMotion,
     dispose(){disposed=true;++playAttempt;film.pause();observer.disconnect();listeners.clear();
       film.removeEventListener('error',onError);source?.removeEventListener('error',onError);
       film.removeEventListener('loadeddata',onLoaded);film.removeEventListener('play',emit);film.removeEventListener('pause',emit);
       sound.removeEventListener('click',onSound);reduced.removeEventListener('change',sync);
+      toggle?.removeEventListener('click',toggleMotion);
       connection?.removeEventListener('change',sync);document.removeEventListener('visibilitychange',sync);
     },
   };

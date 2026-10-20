@@ -21,7 +21,7 @@ async function readSnapshot(directory) {
 
 test("Drizzle schema matches the latest committed migration snapshot", async () => {
   const previous = await readSnapshot(resolve("db/migrations/meta"));
-  const current = generateDrizzleJson(schema, previous.id, ["identity"]);
+  const current = generateDrizzleJson(schema, previous.id, ["identity", "intake"]);
   assert.deepEqual(await generateMigration(previous, current), []);
 });
 
@@ -31,7 +31,7 @@ async function introspect(directory, name, url) {
   await writeFile(
     config,
     `export default {
-    dialect: "postgresql", schemaFilter: ["identity"],
+    dialect: "postgresql", schemaFilter: ["identity", "intake"],
     out: ${JSON.stringify(output)},
     dbCredentials: { url: process.env.GENZ_SCHEMA_COMPARE_URL }
   };`,

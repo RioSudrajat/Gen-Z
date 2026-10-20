@@ -66,6 +66,8 @@ Investor: marketing → proof wallet/sesi → Assets/tujuh tab → terms, bukti 
 
 Operator: contact → inquiry server + referensi → notifikasi → assisted screening → bukti sensitif melalui kanal privat → review proyek/publikasi.
 
+Penjelasan proses dan rekomendasi prioritas workspace internal versus portal mitra terbatas: [pengajuan dan onboarding mitra](product/partner-onboarding.md). Rincian rekomendasi tidak memperluas scope MVP.
+
 - Login membuktikan kontrol wallet; grant admin, kewenangan institusi dan eligibility ditetapkan terpisah di server.
 - Input confirmed belum berarti net settlement; allocation menunggu net settlement dan closing sesuai terms.
 - Produksi, invoice, kas diterima dan distribusi merupakan catatan berbeda. Forecast/telemetry tidak membuat claimable balance.
@@ -86,5 +88,7 @@ CMS, conversion/payout/refund provider, kontrak produksi dan mandat custody belu
 ## 8. Status dan rujukan
 
 Inspeksi source 18 Oktober: marketing Astro, satu platform Next.js, SIWE Base Sepolia, sesi PostgreSQL dan Drizzle tersedia. Resource authorization, inquiry persisten/outbox, offering/editorial publication, investment lifecycle dan worker handlers belum dibuat. [Roadmap](ROADMAP.md) membedakan fondasi tersedia dari milestone target; [Testing](TESTING.md) menetapkan bukti kelulusan.
+
+Pembaruan 20 Oktober: [Contact Guided Inquiry](history/2026-10-20-guided-contact.md) menyediakan alur frontend tiga tahap sesuai pilihan founder. Policy/intake backend, inquiry persistence dan email belum tersedia; uji transport menggunakan fixture sintetis, bukan penerimaan inquiry live.
 
 Alasan teknis ada di [ADR](adr/README.md); keputusan produk di [register](product/decisions.md); riwayat lengkap di [PRD arsip](archive/prd-2026-10-18.md). PRD ini tidak menggantikan hasil uji atau legal review.

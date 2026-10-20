@@ -3,20 +3,39 @@ import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 
 let scroller;
+let activeScroll;
+const gestureHandlers = new Set();
 
-export function scrollLandingTo(target, { offset = 0, immediate = false, duration = 1.1, onComplete } = {}) {
-  if (scroller?.isStopped) return;
+export function registerScrollGesture(handler) {
+  gestureHandlers.add(handler);
+  return () => gestureHandlers.delete(handler);
+}
+
+export function scrollLandingTo(target, { offset = 0, immediate = false, duration = 1.1, easing = progress => 1 - Math.pow(1 - progress, 4), onComplete, purpose = 'navigation' } = {}) {
+  if (scroller?.isStopped) return () => {};
+  if (purpose === 'navigation') window.dispatchEvent(new Event('genz:scroll-navigation'));
+  const operation = {};
+  activeScroll = operation;
+  const complete = () => {
+    if (activeScroll !== operation) return;
+    activeScroll = undefined;
+    onComplete?.();
+  };
   if (scroller) {
     scroller.resize();
     scroller.scrollTo(target, {
-      offset, immediate, lerp: 0, duration, onComplete,
-      easing: (progress) => 1 - Math.pow(1 - progress, 4),
+      offset, immediate, lerp: 0, duration, easing, onComplete: complete,
     });
-    return;
+    return () => {
+      if (activeScroll !== operation) return;
+      activeScroll = undefined;
+      scroller?.scrollTo(scroller.actualScroll, { immediate: true });
+    };
   }
   const top = typeof target === 'number' ? target : target.getBoundingClientRect().top + window.scrollY;
   window.scrollTo({ top: top + offset, behavior: 'instant' });
-  onComplete?.();
+  complete();
+  return () => {};
 }
 
 export function createSmoothScroll() {
@@ -25,8 +44,10 @@ export function createSmoothScroll() {
 
   function syncDialogLock() {
     if (!scroller) return;
-    if (document.body.style.overflow === 'hidden' || document.querySelector('dialog[open]')) scroller.stop();
-    else scroller.start();
+    if (document.body.style.overflow === 'hidden' || document.querySelector('dialog[open]')) {
+      if (!scroller.isStopped) window.dispatchEvent(new Event('genz:scroll-navigation'));
+      scroller.stop();
+    } else scroller.start();
   }
 
   function configure() {
@@ -40,6 +61,14 @@ export function createSmoothScroll() {
       lerp: 0.085,
       smoothWheel: true,
       syncTouch: false,
+      virtualScroll(data) {
+        if (data.event.defaultPrevented || data.event.ctrlKey || data.event.metaKey) return false;
+        for (const handler of gestureHandlers) {
+          if (!handler(data)) continue;
+          if (data.event.cancelable) data.event.preventDefault();
+          return false;
+        }
+      },
       // Dialogs and nested project views retain their own native scrolling.
       prevent: (node) => node.tagName === 'DIALOG' || node.hasAttribute('data-lenis-prevent'),
     });

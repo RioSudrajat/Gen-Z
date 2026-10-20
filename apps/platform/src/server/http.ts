@@ -22,6 +22,7 @@ export function requireOrigin(request: Request) {
 export async function readJson<T>(
   request: Request,
   schema: ZodType<T>,
+  options: { maxBytes?: number; message?: string } = {},
 ): Promise<T> {
   if (!request.headers.get("Content-Type")?.startsWith("application/json")) {
     throw new AuthError(
@@ -40,7 +41,7 @@ export async function readJson<T>(
         const part = await reader.read();
         if (part.done) break;
         size += part.value.byteLength;
-        if (size > 8192) {
+        if (size > (options.maxBytes ?? 8192)) {
           await reader.cancel();
           throw new AuthError(413, "BODY_TOO_LARGE", "Request is too large.");
         }
@@ -62,7 +63,7 @@ export async function readJson<T>(
     throw new AuthError(
       422,
       "INVALID_INPUT",
-      "Check the wallet proof fields and try again.",
+      options.message ?? "Check the wallet proof fields and try again.",
     );
   return parsed.data;
 }

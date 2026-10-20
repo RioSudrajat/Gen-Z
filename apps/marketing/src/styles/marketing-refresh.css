@@ -1,5 +1,5 @@
-/* One viewport gives each primary message its own reading position; content can grow. */
-main > .landing-section { min-height:100svh; display:grid; align-items:center; padding-block:110px 90px; scroll-margin-top:0; }
+/* Ordinary sections follow content height; narrative scenes own their pinning. */
+main > .landing-section { display:block; padding-block:var(--landing-space); scroll-margin-top:88px; }
 main > .landing-section > .page-container { min-width:0; }
 main > .stack-section { content-visibility:visible; contain-intrinsic-size:none; }
 main > .thesis-section { padding-block:126px 72px; }
@@ -14,7 +14,6 @@ main > .thesis-section { padding-block:126px 72px; }
 .thesis-section .section-note { margin-top:44px; font-size:14px; }
 @media(min-width:1101px) and (min-height:901px) {
   main > .thesis-section { padding-block:166px 48px; }
-  .thesis-section > .page-container { width:min(1370px,calc(100% - 104px)); }
   .thesis-section h2 { font-size:clamp(68px,5.1vw,76px); }
   .thesis-section .section-intro { position:relative; z-index:1; margin-top:20px; font-size:22px; }
   .capital-bridge { margin-top:-56px; }
@@ -111,8 +110,8 @@ main > .closing-section { min-height:auto; display:block; padding-block:64px 80p
 .stack-label .layer-number { font-size:11px; letter-spacing:.06em; }.stack-label-chip { font-size:12px; }
 @media(max-width:1100px) { .bridge-caption { column-gap:20%; }.standards-grid .standards-main,.standards-grid .standards-status { grid-column:span 12; }.standards-grid .standards-status { display:none; }.footer-layout { gap:44px; } }
 @media(max-width:767px) {
-  main>.landing-section { padding-block:100px 72px; }
-  main > .thesis-section { padding-block:110px 72px; }
+  main>.landing-section { padding-block:var(--landing-space); }
+  main > .thesis-section { padding-block:var(--landing-space); }
   .thesis-section h2 { font-size:clamp(35px,5.6vw,43px); line-height:1.1; }
   .thesis-section .section-intro { font-size:17px; margin-top:24px; }
   .capital-bridge { margin-top:28px; }.bridge-scene { width:100%; margin-inline:0; }

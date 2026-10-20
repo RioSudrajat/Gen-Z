@@ -54,32 +54,36 @@ Tujuh tab offering, dataset finansial, auth/session, inquiry persistence, approv
 
 `PUBLIC_PLATFORM_ORIGIN` pada `.env` milik marketing hanya menerima HTTPS origin tanpa path/query/credential. HTTP loopback diperbolehkan untuk development. Tidak ada origin produksi atau vendor yang ditebak. Contoh ada di [.env.example](.env.example). Environment dibaca saat build, jadi perubahan memerlukan rebuild/redeploy untuk output statis.
 
-Wallet login platform lokal sekarang tersedia pada `http://localhost:3001/auth`; origin ini dapat dipakai untuk Launch app. Endpoint inquiry belum dibuat. `PUBLIC_PLATFORM_INQUIRIES_ENABLED` default `false`, sehingga pengaturan origin untuk auth tidak otomatis mengubah contact draft menjadi pengiriman server. Set `true` hanya sesudah inquiry persistence, validasi/CORS, idempotency dan receipt endpoint benar-benar tersedia.
+Wallet login platform lokal tersedia pada `http://localhost:3001/auth`. Preview HTTP loopback otomatis memakai platform tersebut, termasuk Contact pada port preview berbeda. Jalankan `npm run setup:platform` dan `npm run dev:platform` dari root untuk menyalakan platform dan database. Production tetap memerlukan `PUBLIC_PLATFORM_ORIGIN` eksplisit. Endpoint inquiry sudah menyimpan ketiga topik; `PUBLIC_PLATFORM_INQUIRIES_ENABLED` default `true`, dapat dimatikan dengan `false`.
 
 Tombol Launch app dan tautan App sekarang memakai `site.platformAuthUrl`, langsung menuju `/auth?returnTo=%2Fapp` pada origin platform yang dikonfigurasi. Tanpa origin, tujuan tetap halaman handoff `/auth/`. File referensi `NemesisStackSection.tsx` di root telah dihapus karena tidak diimpor Astro; runtime stack tetap `src/components/islands/GenZStack.tsx` dan snapshot riset di `docs/design/references` dipertahankan.
 
 - `/auth/` dan `/dashboard/` melanjutkan ke `<platform>/auth?returnTo=/app`.
 - `/assets/` melanjutkan ke auth dengan `returnTo=/app/assets`.
 - URL lama `/assets/<slug>` dan `/app/assets/<slug>` yang masuk ke custom 404 dapat diteruskan ke auth untuk path internal tervalidasi. Slug tidak memberi otorisasi. Host statis harus mengirim `404.html` untuk URL tidak dikenal; dengan JavaScript nonaktif tautan Workspace access tetap tersedia.
-- Tanpa konfigurasi, halaman handoff menjelaskan workspace belum terhubung dan menawarkan contact. Tidak ada login email, role picker, sessionStorage atau dashboard anonim.
+- Pada preview HTTP loopback, handoff membuka wallet login lokal. Pada deployment publik tanpa konfigurasi, handoff menjelaskan workspace belum terhubung dan menawarkan contact. Tidak ada login email, role picker, sessionStorage atau dashboard anonim.
 - Origin platform harus berbeda dari origin marketing untuk deployment dua aplikasi ini. Server platform tetap wajib memeriksa resource, sesi dan `returnTo` sendiri.
 - `/health.json` tetap konservatif: readiness backend/finance tidak diklaim dari keberhasilan render marketing.
 
 ## Contact dan kontrak platform
 
-Field dan urutan existing dipertahankan: role, name, company opsional, email, message. Detail kategori/lokasi/status aset dan kebutuhan pembiayaan dapat dituliskan di message; tidak ada upload berkas sensitif atau pendaftaran marketing otomatis.
+Desain Guided Inquiry dipilih founder 20 Oktober 2026. Tiga tahap: kontak → konteks → review. Nama/email bersama, perusahaan/telepon opsional; operator mengisi kategori, region Indonesia, status, deskripsi aset dan pembiayaan opsional. Investor/partnership memakai pesan sesuai topik, tanpa pertanyaan aset wajib. Back/edit dan pergantian topik mempertahankan jawaban selama halaman tetap terbuka; tidak ada penyimpanan data pribadi di browser storage atau server marketing. Tidak ada upload sensitif atau pendaftaran marketing otomatis.
 
-Tanpa endpoint inquiry yang diaktifkan, contact menyediakan review/copy/download draft dan menjelaskan bahwa pesan belum dikirim. Dengan origin terkonfigurasi **dan** `PUBLIC_PLATFORM_INQUIRIES_ENABLED=true`, setelah review muncul Send inquiry:
+Tanpa layanan penerimaan yang tersedia, contact menyediakan review/copy/download draft. Origin dan `PUBLIC_PLATFORM_INQUIRIES_ENABLED=true` belum cukup untuk menampilkan Send inquiry: gateway harus menerima privacy policy valid dari `GET /api/v1/public/inquiry-policy` terlebih dahulu. Pengiriman hanya untuk operator, mengikuti kontrak proposed; investor/partnership tetap draft sampai kontrak dan layanan untuk kategorinya tersedia. Privacy acknowledgement wajib sebelum send, bukan sebelum menyimpan draft lokal. Kebijakan berasal dari server, bukan ID/URL yang dibuat frontend.
 
 ```text
 POST <PUBLIC_PLATFORM_ORIGIN>/api/v1/inquiries
 Content-Type: application/json
 Idempotency-Key: UUID stabil selama pesan tidak berubah
-Body: { role, name, company, email, message }
+Body: { contact: { name, email, organization, phone }, assetCategory,
+        location: { countryCode: "ID", region }, operationsState,
+        assetDescription, financingNeed, privacyNoticeVersionId, privacyAcknowledged: true }
 Receipt sukses: { reference: "referensi-server" }
 ```
 
 Tidak ada credential/cookie app pada request publik. Adapter membatasi timeout dan menangani network error, server error, rate limit dan receipt rusak. Retry payload yang sama menggunakan key yang sama. Edit draft membuat key baru; tombol dibatasi saat request berlangsung dan setelah receipt diterima. Receipt hanya dipercaya bila respons HTTP sukses mengandung referensi valid. Payload inquiry tidak disimpan di localStorage/sessionStorage.
+
+Nominal rupiah dikirim sebagai string integer `minorUnits` dengan scale 0; field kosong atau Not sure yet memetakan ke `null`, bukan nol. Notice URL tidak menerima executable scheme atau credential-bearing URL. API canonical tidak berubah; implementasi frontend kini mengikuti bentuk [kontrak intake](../../docs/engineering/api/intake.md).
 
 **Dependency inquiry platform belum diimplementasikan oleh migrasi ini:** validasi/rate limit/origin allowlist server, CORS preflight untuk Content-Type dan Idempotency-Key, commit PostgreSQL inquiry + reference + outbox atomik, idempotency/body hash, worker notifikasi satu inbox, akses admin dan retensi 90 hari sesuai spec. Adapter frontend dan fixture test tidak membuktikan persistence tersebut. Jangan mengaktifkan pengiriman inquiry sebelum layanan itu siap; konfigurasi auth origin boleh digunakan secara terpisah.
 
@@ -98,6 +102,8 @@ npm run verify:metadata --workspace=@gen-z/marketing
 Verifikasi browser juga menjalankan regresi animasi comparison: panel bertumpuk, membuka dan berbalik mengikuti scroll/wheel, font yang dimuat belakangan, deep link, resize, mobile dan reduced motion. Jalankan tersendiri dengan `npm run verify:comparison --workspace=@gen-z/marketing`; bukti tersimpan di `qa/comparison-motion/`. Pinned sequences memakai `refreshPriority` agar jarak pin dihitung sebelum reveal di bawahnya, terlepas dari urutan hydration Astro islands.
 
 QA browser memakai Chrome lokal. Override `CHROME_PATH` bila perlu. `MARKETING_ORIGIN` default `http://127.0.0.1:4321`. `CONFIGURED_MARKETING_ORIGIN` opsional menunjuk instance development lokal dengan origin platform fixture; respons inquiry diintersep secara sintetis, tidak mengirim pesan nyata. Handoff ke platform dikonfirmasi melalui target navigasi sintetis sehingga tidak bergantung pada server app yang aktif. Browser report mencatat kegagalan transport yang sengaja diinjeksi terpisah dari runtime errors. QA ini tidak menyatakan backend MVP atau platform template lain sudah lulus.
+
+Regresi Guided Inquiry: `node apps/marketing/scripts/verify-contact.mjs` dari root. `MARKETING_ORIGIN` default untuk script ini `http://127.0.0.1:4322`; `CONFIGURED_MARKETING_ORIGIN` mengaktifkan pengujian policy/send sintetis dengan flag inquiry pada instance tersebut. Hasil lokal di `.cache/guided-contact/`: validasi/focus, Back/edit, draft per topik, angka exact, viewport, axe, fallback dan stable-key retry. Jangan menganggap receipt fixture sebagai inquiry live.
 
 `verify:metadata` membuat build terisolasi di `.cache/marketing-metadata` dengan domain `.invalid` sintetis, lalu memeriksa output canonical/social/sitemap/robots dan pengecualian route privat. Perbandingan resource serta copy tersedia melalui `npm run measure --workspace=@gen-z/marketing -- before` dan `-- after` pada build/preview masing-masing; hasil lokal ini bukan pengukuran field pengguna nyata.
 

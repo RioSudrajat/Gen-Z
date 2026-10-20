@@ -1,6 +1,6 @@
 # Konvensi kontrak API MVP
 
-**Status:** rancangan teknis [R] versi `0.1.0-draft`, 18 Oktober 2026. Scope produk tetap [requirements MVP](../../product/requirements.md). Hanya enam operasi berlabel `source` tersedia di source; kontrak proposed adalah acuan implementasi berikutnya. Tidak ada perubahan handler, schema database, transaksi, custody atau vendor melalui dokumen ini.
+**Status:** rancangan teknis [R] versi `0.1.0-draft`, 18 Oktober 2026. Scope produk tetap [requirements MVP](../../product/requirements.md). Sembilan operasi berlabel `source` tersedia di source (enam auth/health dan tiga intake/CORS); kontrak proposed adalah acuan implementasi berikutnya. Tidak ada perubahan handler, schema database, transaksi, custody atau vendor melalui dokumen ini.
 
 ## Sumber kontrak dan versi
 
@@ -45,7 +45,7 @@ Domain proposed sukses:
 }
 ```
 
-`data` pada contoh di atas hanya penjelasan envelope; payload endpoint harus memenuhi schema spesifik di OpenAPI. `asOf` menyatakan snapshot response, bukan janji data live. `provenance.kind`: synthetic, reviewed, provisional atau system. Response list menambahkan `page: { nextCursor, hasMore }` dan `data` berupa array. Actual auth/error tetap mengikuti schema raw existing yang terpisah.
+`data` pada contoh di atas hanya penjelasan envelope; payload endpoint harus memenuhi schema spesifik di OpenAPI. `asOf` menyatakan snapshot response, bukan janji data live. `provenance.kind`: synthetic, reviewed, provisional atau system. Response list menambahkan `page: { nextCursor, hasMore }` dan `data` berupa array. Actual auth/error dan intake/error memakai schema raw yang terpisah. Intake menerima 32 KiB; consent/policy version serta UUID Idempotency-Key wajib. CORS memakai exact marketing/app origin, dengan HTTP loopback preview hanya ketika app juga HTTP loopback.
 
 Error proposed mempunyai `error: { code, message, retryable, fieldErrors }`, `requestId`, `environment`; `fieldErrors` berisi `{ path, code, message }` dengan path JSON Pointer, atau array kosong. Jangan memasukkan stack trace, credential, original document URL atau identitas pihak lain ke error. Client menggunakan code dan status; message dapat berubah/diterjemahkan. `retryable` bukan izin mengirim pembayaran baru.
 

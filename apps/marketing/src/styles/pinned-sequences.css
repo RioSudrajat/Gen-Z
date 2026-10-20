@@ -34,8 +34,10 @@ main > .stack-section.has-pinned-sequence {
 .has-pinned-sequence .stack-composition {
   width:100%;
   flex:none;
+}
+.has-pinned-sequence .stack-stage {
   transform:scale(var(--stack-scale,1));
-  transform-origin:center;
+  transform-origin:top center;
 }
 /* Reserve space for the top slab extending above the SVG viewBox. */
 .has-pinned-sequence .stack-experience { margin-top:48px; }

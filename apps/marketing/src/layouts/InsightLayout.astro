@@ -1,0 +1,13 @@
+---
+import PublicLayout from './PublicLayout.astro';
+import EntryHeader from '../components/layout/EntryHeader.astro';
+import EntryFooter from '../components/layout/EntryFooter.astro';
+import '../styles/entry.css';
+import '../styles/insights.css';
+const { title, description } = Astro.props;
+---
+<PublicLayout title={title} description={description}>
+  <EntryHeader />
+  <main id="entry-main" class="insights-page" tabindex="-1"><slot /></main>
+  <EntryFooter />
+</PublicLayout>

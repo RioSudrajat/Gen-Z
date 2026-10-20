@@ -4,7 +4,7 @@ import {createThesisMotion} from '../src/runtime/thesis-motion.js';
 
 test('viewport playback, audio activation, preferences, failure fallback and cleanup',async()=>{
   class Target extends EventTarget {setAttribute(key,value){this[key]=value;}}
-  const film=new Target(),source=new Target(),sound=new Target(),status={hidden:true};
+  const film=new Target(),source=new Target(),sound=new Target(),toggle=new Target(),status={hidden:true};
   Object.assign(film,{paused:true,muted:true,playCalls:0,querySelector:()=>source,
     async play(){this.playCalls++;this.paused=false;this.dispatchEvent(new Event('play'));},
     pause(){if(!this.paused){this.paused=true;this.dispatchEvent(new Event('pause'));}}});
@@ -16,7 +16,7 @@ test('viewport playback, audio activation, preferences, failure fallback and cle
   globalThis.document=doc;globalThis.matchMedia=()=>reduced;
   Object.defineProperty(globalThis,'navigator',{configurable:true,value:{connection}});
   globalThis.IntersectionObserver=class{constructor(callback){visibility=callback;}observe(){}disconnect(){disconnected=true;}};
-  const section={dataset:{},querySelector:selector=>({'#energy-thesis-film':film,'#thesis-sound':sound,'#thesis-film-status':status}[selector])};
+  const section={dataset:{},querySelector:selector=>({'#energy-thesis-film':film,'#thesis-sound':sound,'#thesis-toggle':toggle,'#thesis-film-status':status}[selector])};
   let controller;
   const settle=async()=>{await Promise.resolve();await Promise.resolve();};
   try{
@@ -30,15 +30,16 @@ test('viewport playback, audio activation, preferences, failure fallback and cle
     visibility([{intersectionRatio:.4,isIntersecting:true}]);await settle();assert.equal(film.paused,false);
     doc.hidden=true;doc.dispatchEvent(new Event('visibilitychange'));await settle();assert.equal(film.paused,true);
     doc.hidden=false;doc.dispatchEvent(new Event('visibilitychange'));await settle();assert.equal(film.paused,false);
-    controller.toggleMotion();await settle();assert.equal(film.paused,true);assert.equal(section.dataset.motion,'static');
-    controller.toggleMotion();await settle();assert.equal(film.paused,false);
+    toggle.dispatchEvent(new Event('click'));await settle();assert.equal(film.paused,true);assert.equal(section.dataset.motion,'static');assert.equal(toggle.textContent,'Play film');assert.equal(toggle['aria-pressed'],'true');
+    toggle.dispatchEvent(new Event('click'));await settle();assert.equal(film.paused,false);assert.equal(toggle.textContent,'Pause film');
     reduced.matches=true;reduced.dispatchEvent(new Event('change'));await settle();
     assert.equal(section.dataset.motion,'static');assert.equal(film.paused,true);assert.equal(sound.disabled,true);
+    assert.equal(toggle.disabled,true);assert.equal(toggle.textContent,'Motion off');
     reduced.matches=false;connection.saveData=true;connection.dispatchEvent(new Event('change'));await settle();assert.equal(film.paused,true);
     connection.saveData=false;connection.dispatchEvent(new Event('change'));await settle();assert.equal(film.paused,false);
     source.dispatchEvent(new Event('error'));assert.equal(section.dataset.motion,'static');assert.equal(status.hidden,false);assert.equal(film.paused,true);
     controller.dispose();assert.equal(disconnected,true);
-    const calls=film.playCalls;sound.dispatchEvent(new Event('click'));assert.equal(film.playCalls,calls);
+    const calls=film.playCalls;sound.dispatchEvent(new Event('click'));toggle.dispatchEvent(new Event('click'));assert.equal(film.playCalls,calls);
   }finally{
     controller?.dispose();
     for(const [key,value] of Object.entries(previous)){if(value===undefined)delete globalThis[key];else globalThis[key]=value;}

@@ -25,6 +25,13 @@ export function platformAuthUrl(origin, returnTo = '/app') {
   return url.href;
 }
 
+/** Local previews share the real platform; deployed sites require explicit configuration. */
+export function browserPlatformOrigin(configured, pageOrigin) {
+  if (configured) return platformOrigin(configured);
+  const page = new URL(pageOrigin);
+  return page.protocol === 'http:' && ['localhost', '127.0.0.1', '[::1]'].includes(page.hostname) ? 'http://localhost:3001' : '';
+}
+
 export function platformInquiryEndpoint(origin, enabled = false) {
   const trustedOrigin = platformOrigin(origin);
   return trustedOrigin && enabled ? new URL('/api/v1/inquiries', trustedOrigin).href : '';

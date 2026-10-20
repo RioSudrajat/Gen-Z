@@ -1,0 +1,64 @@
+---
+import InsightLayout from '../../layouts/InsightLayout.astro';
+import { energyInsight as article } from '../../content/insights.mjs';
+const economies = [
+  ['Indonesia', '1,481', '4,876'], ['Vietnam', '2,550', '4,323'], ['Thailand', '2,966', '7,211'],
+  ['Malaysia', '5,316', '11,386'], ['China', '6,586', '12,951'], ['Singapore', '9,750', '86,383'], ['United States', '12,711', '82,587'],
+];
+---
+<InsightLayout title={`${article.title} · Gen-Z Insights`} description={article.description}>
+  <article>
+    <header class="insights-page-heading">
+      <a class="insight-link" href="/insights/">All insights</a>
+      <p class="insight-meta"><span>{article.category}</span><time datetime={article.published}>{article.publishedLabel}</time></p>
+      <h1>{article.title}</h1>
+      <p>{article.description}</p>
+    </header>
+    <div class="insight-reading-layout">
+      <aside class="insight-toc"><nav aria-label="In this article"><p>In this article</p><a href="#electricity-and-growth">Electricity and growth</a><a href="#digital-demand">AI and electricity</a><a href="#energy-security">Energy security</a><a href="#infrastructure">What needs to be built</a><a href="#film-transcript">Film transcript</a><a href="#source-data">Data and sources</a></nav></aside>
+      <div class="insight-prose">
+        <p class="insight-lead">Digital services, electric transport and productive economies all depend on physical energy systems. Understanding that demand helps explain why generation, grids, storage and dependable operations matter.</p>
+        <h2 id="electricity-and-growth">Electricity supports productive economies.</h2>
+        <p>Homes, businesses and industry use electricity to work, communicate and produce. The chart in our energy film compares electricity consumption and GDP per person across seven selected economies using 2023 World Bank data.</p>
+        <figure><img src={article.image} width="1920" height="1080" alt="Comparison of electricity consumption and GDP per person across seven selected economies in 2023, with Indonesia highlighted. The full figures follow in the data table." /><figcaption>Seven selected economies, 2023. The full values and source links are below.</figcaption></figure>
+        <p>The comparison provides context, not a causal explanation. Economic structure, energy efficiency, climate and access all affect electricity use. Higher consumption alone does not establish higher productivity or a stronger investment opportunity.</p>
+        <h2 id="digital-demand">Digital growth has a physical power demand.</h2>
+        <p>The IEA’s <a href="https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary">2026 Energy and AI outlook</a> estimates global data-centre electricity consumption at 485 TWh in 2025 and projects around 950 TWh in 2030. These are total data-centre figures, not electricity used exclusively by AI.</p>
+        <p>Efficient chips and software can reduce energy use per task, while greater adoption and more demanding applications can increase overall demand. The outcome depends on both trends. Grid connections and equipment supply can also constrain how quickly new capacity is built.</p>
+        <h2 id="energy-security">Energy security changes the question.</h2>
+        <p>Dependence on imported fuels exposes energy systems to supply-route disruptions and price volatility. Diversification and electrification can reduce some of that exposure, while creating new needs for reliable electricity supply.</p>
+        <p>The IEA’s <a href="https://www.iea.org/reports/southeast-asia-energy-outlook-2026/executive-summary">Southeast Asia Energy Outlook 2026</a> discusses the region’s energy-security challenges. Its <a href="https://www.iea.org/news/electrification-takes-centre-stage-as-hormuz-shock-spurs-countries-to-seek-to-enhance-energy-security">September 2026 analysis of electrification and energy security</a> examines how supply disruptions are changing those priorities.</p>
+        <h2 id="infrastructure">Electrification changes what must be built.</h2>
+        <p>EV charging, data centres and other electric uses need more than generation capacity. They also depend on grid connections, storage, equipment and reliable operations. The combination varies by location and by the demand being served.</p>
+        <p>For Gen-Z, this is the context behind connecting operating infrastructure with project information and capital. Assessing an individual project still requires its own operating records, revenue agreements and financing terms. Demand growth is context, not a promise of project returns.</p>
+        <section id="film-transcript" aria-labelledby="transcript-title">
+          <h2 id="transcript-title">Energy film: descriptive transcript.</h2>
+          <p>The film connects four ideas: electricity and economic activity, growth in digital demand, energy security, and the infrastructure needed for electrification. Its optional soundtrack is music; the information is presented visually.</p>
+          <ol class="insight-transcript">
+            <li><strong>See the shift early.</strong> The opening introduces electricity as a foundation for the next economy and invites viewers to consider changing demand.</li>
+            <li><strong>Electricity and growth.</strong> A comparison plots electricity consumption and GDP per person for seven economies in 2023, highlighting Indonesia. Exact values appear in the table below.</li>
+            <li><strong>AI needs dependable electricity.</strong> The film presents the IEA estimate of 485 TWh of global data-centre electricity consumption in 2025 and its projection of around 950 TWh in 2030. The IEA’s 2025 Base Case also projects Southeast Asian data-centre demand to more than double from 2024 to 2030.</li>
+            <li><strong>Energy security changes the equation.</strong> The film connects oil supply disruption with diversification and electrification. It notes that, before the crisis discussed in the IEA’s 2026 regional outlook, around 60% of Southeast Asia’s crude-oil imports came from the Middle East. This describes import origin, not the share passing through the Strait of Hormuz; the route shown is conceptual.</li>
+            <li><strong>Infrastructure and capital.</strong> Electrification and EVs add demand for generation, grids, storage and charging. The closing connects these needs with dependable infrastructure and capital.</li>
+          </ol>
+          <a class="insight-link" href="/#energy-context">Return to the energy film</a>
+        </section>
+        <section id="source-data" aria-labelledby="data-title">
+          <h2 id="data-title">The data behind the comparison.</h2>
+          <p>World Bank WDI values retained from the film’s 16 October 2026 source snapshot. GDP is in current US dollars; the selection is illustrative and does not represent every economy.</p>
+          <div class="insight-table-wrap" role="region" aria-label="Electricity and GDP data, scroll horizontally if needed" tabindex="0">
+            <table><caption>Seven selected economies, 2023</caption><thead><tr><th scope="col">Economy</th><th scope="col">Electricity<br />kWh / person</th><th scope="col">GDP / person<br />Current US$</th></tr></thead><tbody>{economies.map(([name, electricity, gdp]) => <tr><th scope="row">{name}</th><td>{electricity}</td><td>{gdp}</td></tr>)}</tbody></table>
+          </div>
+          <h3>Sources</h3>
+          <ul class="insight-sources">
+            <li><a href="https://data.worldbank.org/indicator/EG.USE.ELEC.KH.PC">World Bank: electric power consumption per person</a> and <a href="https://data.worldbank.org/indicator/NY.GDP.PCAP.CD">GDP per capita</a>. 2023 data; film snapshot 16 October 2026.</li>
+            <li><a href="https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary">IEA: Key Questions on Energy and AI, 2026</a>. Data-centre consumption estimates and projections.</li>
+            <li><a href="https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai">IEA: Energy and AI, 2025</a>. Southeast Asian data-centre demand, Base Case.</li>
+            <li><a href="https://www.iea.org/reports/southeast-asia-energy-outlook-2026/executive-summary">IEA: Southeast Asia Energy Outlook 2026</a>. Regional energy security.</li>
+            <li><a href="https://www.iea.org/news/electrification-takes-centre-stage-as-hormuz-shock-spurs-countries-to-seek-to-enhance-energy-security">IEA: electrification and energy security, 22 September 2026</a>.</li>
+          </ul>
+        </section>
+      </div>
+    </div>
+  </article>
+</InsightLayout>

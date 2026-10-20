@@ -2,6 +2,9 @@
 
 Laporan ini menjelaskan hasil dan verifikasi pada sesi asal, dengan batas lingkungan masing-masing. Jumlah tes/lighthouse/browser yang tercantum tidak berarti dijalankan ulang pada reorganisasi docs. Status kode terbaru diringkas di [Architecture](../ARCHITECTURE.md) dan [Roadmap](../ROADMAP.md).
 
+- [20 Oktober: submit Contact dan handoff wallet](2026-10-20-contact-auth-delivery.md)
+- [20 Oktober: Guided Inquiry Contact](2026-10-20-guided-contact.md)
+
 - [18 Oktober — reorganisasi dokumentasi](2026-10-18-documentation-reorganization.md)
 - [18 Oktober — kontrak API MVP](2026-10-18-api-contract.md)
 - [18 Oktober — fondasi Base](2026-10-18-base-foundation.md)
