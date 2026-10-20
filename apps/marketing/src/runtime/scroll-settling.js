@@ -1,82 +1,111 @@
-import { gsap } from 'gsap';
-import { scrollLandingTo } from './smooth-scroll.js';
+import { registerScrollGesture, scrollLandingTo } from './smooth-scroll.js';
 
-// Only user input arms settling. Scroll events from the settling animation cannot advance another beat.
+// A gesture starts one transition; its momentum must not restart or advance that transition.
 export function createScrollSettling(trigger, stops = [0, 1]) {
-  let direction = 1;
+  let direction = 0;
   let distance = 0;
-  let lastInput = 0;
-  let touchY;
+  let lastInput = -Infinity;
+  let claimed = false;
+  let moving = false;
+  let motionDirection = 0;
   let cancelScroll;
+  let touchDistance = 0;
 
   function blocked(target) {
     return document.hidden || document.body.style.overflow === 'hidden' || document.querySelector('dialog[open]') ||
-      target instanceof Element && !!target.closest('[data-lenis-prevent],input,textarea,select,[contenteditable="true"]');
+      target instanceof Element && !!target.closest('dialog,[data-lenis-prevent],[data-lenis-prevent-vertical],input,textarea,select,[contenteditable="true"]');
+  }
+  function cancelMotion() {
+    cancelScroll?.();
+    cancelScroll = undefined;
+    moving = false;
   }
   function clear() {
-    settle.pause();
-    cancelScroll?.();
-    cancelScroll = undefined;
-    distance = 0;
+    cancelMotion();
+    claimed = false;
+    distance = touchDistance = direction = 0;
+    lastInput = -Infinity;
   }
-  function snap() {
-    if (blocked() || !trigger.isActive || distance < 12) return;
-    distance = 0;
-    const epsilon = 4 / (trigger.end - trigger.start);
-    const progress = trigger.progress;
-    if (stops.some(point => Math.abs(point - progress) <= epsilon)) return;
-    const target = direction > 0 ? stops.find(point => point > progress) : stops.slice().reverse().find(point => point < progress);
-    if (target === undefined) return;
-    const pixels = Math.abs(target - progress) * (trigger.end - trigger.start);
-    cancelScroll = scrollLandingTo(trigger.start + target * (trigger.end - trigger.start), {
-      duration: gsap.utils.clamp(.8, 1.2, .75 + pixels / Math.max(innerHeight, 1) * .35),
-      easing: progress => .5 - Math.cos(Math.PI * progress) / 2,
-      purpose: 'settling',
-      onComplete: () => { cancelScroll = undefined; },
-    });
-  }
-  const settle = gsap.delayedCall(.22, snap).pause();
-  function input(delta, target) {
-    if (!delta || blocked(target) || (!trigger.isActive && (scrollY < trigger.start - 2 || scrollY > trigger.end + 2))) return;
+  function input(delta, target, fresh = false) {
+    if (!delta || blocked(target)) return false;
     const now = performance.now();
-    if (now - lastInput > 250 || Math.sign(delta) !== direction) distance = 0;
+    const nextDirection = Math.sign(delta);
+    const reversed = nextDirection !== direction;
+    if (fresh || reversed || now - lastInput > 180) {
+      claimed = false;
+      distance = 0;
+    }
     lastInput = now;
-    direction = Math.sign(delta);
-    cancelScroll?.();
-    cancelScroll = undefined;
+    direction = nextDirection;
+    if (claimed) return true;
+    if (moving && direction === motionDirection) {
+      claimed = true;
+      return true;
+    }
+    const { start, end } = trigger;
+    const y = window.scrollY;
+    if (end <= start || y < start - (direction > 0 ? 48 : 2) || y > end + (direction < 0 ? 48 : 2)) return false;
+    const progress = Math.max(0, Math.min(1, (y - start) / (end - start)));
+    const epsilon = 2 / (end - start);
+    const point = direction > 0
+      ? stops.find(stop => stop > progress + epsilon)
+      : stops.slice().reverse().find(stop => stop < progress - epsilon);
     distance += Math.abs(delta);
-    settle.restart(true);
+    // Consume the first small pulses too, before native scroll can start a second motion.
+    if (distance < 6) return point !== undefined || moving;
+    if (moving) cancelMotion();
+    if (point === undefined) return false;
+    claimed = moving = true;
+    motionDirection = direction;
+    const pixels = Math.abs(start + point * (end - start) - y);
+    cancelScroll = scrollLandingTo(start + point * (end - start), {
+      duration: Math.max(.65, Math.min(.95, .65 + pixels / Math.max(innerHeight, 1) * .25)),
+      easing: progress => 1 - Math.pow(1 - progress, 3),
+      purpose: 'settling',
+      onComplete: () => { moving = false; cancelScroll = undefined; },
+    });
+    return true;
   }
-  const wheel = event => {
-    if (!event.ctrlKey) input(event.deltaY * (event.deltaMode === 1 ? 16 : event.deltaMode === 2 ? innerHeight : 1), event.target);
-  };
-  const touchStart = event => { clear(); touchY = event.touches.length === 1 ? event.touches[0].clientY : undefined; };
-  const touchEnd = event => {
-    if (touchY !== undefined && event.changedTouches.length === 1) input(touchY - event.changedTouches[0].clientY, event.target);
-    touchY = undefined;
-  };
+  const disposeGesture = registerScrollGesture(({ deltaX, deltaY, event }) => {
+    if (event.ctrlKey || event.metaKey || blocked(event.target)) return false;
+    if (event.type === 'touchstart') {
+      claimed = false; distance = touchDistance = 0; lastInput = -Infinity;
+      return false;
+    }
+    if (event.touches?.length > 1) { clear(); return false; }
+    if (event.type === 'touchend') return claimed || input(touchDistance, event.target);
+    if (Math.abs(deltaX) > Math.abs(deltaY)) {
+      if (moving || claimed && performance.now() - lastInput < 180) {
+        lastInput = performance.now();
+        return true;
+      }
+      return false;
+    }
+    if (event.type === 'touchmove') {
+      touchDistance += deltaY;
+      if (!event.cancelable) return false;
+    }
+    return input(deltaY, event.target);
+  });
   const key = event => {
     if (event.defaultPrevented || event.altKey || event.ctrlKey || event.metaKey || blocked(event.target)) return;
     if (event.target instanceof Element && event.target.closest('button,a,[role="tab"]')) return;
     const down = ['ArrowDown', 'PageDown', ' '].includes(event.key);
     const up = ['ArrowUp', 'PageUp'].includes(event.key) || event.key === ' ' && event.shiftKey;
-    if (down || up) input(up ? -40 : 40, event.target);
-    else clear();
+    if (down || up) {
+      if (input(up ? -40 : 40, event.target, !event.repeat)) event.preventDefault();
+    } else clear();
   };
-  window.addEventListener('wheel', wheel, { passive: true });
-  window.addEventListener('touchstart', touchStart, { passive: true });
-  window.addEventListener('touchend', touchEnd, { passive: true });
   window.addEventListener('keydown', key);
   window.addEventListener('pointerdown', clear);
+  window.addEventListener('touchcancel', clear);
   window.addEventListener('genz:scroll-navigation', clear);
   document.addEventListener('visibilitychange', clear);
   return () => {
-    clear(); settle.kill();
-    window.removeEventListener('wheel', wheel);
-    window.removeEventListener('touchstart', touchStart);
-    window.removeEventListener('touchend', touchEnd);
+    clear(); disposeGesture();
     window.removeEventListener('keydown', key);
     window.removeEventListener('pointerdown', clear);
+    window.removeEventListener('touchcancel', clear);
     window.removeEventListener('genz:scroll-navigation', clear);
     document.removeEventListener('visibilitychange', clear);
   };

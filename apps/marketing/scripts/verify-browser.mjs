@@ -34,7 +34,12 @@ async function load(path = '/', base = origin) {
   if (path.startsWith('/contact')) await page.waitForFunction(() => !document.querySelector('fieldset')?.disabled);
 }
 async function click(selector) {
-  await page.$eval(selector, element => element.scrollIntoView({ block:'center', behavior:'instant' }));
+  await page.$eval(selector, element => {
+    const box = element.getBoundingClientRect();
+    if (box.top < 0 || box.bottom > innerHeight || box.left < 0 || box.right > innerWidth) {
+      element.scrollIntoView({ block:'center', behavior:'instant' });
+    }
+  });
   await page.waitForFunction(selector => !document.querySelector(selector)?.closest('astro-island')?.hasAttribute('ssr'), {}, selector);
   await page.click(selector);
   await delay(90);

@@ -23,7 +23,7 @@ export function createPinnedSequence({ id, pin, count, onUpdate = undefined }) {
       pin: true,
       // Astro islands hydrate independently; measure pin spacing before downstream reveals.
       refreshPriority: 1,
-      scrub: 0.45,
+      scrub: true,
       anticipatePin: 1,
       invalidateOnRefresh: true,
     },

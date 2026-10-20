@@ -1,15 +1,18 @@
 .static-brand{position:fixed;z-index:20;left:52px;top:60px;color:#fff;display:flex;align-items:center;gap:8px}
 .hero-story{height:200vh;height:200dvh;position:relative;background:#fff}
 .hero-sticky{position:sticky;top:0;height:100vh;height:100dvh;overflow:clip;isolation:isolate}
-.hero-frame{position:absolute;inset:0;width:100%;height:100%;overflow:clip;background:#1A1D23;will-change:width,height,left,top,border-radius}
+.hero-frame{position:absolute;inset:0;width:100%;height:100%;overflow:clip;background:#1A1D23;will-change:transform;z-index:1}
 .hero-frame video{display:block;width:100%;height:100%;object-fit:cover}
 .film-shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(5,5,5,.65),rgba(5,5,5,.55) 14%,rgba(5,5,5,.43) 40%,rgba(5,5,5,.43) 62%,rgba(5,5,5,.57) 78%,rgba(5,5,5,.58));pointer-events:none}
 .hero-headline{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;gap:12px;margin:0;pointer-events:none}
-.hero-title-part{display:block;flex:0 0 auto;text-align:center;font-family:GenZ Display,Arial,sans-serif;font-weight:500;font-size:48px;line-height:1.05;letter-spacing:-.03em;color:#fff;will-change:transform,width}
+.hero-headline:not(.hero-settled-headline){z-index:2}
+.hero-settled-headline{display:none;opacity:0;z-index:0}
+.js .hero-settled-headline{display:flex}
+.hero-title-part{display:block;flex:0 0 auto;text-align:center;font-family:GenZ Display,Arial,sans-serif;font-weight:500;font-size:48px;line-height:1.05;letter-spacing:-.03em;color:#fff;will-change:transform}
 .hero-title-part:first-child{color:#fff}
 .hero-title-part:last-child{color:#fff}
 .hero-description{position:absolute;bottom:30px;left:50%;transform:translateX(-50%);margin:0;width:min(500px,calc(100% - 64px));font-family:GenZ Editorial,Georgia,serif;font-size:20px;line-height:1.32;text-align:center;color:#111827;opacity:0}
-.scroll-cue{position:absolute;bottom:16%;left:50%;transform:translateX(-50%);display:flex;align-items:center;gap:8px;color:#fff;font-size:16px;line-height:28px;min-height:44px;padding:8px}
+.scroll-cue{position:absolute;bottom:16%;left:50%;transform:translateX(-50%);display:flex;align-items:center;gap:8px;color:#fff;font-size:16px;line-height:28px;min-height:44px;padding:8px;z-index:2}
 #scroll-cue-icon{display:flex}
 .hero-headline:focus,.hero-description:focus{outline:none}
 .site-navigation{--nav-width:calc(100% - 104px);--nav-top:48px;--nav-fill:0;--nav-pad:0px;position:fixed;inset:0 0 auto;height:106px;z-index:30;pointer-events:none;color:#fff}

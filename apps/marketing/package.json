@@ -8,7 +8,7 @@
     "build": "astro build",
     "check": "astro check",
     "test": "node --test tests/*.test.mjs",
-    "verify:browser": "node scripts/verify-browser.mjs && node scripts/verify-comparison.mjs && node scripts/verify-landing.mjs",
+    "verify:browser": "node scripts/verify-browser.mjs && node scripts/verify-comparison.mjs && node scripts/verify-landing.mjs && node scripts/verify-gesture-motion.mjs",
     "verify:comparison": "node scripts/verify-comparison.mjs",
     "verify:metadata": "node scripts/verify-production-metadata.mjs",
     "measure": "node scripts/measure-page.mjs",
