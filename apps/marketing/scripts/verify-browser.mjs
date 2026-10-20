@@ -193,6 +193,10 @@ try {
   }
 
   await page.setViewport({ width:390, height:844 });
+  await page.setRequestInterception(true);
+  const offlinePolicy = request => request.url().endsWith('/api/v1/public/inquiry-policy')
+    ? request.respond({ status:503, headers:{ 'access-control-allow-origin':new URL(origin).origin }, body:'{}' }) : request.continue();
+  page.on('request', offlinePolicy);
   await load('/contact/?role=investor');
   assert.equal(await page.$eval('input[name="role"]:checked', element => element.value), 'investor');
   await click('button[type="submit"]');
@@ -208,13 +212,14 @@ try {
   const download = await page.$eval('[download="gen-z-message.txt"]', async element => ({ text:await (await fetch(element.href)).text(), name:element.download }));
   assert.match(download.text, /Investor/);
   assert.match(download.text, /Illustrative browser verification/);
-  assert.equal(await page.$$eval('.inquiry-review-actions .primary-button', elements => elements.length), 0);
+  assert.equal(await page.$eval('.inquiry-review-actions .primary-button', element => element.disabled), true);
   await overflow('Contact mobile'); await audit('contact mobile');
   await page.screenshot({ path:fileURLToPath(new URL('contact-mobile.png', output)), fullPage:true });
   pass('contact invalid, draft, copy, download and honest disconnected state', 'no network submission or success receipt fabricated');
 
   // A configured platform may be offline locally. Capture the navigation without
   // depending on that server or treating its login as a marketing responsibility.
+  page.off('request', offlinePolicy); await page.setRequestInterception(false);
   const handoffs = [];
   await page.setRequestInterception(true);
   const captureHandoff = request => {

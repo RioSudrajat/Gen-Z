@@ -36,6 +36,7 @@ export function ContactForm({ policy = null, policyState = 'unavailable', canRet
   const [hydrated, setHydrated] = useState(false);
   const form = useRef(null);
   const heading = useRef(null);
+  const receipt = useRef(null);
   const pendingFocus = useRef(null);
   const requestKey = useRef(null);
   const inFlight = useRef(false);
@@ -66,6 +67,7 @@ export function ContactForm({ policy = null, policyState = 'unavailable', canRet
     return () => URL.revokeObjectURL(url);
   }, [draft]);
   useEffect(() => { setPrivacyAcknowledged(false); requestKey.current = null; }, [policy?.versionId]);
+  useEffect(() => { if (status === 'sent') receipt.current?.focus(); }, [status]);
 
   function resetReceipt() {
     setFeedback(''); setStatus('idle'); setReference(''); requestKey.current = null;
@@ -100,12 +102,14 @@ export function ContactForm({ policy = null, policyState = 'unavailable', canRet
   }
   function submit(event) {
     event.preventDefault();
-    if (locked || step === 3 || !validate(step === 1 ? 'details' : 'all')) return;
+    if (locked) return;
+    if (step === 3) { void send(); return; }
+    if (!validate(step === 1 ? 'details' : 'all')) return;
     const next = step + 1;
     setFurthest(current => Math.max(current, next)); move(next);
   }
   async function send() {
-    if (inFlight.current || status === 'sent' || role !== 'operator' || !policy || !validate()) return;
+    if (inFlight.current || status === 'sent' || !policy || !validate()) return;
     if (!privacyAcknowledged) {
       pendingFocus.current = 'privacyAcknowledged';
       setErrors({ privacyAcknowledged:'Read the privacy notice and confirm before sending.' });
@@ -194,7 +198,7 @@ export function ContactForm({ policy = null, policyState = 'unavailable', canRet
               ['Asset category',assetCategories[clean.assetCategory]], ['Country','Indonesia'], ['Province / region',clean.region], ['Operating status',operatingStates[clean.operationsState]],
               ['Financing need',clean.financingNeed ? 'IDR ' + clean.financingNeed.minorUnits.replace(/\B(?=(\d{3})+(?!\d))/g, ',') : 'Not specified'], ['Asset description',clean.message]] : [['Message',clean.message]]} />
             <details className="inquiry-privacy" id="inquiry-privacy"><summary>How your inquiry details are used</summary><p>Gen-Z uses your contact and inquiry details to review and respond to your request. Your inquiry does not subscribe you to marketing updates. Please leave sensitive documents out of this form.</p></details>
-            {policy && role === 'operator' && <div className="inquiry-privacy-ack">
+            {policy && <div className="inquiry-privacy-ack">
               <label className="inquiry-checkbox"><input id="contact-privacyAcknowledged" type="checkbox" name="privacyAcknowledged" checked={privacyAcknowledged} onChange={event => { setPrivacyAcknowledged(event.target.checked); setErrors({}); }} aria-invalid={Boolean(errors.privacyAcknowledged)} aria-describedby={errors.privacyAcknowledged ? 'contact-error-privacyAcknowledged' : undefined} />I have read the inquiry privacy notice.</label>
               <a href={policy.noticeUrl} target="_blank" rel="noopener noreferrer">Read privacy notice <span className="sr-only">(opens in a new tab)</span></a>
               {errors.privacyAcknowledged && <p className="entry-error" id="contact-error-privacyAcknowledged">{errors.privacyAcknowledged}</p>}
@@ -207,12 +211,12 @@ export function ContactForm({ policy = null, policyState = 'unavailable', canRet
         </fieldset>
         {step === 3 && <>
           <div className="inquiry-review-actions">
-            {policy && role === 'operator' && <button type="button" className="primary-button" disabled={locked} onClick={send}>{status === 'sending' ? 'Sending…' : status === 'sent' ? 'Inquiry received' : status === 'error' ? 'Retry sending' : 'Send inquiry'}<ArrowRightIcon size={18} aria-hidden="true" /></button>}
+            <button type="submit" className="primary-button" disabled={!policy || locked}>{status === 'sending' ? 'Sending…' : status === 'sent' ? 'Inquiry received' : status === 'error' ? 'Retry sending' : 'Send inquiry'}<ArrowRightIcon size={18} aria-hidden="true" /></button>
             <button type="button" className="secondary-button" onClick={copy}>Copy inquiry</button>
             {download && <a className="secondary-button" href={download} download="gen-z-message.txt">Download inquiry</a>}
           </div>
-          {status !== 'sent' && (!policy || role !== 'operator') && <p className="entry-preview-note">{policyState === 'loading' && role === 'operator' ? 'Checking inquiry availability…' : 'Sending is currently unavailable. Copy or download your inquiry to keep it.'}{canRetryPolicy && role === 'operator' && policyState === 'unavailable' && <button type="button" className="inquiry-text-button" onClick={onRetryPolicy}>Check availability</button>}</p>}
-          {reference && <p className="inquiry-receipt">Reference: <strong>{reference}</strong></p>}
+          {status !== 'sent' && !policy && <p className="entry-preview-note">{policyState === 'loading' ? 'Checking inquiry availability…' : 'We couldn’t connect to inquiry submission. Check availability to retry; your details are still here.'}{canRetryPolicy && policyState === 'unavailable' && <button type="button" className="inquiry-text-button" onClick={onRetryPolicy}>Check availability</button>}</p>}
+          {reference && <p className="inquiry-receipt" ref={receipt} tabIndex={-1}>Reference: <strong>{reference}</strong></p>}
         </>}
         {step === 2 && <p className="inquiry-sensitive-note">Please leave sensitive documents out of this form.</p>}
         <p className={'entry-feedback' + (status === 'error' ? ' entry-error' : '')} role="status" aria-live="polite">{feedback}</p>

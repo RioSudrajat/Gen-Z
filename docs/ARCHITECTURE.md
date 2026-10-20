@@ -26,13 +26,13 @@ flowchart LR
 
 | Komponen | Tanggung jawab | Status di source |
 |---|---|---|
-| `apps/marketing` | Astro landing, contact, legal, media/islands; handoff ke auth platform | Ada; inquiry persistence belum ada |
+| `apps/marketing` | Astro landing, contact, legal, media/islands; handoff ke auth platform | Ada; intake publik tersimpan di platform |
 | `apps/platform` | Next.js auth, protected shell, route handlers dan server services | SIWE/sesi ada; resource/investment domain belum ada |
 | `packages/domain` | Keys tujuh tab, environment dan tipe domain bersama | Subset awal |
 | `packages/content-schema` | Typed blocks dan referensi metric/document/media | Subset; bukan CMS/publication/authorization |
 | `packages/design-tokens` | Token visual bersama | Ada; arah di [DESIGN](../DESIGN.md) |
 | `workers/operations` | Worker terpisah untuk retry/retensi/ingestion/reconciliation | Entry dan health; belum ada job handlers |
-| PostgreSQL + Drizzle/`pg` | Auth persistence; target domain/register/ledger | Empat tabel identity + ledger migrasi; [ERD](ERD.md) |
+| PostgreSQL + Drizzle/`pg` | Auth persistence; target domain/register/ledger | Empat tabel identity, tiga tabel intake + ledger migrasi; [ERD](ERD.md) |
 | Private object storage | Original/investor-copy evidence, version dan akses | Target; provider belum dipilih |
 | Kontrak dan chain indexer | Escrow, allocation, funded distribution, finality reconciliation | Rancangan D1; belum diimplementasikan |
 
@@ -76,7 +76,7 @@ Koneksi wallet saja belum membuat sesi. Proof EOA diverifikasi server; contract-
 
 ## 5. Runtime target
 
-Inquiry: commit inquiry + reference + notification outbox satu transaksi, baru tampilkan sukses. Worker retry notifikasi tanpa membatalkan inquiry; retensi memakai interaksi bermakna, bukan notification retry.
+Intake publik tersedia sejak 20 Oktober: commit inquiry + reference + notification outbox satu transaksi, baru tampilkan sukses. Worker/admin inbox/retensi otomatis belum tersedia. Worker retry notifikasi tanpa membatalkan inquiry; retensi memakai interaksi bermakna, bukan notification retry.
 
 Investasi: scoped offering read → eligibility → quote/consent versioned → input/conversion → net settlement + closing → allocation/register/position. Distribusi: reviewed collection → perhitungan entitlement → approval → verified funding → atomic claim reservation → dispatch → finalized/domain reconciliation → receipt. [Flows](engineering/flows.md) memuat state dan failure paths; [finance](product/finance.md) memuat basis hak/uang.
 
@@ -86,7 +86,7 @@ Arah [lifecycle RWA](engineering/rwa-lifecycle.md) diterima 20 Oktober, belum im
 
 Sumber implementasi schema adalah [Drizzle schema](../apps/platform/src/server/db/schema.ts) bersama [migrasi SQL](../apps/platform/db/migrations/). [ERD](ERD.md) merangkum data fisik dan target; [data dictionary](engineering/data-model.md) menyimpan field/invariant target. Editorial/evidence, raw telemetry, reviewed report dan ledger keuangan dipisahkan secara logis.
 
-Route handlers menangani Origin/validasi/cookie/response; service server-only menangani proof/sesi dan database. [Kontrak API MVP](engineering/api.md) memisahkan enam operasi source dari proposed domain; OpenAPI/reference/coverage merinci request, response, akses dan failure. [Routes/API target](engineering/routes-and-api.md) menyimpan ringkasan manifest awal. Semua private reads/downloads/cache memerlukan server authorization pada resource; download target melalui app proxy dengan session-bound access grant. Session-only layout tidak cukup. Detail: [Security](SECURITY.md).
+Route handlers menangani Origin/validasi/cookie/response; service server-only menangani proof/sesi dan database. [Kontrak API MVP](engineering/api.md) memisahkan sembilan operasi source dari proposed domain; OpenAPI/reference/coverage merinci request, response, akses dan failure. [Routes/API target](engineering/routes-and-api.md) menyimpan ringkasan manifest awal. Semua private reads/downloads/cache memerlukan server authorization pada resource; download target melalui app proxy dengan session-bound access grant. Session-only layout tidak cukup. Detail: [Security](SECURITY.md).
 
 Uang/unit memakai integer minor units atau decimal string dengan precision terkontrol. Simbol token bukan identitas aset. Source financial facts/model/dataset canonical dibagi calculator, tabel dan portfolio; formula bebas/rich text tidak menjadi ledger.
 

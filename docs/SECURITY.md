@@ -51,7 +51,7 @@ Session saat ini mengembalikan `workspaces: []`; belum ada role/grant/eligibilit
 
 ## 5. Privasi, retensi dan rahasia
 
-Inquiry publik tidak meminta dokumen sensitif dan tidak otomatis masuk marketing. Tidak berlanjut: hapus 90 hari sejak interaksi terakhir; aktif: review tiap 90 hari. Implementasi retensi belum tersedia; lifecycle inbox/provider/backup perlu dipilih sebelum diterapkan. Notification retries tidak mereset jam retensi. Bukti investasi dan ledger mempunyai kebijakan tersendiri, bukan ikut dihapus oleh aturan inquiry.
+Inquiry publik tidak meminta dokumen sensitif dan tidak otomatis masuk marketing. Tidak berlanjut: hapus 90 hari sejak interaksi terakhir; aktif: review tiap 90 hari. Intake menyimpan due date 90 hari dan satu outbox atomik; penghapusan/review otomatis, admin inbox, notification delivery dan lifecycle backup belum tersedia. Notification retries tidak mereset jam retensi. Bukti investasi dan ledger mempunyai kebijakan tersendiri, bukan ikut dihapus oleh aturan inquiry.
 
 Credential hanya pada environment privat service; `PUBLIC_*`/`NEXT_PUBLIC_*` dianggap terbaca browser. Jangan memasukkan database/RPC credential ke package pure, artefak riset, response error atau log. Gunakan [setup lokal](operations/runbook.md) yang menjaga konfigurasi/data existing.
 

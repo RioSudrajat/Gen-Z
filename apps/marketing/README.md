@@ -54,14 +54,14 @@ Tujuh tab offering, dataset finansial, auth/session, inquiry persistence, approv
 
 `PUBLIC_PLATFORM_ORIGIN` pada `.env` milik marketing hanya menerima HTTPS origin tanpa path/query/credential. HTTP loopback diperbolehkan untuk development. Tidak ada origin produksi atau vendor yang ditebak. Contoh ada di [.env.example](.env.example). Environment dibaca saat build, jadi perubahan memerlukan rebuild/redeploy untuk output statis.
 
-Wallet login platform lokal sekarang tersedia pada `http://localhost:3001/auth`; origin ini dapat dipakai untuk Launch app. Endpoint inquiry belum dibuat. `PUBLIC_PLATFORM_INQUIRIES_ENABLED` default `false`, sehingga pengaturan origin untuk auth tidak otomatis mengubah contact draft menjadi pengiriman server. Set `true` hanya sesudah inquiry persistence, validasi/CORS, idempotency dan receipt endpoint benar-benar tersedia.
+Wallet login platform lokal tersedia pada `http://localhost:3001/auth`. Preview HTTP loopback otomatis memakai platform tersebut, termasuk Contact pada port preview berbeda. Jalankan `npm run setup:platform` dan `npm run dev:platform` dari root untuk menyalakan platform dan database. Production tetap memerlukan `PUBLIC_PLATFORM_ORIGIN` eksplisit. Endpoint inquiry sudah menyimpan ketiga topik; `PUBLIC_PLATFORM_INQUIRIES_ENABLED` default `true`, dapat dimatikan dengan `false`.
 
 Tombol Launch app dan tautan App sekarang memakai `site.platformAuthUrl`, langsung menuju `/auth?returnTo=%2Fapp` pada origin platform yang dikonfigurasi. Tanpa origin, tujuan tetap halaman handoff `/auth/`. File referensi `NemesisStackSection.tsx` di root telah dihapus karena tidak diimpor Astro; runtime stack tetap `src/components/islands/GenZStack.tsx` dan snapshot riset di `docs/design/references` dipertahankan.
 
 - `/auth/` dan `/dashboard/` melanjutkan ke `<platform>/auth?returnTo=/app`.
 - `/assets/` melanjutkan ke auth dengan `returnTo=/app/assets`.
 - URL lama `/assets/<slug>` dan `/app/assets/<slug>` yang masuk ke custom 404 dapat diteruskan ke auth untuk path internal tervalidasi. Slug tidak memberi otorisasi. Host statis harus mengirim `404.html` untuk URL tidak dikenal; dengan JavaScript nonaktif tautan Workspace access tetap tersedia.
-- Tanpa konfigurasi, halaman handoff menjelaskan workspace belum terhubung dan menawarkan contact. Tidak ada login email, role picker, sessionStorage atau dashboard anonim.
+- Pada preview HTTP loopback, handoff membuka wallet login lokal. Pada deployment publik tanpa konfigurasi, handoff menjelaskan workspace belum terhubung dan menawarkan contact. Tidak ada login email, role picker, sessionStorage atau dashboard anonim.
 - Origin platform harus berbeda dari origin marketing untuk deployment dua aplikasi ini. Server platform tetap wajib memeriksa resource, sesi dan `returnTo` sendiri.
 - `/health.json` tetap konservatif: readiness backend/finance tidak diklaim dari keberhasilan render marketing.
 

@@ -1,6 +1,6 @@
 # Gen-Z Platform
 
-**Fondasi Base, 18 Oktober 2026:** login memakai EVM/SIWE dengan konteks Base Sepolia 84532. wagmi/viem menangani discovery wallet dan tanda tangan; sesi opaque berada di PostgreSQL. [Riset](../../docs/research/base-evm-2026-10-18.md) tetap acuan tahap berikutnya. Kontrak investasi, conversion, inquiry/outbox dan funded claim belum diimplementasikan melalui fondasi login ini.
+**Fondasi Base, 18 Oktober 2026:** login memakai EVM/SIWE dengan konteks Base Sepolia 84532. wagmi/viem menangani discovery wallet dan tanda tangan; sesi opaque berada di PostgreSQL. [Riset](../../docs/research/base-evm-2026-10-18.md) tetap acuan tahap berikutnya. Kontrak investasi, conversion dan funded claim belum diimplementasikan melalui fondasi login ini. Intake publik sudah menyimpan inquiry dan outbox; delivery notifikasi, admin inbox dan otomasi retensi belum tersedia.
 
 Satu aplikasi Next.js/TypeScript di workspace `@gen-z/platform`. Marketing tetap berada di `apps/marketing` (Astro). Dependency aplikasi mengikuti satu `package-lock.json` di root repo.
 

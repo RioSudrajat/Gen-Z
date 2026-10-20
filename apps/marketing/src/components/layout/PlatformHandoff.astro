@@ -12,11 +12,27 @@ const target = platformAuthUrl(site.platformOrigin, returnTo);
 <PublicLayout title="Gen-Z workspace access" description="Wallet authentication and the investor workspace are served by the Gen-Z platform." noindex>
   {target && <meta slot="head" http-equiv="refresh" content={`0;url=${target}`} />}
   <EntryHeader />
-  <main id="entry-main" class="entry-status" tabindex="-1">
+  <main id="entry-main" class="entry-status" tabindex="-1" data-platform-handoff data-platform-origin={site.platformOrigin} data-return-to={returnTo}>
     <h1>{target ? 'Continue to the Gen-Z workspace.' : 'Let’s get you connected.'}</h1>
     <p>{target ? 'Sign in with your wallet to continue.' : 'Contact our team about workspace access.'}</p>
-    {target && <a class="primary-button" href={target}>Continue to wallet sign-in</a>}
+    <a class="primary-button" data-wallet-handoff href={target || '#'} hidden={!target}>Continue to wallet sign-in</a>
     <a class="secondary-button" href="/contact/?role=investor">Discuss your mandate</a><a class="entry-back" href="/">Back to Gen-Z</a>
   </main>
   <EntryFooter />
 </PublicLayout>
+<script>
+  import { browserPlatformOrigin, platformAuthUrl } from '../../application/platform-links.mjs';
+  const handoff = document.querySelector<HTMLElement>('[data-platform-handoff]');
+  if (handoff) {
+    const origin = browserPlatformOrigin(handoff.dataset.platformOrigin || '', location.origin);
+    const target = platformAuthUrl(origin, handoff.dataset.returnTo);
+    if (target) {
+      const link = handoff.querySelector<HTMLAnchorElement>('[data-wallet-handoff]');
+      if (link) { link.href = target; link.hidden = false; }
+      location.replace(target);
+    }
+  }
+</script>
+<style>
+  [data-wallet-handoff][hidden] { display: none; }
+</style>

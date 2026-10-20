@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import { readFile, readdir } from 'node:fs/promises';
 import { createHash } from 'node:crypto';
 import { allowedReturnTo, platformOrigin, platformAuthUrl, legacyReturnTo } from '../src/application/platform-links.mjs';
-import { emptyContact, emptyContext, validateInquiry, inquiryDraft, inquiryPayload, operatorInquiryPayload } from '../src/application/inquiry.mjs';
+import { emptyContact, emptyContext, validateInquiry, inquiryDraft, inquiryPayload, operatorInquiryPayload, contactInquiryPayload } from '../src/application/inquiry.mjs';
 import { loadInquiryPolicy, submitInquiry } from '../src/infrastructure/inquiry-client.mjs';
 
 const valid = { ...emptyContact(), ...emptyContext(), role:'operator', name:'Test Operator', company:'Demo', email:'operator@example.invalid', assetCategory:'energy', region:'West Java', operationsState:'operational', message:'Illustrative inquiry for automated verification.' };
@@ -121,4 +121,17 @@ test('marketing source does not depend on legacy, platform implementation, sessi
   }
   const form = await readFile(new URL('../src/features/contact/ContactForm.jsx', import.meta.url), 'utf8');
   assert.doesNotMatch(form, /from\s+['"][^'"]*infrastructure|fetch\(|import\.meta\.env/);
+});
+
+
+test('investor and partner submissions preserve the topic and require privacy acknowledgement', () => {
+  for (const role of ['investor','partner']) {
+    const values = { ...valid, role, privacyAcknowledged:true };
+    const payload = contactInquiryPayload(values, policyId);
+    assert.equal(payload.topic, role);
+    assert.equal(payload.message, valid.message);
+    assert.equal(payload.privacyAcknowledged, true);
+    assert.equal(payload.assetCategory, undefined);
+    assert.throws(() => contactInquiryPayload({ ...values, privacyAcknowledged:false }, policyId));
+  }
 });

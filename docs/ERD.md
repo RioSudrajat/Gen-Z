@@ -1,6 +1,6 @@
 # ERD dan model data Gen-Z
 
-**Baseline:** 18 Oktober 2026. Ada dua tingkat: schema fisik auth yang tersedia di source, dan model logis target produk. Entitas target belum menjadi tabel/migrasi atau kontrak final. [Kamus data](engineering/data-model.md) menjelaskan field/invariant target; istilah domain ada di [Glossary](../GLOSSARY.md).
+**Baseline:** 18 Oktober 2026. Ada dua tingkat: schema fisik auth/intake yang tersedia di source, dan model logis target produk. Entitas target belum menjadi tabel/migrasi atau kontrak final. [Kamus data](engineering/data-model.md) menjelaskan field/invariant target; istilah domain ada di [Glossary](../GLOSSARY.md).
 
 ## 1. ERD fisik: identity yang sudah diimplementasikan
 
@@ -55,6 +55,12 @@ Semua tabel di atas berada pada schema `identity`. Satu wallet account dapat mem
 Default `solana`, `legacy` dan `legacy-siws` mempertahankan arti data lama. Service baru selalu menulis namespace EVM, chain aktif dan proof method SIWE; `readSession` menolak proof legacy. Runtime auth hanya Base Sepolia; schema yang mengizinkan `8453` tidak mengaktifkan mainnet.
 
 Runner juga memiliki tabel operasional `public.genz_schema_migrations` untuk checksum migrasi; tabel itu bukan entitas produk. Detail: [ADR 0003](adr/0003-postgres-drizzle-migrations.md).
+
+## 1a. Intake publik yang tersedia, 20 Oktober 2026
+
+Schema `intake` memiliki `inquiries` (UUID PK, reference dan hash idempotency unik, payload tervalidasi, topik, versi notice, received/last interaction/due date), `notification_outbox` (UUID PK, satu FK inquiry unik dengan cascade delete, state pending/delivered/failed) dan `rate_limits` (bucket hash/menit PK). Inquiry dan outbox dibuat satu transaksi. Index due date mendukung pekerjaan retensi berikutnya; clock 90 hari tidak berubah pada replay atau notifikasi. Semua data ini server-only; belum ada endpoint baca publik/admin ataupun grant otomatis.
+
+Migrasi baru: [public inquiry intake](../apps/platform/db/migrations/20261020063024_public_inquiry_intake.sql). Tabel lama dipertahankan. Otomasi retensi dan delivery worker masih belum tersedia.
 
 ## 2. ERD logis target: proyek dan offering [R]
 

@@ -43,6 +43,10 @@ async function audit(label) {
   pass(label + ' axe: zero violations');
 }
 try {
+  await page.setRequestInterception(true);
+  const offlinePolicy = request => request.url().endsWith('/api/v1/public/inquiry-policy')
+    ? request.respond({ status:503, headers:{ 'access-control-allow-origin':new URL(origin).origin }, body:'{}' }) : request.continue();
+  page.on('request', offlinePolicy);
   const reference = { width:1435, height:1096 };
   await page.setViewport({ width:reference.width, height:reference.height, deviceScaleFactor:1 });
   await load();
@@ -67,7 +71,7 @@ try {
   assert.equal(await page.$eval('#contact-financingAmount', node => node.disabled), true);
   await click('button[type=submit]'); await step(3);
   assert.match(await page.$eval('.message-review', node => node.textContent), /Not specified/);
-  assert.equal(await page.$('.inquiry-review-actions .primary-button'), null);
+  assert.equal(await page.$eval('.inquiry-review-actions .primary-button', node => node.disabled), true);
   await audit('operator review disconnected');
   await click('.inquiry-privacy summary');
   assert.equal(await page.$eval('.inquiry-privacy', node => node.open), true);
@@ -113,6 +117,7 @@ try {
   assert.equal(await page.evaluate(() => getComputedStyle(document.activeElement).outlineStyle), 'solid');
   pass('light-only, reduced motion and visible keyboard focus');
 
+  page.off('request', offlinePolicy); await page.setRequestInterception(false);
   if (configured) {
     const attempts = [];
     let fail = true;
@@ -129,7 +134,7 @@ try {
     };
     page.on('request', intercept);
     await load('', configured); await details(); await asset(); await click('button[type=submit]'); await step(3);
-    assert.equal(await page.$('.inquiry-review-actions .primary-button'), null);
+    assert.equal(await page.$eval('.inquiry-review-actions .primary-button', node => node.disabled), true);
     policyAvailable = true;
     await click('.entry-preview-note button');
     try { await page.waitForSelector('#contact-privacyAcknowledged', { timeout:5000 }); }

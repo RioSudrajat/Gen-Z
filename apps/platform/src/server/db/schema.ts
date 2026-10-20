@@ -106,3 +106,64 @@ export const authRateLimits = identity.table(
     }),
   ],
 );
+
+export const intake = pgSchema("intake");
+export const inquiries = intake.table(
+  "inquiries",
+  {
+    id: uuid("id").primaryKey(),
+    reference: text("reference").notNull().unique(),
+    keyHash: char("key_hash", { length: 64 }).notNull().unique(),
+    requestHash: char("request_hash", { length: 64 }).notNull(),
+    topic: text("topic").notNull(),
+    payload: jsonb("payload").$type<Record<string, unknown>>().notNull(),
+    privacyNoticeVersionId: uuid("privacy_notice_version_id").notNull(),
+    receivedAt: timestamp("received_at", { withTimezone: true })
+      .notNull()
+      .defaultNow(),
+    lastInteractionAt: timestamp("last_interaction_at", { withTimezone: true })
+      .notNull()
+      .defaultNow(),
+    retentionDueAt: timestamp("retention_due_at", { withTimezone: true })
+      .notNull()
+      .default(sql`CURRENT_TIMESTAMP + INTERVAL '90 days'`),
+  },
+  (table) => [
+    check(
+      "inquiries_topic_check",
+      sql`${table.topic} IN ('operator', 'investor', 'partner')`,
+    ),
+    index("inquiries_retention_due").on(table.retentionDueAt),
+  ],
+);
+
+export const inquiryOutbox = intake.table(
+  "notification_outbox",
+  {
+    id: uuid("id").primaryKey(),
+    inquiryId: uuid("inquiry_id")
+      .notNull()
+      .references(() => inquiries.id, { onDelete: "cascade" })
+      .unique(),
+    state: text("state").notNull().default("pending"),
+    createdAt: timestamp("created_at", { withTimezone: true })
+      .notNull()
+      .defaultNow(),
+  },
+  (table) => [
+    check(
+      "inquiry_outbox_state_check",
+      sql`${table.state} IN ('pending', 'delivered', 'failed')`,
+    ),
+  ],
+);
+
+export const inquiryRateLimits = intake.table(
+  "rate_limits",
+  {
+    bucket: text("bucket").notNull(),
+    minute: timestamp("minute", { withTimezone: true }).notNull(),
+    attempts: integer("attempts").notNull(),
+  },
+  (table) => [primaryKey({ columns: [table.bucket, table.minute] })],
+);

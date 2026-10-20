@@ -48,3 +48,12 @@ export function inquiryDraft(values) {
     ...(clean.role === 'operator' ? ['', `Asset category: ${assetCategories[clean.assetCategory]}`, 'Country: Indonesia', `Province / region: ${clean.region}`, `Operating status: ${operatingStates[clean.operationsState]}`,
       `Financing need: ${clean.financingNeed ? 'IDR ' + clean.financingNeed.minorUnits.replace(/\B(?=(\d{3})+(?!\d))/g, ',') : 'Not specified'}`] : []), '', clean.message].join('\n');
 }
+
+export function contactInquiryPayload(values, policyVersionId) {
+  if (values.role === 'operator') return operatorInquiryPayload(values, policyVersionId);
+  if (!['investor', 'partner'].includes(values.role) || Object.keys(validateInquiry(values)).length || !values.privacyAcknowledged || !/^[0-9a-f]{8}-(?:[0-9a-f]{4}-){3}[0-9a-f]{12}$/i.test(policyVersionId || '')) {
+    throw new Error('Review your details and the privacy notice before sending.');
+  }
+  const clean = inquiryPayload(values);
+  return { topic:clean.role, contact:{ name:clean.name, email:clean.email, organization:clean.company || null, phone:clean.phone || null }, message:clean.message, privacyNoticeVersionId:policyVersionId, privacyAcknowledged:true };
+}

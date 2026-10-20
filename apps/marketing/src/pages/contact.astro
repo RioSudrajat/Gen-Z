@@ -11,7 +11,7 @@ import '../styles/entry.css';
   <EntryHeader />
   <main id="entry-main" class="contact-page" tabindex="-1">
     <a class="entry-back" href="/">← Back to Gen-Z</a>
-    <ContactExperience client:load endpoint={site.inquiryEndpoint} operatorImage={operatorImage.src} />
+    <ContactExperience client:load endpoint={site.inquiryEndpoint} enabled={site.inquiryEnabled} operatorImage={operatorImage.src} />
   </main>
   <noscript><p class="no-script">JavaScript is required to review and send this form. No inquiry has been submitted.</p></noscript>
   <EntryFooter />

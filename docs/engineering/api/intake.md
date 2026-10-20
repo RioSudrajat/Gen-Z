@@ -6,8 +6,9 @@
 
 | Operation | Method/path | Status | Acceptance |
 |---|---|---|---|
-| [createInquiry](#createinquiry) | `POST /api/v1/inquiries` | proposed | M01, M02, M17 |
-| [getInquiryPolicy](#getinquirypolicy) | `GET /api/v1/public/inquiry-policy` | proposed | M01, M02 |
+| [createInquiry](#createinquiry) | `POST /api/v1/inquiries` | source | M01, M02, M17, M17 |
+| [preflightInquiry](#preflightinquiry) | `OPTIONS /api/v1/inquiries` | source | M01, M02, M17 |
+| [getInquiryPolicy](#getinquirypolicy) | `GET /api/v1/public/inquiry-policy` | source | M01, M02, M17 |
 | [listInquiries](#listinquiries) | `GET /api/v1/admin/inquiries` | proposed | M02 |
 | [getInquiry](#getinquiry) | `GET /api/v1/admin/inquiries/{inquiryId}` | proposed | M02 |
 | [updateInquiry](#updateinquiry) | `PATCH /api/v1/admin/inquiries/{inquiryId}` | proposed | M02 |
@@ -20,41 +21,53 @@
 
 **Terima inquiry publik** — `POST /api/v1/inquiries`
 
-Status: **proposed [R]**; fase D0; sukses 201 → `InquiryReceipt`.
+Status: **source**; fase D0; sukses 201 → `InquiryReceipt`.
 
-Akses: publik. Publik; allowed marketing Origin, rate limit; tidak dapat membaca inquiry.
+Akses: publik. Publik; exact GENZ_MARKETING_ORIGIN atau app origin. Pada app HTTP loopback, preview HTTP loopback juga diizinkan. Tanpa cookie/grant dan tanpa akses baca inquiry.
 
 Wajib `Idempotency-Key`. Wajib `Origin` yang diizinkan. 
 
-Commit inquiry + reference + outbox satu transaksi sebelum 201. Notification retry tidak mengubah penerimaan/retensi.
+Operator memakai OperatorInquiryRequest; investor/partner GeneralInquiryRequest. UUID Idempotency-Key, body maksimal 32 KiB. Commit inquiry + reference + outbox satu transaksi sebelum 201; replay identik mengembalikan receipt sama selama record disimpan. Limit 60 inquiry global dan 3/email per menit, replay tidak dihitung. Outbox pending; delivery worker/admin/retention automation belum tersedia.
 
-| Field | Wajib | Tipe / batas |
-|---|---|---|
-| `contact` | Ya | Contact |
-| `assetCategory` | Ya | `energy` / `infrastructure` |
-| `location` | Ya | object |
-| `operationsState` | Ya | `operational` / `maintenance` / `planned` / `unknown` |
-| `assetDescription` | Ya | string; maks 4000 karakter |
-| `financingNeed` | Ya | Money atau null |
-| `privacyNoticeVersionId` | Ya | Id |
-| `privacyAcknowledged` | Ya | true |
+Schema: `InquiryRequest` (OperatorInquiryRequest atau GeneralInquiryRequest).
 
-Error: **400** `INVALID_JSON`; **403** `FORBIDDEN`, `INVALID_ORIGIN`; **409** `STATE_CONFLICT`, `IDEMPOTENCY_CONFLICT`, `COMMAND_IN_PROGRESS`; **413** `BODY_TOO_LARGE`; **415** `JSON_REQUIRED`; **422** `INVALID_INPUT`, `EXCESS_PRECISION`, `WRONG_ASSET`, `EVIDENCE_INVALID`; **429** `TOO_MANY_ATTEMPTS`; **503** `SERVICE_UNAVAILABLE`, `PROVIDER_UNAVAILABLE`.
+Error: **400** `INVALID_JSON`; **403** `INVALID_ORIGIN`; **409** `STATE_CONFLICT`, `IDEMPOTENCY_CONFLICT`; **413** `BODY_TOO_LARGE`; **415** `JSON_REQUIRED`; **422** `INVALID_INPUT`; **429** `TOO_MANY_ATTEMPTS`; **503** `SERVICE_UNAVAILABLE`.
+
+Source: [handler](../../../apps/platform/src/app/api/v1/inquiries/route.ts).
+
+
+## preflightInquiry
+
+**Preflight pengiriman inquiry** — `OPTIONS /api/v1/inquiries`
+
+Status: **source**; fase D0; sukses 204 tanpa body.
+
+Akses: publik. Publik; exact GENZ_MARKETING_ORIGIN atau app origin. Pada app HTTP loopback, preview HTTP loopback juga diizinkan. Tanpa cookie/grant dan tanpa akses baca inquiry.
+
+Wajib `Origin` yang diizinkan. 
+
+CORS hanya POST dengan Content-Type dan Idempotency-Key. Tidak mengizinkan credentials.
+
+Error: **403** `INVALID_ORIGIN`; **503** `SERVICE_UNAVAILABLE`.
+
+Source: [handler](../../../apps/platform/src/app/api/v1/inquiries/route.ts).
 
 
 ## getInquiryPolicy
 
 **Privacy notice version untuk intake publik** — `GET /api/v1/public/inquiry-policy`
 
-Status: **proposed [R]**; fase D0; sukses 200 → `InquiryPolicy`.
+Status: **source**; fase D0; sukses 200 → `InquiryPolicy`.
 
-Akses: publik. Publik; tetap mengikuti Origin/rate limit yang disebutkan.
+Akses: publik. Publik; exact GENZ_MARKETING_ORIGIN atau app origin. Pada app HTTP loopback, preview HTTP loopback juga diizinkan. Tanpa cookie/grant dan tanpa akses baca inquiry.
 
-
+Wajib `Origin` yang diizinkan. 
 
 Read/model atau command tunduk pada invariant dan akses di konvensi.
 
-Error: **403** `FORBIDDEN`; **429** `TOO_MANY_ATTEMPTS`; **503** `SERVICE_UNAVAILABLE`, `PROVIDER_UNAVAILABLE`.
+Error: **403** `INVALID_ORIGIN`; **503** `SERVICE_UNAVAILABLE`.
+
+Source: [handler](../../../apps/platform/src/app/api/v1/public/inquiry-policy/route.ts).
 
 
 ## listInquiries

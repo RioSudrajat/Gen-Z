@@ -1,6 +1,6 @@
 # Kontrak API MVP
 
-**Baseline:** kontrak `0.1.0-draft` [R], 18 Oktober 2026. Kontrak mencakup seluruh area MVP: **150 operasi**, **6 tersedia di source** dan **144 proposed**. Ini kelengkapan spesifikasi interface, bukan implementasi seluruh backend atau hasil uji transaksi.
+**Baseline:** kontrak `0.1.0-draft` [R], 18 Oktober 2026. Kontrak mencakup seluruh area MVP: **151 operasi**, **9 tersedia di source** dan **142 proposed**. Ini kelengkapan spesifikasi interface, bukan implementasi seluruh backend atau hasil uji transaksi.
 
 Mulai dari **[konvensi integrasi](api/conventions.md)** dan **[OpenAPI JSON](api/openapi.json)**. Kontrak memuat request/response nested, parameters, required fields, auth, success/error status, contoh synthetic, idempotency, concurrency dan mapping requirement. **[Contoh alur](api/examples.md)** menjelaskan IDRX/USDC → subscription → funded claim serta failure paths. **[Coverage M01–M17](api/coverage.md)** mencatat bagian yang tetap memerlukan domain/UI/legal verification.
 
@@ -29,7 +29,7 @@ Sumber yang diedit: [contract.mjs](api/contract.mjs). Reference per area dan Ope
 
 ## Ringkasan auth yang sudah tersedia
 
-**Baseline:** inspeksi handlers source 18 Oktober 2026. Tidak menguji HTTP ulang pada reorganisasi ini. Origin platform lokal default `http://localhost:3001`; origin deployment mengikuti konfigurasi. Target API investasi/inquiry belum diimplementasikan; lihat [manifest target](routes-and-api.md).
+**Baseline:** inspeksi handlers source 18 Oktober 2026. Tidak menguji HTTP ulang pada reorganisasi ini. Origin platform lokal default `http://localhost:3001`; origin deployment mengikuti konfigurasi. Intake publik (policy, create dan CORS preflight) tersedia sejak 20 Oktober; admin inbox, notification worker, retensi otomatis dan API investasi belum diimplementasikan; lihat [manifest target](routes-and-api.md).
 
 ## Endpoint dan akses
 
