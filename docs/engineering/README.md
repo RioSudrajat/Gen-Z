@@ -9,5 +9,6 @@ Mulai dari [Architecture](../ARCHITECTURE.md) dan [ERD](../ERD.md), lalu baca de
 | [Routes dan API target](routes-and-api.md) | Rancangan manifest app/investment; belum tersedia |
 | [Kamus data](data-model.md) | Entitas/field/invariant target; ERD fisik auth terpisah |
 | [Flows](flows.md) | Rancangan end-to-end, transisi dan failure paths |
+| [Lifecycle token RWA](rwa-lifecycle.md) | Arah accepted 20 Oktober; unit, mint/burn/expiry, funded claim dan data boundary; belum implementasi |
 
 Kontrak/integrasi Base lebih rinci pada [riset Base/EVM](../research/base-evm-2026-10-18.md); rekomendasi riset bukan kontrak produksi. Setup dan perintah database dimiliki [README platform](../../apps/platform/README.md); [ADR](../adr/README.md) menjelaskan alasan pilihan.

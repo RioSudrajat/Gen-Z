@@ -30,6 +30,15 @@ PRD menyatakan scope, [requirements](product/requirements.md) menyimpan acceptan
 
 Quote expired setelah dana datang tidak langsung dialokasikan. Input token confirmed tetapi conversion gagal tetap liability aset yang benar. Closing failure/refund tidak menghasilkan allocation dan full refund atas dana sama. Meter/invoice belum dibayar tidak menambah claimable. Hak tanpa funding, user lain atau claim paralel tidak membayar dua kali. Transfer unknown direkonsiliasi sebelum retry. Semua koreksi/reversal mempertahankan jejak.
 
+Tambahan acceptance untuk [lifecycle yang diterima 20 Oktober](engineering/rwa-lifecycle.md), belum hasil uji:
+
+- M07/M11: income payout tidak mengubah unit; capital recovery tidak menurunkan variable participation bila terms masih memberi bobot sama; principal not applicable tidak direpresentasikan sebagai janji pelunasan.
+- M09/M12: allocation ID ditegakkan kontrak, refund tidak memakai dana yang telah dialokasikan dan burn tidak membuka kembali issuance cap tanpa koreksi yang sah.
+- M11/M12/M14: akhir tenor menghentikan accrual baru tetapi accrued unpaid/default/dispute tetap; public/auto maturity burn ditolak; burn sebelum payout hanya dengan klaim pengganti persisten dan reserve cukup.
+- M13/M14: unauthorized mint/burn/recovery dan allowance bypass gagal; recovery old/new binding mempertahankan total hak serta claimed history. Pause dan role/proxy authority ditinjau bersama, bukan UI-only checks.
+
+Demo memodelkan kasus tersebut secara sintetis. Pembuktian kontrak/indexer aktual tetap memerlukan D1 dan tidak digantikan kelulusan pemeriksaan dokumentasi.
+
 ## 4. Perintah yang tersedia
 
 Dari root, setelah setup yang relevan:

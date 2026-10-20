@@ -46,6 +46,10 @@ Eligibility tidak menjadi syarat membaca approved investor copies setelah login.
 
 IDRX dan native USDC adalah dua input ke satu denominasi hak IDR untuk kas IDR. Quote berisi biaya/kurs/basis/expiry/min_net; allocation mengikuti net settled amount, bukan gross transfer atau angka dari browser. Provider/executable capacity dan payout/refund currency aktual [O]. Claim bukan janji principal redemption, profit tetap atau exit instan.
 
+### Akhir partisipasi dan penutupan posisi
+
+Arah [lifecycle token RWA](rwa-lifecycle.md) diterima founder 20 Oktober [F]; transisi kontrak tetap rancangan dan belum diimplementasikan. Income claim dan capital recovery tanpa pengakhiran hak tidak membakar unit. Tenor selesai → stop accrual menurut terms → rekonsiliasi accrued unpaid/residual/default/dispute → selesaikan hak atau pertahankan klaim pengganti yang sah dan terlindungi → close posisi; burn opsional sesuai case/authority. D1 tidak memiliki public burn atau auto-burn maturity. Jika burn mendahului payout, payable pengganti harus persisten dan terdanai. Old wallet recovery tidak boleh mengulang claim yang sudah dibayar.
+
 ### Laporan dan publikasi
 
 Submission facts/evidence/report → draft revision → review versi tertentu → approval → published investor copy/read model. Koreksi membuat versi baru beserta alasan/histori; consent posisi lama tetap terikat versi terms/model yang disetujui.
