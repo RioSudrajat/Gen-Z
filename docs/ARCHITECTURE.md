@@ -80,6 +80,8 @@ Inquiry: commit inquiry + reference + notification outbox satu transaksi, baru t
 
 Investasi: scoped offering read → eligibility → quote/consent versioned → input/conversion → net settlement + closing → allocation/register/position. Distribusi: reviewed collection → perhitungan entitlement → approval → verified funding → atomic claim reservation → dispatch → finalized/domain reconciliation → receipt. [Flows](engineering/flows.md) memuat state dan failure paths; [finance](product/finance.md) memuat basis hak/uang.
 
+Arah [lifecycle RWA](engineering/rwa-lifecycle.md) diterima 20 Oktober, belum implementasi: unit partisipasi tetap per offering/series, payout/modal terpisah dan burn menurut penyelesaian hak. State kontrak menegakkan business IDs, reserve, recipient binding dan claimed history; calculation/evidence tetap off-chain berversi. Expiry tidak menghapus accrued unpaid liabilities. [ADR 0004](adr/0004-project-rights-lifecycle.md) menjelaskan pemilihan ini dibanding rebase/NAV vault atau burn native token.
+
 ## 6. Data, interface dan trust boundary
 
 Sumber implementasi schema adalah [Drizzle schema](../apps/platform/src/server/db/schema.ts) bersama [migrasi SQL](../apps/platform/db/migrations/). [ERD](ERD.md) merangkum data fisik dan target; [data dictionary](engineering/data-model.md) menyimpan field/invariant target. Editorial/evidence, raw telemetry, reviewed report dan ledger keuangan dipisahkan secara logis.

@@ -1,6 +1,6 @@
 # Model hak dan keuangan
 
-**Status: aturan produk + rancangan finansial.** Nilai, waterfall dan contoh di sini hipotesis/fixture sintetis. Model wajib ditetapkan per offering; angka contoh bukan terms proyek nyata. Reward/native merupakan konteks ekspansi yang ditunda.
+**Status: aturan produk + rancangan finansial.** Arah unit/distribusi/burn diterima founder 20 Oktober 2026; nilai, waterfall dan contoh tetap hipotesis/fixture sintetis. Model wajib ditetapkan per offering; angka contoh bukan terms proyek nyata. Reward/native merupakan konteks ekspansi yang ditunda.
 
 Sumber pemisahan: [dokumen asal](../archive/prd-2026-10-18.md). Dipisahkan 18 Oktober 2026; label [F]/[R]/[A]/[O]/[V] mengikuti [panduan](../CONTRIBUTING.md).
 
@@ -111,6 +111,12 @@ Expected loss dapat dimodelkan sebagai PD × LGD × EAD hanya setelah parameter 
 Pada skenario kas revenue turun menjadi 60 dengan biaya/reserve tetap 70, gross-share formula menghasilkan klaim 18 meskipun proyek defisit; kemampuan membayar tetap perlu diuji. Dalam contoh net-share formula, tidak ada kas positif untuk dibagikan. Tidak satu pun formula otomatis mengembalikan pokok investasi.
 
 **[O] Penyelesaian modal:** bagian distribusi dialokasikan sebagai capital recovery; hak atas hasil penjualan/residual aset; buyback terkontrak dengan risiko obligor; atau revenue-share term yang berakhir tanpa pembayaran pokok terpisah. Semua harus dipisahkan dari income dalam tampilan investor. Besaran modal, tenor dan risk appetite proyek nyata menunggu underwriting; scope demo hybrid telah dikonfirmasi dan tidak perlu diwawancarai ulang. Jangan membuat APY atau principal guarantee proyek nyata dari fixture.
+
+### Unit, pembayaran modal dan akhir hak: keputusan 20 Oktober [F]
+
+Unit partisipasi tetap selama haknya berlaku; distribusi income tidak membakar unit. Pengembalian modal dicatat terpisah dan tidak otomatis mengurangi unit atau hak variable berikutnya. Outstanding principal hanya berlaku bila kontrak mendefinisikannya. Target capital recovery bertahap dari kas operasi diterima untuk dievaluasi melalui underwriting, bukan kewajiban semua offering menjadi debt atau janji pokok kembali.
+
+Redemption yang mengakhiri hak memerlukan payout atomic atau payable pengganti yang persisten dan sudah terdanai. Akhir tenor menghentikan accrual sesuai terms tanpa menghapus accrued unpaid claims, residual, default/workout atau sengketa yang masih berlaku. Burn merupakan akhir representasi sesuai penyelesaian hak, bukan pengganti pembayaran atau instrumen untuk menaikkan harga. Rincian [lifecycle](../engineering/rwa-lifecycle.md) dan alasan [ADR 0004](../adr/0004-project-rights-lifecycle.md).
 
 ## Pembayaran dan settlement
 

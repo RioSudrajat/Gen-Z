@@ -7,7 +7,7 @@
 | Pemilik scope | Founder Gen-Z |
 | Tahap | Pre-pilot; satu demo investasi sintetis → testnet |
 | Baseline keputusan | Scope dikonfirmasi 17 Oktober 2026; Base/EVM dipilih 18 Oktober |
-| Pembaruan dokumen | 18 Oktober 2026, Asia/Jakarta; restrukturisasi tanpa scope baru |
+| Pembaruan dokumen | 20 Oktober 2026, Asia/Jakarta; arah lifecycle token RWA diterima, implementasi tetap terpisah |
 | Detail requirement | [M01–M17 dan 22 user stories](product/requirements.md) |
 
 ## 1. Masalah dan peluang produk
@@ -57,6 +57,8 @@ Definisi metrik lintas fase ada di [metrics](product/metrics.md). Data demo tida
 Tujuh tab: **Overview; Asset & Operator; Deal Terms; Performance & Data; Reports & Updates; Risks; Documents.** Calculator ada di Deal Terms; Impact di Performance & Data. Approved investor copies tersedia setelah login sebelum eligibility transaksi; original sensitif memakai izin tersendiri.
 
 Demo pertama solar hybrid pembayaran tetap + partisipasi pendapatan variabel. Semua angka, dokumen dan transaksi demo ditandai sintetis. Hybrid merupakan fixture demo; proyek nyata memilih model dan terms tersendiri. [Finance](product/finance.md) menjelaskan aturan hak dan settlement.
+
+Keputusan 20 Oktober: restricted token per offering/series, unit partisipasi tetap, income/modal terpisah, mint setelah net settlement/closing dan burn mengikuti penyelesaian hak. Expiry tidak menghapus accrued unpaid claims; data enforcement on-chain direkonsiliasi dengan evidence/calculation privat. [Lifecycle](engineering/rwa-lifecycle.md), [D32–D36](product/decisions.md) dan [ADR 0004](adr/0004-project-rights-lifecycle.md) menjelaskan arah accepted yang belum diimplementasikan. Ini tidak menetapkan principal guarantee, terms nyata atau fitur exit baru.
 
 ## 5. Alur utama dan guardrail
 

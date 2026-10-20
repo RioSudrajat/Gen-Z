@@ -4,6 +4,7 @@ Riset adalah bukti dan rekomendasi bertanggal. Pilihan founder serta scope aktif
 
 | Riset | Isi/batas |
 |---|---|
+| [Mekanisme token RWA 20 Oktober](rwa-mechanisms-2026-10-20.md) | ReFi Hub, Ondo, Aave/Horizon, Uniswap, Centrifuge, Maple, Goldfinch dan PAXG; arah diterima di ADR 0004, tanpa audit deployment Gen-Z |
 | [Struktur dokumentasi 18 Oktober](documentation-structure-2026-10-18.md) | Sumber primer dan alasan struktur docs sekarang |
 | [Base/EVM 18 Oktober](base-evm-2026-10-18.md) | Network/wallet/contracts/finality; fondasi auth ada, kontrak investasi belum |
 | [Market context dari PRD](market-context-2026-10-18.md) | Energi, TAM/SAM/SOM dan benchmark; snapshot lama |
