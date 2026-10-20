@@ -1,6 +1,6 @@
 # Requirements MVP
 
-**Status: scope dikonfirmasi founder 17 Oktober; chain diperbarui ke Base 18 Oktober.** Versi dokumentasi 1.1-base dipertahankan. [PRD](../PRD.md) merangkum tujuan/scope; daftar berikut mempertahankan 22 user stories sumber.
+**Status: scope dikonfirmasi founder 17 Oktober; chain diperbarui ke Base 18 Oktober; arah lifecycle RWA diterima 20 Oktober.** Versi dokumentasi 1.1-base dipertahankan. [PRD](../PRD.md) merangkum tujuan/scope; daftar berikut mempertahankan 22 user stories sumber. Kriteria tambahan tidak berarti implementasi atau tes kontrak sudah tersedia.
 
 Sumber pemisahan: [dokumen asal](../archive/mvp-spec-2026-10-18.md). Dipisahkan 18 Oktober 2026; label [F]/[R]/[A]/[O]/[V] mengikuti [panduan](../CONTRIBUTING.md).
 
@@ -61,6 +61,8 @@ Sumber pemisahan: [dokumen asal](../archive/mvp-spec-2026-10-18.md). Dipisahkan 
 | M15 P0-L | Live memenuhi dependency aktual | DD/operator/data permission, legal wrapper, allowed countries/person/entities, identity/custody/FX, executable routes, payout/refund terms, security/continuity dan operation mandate nyata |
 | M16 P0-D | User membuka Rewards/Points/Token | Semua setelah login sebagai informasi/Coming soon, tanpa saldo/award/redemption/conversion/stake fiktif |
 | M17 P0-D/T | User menjalani alur dengan aksesibel | Mobile/keyboard/focus/error feedback/reduced motion dan empty/loading/error/unavailable diuji pada flow utama |
+
+Penajaman [lifecycle 20 Oktober](../engineering/rwa-lifecycle.md): M07 memisahkan unit, income, capital recovery dan principal jika berlaku; M09 menguji mint sesudah settlement/closing dan cap tidak otomatis pulih karena burn; M11/M12 mempertahankan funded entitlement/accrued unpaid saat tenor berakhir; M13/M14 menguji authority mint/burn/recovery, old binding serta claimed history. Income atau capital recovery tanpa pengakhiran hak tidak membakar unit. Burn sebelum payout memerlukan payable pengganti yang persisten dan terdanai. Ini acceptance target, bukan endpoint/ABI baru atau perluasan ke redemption terbuka.
 
 **Pemetaan ke Testing Decisions spec 17 Oktober:** butir 1 → M01–M02; 2 → M03–M04; 3 → M05, M07–M11; 4 → M11; 5 → M06, M10; 6 → M07–M09, M12; 7 → M16–M17. Invariant access/financial tetap diuji hingga persistence/domain result yang relevan.
 

@@ -100,6 +100,22 @@ _Avoid_: Staking token untuk keamanan jaringan, investasi yang sudah dialokasika
 Penyelesaian hak investasi kepada penerbit sesuai ketentuan proyek, termasuk jadwal, ketersediaan kas, dan proses hukum yang berlaku.
 _Avoid_: Penjualan sekunder, penukaran stablecoin.
 
+**Unit Hak Proyek**:
+Satuan partisipasi investor pada satu penawaran dengan kelas hak yang sama, yang bobotnya mengikuti ketentuan penawaran selama hak tersebut berlaku.
+_Avoid_: Saldo tunai, nilai pembangkit, outstanding principal.
+
+**Pengembalian Modal Proyek**:
+Bagian pembayaran proyek yang diperhitungkan sebagai pemulihan modal investor menurut ketentuan penawaran, terpisah dari income dan tidak otomatis menjadi jaminan pelunasan pokok.
+_Avoid_: Seluruhnya profit, pengurangan otomatis hak partisipasi.
+
+**Berakhirnya Partisipasi**:
+Berakhirnya periode pembentukan hak pendapatan baru sesuai penawaran, tanpa menghapus hak pembayaran yang sudah timbul dan belum diselesaikan.
+_Avoid_: Seluruh kewajiban lunas, tunggakan hilang.
+
+**Penutupan Posisi Proyek**:
+Penyelesaian posisi investasi ketika hak yang masih berlaku telah diselesaikan atau dipertahankan dalam klaim pengganti yang sah dan terlindungi.
+_Avoid_: Sekadar tenor habis, token hilang berarti utang lunas.
+
 **Pemulihan Klaim Proyek**:
 Pemindahan representasi hak proyek ke alamat baru milik investor yang sama melalui prosedur penerbit yang sah, dengan menjaga jumlah dan ketentuan haknya.
 _Avoid_: Pemulihan private key, pengembalian seluruh aset wallet, exit investasi.
