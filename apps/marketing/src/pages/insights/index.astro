@@ -1,0 +1,20 @@
+---
+import InsightLayout from '../../layouts/InsightLayout.astro';
+import { energyInsight as article } from '../../content/insights.mjs';
+---
+<InsightLayout title="Insights · Gen-Z" description="Research and perspectives on energy infrastructure, electricity demand, and capital.">
+  <header class="insights-page-heading">
+    <a class="insight-link" href="/">Back to Gen-Z</a>
+    <h1>Ideas grounded<br />in real infrastructure.</h1>
+    <p>Research and perspectives on the energy systems we depend on.</p>
+  </header>
+  <article class="insight-feature">
+    <a class="insight-image-link" href={article.href} aria-label={`Read ${article.title}`}><img src={article.image} width="1920" height="1080" alt="Electricity consumption and GDP per person compared across seven economies" /></a>
+    <div class="insight-feature-copy">
+      <p class="insight-meta"><span>{article.category}</span><time datetime={article.published}>{article.publishedLabel}</time></p>
+      <h2><a href={article.href}>{article.title}</a></h2>
+      <p>{article.description}</p>
+      <a class="insight-link" href={article.href}>Read the energy outlook <span aria-hidden="true">↗</span></a>
+    </div>
+  </article>
+</InsightLayout>

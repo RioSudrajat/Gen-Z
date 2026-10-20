@@ -6,10 +6,6 @@ import { DeviceMobileIcon as Smartphone, BankIcon as Landmark, CpuIcon as Cpu, L
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { createPinnedSequence } from '../../runtime/pinned-sequence.js';
-import '@fontsource/plus-jakarta-sans/latin-400.css';
-import '@fontsource/plus-jakarta-sans/latin-500.css';
-import '@fontsource/plus-jakarta-sans/latin-600.css';
-import '@fontsource/plus-jakarta-sans/latin-700.css';
 
 export type LayerId = "apps" | "defi" | "depin" | "physical";
 
@@ -165,22 +161,29 @@ export function GenZStack() {
     const section = stage.current!.closest<HTMLElement>('#stack')!;
     const pin = section.querySelector<HTMLElement>('.stack-scroll-pin')!;
     const composition = section.querySelector<HTMLElement>('.stack-composition')!;
+    const experience = stage.current!.closest<HTMLElement>('.stack-experience')!;
     const preference = gsap.matchMedia();
     preference.add('(prefers-reduced-motion: no-preference) and (min-height: 640px)', () => {
       section.classList.add('has-pinned-sequence');
       const fit = () => {
-        const available = pin.clientHeight - 110;
-        const scale = Math.min(1, available / composition.offsetHeight);
-        composition.style.setProperty('--stack-scale', String(scale));
+        const pinStyle = getComputedStyle(pin);
+        const heading = composition.querySelector<HTMLElement>('h2')!;
+        const intro = composition.querySelector<HTMLElement>('.section-intro')!;
+        const headerHeight = heading.offsetHeight + intro.offsetHeight + parseFloat(getComputedStyle(intro).marginTop);
+        const available = pin.clientHeight - parseFloat(pinStyle.paddingTop) - parseFloat(pinStyle.paddingBottom) - headerHeight - parseFloat(getComputedStyle(experience).marginTop);
+        const scale = Math.min(1, Math.max(.1, available / stage.current!.offsetHeight));
+        experience.style.setProperty('--stack-scale', String(scale));
+        experience.style.height = `${stage.current!.offsetHeight * scale}px`;
       };
       fit();
       const observer = new ResizeObserver(fit);
-      observer.observe(composition);
+      observer.observe(stage.current!);
       observer.observe(pin);
       const order = BUILD_ORDER;
       const layers = order.map(id => stage.current!.querySelector(`[data-stack-reveal="${id}"]`));
       const labels = order.map(id => stage.current!.querySelector(`.stack-label-${id}`));
-      gsap.set(layers, { y: -620, opacity: 0, pointerEvents: 'none' });
+      const travel = Math.min(240, pin.clientHeight * .28);
+      gsap.set(layers, { y: -travel, opacity: 0, pointerEvents: 'none' });
       gsap.set(labels, { opacity: 0, pointerEvents: 'none' });
       const ground = stage.current!.querySelector('.stack-ground-shadow');
       gsap.set(ground, { opacity: 0 });
@@ -191,9 +194,9 @@ export function GenZStack() {
         const layer = layers[index];
         const label = labels[index];
         if (!layer || !label) return;
-        timeline.to(layer, { y: 0, opacity: 1, duration: 0.65, ease: 'power3.out' }, index);
-        timeline.to(label, { opacity: 1, duration: 0.32, ease: 'power1.out' }, index + 0.3);
-        timeline.set([layers[index], labels[index]], { pointerEvents: 'auto' }, index + 0.62);
+        timeline.to(layer, { y: 0, opacity: 1, duration: 0.76, ease: 'power2.inOut' }, index);
+        timeline.to(label, { opacity: 1, duration: 0.32, ease: 'power1.out' }, index + 0.46);
+        timeline.set([layers[index], labels[index]], { pointerEvents: 'auto' }, index + 0.78);
       });
       document.fonts.ready.then(() => ScrollTrigger.refresh());
       return () => {
@@ -201,7 +204,8 @@ export function GenZStack() {
         sequence.current?.dispose();
         sequence.current = null;
         section.classList.remove('has-pinned-sequence');
-        composition.style.removeProperty('--stack-scale');
+        experience.style.removeProperty('--stack-scale');
+        experience.style.removeProperty('height');
       };
     });
     return () => preference.revert();

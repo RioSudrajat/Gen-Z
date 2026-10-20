@@ -13,6 +13,8 @@ test('marketing deployment URLs reject invalid origins and never invent a produc
 test('canonical and crawler metadata include only public marketing routes', () => {
   const origin = 'https://marketing.example.invalid';
   assert.equal(publicMetadata(origin, '/contact').canonical, origin + '/contact/');
+  assert.equal(publicMetadata(origin, '/insights').canonical, origin + '/insights/');
+  assert.equal(publicMetadata(origin, '/insights/energy-demand/').canonical, origin + '/insights/energy-demand/');
   assert.equal(publicMetadata(origin, '/').image, origin + '/assets/gen-z-video-poster.webp');
   for (const route of ['/auth/', '/dashboard/', '/assets/', '/app', '/404.html']) assert.equal(publicMetadata(origin, route), null);
   assert.equal(publicMetadata(origin, '/', true), null);

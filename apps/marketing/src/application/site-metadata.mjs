@@ -1,4 +1,4 @@
-export const publicPagePaths = Object.freeze(['/', '/contact/']);
+export const publicPagePaths = Object.freeze(['/', '/contact/', '/insights/', '/insights/energy-demand/']);
 
 export function marketingOrigin(value = '') {
   if (!value.trim()) return '';
@@ -12,7 +12,7 @@ export function marketingOrigin(value = '') {
 
 export function publicMetadata(origin, pathname, noindex = false) {
   const base = marketingOrigin(origin);
-  const path = pathname === '/contact' ? '/contact/' : pathname;
+  const path = pathname === '/' || pathname.endsWith('/') ? pathname : pathname + '/';
   if (!base || noindex || !publicPagePaths.includes(path)) return null;
   return {
     canonical: new URL(path, base).href,

@@ -87,7 +87,7 @@ try {
   const marketingOrigin = `http://127.0.0.1:${marketingPort}`;
   await waitForHealth(marketing, `${marketingOrigin}/health.json`);
   await verify(`${marketingOrigin}/health.json`, 200, "marketing");
-  for (const route of ["/", "/contact/", "/auth/", "/dashboard/", "/assets/"]) {
+  for (const route of ["/", "/contact/", "/insights/", "/insights/energy-demand/", "/auth/", "/dashboard/", "/assets/"]) {
     await verify(`${marketingOrigin}${route}`, 200);
   }
   const landingHTML = await (await fetch(marketingOrigin)).text();

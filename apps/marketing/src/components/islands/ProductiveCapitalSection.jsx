@@ -44,14 +44,14 @@ export function ProductiveCapitalSection() {
       if (conditions.reduced || !conditions.normal) return;
       section.classList.add('has-pinned-sequence');
       const items = Array.from(stage.current.querySelectorAll('.capital-step'));
-      gsap.set(items, { autoAlpha: 0, y: conditions.compact ? 64 : 160 });
+      gsap.set(items, { autoAlpha: 0, y: conditions.compact ? 32 : 56 });
       const sequence = createPinnedSequence({ id: 'capital-sequence', pin: pin.current, count: items.length });
       const { timeline } = sequence;
       items.forEach((item, index) => {
-        timeline.to(item, { autoAlpha: 1, y: 0, duration: 0.62, ease: 'power2.out' }, index);
+        timeline.to(item, { autoAlpha: 1, y: 0, duration: 0.76, ease: 'power2.inOut' }, index);
         timeline.to(rotor.current, {
           angle: (index + 1) * Math.PI * 2 / 3,
-          duration: 0.68,
+          duration: 0.76,
           ease: 'power1.inOut',
           onUpdate: () => {
             section.dataset.rotorAngle = rotor.current.angle.toFixed(4);

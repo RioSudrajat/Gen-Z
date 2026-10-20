@@ -5,7 +5,7 @@ import { ArrowLeftIcon as ArrowLeft, ArrowUpRightIcon as ArrowUpRight, BatteryCh
 import { goToSection } from '../../runtime/landing-navigation.js';
 import { gsap } from 'gsap';
 
-const destinations = { generation:'opportunities', infrastructure:'opportunities', finance:'assets', reporting:'evidence', network:'stack', services:'ecosystem', operators:'ecosystem-operator', investors:'ecosystem-investor', rights:'evidence', overview:'why', contact:'/contact/' };
+const destinations = { generation:'opportunities', infrastructure:'opportunities', finance:'assets', reporting:'evidence', network:'stack', services:'ecosystem', operators:'ecosystem-operator', investors:'ecosystem-investor', rights:'evidence', overview:'why', contact:'/contact/', insights:'/insights/' };
 
 const menus = {
   Products: [
@@ -14,7 +14,7 @@ const menus = {
     { heading: 'Infrastructure', entries: [['network', 'Gen-Z network', 'Connect the physical and financial layers', Network], ['contact', 'Partnerships', 'Build the connection with Gen-Z', Users]] },
   ],
   Resources: [
-    { entries: [['reporting', 'Project information', 'Contracts, investor agreements, and records', FileText], ['motion', 'Background film', 'Control background motion', Pause], ['thesis-motion', 'Section motion', 'Choose an animated or static energy thesis', Pause]] },
+    { entries: [['insights', 'Insights', 'Research and perspectives on energy infrastructure', FileText], ['reporting', 'Project information', 'Contracts, investor agreements, and records', FileText], ['motion', 'Background film', 'Control background motion', Pause], ['thesis-motion', 'Section motion', 'Choose an animated or static energy thesis', Pause]] },
   ],
   Ecosystem: [
     { entries: [['operators', 'Asset operators', 'Connect operating assets with capital', Buildings], ['investors', 'Investors', 'Understand projects and their potential', Wallet]] },

@@ -7,7 +7,7 @@ import { AxePuppeteer } from '@axe-core/puppeteer';
 
 const origin = process.env.MARKETING_ORIGIN || 'http://127.0.0.1:4321';
 const configured = process.env.CONFIGURED_MARKETING_ORIGIN;
-const output = new URL('../qa/', import.meta.url);
+const output = new URL(process.env.MARKETING_QA_ROOT || '../qa/', import.meta.url);
 await mkdir(output, { recursive:true });
 const checks = [];
 const consoleErrors = [];
@@ -25,7 +25,7 @@ const page = await browser.newPage();
 page.on('pageerror', error => runtimeErrors.push(error.message));
 page.on('console', message => { if (message.type() === 'error') consoleErrors.push(message.text()); });
 page.on('response', response => { if (response.status() >= 400) failedResponses.push({ url:response.url(), status:response.status() }); });
-const expectedSections = ['top','energy-context','why','ecosystem','assets','opportunities','stack','evidence','platform','comparison','connect'];
+const expectedSections = ['top','energy-context','why','ecosystem','assets','opportunities','stack','evidence','platform','comparison','insights','connect'];
 
 async function load(path = '/', base = origin) {
   await page.goto(base + path, { waitUntil:'networkidle0' });
@@ -52,7 +52,7 @@ async function revealAll() {
   }
   await page.waitForFunction(() => [...document.images].every(image => image.complete && image.naturalWidth > 0));
   await page.evaluate(() => document.fonts.ready);
-  await page.waitForFunction(() => document.fonts.check('600 36px "Serve Sora"') && document.fonts.check('400 18px "Serve Geist"'));
+  await page.waitForFunction(() => document.fonts.check('500 36px "GenZ Display"') && document.fonts.check('500 18px "GenZ UI"'));
   await page.evaluate(() => window.scrollTo({ top:0, behavior:'instant' }));
   await delay(200);
 }
@@ -76,10 +76,10 @@ try {
   pass('Latin subset avoids duplicate font downloads and the full font remains available for extended characters', 'fallback loaded only by the synthetic extended-character probe');
   await revealAll();
   assert.deepEqual(failedResponses, [], 'no normal production asset may return an error');
-  pass('all initial production resources and audience fonts load', 'no 4xx/5xx; Serve Sora and Serve Geist registered');
+  pass('all initial production resources and Gen-Z fonts load', 'no 4xx/5xx; GenZ Display and GenZ UI registered');
   assert.deepEqual(await page.$$eval('main>section', sections => sections.map(section => section.id)), expectedSections);
   assert.equal(await page.$$eval('h1', elements => elements.length), 1);
-  pass('all eleven sections and the original title survive Astro rendering', await page.title());
+  pass('all twelve sections and the original title survive Astro rendering', await page.title());
   await overflow('Desktop 1440');
   await audit('desktop reduced motion');
   await page.screenshot({ path:fileURLToPath(new URL('desktop.png', output)), fullPage:true });
@@ -156,11 +156,13 @@ try {
     assert.equal(await page.$eval('.stack-label-' + id, element => element.getAttribute('aria-pressed')), 'true');
     pass('stack keyboard selection ' + id, 'label is selected');
   }
-  for (let index = 1; index <= 2; index++) {
-    await click(`.thesis-details:nth-of-type(${index}) summary`);
-    assert.equal(await page.$eval(`.thesis-details:nth-of-type(${index})`, element => element.open), true);
-    pass('energy thesis disclosure ' + index, 'sources/transcript or data table opens');
-  }
+  await click('.thesis-reading-link a');
+  await page.waitForSelector('#film-transcript');
+  assert.equal(await page.$$eval('#source-data tbody tr', rows => rows.length), 7);
+  assert.ok(await page.$('.insight-toc a[href="#film-transcript"]'));
+  await overflow('Energy outlook article'); await audit('energy outlook article');
+  pass('energy film links to its descriptive transcript, seven-economy data table and sources', await page.url());
+  await load(); await revealAll();
 
   for (const width of [768,390,320]) {
     await page.setViewport({ width, height:900 }); await load(); await revealAll(); await overflow('Viewport ' + width);
@@ -317,7 +319,7 @@ try {
   await noJS.setJavaScriptEnabled(false); await noJS.goto(origin, { waitUntil:'networkidle0' });
   assert.deepEqual(await noJS.$$eval('main>section', sections => sections.map(section => section.id)), expectedSections);
   assert.ok(await noJS.$('.serve-audiences')); assert.ok(await noJS.$('.standards-grid'));
-  pass('all public sections render without JavaScript', 'Astro HTML contains all eleven sections and copy');
+  pass('all public sections render without JavaScript', 'Astro HTML contains all twelve sections and copy');
   await noJS.close();
 
   assert.deepEqual(runtimeErrors, [], 'uncaught browser errors');

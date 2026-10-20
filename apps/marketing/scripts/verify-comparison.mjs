@@ -5,7 +5,7 @@ import { fileURLToPath } from 'node:url';
 import puppeteer from 'puppeteer-core';
 
 const origin = process.env.MARKETING_ORIGIN || 'http://127.0.0.1:4321';
-const output = new URL('../qa/comparison-motion/', import.meta.url);
+const output = new URL('comparison-motion/', new URL(process.env.MARKETING_QA_ROOT || '../qa/', import.meta.url));
 await mkdir(output, { recursive: true });
 const checks = [];
 const errors = [];
@@ -54,9 +54,9 @@ async function position(ratio) {
 async function desktop(label) {
   const initial = await position(1.1);
   assert.ok(initial.traditional.x > initial.traditional.width * 0.5, `${label} direct entry starts stacked: ${JSON.stringify(initial)}`);
-  // Scrolling loads the audience fonts and refreshes all independently hydrated islands.
+  // Downstream measurements remain stable after independently hydrated islands settle.
   await page.$eval('#ecosystem', element => element.scrollIntoView({ behavior: 'instant' }));
-  await page.waitForFunction(() => document.fonts.check('600 36px "Serve Sora"') && document.fonts.check('400 18px "Serve Geist"'));
+  await page.waitForFunction(() => document.fonts.check('500 36px "GenZ Display"') && document.fonts.check('500 18px "GenZ UI"'));
   await page.evaluate(() => window.dispatchEvent(new Event('genz:layout-ready')));
   const closed = await position(1.1);
   assert.ok(closed.traditional.x > closed.traditional.width * 0.5, `${label} starts stacked: ${JSON.stringify(closed)}`);

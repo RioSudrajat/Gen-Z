@@ -34,9 +34,13 @@ for (const path of ['auth', 'assets', 'dashboard']) {
 }
 const sitemap = await html('sitemap-0.xml');
 const locations = [...sitemap.matchAll(/<loc>(.*?)<\/loc>/g)].map(match => match[1]);
-assert.deepEqual(locations.sort(), [`${origin}/`, `${origin}/contact/`].sort());
+assert.deepEqual(locations.sort(), [`${origin}/`, `${origin}/contact/`, `${origin}/insights/`, `${origin}/insights/energy-demand/`].sort());
+for (const route of ['insights', 'insights/energy-demand']) {
+  assert.ok((await html(`${route}/index.html`)).includes(`rel="canonical" href="${origin}/${route}/"`));
+}
 assert.match(await html('robots.txt'), /Sitemap: https:\/\/marketing\.example\.invalid\/sitemap-index.xml/);
 const report = { fixtureOrigin: origin, publicPages: locations, privateRoutesExcluded: true, canonical: true, socialImage: true, organization: true, robots: true };
-await mkdir(new URL('../qa/astro-optimization/', import.meta.url), { recursive: true });
-await writeFile(new URL('../qa/astro-optimization/metadata.json', import.meta.url), JSON.stringify(report, null, 2));
+const reportOutput = new URL('astro-optimization/', new URL(process.env.MARKETING_QA_ROOT || '../qa/', import.meta.url));
+await mkdir(reportOutput, { recursive: true });
+await writeFile(new URL('metadata.json', reportOutput), JSON.stringify(report, null, 2));
 console.log('PASS configured production metadata, sitemap, robots and noindex handoff boundaries (synthetic .invalid origin)');

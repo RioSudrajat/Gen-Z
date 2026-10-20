@@ -1,30 +1,27 @@
-main > .ecosystem-section { min-height:auto; padding-block:128px; scroll-margin-top:88px; font-family:'Serve Geist',Arial,sans-serif; }
-.ecosystem-section > .page-container { width:min(1600px,100%); padding-inline:32px; }
-.ecosystem-section h2 { max-width:none; margin:0 0 48px; color:#074e42; font-family:'Serve Sora',Arial,sans-serif; font-size:60px; font-weight:600; line-height:1.25; letter-spacing:-.025em; }
+main > .ecosystem-section { min-height:auto; }
+.ecosystem-section > .page-container > h2 { margin-bottom:40px; }
 .serve-audiences { display:grid; gap:20px; }
 .serve-row { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:20px; scroll-margin-top:100px; }
 .serve-copy { grid-column:span 2; }
 .serve-investor .serve-photo { grid-column:3; grid-row:1; }
 .serve-investor .serve-copy { grid-column:1 / span 2; grid-row:1; background:#fff; }
-.serve-photo { position:relative; margin:0; min-width:0; width:100%; min-height:430px; overflow:hidden; border-radius:28px; background:#f6fcf7; }
+.serve-photo { position:relative; margin:0; min-width:0; width:100%; min-height:430px; overflow:hidden; border-radius:24px; background:var(--soft); }
 .serve-photo > img { position:absolute; inset:0; display:block; width:100%; height:100%; object-fit:cover; }
-.serve-role { position:absolute; top:20px; left:20px; padding:8px 16px; border-radius:999px; background:#fff; color:#087461; font-size:14px; font-weight:600; line-height:20px; box-shadow:0 1px 3px #0826211a; }
-.serve-copy { display:flex; flex-direction:column; justify-content:space-between; min-width:0; min-height:430px; padding:40px; border:1px solid #dceee7; border-radius:28px; background:#f6fcf7; }
-.serve-copy h3 { max-width:768px; margin:0; color:#082621; font-family:'Serve Sora',Arial,sans-serif; font-size:36px; font-weight:600; line-height:1.25; letter-spacing:normal; }
+.serve-role { position:absolute; top:20px; left:20px; padding:8px 16px; border-radius:999px; background:#fff; color:var(--teal); font-size:14px; font-weight:500; line-height:20px; }
+.serve-copy { display:flex; flex-direction:column; justify-content:space-between; min-width:0; min-height:430px; padding:40px; border:1px solid var(--line); border-radius:24px; background:var(--soft); }
+.serve-copy h3 { max-width:768px; margin:0; color:var(--ink); font-family:'GenZ Display',Arial,sans-serif; font-size:clamp(28px,2.7vw,36px); font-weight:500; line-height:1.15; letter-spacing:-.025em; }
 .serve-copy p.serve-description { max-width:768px; margin:20px 0 0; color:#4b5563; font-size:18px; line-height:1.625; }
 .serve-support { margin-top:36px; }
-.serve-copy p.serve-support-label { margin:0 0 12px; color:#626b7a; font-size:14px; font-weight:600; font-style:italic; font-synthesis:style; line-height:20px; }
+.serve-copy p.serve-support-label { margin:0 0 12px; color:var(--muted); font-size:14px; font-weight:500; line-height:20px; }
 .serve-asset-types { display:flex; flex-wrap:wrap; gap:10px; padding:0; margin:0; list-style:none; }
-.serve-asset-types li { padding:8px 16px; border-radius:999px; background:#fff; color:#087461; font-size:14px; font-weight:600; line-height:20px; box-shadow:0 1px 3px #0826211a; }
-.serve-investor-needs { display:grid; gap:12px; padding:0 0 0 20px; margin:16px 0 0; border-left:2px solid #087461; list-style:none; color:#4b5563; font-size:18px; line-height:1.625; }
-.serve-cta { margin-top:24px; font-family:'Serve Geist',Arial,sans-serif; }
+.serve-asset-types li { padding:8px 16px; border-radius:999px; background:#fff; color:var(--teal); font-size:14px; font-weight:500; line-height:20px; }
+.serve-investor-needs { display:grid; gap:12px; padding:0 0 0 20px; margin:16px 0 0; border-left:2px solid var(--teal); list-style:none; color:var(--muted); font-size:18px; line-height:1.625; }
+.serve-cta { margin-top:24px; font-family:'GenZ UI',Arial,sans-serif; }
 .ecosystem-section :focus-visible { outline:3px solid #0f766e; outline-offset:5px; }
 .serve-photo-status { position:absolute; inset:72px 20px 20px; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:16px; margin:0; color:#4b5563; font-size:16px; text-align:center; }
 .serve-photo-status p { margin:0; }
 
-@media (min-width:1280px) { main > .ecosystem-section { padding-block:160px; } }
 @media (max-width:1023px) {
-  .ecosystem-section h2 { font-size:48px; }
   .serve-row,.serve-investor { grid-template-columns:minmax(0,1fr); gap:16px; }
   .serve-copy { grid-column:auto; }
   .serve-investor .serve-photo,.serve-investor .serve-copy { grid-column:auto; grid-row:auto; }
@@ -33,9 +30,6 @@ main > .ecosystem-section { min-height:auto; padding-block:128px; scroll-margin-
   .serve-copy { min-height:320px; padding:36px; }
 }
 @media (max-width:767px) {
-  main > .ecosystem-section { padding-block:96px; }
-  .ecosystem-section > .page-container { width:100%; padding-inline:20px; }
-  .ecosystem-section h2 { font-size:36px; line-height:1.25; }
   .serve-audiences { gap:24px; }
   .serve-copy { padding:28px; }
   .serve-copy h3 { font-size:24px; }

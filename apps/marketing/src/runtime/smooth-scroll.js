@@ -3,20 +3,33 @@ import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 
 let scroller;
+let activeScroll;
 
-export function scrollLandingTo(target, { offset = 0, immediate = false, duration = 1.1, onComplete } = {}) {
-  if (scroller?.isStopped) return;
+export function scrollLandingTo(target, { offset = 0, immediate = false, duration = 1.1, easing = progress => 1 - Math.pow(1 - progress, 4), onComplete, purpose = 'navigation' } = {}) {
+  if (scroller?.isStopped) return () => {};
+  if (purpose === 'navigation') window.dispatchEvent(new Event('genz:scroll-navigation'));
+  const operation = {};
+  activeScroll = operation;
+  const complete = () => {
+    if (activeScroll !== operation) return;
+    activeScroll = undefined;
+    onComplete?.();
+  };
   if (scroller) {
     scroller.resize();
     scroller.scrollTo(target, {
-      offset, immediate, lerp: 0, duration, onComplete,
-      easing: (progress) => 1 - Math.pow(1 - progress, 4),
+      offset, immediate, lerp: 0, duration, easing, onComplete: complete,
     });
-    return;
+    return () => {
+      if (activeScroll !== operation) return;
+      activeScroll = undefined;
+      scroller?.scrollTo(scroller.actualScroll, { immediate: true });
+    };
   }
   const top = typeof target === 'number' ? target : target.getBoundingClientRect().top + window.scrollY;
   window.scrollTo({ top: top + offset, behavior: 'instant' });
-  onComplete?.();
+  complete();
+  return () => {};
 }
 
 export function createSmoothScroll() {

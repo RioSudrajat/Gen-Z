@@ -5,6 +5,8 @@ import { createCapitalBridgeMotion } from './capital-bridge.js';
 import { createThesisMotion } from './thesis-motion.js';
 import { createSmoothScroll, scrollLandingTo } from './smooth-scroll.js';
 import { createComparisonMotion } from './comparison-motion.js';
+import { createScrollSettling } from './scroll-settling.js';
+import { createSectionReveals } from './section-reveals.js';
 
 gsap.registerPlugin(ScrollTrigger);
 export function initializeLanding() {
@@ -15,6 +17,7 @@ const film = createHeroMedia(document.querySelector('#hero-video'), document.que
 const disposeCapitalBridge = createCapitalBridgeMotion(document.querySelector('#why'));
 const thesisMotion = createThesisMotion(document.querySelector('#energy-context'));
 const disposeComparison = createComparisonMotion(document.querySelector('.comparison-content'));
+const disposeReveals = createSectionReveals(document.querySelector('main'));
 
 const story = document.querySelector('.hero-story');
 const first = document.querySelector('.title-first');
@@ -74,8 +77,7 @@ function buildMotion() {
       gsap.set('.film-shade', { opacity: 0 });
       return;
     }
-    // Use the full sticky travel with linear motion so reversing scroll keeps the same weight.
-    gsap.timeline({
+    const heroTimeline = gsap.timeline({
       defaults: { ease: 'none' },
       scrollTrigger: { trigger: story, start: 'top top', end: 'bottom bottom', scrub: .65, invalidateOnRefresh: true },
     })
@@ -89,6 +91,8 @@ function buildMotion() {
       .to('.scroll-cue', { autoAlpha: 0, duration: .18 }, 0)
       .to('.film-shade', { opacity: 0, duration: .5 }, 0)
       .to('.hero-description', { opacity: 1, duration: .25 }, .75);
+    const disposeSettling = createScrollSettling(heroTimeline.scrollTrigger);
+    return disposeSettling;
   });
   ScrollTrigger.refresh();
 }
@@ -120,6 +124,7 @@ function dispose() {
   motion?.revert(); film.dispose();
   disposeCapitalBridge();
   disposeComparison();
+  disposeReveals();
   thesisMotion.dispose();
   disposeSmoothScroll();
   document.querySelector('.scroll-cue')?.removeEventListener('click', onScrollCue);
