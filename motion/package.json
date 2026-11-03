@@ -14,7 +14,7 @@
     "web": "ffmpeg -y -i out/gen-z-energy-thesis-v2.mp4 -c:v libx264 -preset slow -crf 22 -pix_fmt yuv420p -c:a copy -movflags +faststart ../apps/marketing/public/assets/gen-z-energy-thesis-v2.mp4"
   },
   "dependencies": {
-    "@remotion/cli": "4.0.535",
+    "@remotion/cli": "4.0.540",
     "@remotion/renderer": "4.0.535",
     "gsap": "3.15.0",
     "hyperframes": "0.8.162",
