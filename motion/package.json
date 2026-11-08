@@ -14,17 +14,17 @@
     "web": "ffmpeg -y -i out/gen-z-energy-thesis-v2.mp4 -c:v libx264 -preset slow -crf 22 -pix_fmt yuv420p -c:a copy -movflags +faststart ../apps/marketing/public/assets/gen-z-energy-thesis-v2.mp4"
   },
   "dependencies": {
-    "@remotion/cli": "4.0.535",
-    "@remotion/renderer": "4.0.535",
-    "gsap": "3.15.0",
-    "hyperframes": "0.8.162",
-    "react": "19.2.0",
-    "react-dom": "19.2.0",
-    "remotion": "4.0.535"
+    "@remotion/cli": "4.0.541",
+    "@remotion/renderer": "4.0.541",
+    "gsap": "3.15.1",
+    "hyperframes": "0.9.16",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.541"
   },
   "devDependencies": {
-    "@types/react": "19.2.2",
-    "@types/react-dom": "19.2.2",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
     "typescript": "5.9.3"
   }
 }
