@@ -24,27 +24,27 @@
     "@gen-z/content-schema": "0.1.0",
     "@gen-z/design-tokens": "0.1.0",
     "@gen-z/domain": "0.1.0",
-    "@next/env": "16.4.2",
+    "@next/env": "16.4.6",
     "@phosphor-icons/react": "2.1.10",
-    "@tailwindcss/postcss": "4.3.3",
-    "@tanstack/react-query": "5.104.3",
+    "@tailwindcss/postcss": "4.3.5",
+    "@tanstack/react-query": "5.108.1",
     "drizzle-orm": "0.45.4",
-    "next": "16.4.2",
+    "next": "16.4.6",
     "pg": "8.23.1",
     "react": "19.3.1",
     "react-dom": "19.3.1",
     "server-only": "0.0.1",
-    "tailwindcss": "4.3.3",
-    "viem": "2.57.7",
-    "wagmi": "3.7.7",
-    "zod": "4.5.4"
+    "tailwindcss": "4.3.5",
+    "viem": "2.58.1",
+    "wagmi": "3.7.11",
+    "zod": "4.6.7"
   },
   "devDependencies": {
-    "@playwright/test": "1.64.1",
+    "@playwright/test": "1.65.1",
     "@types/pg": "8.23.1",
     "@types/react": "19.3.0",
     "@types/react-dom": "19.3.0",
     "drizzle-kit": "0.31.11",
-    "prettier": "3.9.6"
+    "prettier": "3.10.1"
   }
 }
